@@ -1,0 +1,20 @@
+.div-container {
+    text-align: center;
+    background-color: aqua;
+}
+
+.container-titulo-brasao {
+    /* display: flex; */
+    display: inline-flex;
+    background-color: lightgrey;
+    margin: 10px;
+    /* text-align: center; */
+    align-items: center;
+    border: 2px solid;
+}
+
+.brasao-governo {
+    display: inline;
+    margin-left: 10px;
+    padding: 10px;
+}
