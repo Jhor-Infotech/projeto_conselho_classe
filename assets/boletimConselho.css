@@ -1,20 +1,110 @@
+:root {
+    background-color: lightgray;
+}
+
 .div-container {
     text-align: center;
-    background-color: aqua;
+    /* background-color: aqua; */
+    /* margin: 0;
+    padding: 0; */
 }
 
 .container-titulo-brasao {
-    /* display: flex; */
+    /* background-color: lightcoral; */
     display: inline-flex;
-    background-color: lightgrey;
-    margin: 10px;
-    /* text-align: center; */
     align-items: center;
-    border: 2px solid;
+    margin: 0;
+    padding: 0;
+}
+
+.brasao-governo img {
+    width: 130px;
+    height: 130px;
 }
 
 .brasao-governo {
     display: inline;
     margin-left: 10px;
     padding: 10px;
+    font-size: 2.5em;
+}
+
+.titulo {
+    text-align: center;
+    background-color: #459AD6;
+    color: white;
+    /* border: 2px solid; */
+    margin: 0;
+    padding: 0;
+}
+
+
+/* .informacao-aluno {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+} */
+
+.dados-aluno {
+    /* background-color: lightgoldenrodyellow; */
+    width: auto;
+    text-align: justify;
+    /* background-color: black; */
+    color: black;
+    font-size: 2em;
+    margin: 0;
+    padding: 10px;
+}
+
+.container-notas-materias table {
+    width: 100%;
+    text-align: center;
+    border: 1;
+    margin: 0;
+    padding: 0;
+}
+
+.celula-cabecalho {
+    background-color: rgb(161, 148, 148);
+    text-align: center;
+    width: auto;
+    color: white;
+    margin: 0;
+    padding: 10px;
+}
+
+.celulas {
+    background-color: bisque;
+    text-align: center;
+    /* width: auto; */
+    font-size: 1.5em;
+    color: black;
+    margin: 0;
+    padding: 8px;
+}
+
+.celula-disciplina {
+    width: 2em;
+    background-color: rgb(176, 195, 189);
+    text-align: center;
+    /* text-align: justify; */
+    color: black;
+    font-size: 1.5em;
+    margin: 0;
+    padding: 10px;
+}
+
+.div-botoes-navegacao {
+    text-align: center;
+}
+
+button {
+    text-align: center;
+    background-color: rgb(114, 101, 101);
+    color: white;
+    height: 55px;
+    cursor: pointer;
+    margin: 0;
+    padding: 0;
+    font-size: 2em;
 }
