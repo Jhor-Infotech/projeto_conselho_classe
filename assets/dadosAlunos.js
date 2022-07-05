@@ -1,5 +1,5 @@
-let dadosALunos = [{
-        "01\/06\/2022 07:29": "Aluno",
+let dadosAlunos = [{
+        "Column1": "Aluno",
         "Column2": "RA",
         "Column3": "Digito",
         "Column4": "UF",
@@ -13,7 +13,7 @@ let dadosALunos = [{
         "Column12": "Escola"
     },
     {
-        "01\/06\/2022 07:29": "ADRIELE SOARES DE SOUSA",
+        "Column1": "ADRIELE SOARES DE SOUSA ",
         "Column2": 116228218,
         "Column3": 6,
         "Column4": "SP",
@@ -27,7 +27,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ADRIELLY OLIVEIRA ARAUJO",
+        "Column1": "ADRIELLY OLIVEIRA ARAUJO ",
         "Column2": 108650691,
         "Column3": 1,
         "Column4": "SP",
@@ -41,21 +41,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ADRIELLY SOUZA ALVES",
-        "Column2": 110084561,
-        "Column3": 6,
-        "Column4": "SP",
-        "Column5": "00001100845616SP@aluno.educacao.sp.gov.br",
-        "Column6": "00001100845616SP@al.educacao.sp.gov.br",
-        "Column7": 2022,
-        "Column8": 261123178,
-        "Column9": "3ª SERIE D NOITE ANUAL",
-        "Column10": "SUL 3",
-        "Column11": 925159,
-        "Column12": "CONDOMINIO VARGEM GRANDE II"
-    },
-    {
-        "01\/06\/2022 07:29": "ADRIELLY SOUZA ALVES",
+        "Column1": "ADRIELLY SOUZA ALVES ",
         "Column2": 110084561,
         "Column3": 6,
         "Column4": "SP",
@@ -69,7 +55,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "AGATHA APARECIDA DO NASCIMENTO SALES",
+        "Column1": "AGATHA APARECIDA DO NASCIMENTO SALES ",
         "Column2": 111846234,
         "Column3": 8,
         "Column4": "SP",
@@ -83,49 +69,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "AGATHA DOS SANTOS SOUSA",
-        "Column2": 109486650,
-        "Column3": 7,
-        "Column4": "SP",
-        "Column5": "00001094866507SP@aluno.educacao.sp.gov.br",
-        "Column6": "00001094866507SP@al.educacao.sp.gov.br",
-        "Column7": 2022,
-        "Column8": 261064885,
-        "Column9": "2ª SERIE E NOITE ANUAL",
-        "Column10": "SUL 3",
-        "Column11": 925159,
-        "Column12": "CONDOMINIO VARGEM GRANDE II"
-    },
-    {
-        "01\/06\/2022 07:29": "AGATHA DOS SANTOS SOUSA",
-        "Column2": 109486650,
-        "Column3": 7,
-        "Column4": "SP",
-        "Column5": "00001094866507SP@aluno.educacao.sp.gov.br",
-        "Column6": "00001094866507SP@al.educacao.sp.gov.br",
-        "Column7": 2022,
-        "Column8": 262717218,
-        "Column9": "NÃO SERIADO 2E NOITE 1º SEMESTRE",
-        "Column10": "SUL 3",
-        "Column11": 925159,
-        "Column12": "CONDOMINIO VARGEM GRANDE II"
-    },
-    {
-        "01\/06\/2022 07:29": "AGATHA DOS SANTOS SOUSA",
-        "Column2": 109486650,
-        "Column3": 7,
-        "Column4": "SP",
-        "Column5": "00001094866507SP@aluno.educacao.sp.gov.br",
-        "Column6": "00001094866507SP@al.educacao.sp.gov.br",
-        "Column7": 2022,
-        "Column8": 263323560,
-        "Column9": "NÃO SERIADO TE TARDE 1º SEMESTRE",
-        "Column10": "SUL 3",
-        "Column11": 925159,
-        "Column12": "CONDOMINIO VARGEM GRANDE II"
-    },
-    {
-        "01\/06\/2022 07:29": "AGATHA DOS SANTOS SOUSA",
+        "Column1": "AGATHA DOS SANTOS SOUSA ",
         "Column2": 109486650,
         "Column3": 7,
         "Column4": "SP",
@@ -139,7 +83,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "AGATHA GONÇALVES MIRANDA",
+        "Column1": "AGATHA GONÇALVES MIRANDA ",
         "Column2": 109483321,
         "Column3": 6,
         "Column4": "SP",
@@ -153,7 +97,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "AGATHA LORENA MASCARENHAS VIEIRA DOS SANTOS",
+        "Column1": "AGATHA LORENA MASCARENHAS VIEIRA DOS SANTOS ",
         "Column2": 111730114,
         "Column3": "X",
         "Column4": "SP",
@@ -167,7 +111,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "AGATHA PORWJAN DE ALMEIDA",
+        "Column1": "AGATHA PORWJAN DE ALMEIDA ",
         "Column2": 111887593,
         "Column3": "X",
         "Column4": "SP",
@@ -181,7 +125,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "AGHATA TALYA GONCALVES PEREIRA",
+        "Column1": "AGHATA TALYA GONCALVES PEREIRA ",
         "Column2": 110393469,
         "Column3": 7,
         "Column4": "SP",
@@ -195,7 +139,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALAN SOUZA SANTOS",
+        "Column1": "ALAN SOUZA SANTOS ",
         "Column2": 111740736,
         "Column3": 6,
         "Column4": "SP",
@@ -209,7 +153,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALAN THOMAS PEREIRA DE ANDRADE",
+        "Column1": "ALAN THOMAS PEREIRA DE ANDRADE ",
         "Column2": 111791923,
         "Column3": 7,
         "Column4": "SP",
@@ -223,7 +167,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALAN THOMAS PEREIRA DE ANDRADE",
+        "Column1": "ALAN THOMAS PEREIRA DE ANDRADE ",
         "Column2": 111791923,
         "Column3": 7,
         "Column4": "SP",
@@ -237,7 +181,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALANES DOMINGUES NEVES",
+        "Column1": "ALANES DOMINGUES NEVES ",
         "Column2": 111744344,
         "Column3": 9,
         "Column4": "SP",
@@ -251,7 +195,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALANIS GIOVANA BONILLA FIORE",
+        "Column1": "ALANIS GIOVANA BONILLA FIORE ",
         "Column2": 109487143,
         "Column3": 6,
         "Column4": "SP",
@@ -265,7 +209,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALANIS GIOVANA BONILLA FIORE",
+        "Column1": "ALANIS GIOVANA BONILLA FIORE ",
         "Column2": 109487143,
         "Column3": 6,
         "Column4": "SP",
@@ -279,7 +223,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALANIS GIOVANA BONILLA FIORE",
+        "Column1": "ALANIS GIOVANA BONILLA FIORE ",
         "Column2": 109487143,
         "Column3": 6,
         "Column4": "SP",
@@ -293,7 +237,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALANIS GIOVANA BONILLA FIORE",
+        "Column1": "ALANIS GIOVANA BONILLA FIORE ",
         "Column2": 109487143,
         "Column3": 6,
         "Column4": "SP",
@@ -307,7 +251,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALECSIANY VITÓRIA MARTINS DOS SANTOS",
+        "Column1": "ALECSIANY VITÓRIA MARTINS DOS SANTOS ",
         "Column2": 112486043,
         "Column3": 5,
         "Column4": "SP",
@@ -321,7 +265,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALESON BRENO DA SILVA PEREIRA",
+        "Column1": "ALESON BRENO DA SILVA PEREIRA ",
         "Column2": 111730139,
         "Column3": 4,
         "Column4": "SP",
@@ -335,7 +279,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALESSA FERNANDES GOMES DOS SANTOS",
+        "Column1": "ALESSA FERNANDES GOMES DOS SANTOS ",
         "Column2": 109428580,
         "Column3": 8,
         "Column4": "SP",
@@ -349,7 +293,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALESSANDRO GALVÃO SILVA",
+        "Column1": "ALESSANDRO GALVÃO SILVA ",
         "Column2": 111833455,
         "Column3": 3,
         "Column4": "SP",
@@ -363,7 +307,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALEX GUIMARÃES SANTOS",
+        "Column1": "ALEX GUIMARÃES SANTOS ",
         "Column2": 111880325,
         "Column3": 5,
         "Column4": "SP",
@@ -377,7 +321,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALEX HENRIQUE JACOB",
+        "Column1": "ALEX HENRIQUE JACOB ",
         "Column2": 113967436,
         "Column3": 5,
         "Column4": "SP",
@@ -391,7 +335,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALEXANDRE ALVES SARAIVA",
+        "Column1": "ALEXANDRE ALVES SARAIVA ",
         "Column2": 111790413,
         "Column3": 1,
         "Column4": "SP",
@@ -405,7 +349,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALEXANDRE ALVES SARAIVA",
+        "Column1": "ALEXANDRE ALVES SARAIVA ",
         "Column2": 111790413,
         "Column3": 1,
         "Column4": "SP",
@@ -419,7 +363,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALEXANDRE ALVES SARAIVA",
+        "Column1": "ALEXANDRE ALVES SARAIVA ",
         "Column2": 111790413,
         "Column3": 1,
         "Column4": "SP",
@@ -433,7 +377,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALEXANDRE ALVES SARAIVA",
+        "Column1": "ALEXANDRE ALVES SARAIVA ",
         "Column2": 111790413,
         "Column3": 1,
         "Column4": "SP",
@@ -447,7 +391,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALEXANDRE BASILIO ALVES",
+        "Column1": "ALEXANDRE BASILIO ALVES ",
         "Column2": 111335581,
         "Column3": 5,
         "Column4": "SP",
@@ -461,7 +405,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALEXANDRE BASILIO ALVES",
+        "Column1": "ALEXANDRE BASILIO ALVES ",
         "Column2": 111335581,
         "Column3": 5,
         "Column4": "SP",
@@ -475,7 +419,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALEXANDRE BASILIO ALVES",
+        "Column1": "ALEXANDRE BASILIO ALVES ",
         "Column2": 111335581,
         "Column3": 5,
         "Column4": "SP",
@@ -489,7 +433,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALEXANDRE BASILIO ALVES",
+        "Column1": "ALEXANDRE BASILIO ALVES ",
         "Column2": 111335581,
         "Column3": 5,
         "Column4": "SP",
@@ -503,7 +447,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALEXANDRE GABRIEL PEREIRA ALVES DOS SANTOS",
+        "Column1": "ALEXANDRE GABRIEL PEREIRA ALVES DOS SANTOS ",
         "Column2": 111873984,
         "Column3": "X",
         "Column4": "SP",
@@ -517,7 +461,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALEXANDRE RIBEIRO DA SILVA",
+        "Column1": "ALEXANDRE RIBEIRO DA SILVA ",
         "Column2": 109487204,
         "Column3": 0,
         "Column4": "SP",
@@ -531,7 +475,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALEXSANDRO MOURA DE SOUSA",
+        "Column1": "ALEXSANDRO MOURA DE SOUSA ",
         "Column2": 110393371,
         "Column3": 1,
         "Column4": "SP",
@@ -545,7 +489,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALICE BRITO DE SOUZA",
+        "Column1": "ALICE BRITO DE SOUZA ",
         "Column2": 110390205,
         "Column3": 2,
         "Column4": "SP",
@@ -559,7 +503,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALICE BRITO DE SOUZA",
+        "Column1": "ALICE BRITO DE SOUZA ",
         "Column2": 110390205,
         "Column3": 2,
         "Column4": "SP",
@@ -573,7 +517,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALICE DA SILVA MENDES",
+        "Column1": "ALICE DA SILVA MENDES ",
         "Column2": 110334255,
         "Column3": 1,
         "Column4": "SP",
@@ -587,7 +531,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALINE BEZERRA ALVES",
+        "Column1": "ALINE BEZERRA ALVES ",
         "Column2": 108303373,
         "Column3": 6,
         "Column4": "SP",
@@ -601,7 +545,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALINE BEZERRA ALVES",
+        "Column1": "ALINE BEZERRA ALVES ",
         "Column2": 108303373,
         "Column3": 6,
         "Column4": "SP",
@@ -615,7 +559,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALINE BEZERRA ALVES",
+        "Column1": "ALINE BEZERRA ALVES ",
         "Column2": 108303373,
         "Column3": 6,
         "Column4": "SP",
@@ -629,7 +573,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALINE BEZERRA ALVES",
+        "Column1": "ALINE BEZERRA ALVES ",
         "Column2": 108303373,
         "Column3": 6,
         "Column4": "SP",
@@ -643,7 +587,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALINE ELVIRA DA PAZ SOUZA",
+        "Column1": "ALINE ELVIRA DA PAZ SOUZA ",
         "Column2": 116330674,
         "Column3": 5,
         "Column4": "SP",
@@ -657,7 +601,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALINE ELVIRA DA PAZ SOUZA",
+        "Column1": "ALINE ELVIRA DA PAZ SOUZA ",
         "Column2": 116330674,
         "Column3": 5,
         "Column4": "SP",
@@ -671,7 +615,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALINE ELVIRA DA PAZ SOUZA",
+        "Column1": "ALINE ELVIRA DA PAZ SOUZA ",
         "Column2": 116330674,
         "Column3": 5,
         "Column4": "SP",
@@ -685,7 +629,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALINE ELVIRA DA PAZ SOUZA",
+        "Column1": "ALINE ELVIRA DA PAZ SOUZA ",
         "Column2": 116330674,
         "Column3": 5,
         "Column4": "SP",
@@ -699,7 +643,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALISSON DE ALMEIDA CARDOSO",
+        "Column1": "ALISSON DE ALMEIDA CARDOSO ",
         "Column2": 113573220,
         "Column3": 6,
         "Column4": "SP",
@@ -713,7 +657,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALISSON GUILHERME DA SILVA",
+        "Column1": "ALISSON GUILHERME DA SILVA ",
         "Column2": 109456680,
         "Column3": 9,
         "Column4": "SP",
@@ -727,7 +671,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALISSON GUILHERME DA SILVA",
+        "Column1": "ALISSON GUILHERME DA SILVA ",
         "Column2": 109456680,
         "Column3": 9,
         "Column4": "SP",
@@ -741,7 +685,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALISSON LEANDRO VIANA DOS SANTOS",
+        "Column1": "ALISSON LEANDRO VIANA DOS SANTOS ",
         "Column2": 109343334,
         "Column3": 6,
         "Column4": "SP",
@@ -755,7 +699,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALLAN DOMINGUES DA SILVA",
+        "Column1": "ALLAN DOMINGUES DA SILVA ",
         "Column2": 111772975,
         "Column3": 8,
         "Column4": "SP",
@@ -769,7 +713,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALLAN EDUARDO ARAUJO OLIVEIRA",
+        "Column1": "ALLAN EDUARDO ARAUJO OLIVEIRA ",
         "Column2": 109469219,
         "Column3": 0,
         "Column4": "SP",
@@ -783,7 +727,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALLAN RIBEIRO ALCANTARA",
+        "Column1": "ALLAN RIBEIRO ALCANTARA ",
         "Column2": 111840975,
         "Column3": 9,
         "Column4": "SP",
@@ -797,7 +741,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALLAN SILVA ROSARIO",
+        "Column1": "ALLAN SILVA ROSARIO ",
         "Column2": 111887474,
         "Column3": 2,
         "Column4": "SP",
@@ -811,7 +755,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALLAN WENDEL RODRIGUES DA SILVA",
+        "Column1": "ALLAN WENDEL RODRIGUES DA SILVA ",
         "Column2": 111840554,
         "Column3": 7,
         "Column4": "SP",
@@ -825,7 +769,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALLANA DOMINGUES DA SILVA",
+        "Column1": "ALLANA DOMINGUES DA SILVA ",
         "Column2": 111773091,
         "Column3": 8,
         "Column4": "SP",
@@ -839,7 +783,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALLANA MARIA BARBOSA CORREA",
+        "Column1": "ALLANA MARIA BARBOSA CORREA ",
         "Column2": 112550317,
         "Column3": 8,
         "Column4": "SP",
@@ -853,7 +797,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALLEXIA VIANA DUARTE",
+        "Column1": "ALLEXIA VIANA DUARTE ",
         "Column2": 107266846,
         "Column3": 4,
         "Column4": "SP",
@@ -867,7 +811,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALLEXIA VIANA DUARTE",
+        "Column1": "ALLEXIA VIANA DUARTE ",
         "Column2": 107266846,
         "Column3": 4,
         "Column4": "SP",
@@ -881,7 +825,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALYCE NASCIMENTO FERREIRA",
+        "Column1": "ALYCE NASCIMENTO FERREIRA ",
         "Column2": 112785701,
         "Column3": 0,
         "Column4": "SP",
@@ -895,7 +839,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALYCE NASCIMENTO FERREIRA",
+        "Column1": "ALYCE NASCIMENTO FERREIRA ",
         "Column2": 112785701,
         "Column3": 0,
         "Column4": "SP",
@@ -909,7 +853,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALYNNE GABRYELLE BARRETO MORAIS",
+        "Column1": "ALYNNE GABRYELLE BARRETO MORAIS ",
         "Column2": 115091208,
         "Column3": "X",
         "Column4": "SP",
@@ -923,7 +867,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ALYSON OLIVEIRA DOS SANTOS",
+        "Column1": "ALYSON OLIVEIRA DOS SANTOS ",
         "Column2": 111880803,
         "Column3": 4,
         "Column4": "SP",
@@ -937,7 +881,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "AMANDA FERREIRA SANTOS",
+        "Column1": "AMANDA FERREIRA SANTOS ",
         "Column2": 112568595,
         "Column3": 5,
         "Column4": "SP",
@@ -951,7 +895,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "AMANDA FERREIRA SANTOS",
+        "Column1": "AMANDA FERREIRA SANTOS ",
         "Column2": 112568595,
         "Column3": 5,
         "Column4": "SP",
@@ -965,7 +909,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "AMANDA LOPES JORDÃO",
+        "Column1": "AMANDA LOPES JORDÃO ",
         "Column2": 109314787,
         "Column3": 8,
         "Column4": "SP",
@@ -979,7 +923,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "AMANDA LOPES JORDÃO",
+        "Column1": "AMANDA LOPES JORDÃO ",
         "Column2": 109314787,
         "Column3": 8,
         "Column4": "SP",
@@ -993,7 +937,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "AMANDA LOPES JORDÃO",
+        "Column1": "AMANDA LOPES JORDÃO ",
         "Column2": 109314787,
         "Column3": 8,
         "Column4": "SP",
@@ -1007,7 +951,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "AMANDA LOPES JORDÃO",
+        "Column1": "AMANDA LOPES JORDÃO ",
         "Column2": 109314787,
         "Column3": 8,
         "Column4": "SP",
@@ -1021,7 +965,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "AMANDA MACHADO DE AMORIM",
+        "Column1": "AMANDA MACHADO DE AMORIM ",
         "Column2": 109487146,
         "Column3": 1,
         "Column4": "SP",
@@ -1035,7 +979,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "AMANDA ROCHA RAMOS",
+        "Column1": "AMANDA ROCHA RAMOS ",
         "Column2": 109334909,
         "Column3": 8,
         "Column4": "SP",
@@ -1049,7 +993,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "AMANDA ROCHA RAMOS",
+        "Column1": "AMANDA ROCHA RAMOS ",
         "Column2": 109334909,
         "Column3": 8,
         "Column4": "SP",
@@ -1063,7 +1007,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "AMANDA VITORIA DE SOUZA VIEIRA",
+        "Column1": "AMANDA VITORIA DE SOUZA VIEIRA ",
         "Column2": 109308551,
         "Column3": 4,
         "Column4": "SP",
@@ -1077,7 +1021,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA BEATRIZ GONZAGA DA SILVA",
+        "Column1": "ANA BEATRIZ GONZAGA DA SILVA ",
         "Column2": 111915102,
         "Column3": 8,
         "Column4": "SP",
@@ -1091,7 +1035,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA BEATRIZ GONZAGA DA SILVA",
+        "Column1": "ANA BEATRIZ GONZAGA DA SILVA ",
         "Column2": 111915102,
         "Column3": 8,
         "Column4": "SP",
@@ -1105,7 +1049,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA BEATRIZ MENEZES DE SOUZA",
+        "Column1": "ANA BEATRIZ MENEZES DE SOUZA ",
         "Column2": 110394140,
         "Column3": 9,
         "Column4": "SP",
@@ -1119,7 +1063,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA BEATRIZ ROSA DA SILVA",
+        "Column1": "ANA BEATRIZ ROSA DA SILVA ",
         "Column2": 111878350,
         "Column3": 5,
         "Column4": "SP",
@@ -1133,7 +1077,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA BEATRIZ SOUZA SAMPAIO",
+        "Column1": "ANA BEATRIZ SOUZA SAMPAIO ",
         "Column2": 113614879,
         "Column3": 6,
         "Column4": "SP",
@@ -1147,7 +1091,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA BEATRIZ VILARINO DOS ANJOS",
+        "Column1": "ANA BEATRIZ VILARINO DOS ANJOS ",
         "Column2": 111731725,
         "Column3": 0,
         "Column4": "SP",
@@ -1161,7 +1105,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA CAMILA MATOSINHO DE OLIVEIRA",
+        "Column1": "ANA CAMILA MATOSINHO DE OLIVEIRA ",
         "Column2": 111607743,
         "Column3": 7,
         "Column4": "SP",
@@ -1175,7 +1119,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA CAMILA MATOSINHO DE OLIVEIRA",
+        "Column1": "ANA CAMILA MATOSINHO DE OLIVEIRA ",
         "Column2": 111607743,
         "Column3": 7,
         "Column4": "SP",
@@ -1189,7 +1133,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA CAMILA MATOSINHO DE OLIVEIRA",
+        "Column1": "ANA CAMILA MATOSINHO DE OLIVEIRA ",
         "Column2": 111607743,
         "Column3": 7,
         "Column4": "SP",
@@ -1203,7 +1147,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA CAMILA MATOSINHO DE OLIVEIRA",
+        "Column1": "ANA CAMILA MATOSINHO DE OLIVEIRA ",
         "Column2": 111607743,
         "Column3": 7,
         "Column4": "SP",
@@ -1217,7 +1161,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA CAROLINA ALVES MEDEIROS",
+        "Column1": "ANA CAROLINA ALVES MEDEIROS ",
         "Column2": 111792013,
         "Column3": 6,
         "Column4": "SP",
@@ -1231,7 +1175,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA CAROLINA DA SILVA SOUZA",
+        "Column1": "ANA CAROLINA DA SILVA SOUZA ",
         "Column2": 111771923,
         "Column3": 6,
         "Column4": "SP",
@@ -1245,7 +1189,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA CAROLINA FERREIRA DOS SANTOS",
+        "Column1": "ANA CAROLINA FERREIRA DOS SANTOS ",
         "Column2": 113606121,
         "Column3": 6,
         "Column4": "SP",
@@ -1259,7 +1203,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA CAROLINA FERREIRA ROCHA",
+        "Column1": "ANA CAROLINA FERREIRA ROCHA ",
         "Column2": 111777578,
         "Column3": 1,
         "Column4": "SP",
@@ -1273,7 +1217,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA CAROLINA RIBEIRO DOS SANTOS",
+        "Column1": "ANA CAROLINA RIBEIRO DOS SANTOS ",
         "Column2": 109343026,
         "Column3": 6,
         "Column4": "SP",
@@ -1287,7 +1231,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA CLARA ABRANTES SANTANA",
+        "Column1": "ANA CLARA ABRANTES SANTANA ",
         "Column2": 110665544,
         "Column3": 8,
         "Column4": "SP",
@@ -1301,7 +1245,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA CLARA ABRANTES SANTANA",
+        "Column1": "ANA CLARA ABRANTES SANTANA ",
         "Column2": 110665544,
         "Column3": 8,
         "Column4": "SP",
@@ -1315,7 +1259,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA CLARA BENTO PEREIRA DO NASCIMENTO",
+        "Column1": "ANA CLARA BENTO PEREIRA DO NASCIMENTO ",
         "Column2": 110449149,
         "Column3": 7,
         "Column4": "SP",
@@ -1329,7 +1273,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA CLARA BENTO PEREIRA DO NASCIMENTO",
+        "Column1": "ANA CLARA BENTO PEREIRA DO NASCIMENTO ",
         "Column2": 110449149,
         "Column3": 7,
         "Column4": "SP",
@@ -1343,7 +1287,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA CLARA BENTO PEREIRA DO NASCIMENTO",
+        "Column1": "ANA CLARA BENTO PEREIRA DO NASCIMENTO ",
         "Column2": 110449149,
         "Column3": 7,
         "Column4": "SP",
@@ -1357,7 +1301,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA CLARA BENTO PEREIRA DO NASCIMENTO",
+        "Column1": "ANA CLARA BENTO PEREIRA DO NASCIMENTO ",
         "Column2": 110449149,
         "Column3": 7,
         "Column4": "SP",
@@ -1371,7 +1315,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA CLARA DOS SANTOS PEREIRA",
+        "Column1": "ANA CLARA DOS SANTOS PEREIRA ",
         "Column2": 109487173,
         "Column3": 4,
         "Column4": "SP",
@@ -1385,7 +1329,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA CLARA DOS SANTOS PEREIRA",
+        "Column1": "ANA CLARA DOS SANTOS PEREIRA ",
         "Column2": 109487173,
         "Column3": 4,
         "Column4": "SP",
@@ -1399,7 +1343,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA CLARA FERNANDES SILVA",
+        "Column1": "ANA CLARA FERNANDES SILVA ",
         "Column2": 111868648,
         "Column3": 2,
         "Column4": "SP",
@@ -1413,7 +1357,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA CLARA MARIANO VIEIRA",
+        "Column1": "ANA CLARA MARIANO VIEIRA ",
         "Column2": 110591302,
         "Column3": 8,
         "Column4": "SP",
@@ -1427,7 +1371,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA CLARA MARIANO VIEIRA",
+        "Column1": "ANA CLARA MARIANO VIEIRA ",
         "Column2": 110591302,
         "Column3": 8,
         "Column4": "SP",
@@ -1441,7 +1385,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA CLARA MARIANO VIEIRA",
+        "Column1": "ANA CLARA MARIANO VIEIRA ",
         "Column2": 110591302,
         "Column3": 8,
         "Column4": "SP",
@@ -1455,7 +1399,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA CLARA MARIANO VIEIRA",
+        "Column1": "ANA CLARA MARIANO VIEIRA ",
         "Column2": 110591302,
         "Column3": 8,
         "Column4": "SP",
@@ -1469,7 +1413,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA CLARA MENEZES LIMA SILVA",
+        "Column1": "ANA CLARA MENEZES LIMA SILVA ",
         "Column2": 109307804,
         "Column3": 2,
         "Column4": "SP",
@@ -1483,7 +1427,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA CLARA SOUZA ROCHA",
+        "Column1": "ANA CLARA SOUZA ROCHA ",
         "Column2": 111846230,
         "Column3": 0,
         "Column4": "SP",
@@ -1497,7 +1441,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA ELLEN DA PAZ SOUSA",
+        "Column1": "ANA ELLEN DA PAZ SOUSA ",
         "Column2": 114455908,
         "Column3": "X",
         "Column4": "SP",
@@ -1511,7 +1455,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA JULIA DO NASCIMENTO SOUZA",
+        "Column1": "ANA JULIA DO NASCIMENTO SOUZA ",
         "Column2": 112570141,
         "Column3": 9,
         "Column4": "SP",
@@ -1525,7 +1469,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA JULIA MARTINS DE ALMEIDA",
+        "Column1": "ANA JULIA MARTINS DE ALMEIDA ",
         "Column2": 109456682,
         "Column3": 2,
         "Column4": "SP",
@@ -1539,7 +1483,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA JULIA MARTINS DE ALMEIDA",
+        "Column1": "ANA JULIA MARTINS DE ALMEIDA ",
         "Column2": 109456682,
         "Column3": 2,
         "Column4": "SP",
@@ -1553,7 +1497,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA JULIA MARTINS DE ALMEIDA",
+        "Column1": "ANA JULIA MARTINS DE ALMEIDA ",
         "Column2": 109456682,
         "Column3": 2,
         "Column4": "SP",
@@ -1567,7 +1511,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA JULIA MARTINS DE ALMEIDA",
+        "Column1": "ANA JULIA MARTINS DE ALMEIDA ",
         "Column2": 109456682,
         "Column3": 2,
         "Column4": "SP",
@@ -1581,7 +1525,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA JULIA NASCIMENTO OLIVEIRA",
+        "Column1": "ANA JULIA NASCIMENTO OLIVEIRA ",
         "Column2": 113938034,
         "Column3": 5,
         "Column4": "SP",
@@ -1595,7 +1539,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA JULIA SOUZA PEREIRA DE BARROS",
+        "Column1": "ANA JULIA SOUZA PEREIRA DE BARROS ",
         "Column2": 112374142,
         "Column3": 6,
         "Column4": "SP",
@@ -1609,7 +1553,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA KAROLINA MELO DOS SANTOS",
+        "Column1": "ANA KAROLINA MELO DOS SANTOS ",
         "Column2": 111730151,
         "Column3": 5,
         "Column4": "SP",
@@ -1623,7 +1567,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA KETLYN DA SILVA NOVAIS",
+        "Column1": "ANA KETLYN DA SILVA NOVAIS ",
         "Column2": 109342485,
         "Column3": 0,
         "Column4": "SP",
@@ -1637,7 +1581,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA LETICIA SANTOS DE SOUZA",
+        "Column1": "ANA LETICIA SANTOS DE SOUZA ",
         "Column2": 108295196,
         "Column3": 1,
         "Column4": "SP",
@@ -1651,7 +1595,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA LUIZA CARVALHO DE ASSUNCAO",
+        "Column1": "ANA LUIZA CARVALHO DE ASSUNCAO ",
         "Column2": 111791960,
         "Column3": 2,
         "Column4": "SP",
@@ -1665,7 +1609,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA LUIZA TOME DE MACEDO SILVA",
+        "Column1": "ANA LUIZA TOME DE MACEDO SILVA ",
         "Column2": 113271924,
         "Column3": 0,
         "Column4": "SP",
@@ -1679,7 +1623,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA LUIZA VENTANIA FERREIRA",
+        "Column1": "ANA LUIZA VENTANIA FERREIRA ",
         "Column2": 106337130,
         "Column3": 2,
         "Column4": "SP",
@@ -1693,7 +1637,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA LUIZA VENTANIA FERREIRA",
+        "Column1": "ANA LUIZA VENTANIA FERREIRA ",
         "Column2": 106337130,
         "Column3": 2,
         "Column4": "SP",
@@ -1707,7 +1651,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA PAULA SOUZA MENDES",
+        "Column1": "ANA PAULA SOUZA MENDES ",
         "Column2": 111878592,
         "Column3": 7,
         "Column4": "SP",
@@ -1721,7 +1665,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA PHAULA RODRIGUES DE LIMA",
+        "Column1": "ANA PHAULA RODRIGUES DE LIMA ",
         "Column2": 110453581,
         "Column3": 6,
         "Column4": "SP",
@@ -1735,7 +1679,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA PHAULA RODRIGUES DE LIMA",
+        "Column1": "ANA PHAULA RODRIGUES DE LIMA ",
         "Column2": 110453581,
         "Column3": 6,
         "Column4": "SP",
@@ -1749,7 +1693,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA PHAULA RODRIGUES DE LIMA",
+        "Column1": "ANA PHAULA RODRIGUES DE LIMA ",
         "Column2": 110453581,
         "Column3": 6,
         "Column4": "SP",
@@ -1763,7 +1707,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANA PHAULA RODRIGUES DE LIMA",
+        "Column1": "ANA PHAULA RODRIGUES DE LIMA ",
         "Column2": 110453581,
         "Column3": 6,
         "Column4": "SP",
@@ -1777,7 +1721,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANALLICE DE LIMA CARDOSO",
+        "Column1": "ANALLICE DE LIMA CARDOSO ",
         "Column2": 113738923,
         "Column3": 0,
         "Column4": "SP",
@@ -1791,7 +1735,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANDRE LUIS GUIMARAES INACIO",
+        "Column1": "ANDRE LUIS GUIMARAES INACIO ",
         "Column2": 111787420,
         "Column3": 5,
         "Column4": "SP",
@@ -1805,7 +1749,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANDRE LUIS GUIMARAES INACIO",
+        "Column1": "ANDRE LUIS GUIMARAES INACIO ",
         "Column2": 111787420,
         "Column3": 5,
         "Column4": "SP",
@@ -1819,7 +1763,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANDREW FRAGA MELO DOS SANTOS",
+        "Column1": "ANDREW FRAGA MELO DOS SANTOS ",
         "Column2": 110390845,
         "Column3": 5,
         "Column4": "SP",
@@ -1833,7 +1777,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANDREW FRAGA MELO DOS SANTOS",
+        "Column1": "ANDREW FRAGA MELO DOS SANTOS ",
         "Column2": 110390845,
         "Column3": 5,
         "Column4": "SP",
@@ -1847,7 +1791,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANDREW FRAGA MELO DOS SANTOS",
+        "Column1": "ANDREW FRAGA MELO DOS SANTOS ",
         "Column2": 110390845,
         "Column3": 5,
         "Column4": "SP",
@@ -1861,7 +1805,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANDREW FRAGA MELO DOS SANTOS",
+        "Column1": "ANDREW FRAGA MELO DOS SANTOS ",
         "Column2": 110390845,
         "Column3": 5,
         "Column4": "SP",
@@ -1875,7 +1819,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANELIZE RODRIGUES DA SILVA FREITAS",
+        "Column1": "ANELIZE RODRIGUES DA SILVA FREITAS ",
         "Column2": 121001723,
         "Column3": 4,
         "Column4": "SP",
@@ -1889,7 +1833,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANGEL SOUZA SOUTO",
+        "Column1": "ANGEL SOUZA SOUTO ",
         "Column2": 110393474,
         "Column3": 0,
         "Column4": "SP",
@@ -1903,7 +1847,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANGELO MATEUS SILVA",
+        "Column1": "ANGELO MATEUS SILVA ",
         "Column2": 110393982,
         "Column3": 8,
         "Column4": "SP",
@@ -1917,7 +1861,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANGELO MATEUS SILVA",
+        "Column1": "ANGELO MATEUS SILVA ",
         "Column2": 110393982,
         "Column3": 8,
         "Column4": "SP",
@@ -1931,7 +1875,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANGELO MATEUS SILVA",
+        "Column1": "ANGELO MATEUS SILVA ",
         "Column2": 110393982,
         "Column3": 8,
         "Column4": "SP",
@@ -1945,7 +1889,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANGELO MATEUS SILVA",
+        "Column1": "ANGELO MATEUS SILVA ",
         "Column2": 110393982,
         "Column3": 8,
         "Column4": "SP",
@@ -1959,7 +1903,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANGÉLICA MARIA DOS SANTOS",
+        "Column1": "ANGÉLICA MARIA DOS SANTOS ",
         "Column2": 111791969,
         "Column3": 9,
         "Column4": "SP",
@@ -1973,7 +1917,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANIELLI DA COSTA NASCIMENTO",
+        "Column1": "ANIELLI DA COSTA NASCIMENTO ",
         "Column2": 111742851,
         "Column3": 5,
         "Column4": "SP",
@@ -1987,7 +1931,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANITA MAIZA LIMA DE OLIVEIRA",
+        "Column1": "ANITA MAIZA LIMA DE OLIVEIRA ",
         "Column2": 111846209,
         "Column3": 9,
         "Column4": "SP",
@@ -2001,7 +1945,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANNA JULIA HEGUEDUSCH EUSÉBIO",
+        "Column1": "ANNA JULIA HEGUEDUSCH EUSÉBIO ",
         "Column2": 107335718,
         "Column3": 1,
         "Column4": "SP",
@@ -2015,7 +1959,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANNA JULIA HEGUEDUSCH EUSÉBIO",
+        "Column1": "ANNA JULIA HEGUEDUSCH EUSÉBIO ",
         "Column2": 107335718,
         "Column3": 1,
         "Column4": "SP",
@@ -2029,7 +1973,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANNA MARIA DE OLIVEIRA MENOSSI",
+        "Column1": "ANNA MARIA DE OLIVEIRA MENOSSI ",
         "Column2": 113623983,
         "Column3": 2,
         "Column4": "SP",
@@ -2043,7 +1987,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANTHONY GABRIEL CONCEIÇÃO",
+        "Column1": "ANTHONY GABRIEL CONCEIÇÃO ",
         "Column2": 109308988,
         "Column3": "X",
         "Column4": "SP",
@@ -2057,7 +2001,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANTHONY GABRIEL CONCEIÇÃO",
+        "Column1": "ANTHONY GABRIEL CONCEIÇÃO ",
         "Column2": 109308988,
         "Column3": "X",
         "Column4": "SP",
@@ -2071,7 +2015,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANTHONY GABRIEL CONCEIÇÃO",
+        "Column1": "ANTHONY GABRIEL CONCEIÇÃO ",
         "Column2": 109308988,
         "Column3": "X",
         "Column4": "SP",
@@ -2085,7 +2029,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANTHONY GABRIEL CONCEIÇÃO",
+        "Column1": "ANTHONY GABRIEL CONCEIÇÃO ",
         "Column2": 109308988,
         "Column3": "X",
         "Column4": "SP",
@@ -2099,7 +2043,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANTONIA LORANNY RODRIGUES LIMA",
+        "Column1": "ANTONIA LORANNY RODRIGUES LIMA ",
         "Column2": 111731758,
         "Column3": 4,
         "Column4": "SP",
@@ -2113,7 +2057,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANTONIA RIBEIRO DO NASCIMENTO",
+        "Column1": "ANTONIA RIBEIRO DO NASCIMENTO ",
         "Column2": 111722318,
         "Column3": 8,
         "Column4": "SP",
@@ -2127,7 +2071,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANTONIO FELIPE DA SILVA ALMEIDA",
+        "Column1": "ANTONIO FELIPE DA SILVA ALMEIDA ",
         "Column2": 111545398,
         "Column3": 1,
         "Column4": "SP",
@@ -2141,7 +2085,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANTONIO HENRIQUE CAMPOS SILVA",
+        "Column1": "ANTONIO HENRIQUE CAMPOS SILVA ",
         "Column2": 111744496,
         "Column3": "X",
         "Column4": "SP",
@@ -2155,7 +2099,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANTONIO LUIZ RODRIGUES DE MORAIS JUNIOR",
+        "Column1": "ANTONIO LUIZ RODRIGUES DE MORAIS JUNIOR ",
         "Column2": 110384852,
         "Column3": 5,
         "Column4": "SP",
@@ -2169,7 +2113,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANTONIO LUIZ RODRIGUES DE MORAIS JUNIOR",
+        "Column1": "ANTONIO LUIZ RODRIGUES DE MORAIS JUNIOR ",
         "Column2": 110384852,
         "Column3": 5,
         "Column4": "SP",
@@ -2183,7 +2127,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANTONIO LUIZ RODRIGUES DE MORAIS JUNIOR",
+        "Column1": "ANTONIO LUIZ RODRIGUES DE MORAIS JUNIOR ",
         "Column2": 110384852,
         "Column3": 5,
         "Column4": "SP",
@@ -2197,7 +2141,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANTONIO LUIZ RODRIGUES DE MORAIS JUNIOR",
+        "Column1": "ANTONIO LUIZ RODRIGUES DE MORAIS JUNIOR ",
         "Column2": 110384852,
         "Column3": 5,
         "Column4": "SP",
@@ -2211,7 +2155,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANTONIO MARIO DOS SANTOS SOUSA",
+        "Column1": "ANTONIO MARIO DOS SANTOS SOUSA ",
         "Column2": 111791776,
         "Column3": 9,
         "Column4": "SP",
@@ -2225,7 +2169,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANTONIO MIGUEL FREIRE DA SILVA",
+        "Column1": "ANTONIO MIGUEL FREIRE DA SILVA ",
         "Column2": 107292426,
         "Column3": 2,
         "Column4": "SP",
@@ -2239,7 +2183,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANTONIO MIGUEL FREIRE DA SILVA",
+        "Column1": "ANTONIO MIGUEL FREIRE DA SILVA ",
         "Column2": 107292426,
         "Column3": 2,
         "Column4": "SP",
@@ -2253,7 +2197,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANTONIO MIGUEL FREIRE DA SILVA",
+        "Column1": "ANTONIO MIGUEL FREIRE DA SILVA ",
         "Column2": 107292426,
         "Column3": 2,
         "Column4": "SP",
@@ -2267,7 +2211,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANTONIO MIGUEL FREIRE DA SILVA",
+        "Column1": "ANTONIO MIGUEL FREIRE DA SILVA ",
         "Column2": 107292426,
         "Column3": 2,
         "Column4": "SP",
@@ -2281,7 +2225,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANTONIO ROMEU MIGUEL DOS SANTOS NETO",
+        "Column1": "ANTONIO ROMEU MIGUEL DOS SANTOS NETO ",
         "Column2": 109334589,
         "Column3": 5,
         "Column4": "SP",
@@ -2295,7 +2239,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANTONIO ROMEU MIGUEL DOS SANTOS NETO",
+        "Column1": "ANTONIO ROMEU MIGUEL DOS SANTOS NETO ",
         "Column2": 109334589,
         "Column3": 5,
         "Column4": "SP",
@@ -2309,7 +2253,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANTONIO ROMEU MIGUEL DOS SANTOS NETO",
+        "Column1": "ANTONIO ROMEU MIGUEL DOS SANTOS NETO ",
         "Column2": 109334589,
         "Column3": 5,
         "Column4": "SP",
@@ -2323,7 +2267,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ANTONIO ROMEU MIGUEL DOS SANTOS NETO",
+        "Column1": "ANTONIO ROMEU MIGUEL DOS SANTOS NETO ",
         "Column2": 109334589,
         "Column3": 5,
         "Column4": "SP",
@@ -2337,7 +2281,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ARIANE DOS SANTOS MIRANDA",
+        "Column1": "ARIANE DOS SANTOS MIRANDA ",
         "Column2": 109486870,
         "Column3": "X",
         "Column4": "SP",
@@ -2351,7 +2295,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ARIANE DOS SANTOS MIRANDA",
+        "Column1": "ARIANE DOS SANTOS MIRANDA ",
         "Column2": 109486870,
         "Column3": "X",
         "Column4": "SP",
@@ -2365,7 +2309,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ARIANE DOS SANTOS SOUSA",
+        "Column1": "ARIANE DOS SANTOS SOUSA ",
         "Column2": 109343038,
         "Column3": 2,
         "Column4": "SP",
@@ -2379,7 +2323,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ARIANE FERREIRA DOS SANTOS",
+        "Column1": "ARIANE FERREIRA DOS SANTOS ",
         "Column2": 112678333,
         "Column3": "X",
         "Column4": "SP",
@@ -2393,7 +2337,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ARIANE FERREIRA DOS SANTOS",
+        "Column1": "ARIANE FERREIRA DOS SANTOS ",
         "Column2": 112678333,
         "Column3": "X",
         "Column4": "SP",
@@ -2407,7 +2351,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ARIELLY CRISTINA NERES DOS SANTOS",
+        "Column1": "ARIELLY CRISTINA NERES DOS SANTOS ",
         "Column2": 109308997,
         "Column3": 0,
         "Column4": "SP",
@@ -2421,7 +2365,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ARIELLY CRISTINA NERES DOS SANTOS",
+        "Column1": "ARIELLY CRISTINA NERES DOS SANTOS ",
         "Column2": 109308997,
         "Column3": 0,
         "Column4": "SP",
@@ -2435,7 +2379,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ARIELLY CRISTINA NERES DOS SANTOS",
+        "Column1": "ARIELLY CRISTINA NERES DOS SANTOS ",
         "Column2": 109308997,
         "Column3": 0,
         "Column4": "SP",
@@ -2449,7 +2393,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ARIELLY CRISTINA NERES DOS SANTOS",
+        "Column1": "ARIELLY CRISTINA NERES DOS SANTOS ",
         "Column2": 109308997,
         "Column3": 0,
         "Column4": "SP",
@@ -2463,7 +2407,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ARIÉLA MENDES DOS SANTOS",
+        "Column1": "ARIÉLA MENDES DOS SANTOS ",
         "Column2": 111422980,
         "Column3": 5,
         "Column4": "SP",
@@ -2477,7 +2421,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ARLINDO JULIÃO VICENTE BARBOSA NETO",
+        "Column1": "ARLINDO JULIÃO VICENTE BARBOSA NETO ",
         "Column2": 111773053,
         "Column3": 0,
         "Column4": "SP",
@@ -2491,7 +2435,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ARTHUR ALVES DA SILVA",
+        "Column1": "ARTHUR ALVES DA SILVA ",
         "Column2": 111731642,
         "Column3": 7,
         "Column4": "SP",
@@ -2505,7 +2449,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ARTHUR ANTEVERE SILVA",
+        "Column1": "ARTHUR ANTEVERE SILVA ",
         "Column2": 110366902,
         "Column3": 3,
         "Column4": "SP",
@@ -2519,7 +2463,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ARTHUR BRAGA DA SILVA",
+        "Column1": "ARTHUR BRAGA DA SILVA ",
         "Column2": 111811746,
         "Column3": 3,
         "Column4": "SP",
@@ -2533,7 +2477,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ARTHUR HENRIQUE MOREIRA DA SILVA",
+        "Column1": "ARTHUR HENRIQUE MOREIRA DA SILVA ",
         "Column2": 109343281,
         "Column3": 0,
         "Column4": "SP",
@@ -2547,7 +2491,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ARTHUR LIMA DA SILVA",
+        "Column1": "ARTHUR LIMA DA SILVA ",
         "Column2": 109309149,
         "Column3": 6,
         "Column4": "SP",
@@ -2561,7 +2505,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ARTHUR MIGUEL RODRIGUES DA SILVA",
+        "Column1": "ARTHUR MIGUEL RODRIGUES DA SILVA ",
         "Column2": 110365973,
         "Column3": "X",
         "Column4": "SP",
@@ -2575,7 +2519,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ARTHUR RAMOS FERNANDES",
+        "Column1": "ARTHUR RAMOS FERNANDES ",
         "Column2": 111744386,
         "Column3": 3,
         "Column4": "SP",
@@ -2589,7 +2533,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ARTHUR SOUSA DOS SANTOS",
+        "Column1": "ARTHUR SOUSA DOS SANTOS ",
         "Column2": 111856498,
         "Column3": 4,
         "Column4": "SP",
@@ -2603,7 +2547,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ASHILEY FRANCA DOS SANTOS",
+        "Column1": "ASHILEY FRANCA DOS SANTOS ",
         "Column2": 109471663,
         "Column3": 7,
         "Column4": "SP",
@@ -2617,7 +2561,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BEATRIZ ARAUJO MORAES",
+        "Column1": "BEATRIZ ARAUJO MORAES ",
         "Column2": 114130329,
         "Column3": 2,
         "Column4": "SP",
@@ -2631,7 +2575,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BEATRIZ DA SILVA SOUZA",
+        "Column1": "BEATRIZ DA SILVA SOUZA ",
         "Column2": 107281311,
         "Column3": 7,
         "Column4": "SP",
@@ -2645,7 +2589,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BEATRIZ DA SILVA SOUZA",
+        "Column1": "BEATRIZ DA SILVA SOUZA ",
         "Column2": 107281311,
         "Column3": 7,
         "Column4": "SP",
@@ -2659,7 +2603,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BEATRIZ DOS SANTOS PEREIRA",
+        "Column1": "BEATRIZ DOS SANTOS PEREIRA ",
         "Column2": 111740418,
         "Column3": 3,
         "Column4": "SP",
@@ -2673,7 +2617,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BEATRIZ DOS SANTOS SILVA",
+        "Column1": "BEATRIZ DOS SANTOS SILVA ",
         "Column2": 108412408,
         "Column3": 7,
         "Column4": "SP",
@@ -2687,7 +2631,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BEATRIZ FERREIRA DA SILVA",
+        "Column1": "BEATRIZ FERREIRA DA SILVA ",
         "Column2": 112569230,
         "Column3": 3,
         "Column4": "SP",
@@ -2701,7 +2645,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BEATRIZ FERREIRA DE ANDRADE",
+        "Column1": "BEATRIZ FERREIRA DE ANDRADE ",
         "Column2": 109471781,
         "Column3": 2,
         "Column4": "SP",
@@ -2715,7 +2659,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BEATRIZ GASPAR DA SILVA",
+        "Column1": "BEATRIZ GASPAR DA SILVA ",
         "Column2": 109308765,
         "Column3": 1,
         "Column4": "SP",
@@ -2729,7 +2673,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BEATRIZ GASPAR DA SILVA",
+        "Column1": "BEATRIZ GASPAR DA SILVA ",
         "Column2": 109308765,
         "Column3": 1,
         "Column4": "SP",
@@ -2743,7 +2687,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BEATRIZ NASCIMENTO SIMÕES",
+        "Column1": "BEATRIZ NASCIMENTO SIMÕES ",
         "Column2": 113481303,
         "Column3": "X",
         "Column4": "SP",
@@ -2757,7 +2701,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BEATRIZ NICOLLY MOURA BENITE",
+        "Column1": "BEATRIZ NICOLLY MOURA BENITE ",
         "Column2": 111731690,
         "Column3": 7,
         "Column4": "SP",
@@ -2771,7 +2715,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BEATRIZ RESENDE SEVERINO",
+        "Column1": "BEATRIZ RESENDE SEVERINO ",
         "Column2": 109456422,
         "Column3": 9,
         "Column4": "SP",
@@ -2785,7 +2729,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BEATRIZ RESENDE SEVERINO",
+        "Column1": "BEATRIZ RESENDE SEVERINO ",
         "Column2": 109456422,
         "Column3": 9,
         "Column4": "SP",
@@ -2799,7 +2743,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BEATRIZ SANTOS CUSTODIO",
+        "Column1": "BEATRIZ SANTOS CUSTODIO ",
         "Column2": 112343265,
         "Column3": "X",
         "Column4": "SP",
@@ -2813,7 +2757,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BEATRIZ SILVA DE QUADROS",
+        "Column1": "BEATRIZ SILVA DE QUADROS ",
         "Column2": 111730074,
         "Column3": 2,
         "Column4": "SP",
@@ -2827,7 +2771,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BIANCA AZEVEDO MARTINS",
+        "Column1": "BIANCA AZEVEDO MARTINS ",
         "Column2": 109487179,
         "Column3": 5,
         "Column4": "SP",
@@ -2841,7 +2785,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BIANCA AZEVEDO MARTINS",
+        "Column1": "BIANCA AZEVEDO MARTINS ",
         "Column2": 109487179,
         "Column3": 5,
         "Column4": "SP",
@@ -2855,7 +2799,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BIANCA AZEVEDO MARTINS",
+        "Column1": "BIANCA AZEVEDO MARTINS ",
         "Column2": 109487179,
         "Column3": 5,
         "Column4": "SP",
@@ -2869,7 +2813,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BIANCA AZEVEDO MARTINS",
+        "Column1": "BIANCA AZEVEDO MARTINS ",
         "Column2": 109487179,
         "Column3": 5,
         "Column4": "SP",
@@ -2883,7 +2827,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BIANCA FERREIRA SANTOS",
+        "Column1": "BIANCA FERREIRA SANTOS ",
         "Column2": 110699083,
         "Column3": 3,
         "Column4": "SP",
@@ -2897,7 +2841,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BIANCA TORRES TINTINO",
+        "Column1": "BIANCA TORRES TINTINO ",
         "Column2": 109486654,
         "Column3": 4,
         "Column4": "SP",
@@ -2911,7 +2855,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BIANCA TORRES TINTINO",
+        "Column1": "BIANCA TORRES TINTINO ",
         "Column2": 109486654,
         "Column3": 4,
         "Column4": "SP",
@@ -2925,7 +2869,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BIANCA TORRES TINTINO",
+        "Column1": "BIANCA TORRES TINTINO ",
         "Column2": 109486654,
         "Column3": 4,
         "Column4": "SP",
@@ -2939,7 +2883,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BIANCA TORRES TINTINO",
+        "Column1": "BIANCA TORRES TINTINO ",
         "Column2": 109486654,
         "Column3": 4,
         "Column4": "SP",
@@ -2953,7 +2897,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRAYAN KALYDY SOUZA DOS SANTOS",
+        "Column1": "BRAYAN KALYDY SOUZA DOS SANTOS ",
         "Column2": 111791918,
         "Column3": 3,
         "Column4": "SP",
@@ -2967,7 +2911,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRENDA VITORIA TAVARES DA SILVA",
+        "Column1": "BRENDA VITORIA TAVARES DA SILVA ",
         "Column2": 112336207,
         "Column3": 5,
         "Column4": "SP",
@@ -2981,7 +2925,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRENO PEREIRA SOUSA",
+        "Column1": "BRENO PEREIRA SOUSA ",
         "Column2": 111730189,
         "Column3": 8,
         "Column4": "SP",
@@ -2995,7 +2939,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRENO RICK DE ASSIS SANTANA",
+        "Column1": "BRENO RICK DE ASSIS SANTANA ",
         "Column2": 108473337,
         "Column3": 7,
         "Column4": "SP",
@@ -3009,7 +2953,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRENO RICK DE ASSIS SANTANA",
+        "Column1": "BRENO RICK DE ASSIS SANTANA ",
         "Column2": 108473337,
         "Column3": 7,
         "Column4": "SP",
@@ -3023,7 +2967,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRUNA LOPES DIAS",
+        "Column1": "BRUNA LOPES DIAS ",
         "Column2": 122540268,
         "Column3": 2,
         "Column4": "SP",
@@ -3037,7 +2981,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRUNA NUNES PEREIRA DA SILVA",
+        "Column1": "BRUNA NUNES PEREIRA DA SILVA ",
         "Column2": 110393859,
         "Column3": 9,
         "Column4": "SP",
@@ -3051,7 +2995,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRUNA NUNES PEREIRA DA SILVA",
+        "Column1": "BRUNA NUNES PEREIRA DA SILVA ",
         "Column2": 110393859,
         "Column3": 9,
         "Column4": "SP",
@@ -3065,7 +3009,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRUNA NUNES PEREIRA DA SILVA",
+        "Column1": "BRUNA NUNES PEREIRA DA SILVA ",
         "Column2": 110393859,
         "Column3": 9,
         "Column4": "SP",
@@ -3079,7 +3023,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRUNA NUNES PEREIRA DA SILVA",
+        "Column1": "BRUNA NUNES PEREIRA DA SILVA ",
         "Column2": 110393859,
         "Column3": 9,
         "Column4": "SP",
@@ -3093,7 +3037,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRUNA RESENDE SEVERINO",
+        "Column1": "BRUNA RESENDE SEVERINO ",
         "Column2": 111322827,
         "Column3": 1,
         "Column4": "SP",
@@ -3107,7 +3051,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRUNA SANTANA MOISES",
+        "Column1": "BRUNA SANTANA MOISES ",
         "Column2": 110835565,
         "Column3": 1,
         "Column4": "SP",
@@ -3121,7 +3065,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRUNA SANTANA MOISES",
+        "Column1": "BRUNA SANTANA MOISES ",
         "Column2": 110835565,
         "Column3": 1,
         "Column4": "SP",
@@ -3135,7 +3079,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRUNA SPINDOLA SALVADOR",
+        "Column1": "BRUNA SPINDOLA SALVADOR ",
         "Column2": 111835041,
         "Column3": 8,
         "Column4": "SP",
@@ -3149,7 +3093,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRUNNA PAZ DOS SANTOS SILVA",
+        "Column1": "BRUNNA PAZ DOS SANTOS SILVA ",
         "Column2": 111613983,
         "Column3": 2,
         "Column4": "SP",
@@ -3163,7 +3107,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRUNNA PAZ DOS SANTOS SILVA",
+        "Column1": "BRUNNA PAZ DOS SANTOS SILVA ",
         "Column2": 111613983,
         "Column3": 2,
         "Column4": "SP",
@@ -3177,7 +3121,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRUNNA PAZ DOS SANTOS SILVA",
+        "Column1": "BRUNNA PAZ DOS SANTOS SILVA ",
         "Column2": 111613983,
         "Column3": 2,
         "Column4": "SP",
@@ -3191,7 +3135,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRUNNA PAZ DOS SANTOS SILVA",
+        "Column1": "BRUNNA PAZ DOS SANTOS SILVA ",
         "Column2": 111613983,
         "Column3": 2,
         "Column4": "SP",
@@ -3205,7 +3149,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRUNNO ALEXANDRE DA SILVA LAMEU",
+        "Column1": "BRUNNO ALEXANDRE DA SILVA LAMEU ",
         "Column2": 109486655,
         "Column3": 6,
         "Column4": "SP",
@@ -3219,7 +3163,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRUNNO ALEXANDRE DA SILVA LAMEU",
+        "Column1": "BRUNNO ALEXANDRE DA SILVA LAMEU ",
         "Column2": 109486655,
         "Column3": 6,
         "Column4": "SP",
@@ -3233,7 +3177,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRUNNO ALEXANDRE DA SILVA LAMEU",
+        "Column1": "BRUNNO ALEXANDRE DA SILVA LAMEU ",
         "Column2": 109486655,
         "Column3": 6,
         "Column4": "SP",
@@ -3247,7 +3191,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRUNNO ALEXANDRE DA SILVA LAMEU",
+        "Column1": "BRUNNO ALEXANDRE DA SILVA LAMEU ",
         "Column2": 109486655,
         "Column3": 6,
         "Column4": "SP",
@@ -3261,7 +3205,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRUNO ASSIS DA SILVA",
+        "Column1": "BRUNO ASSIS DA SILVA ",
         "Column2": 109478098,
         "Column3": 4,
         "Column4": "SP",
@@ -3275,7 +3219,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRUNO ASSIS DA SILVA",
+        "Column1": "BRUNO ASSIS DA SILVA ",
         "Column2": 109478098,
         "Column3": 4,
         "Column4": "SP",
@@ -3289,7 +3233,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRUNO DOS SANTOS OZORIO",
+        "Column1": "BRUNO DOS SANTOS OZORIO ",
         "Column2": 109471560,
         "Column3": 8,
         "Column4": "SP",
@@ -3303,7 +3247,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRUNO DUARTE DE OLIVEIRA",
+        "Column1": "BRUNO DUARTE DE OLIVEIRA ",
         "Column2": 109334803,
         "Column3": 3,
         "Column4": "SP",
@@ -3317,7 +3261,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRUNO DUARTE DE OLIVEIRA",
+        "Column1": "BRUNO DUARTE DE OLIVEIRA ",
         "Column2": 109334803,
         "Column3": 3,
         "Column4": "SP",
@@ -3331,7 +3275,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRUNO KAUAN LOBO DA PURIFICAÇÃO",
+        "Column1": "BRUNO KAUAN LOBO DA PURIFICAÇÃO ",
         "Column2": 111845582,
         "Column3": 4,
         "Column4": "SP",
@@ -3345,7 +3289,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRUNO PEREIRA SOUSA",
+        "Column1": "BRUNO PEREIRA SOUSA ",
         "Column2": 109486656,
         "Column3": 8,
         "Column4": "SP",
@@ -3359,7 +3303,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRUNO PEREIRA SOUSA",
+        "Column1": "BRUNO PEREIRA SOUSA ",
         "Column2": 109486656,
         "Column3": 8,
         "Column4": "SP",
@@ -3373,7 +3317,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRUNO PEREIRA SOUSA",
+        "Column1": "BRUNO PEREIRA SOUSA ",
         "Column2": 109486656,
         "Column3": 8,
         "Column4": "SP",
@@ -3387,7 +3331,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRUNO PEREIRA SOUSA",
+        "Column1": "BRUNO PEREIRA SOUSA ",
         "Column2": 109486656,
         "Column3": 8,
         "Column4": "SP",
@@ -3401,7 +3345,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRUNO RAFAEL SALES DE SANTANA",
+        "Column1": "BRUNO RAFAEL SALES DE SANTANA ",
         "Column2": 110389999,
         "Column3": 5,
         "Column4": "SP",
@@ -3415,7 +3359,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BRUNO RYAN DE SOUZA PEREIRA",
+        "Column1": "BRUNO RYAN DE SOUZA PEREIRA ",
         "Column2": 120314161,
         "Column3": 0,
         "Column4": "SP",
@@ -3429,7 +3373,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BÁRBARA FERNANDES DE SOUZA",
+        "Column1": "BÁRBARA FERNANDES DE SOUZA ",
         "Column2": 110393376,
         "Column3": 0,
         "Column4": "SP",
@@ -3443,7 +3387,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BÁRBARA FERNANDES DE SOUZA",
+        "Column1": "BÁRBARA FERNANDES DE SOUZA ",
         "Column2": 110393376,
         "Column3": 0,
         "Column4": "SP",
@@ -3457,7 +3401,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BÁRBARA FERNANDES DE SOUZA",
+        "Column1": "BÁRBARA FERNANDES DE SOUZA ",
         "Column2": 110393376,
         "Column3": 0,
         "Column4": "SP",
@@ -3471,7 +3415,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "BÁRBARA FERNANDES DE SOUZA",
+        "Column1": "BÁRBARA FERNANDES DE SOUZA ",
         "Column2": 110393376,
         "Column3": 0,
         "Column4": "SP",
@@ -3485,7 +3429,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAIO MATHEUS DE OLIVEIRA PEQUENO",
+        "Column1": "CAIO MATHEUS DE OLIVEIRA PEQUENO ",
         "Column2": 111530378,
         "Column3": 8,
         "Column4": "SP",
@@ -3499,7 +3443,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAIO MATHEUS DE OLIVEIRA PEQUENO",
+        "Column1": "CAIO MATHEUS DE OLIVEIRA PEQUENO ",
         "Column2": 111530378,
         "Column3": 8,
         "Column4": "SP",
@@ -3513,7 +3457,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAIO MATHEUS DE OLIVEIRA PEQUENO",
+        "Column1": "CAIO MATHEUS DE OLIVEIRA PEQUENO ",
         "Column2": 111530378,
         "Column3": 8,
         "Column4": "SP",
@@ -3527,7 +3471,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAIO MATHEUS DE OLIVEIRA PEQUENO",
+        "Column1": "CAIO MATHEUS DE OLIVEIRA PEQUENO ",
         "Column2": 111530378,
         "Column3": 8,
         "Column4": "SP",
@@ -3541,7 +3485,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAIO QUEIROZ SILVA",
+        "Column1": "CAIO QUEIROZ SILVA ",
         "Column2": 109309934,
         "Column3": 3,
         "Column4": "SP",
@@ -3555,7 +3499,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAIO RODRIGO DE OLIVEIRA SILVA",
+        "Column1": "CAIO RODRIGO DE OLIVEIRA SILVA ",
         "Column2": 112258253,
         "Column3": 5,
         "Column4": "SP",
@@ -3569,7 +3513,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAMILA DA SILVA LEITE",
+        "Column1": "CAMILA DA SILVA LEITE ",
         "Column2": 111299846,
         "Column3": 9,
         "Column4": "SP",
@@ -3583,7 +3527,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAMILA DA SILVA LEITE",
+        "Column1": "CAMILA DA SILVA LEITE ",
         "Column2": 111299846,
         "Column3": 9,
         "Column4": "SP",
@@ -3597,7 +3541,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAMILA DA SILVA LEITE",
+        "Column1": "CAMILA DA SILVA LEITE ",
         "Column2": 111299846,
         "Column3": 9,
         "Column4": "SP",
@@ -3611,7 +3555,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAMILA DA SILVA LEITE",
+        "Column1": "CAMILA DA SILVA LEITE ",
         "Column2": 111299846,
         "Column3": 9,
         "Column4": "SP",
@@ -3625,7 +3569,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAMILA EDUARDA AZEVEDO LOPES",
+        "Column1": "CAMILA EDUARDA AZEVEDO LOPES ",
         "Column2": 110307001,
         "Column3": 0,
         "Column4": "SP",
@@ -3639,7 +3583,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAMILA EDUARDA AZEVEDO LOPES",
+        "Column1": "CAMILA EDUARDA AZEVEDO LOPES ",
         "Column2": 110307001,
         "Column3": 0,
         "Column4": "SP",
@@ -3653,7 +3597,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAMILA MARTINS MOREIRA",
+        "Column1": "CAMILA MARTINS MOREIRA ",
         "Column2": 107335687,
         "Column3": 5,
         "Column4": "SP",
@@ -3667,7 +3611,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAMILA MARTINS MOREIRA",
+        "Column1": "CAMILA MARTINS MOREIRA ",
         "Column2": 107335687,
         "Column3": 5,
         "Column4": "SP",
@@ -3681,7 +3625,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAMILA RODRIGUES SILVA",
+        "Column1": "CAMILA RODRIGUES SILVA ",
         "Column2": 108288533,
         "Column3": 2,
         "Column4": "SP",
@@ -3695,7 +3639,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAMILA VICENTE BARBOSA FLORENÇO",
+        "Column1": "CAMILA VICENTE BARBOSA FLORENÇO ",
         "Column2": 109415896,
         "Column3": 3,
         "Column4": "SP",
@@ -3709,7 +3653,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAMILA VICENTE BARBOSA FLORENÇO",
+        "Column1": "CAMILA VICENTE BARBOSA FLORENÇO ",
         "Column2": 109415896,
         "Column3": 3,
         "Column4": "SP",
@@ -3723,7 +3667,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAMILA VICENTE BARBOSA FLORENÇO",
+        "Column1": "CAMILA VICENTE BARBOSA FLORENÇO ",
         "Column2": 109415896,
         "Column3": 3,
         "Column4": "SP",
@@ -3737,7 +3681,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAMILA VICENTE BARBOSA FLORENÇO",
+        "Column1": "CAMILA VICENTE BARBOSA FLORENÇO ",
         "Column2": 109415896,
         "Column3": 3,
         "Column4": "SP",
@@ -3751,7 +3695,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAMILE MAZULINE DE LIMA",
+        "Column1": "CAMILE MAZULINE DE LIMA ",
         "Column2": 109541735,
         "Column3": 6,
         "Column4": "SP",
@@ -3765,7 +3709,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAMILE MAZULINE DE LIMA",
+        "Column1": "CAMILE MAZULINE DE LIMA ",
         "Column2": 109541735,
         "Column3": 6,
         "Column4": "SP",
@@ -3779,7 +3723,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAMILE VITORIA DE SOUZA GARCIA",
+        "Column1": "CAMILE VITORIA DE SOUZA GARCIA ",
         "Column2": 111296104,
         "Column3": 5,
         "Column4": "SP",
@@ -3793,7 +3737,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAMILLY BIANCA ALVES DE SOUZA",
+        "Column1": "CAMILLY BIANCA ALVES DE SOUZA ",
         "Column2": 111314819,
         "Column3": 6,
         "Column4": "SP",
@@ -3807,7 +3751,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAMILLY VICTORIA SANTOS COSTA",
+        "Column1": "CAMILLY VICTORIA SANTOS COSTA ",
         "Column2": 111744603,
         "Column3": 7,
         "Column4": "SP",
@@ -3821,7 +3765,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAMILLY VITÓRIA OLIVEIRA MARTINS",
+        "Column1": "CAMILLY VITÓRIA OLIVEIRA MARTINS ",
         "Column2": 110393490,
         "Column3": 9,
         "Column4": "SP",
@@ -3835,7 +3779,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAMILY VITÓRIA DE SOUZA GOULART",
+        "Column1": "CAMILY VITÓRIA DE SOUZA GOULART ",
         "Column2": 108130224,
         "Column3": 0,
         "Column4": "SP",
@@ -3849,7 +3793,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAMILY VITÓRIA DE SOUZA GOULART",
+        "Column1": "CAMILY VITÓRIA DE SOUZA GOULART ",
         "Column2": 108130224,
         "Column3": 0,
         "Column4": "SP",
@@ -3863,7 +3807,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAMYLLE DOS SANTOS SILVA",
+        "Column1": "CAMYLLE DOS SANTOS SILVA ",
         "Column2": 110365909,
         "Column3": 1,
         "Column4": "SP",
@@ -3877,7 +3821,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAMYLLE DOS SANTOS SILVA",
+        "Column1": "CAMYLLE DOS SANTOS SILVA ",
         "Column2": 110365909,
         "Column3": 1,
         "Column4": "SP",
@@ -3891,7 +3835,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CARLOS ANTONIO DE JESUS LOPES",
+        "Column1": "CARLOS ANTONIO DE JESUS LOPES ",
         "Column2": 113160243,
         "Column3": 2,
         "Column4": "SP",
@@ -3905,7 +3849,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CARLOS ANTONIO DE JESUS LOPES",
+        "Column1": "CARLOS ANTONIO DE JESUS LOPES ",
         "Column2": 113160243,
         "Column3": 2,
         "Column4": "SP",
@@ -3919,7 +3863,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CARLOS EDUARDO DA SILVA MEIRA",
+        "Column1": "CARLOS EDUARDO DA SILVA MEIRA ",
         "Column2": 109343044,
         "Column3": 8,
         "Column4": "SP",
@@ -3933,7 +3877,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CARLOS EDUARDO RODRIGUES DOS SANTOS",
+        "Column1": "CARLOS EDUARDO RODRIGUES DOS SANTOS ",
         "Column2": 112647552,
         "Column3": "X",
         "Column4": "SP",
@@ -3947,7 +3891,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CARLOS EDUARDO SILVA SANTOS",
+        "Column1": "CARLOS EDUARDO SILVA SANTOS ",
         "Column2": 111735225,
         "Column3": 0,
         "Column4": "SP",
@@ -3961,7 +3905,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CARLOS EDUARDO TERTO SOARES",
+        "Column1": "CARLOS EDUARDO TERTO SOARES ",
         "Column2": 111845550,
         "Column3": 2,
         "Column4": "SP",
@@ -3975,7 +3919,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CARLOS HENRIQUE DA SILVA",
+        "Column1": "CARLOS HENRIQUE DA SILVA ",
         "Column2": 108409823,
         "Column3": 4,
         "Column4": "SP",
@@ -3989,7 +3933,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CARLOS HENRIQUE SANTOS DE ALCANTARA",
+        "Column1": "CARLOS HENRIQUE SANTOS DE ALCANTARA ",
         "Column2": 108247806,
         "Column3": 4,
         "Column4": "SP",
@@ -4003,7 +3947,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CARLOS HENRIQUE SANTOS DE ALCANTARA",
+        "Column1": "CARLOS HENRIQUE SANTOS DE ALCANTARA ",
         "Column2": 108247806,
         "Column3": 4,
         "Column4": "SP",
@@ -4017,7 +3961,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CARLOS HENRIQUE TEIXEIRA DE SOUZA",
+        "Column1": "CARLOS HENRIQUE TEIXEIRA DE SOUZA ",
         "Column2": 110390420,
         "Column3": 6,
         "Column4": "SP",
@@ -4031,7 +3975,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CARLOS VINICIUS DOS SANTOS SILVA",
+        "Column1": "CARLOS VINICIUS DOS SANTOS SILVA ",
         "Column2": 109487206,
         "Column3": 4,
         "Column4": "SP",
@@ -4045,7 +3989,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CARLOS VINICIUS DOS SANTOS SILVA",
+        "Column1": "CARLOS VINICIUS DOS SANTOS SILVA ",
         "Column2": 109487206,
         "Column3": 4,
         "Column4": "SP",
@@ -4059,7 +4003,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CARLOS VINICIUS DOS SANTOS SILVA",
+        "Column1": "CARLOS VINICIUS DOS SANTOS SILVA ",
         "Column2": 109487206,
         "Column3": 4,
         "Column4": "SP",
@@ -4073,7 +4017,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CARLOS VINICIUS DOS SANTOS SILVA",
+        "Column1": "CARLOS VINICIUS DOS SANTOS SILVA ",
         "Column2": 109487206,
         "Column3": 4,
         "Column4": "SP",
@@ -4087,7 +4031,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAROLINA SOARES AMORIM",
+        "Column1": "CAROLINA SOARES AMORIM ",
         "Column2": 112752998,
         "Column3": 5,
         "Column4": "SP",
@@ -4101,7 +4045,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAROLINE ALVES DA SILVA",
+        "Column1": "CAROLINE ALVES DA SILVA ",
         "Column2": 112448238,
         "Column3": 6,
         "Column4": "SP",
@@ -4115,7 +4059,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAROLINE DOS SANTOS RAMOS",
+        "Column1": "CAROLINE DOS SANTOS RAMOS ",
         "Column2": 110450033,
         "Column3": 4,
         "Column4": "SP",
@@ -4129,7 +4073,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAROLINE DOS SANTOS RAMOS",
+        "Column1": "CAROLINE DOS SANTOS RAMOS ",
         "Column2": 110450033,
         "Column3": 4,
         "Column4": "SP",
@@ -4143,7 +4087,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAROLINE VICTÓRIA MACEDO BERTOLDO",
+        "Column1": "CAROLINE VICTÓRIA MACEDO BERTOLDO ",
         "Column2": 111744517,
         "Column3": 3,
         "Column4": "SP",
@@ -4157,7 +4101,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAUAN FELIPE DA SILVA",
+        "Column1": "CAUAN FELIPE DA SILVA ",
         "Column2": 110460599,
         "Column3": 5,
         "Column4": "SP",
@@ -4171,7 +4115,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAUE RODRIGUES LOPES",
+        "Column1": "CAUE RODRIGUES LOPES ",
         "Column2": 112579813,
         "Column3": 0,
         "Column4": "SP",
@@ -4185,7 +4129,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAUÃ ALVES DOS RÊZES",
+        "Column1": "CAUÃ ALVES DOS RÊZES ",
         "Column2": 108339873,
         "Column3": 8,
         "Column4": "SP",
@@ -4199,7 +4143,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAUÃ ALVES DOS RÊZES",
+        "Column1": "CAUÃ ALVES DOS RÊZES ",
         "Column2": 108339873,
         "Column3": 8,
         "Column4": "SP",
@@ -4213,7 +4157,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAUÃ ALVES DOS RÊZES",
+        "Column1": "CAUÃ ALVES DOS RÊZES ",
         "Column2": 108339873,
         "Column3": 8,
         "Column4": "SP",
@@ -4227,7 +4171,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAUÃ ALVES DOS RÊZES",
+        "Column1": "CAUÃ ALVES DOS RÊZES ",
         "Column2": 108339873,
         "Column3": 8,
         "Column4": "SP",
@@ -4241,7 +4185,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAUÃ ARAUJO GUIMARÃES",
+        "Column1": "CAUÃ ARAUJO GUIMARÃES ",
         "Column2": 111731547,
         "Column3": 2,
         "Column4": "SP",
@@ -4255,7 +4199,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAUÃ RODRIGUES DE LIMA",
+        "Column1": "CAUÃ RODRIGUES DE LIMA ",
         "Column2": 110393896,
         "Column3": 4,
         "Column4": "SP",
@@ -4269,7 +4213,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAUÃ RODRIGUES DE LIMA",
+        "Column1": "CAUÃ RODRIGUES DE LIMA ",
         "Column2": 110393896,
         "Column3": 4,
         "Column4": "SP",
@@ -4283,7 +4227,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAUÃ RODRIGUES DE LIMA",
+        "Column1": "CAUÃ RODRIGUES DE LIMA ",
         "Column2": 110393896,
         "Column3": 4,
         "Column4": "SP",
@@ -4297,7 +4241,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAUÃ RODRIGUES DE LIMA",
+        "Column1": "CAUÃ RODRIGUES DE LIMA ",
         "Column2": 110393896,
         "Column3": 4,
         "Column4": "SP",
@@ -4311,7 +4255,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAUÃ SANTOS PEDROSA",
+        "Column1": "CAUÃ SANTOS PEDROSA ",
         "Column2": 111834761,
         "Column3": 4,
         "Column4": "SP",
@@ -4325,7 +4269,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAUÊ ALEXANDRE MATIAS DA SILVA",
+        "Column1": "CAUÊ ALEXANDRE MATIAS DA SILVA ",
         "Column2": 112567955,
         "Column3": 4,
         "Column4": "SP",
@@ -4339,7 +4283,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAUÊ RODRIGUES AUGUSTO DA SILVA",
+        "Column1": "CAUÊ RODRIGUES AUGUSTO DA SILVA ",
         "Column2": 107230303,
         "Column3": 6,
         "Column4": "SP",
@@ -4353,7 +4297,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAUÊ RODRIGUES AUGUSTO DA SILVA",
+        "Column1": "CAUÊ RODRIGUES AUGUSTO DA SILVA ",
         "Column2": 107230303,
         "Column3": 6,
         "Column4": "SP",
@@ -4367,7 +4311,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAYO EDUARDO PATROCINIO DA SILVA TEODORO",
+        "Column1": "CAYO EDUARDO PATROCINIO DA SILVA TEODORO ",
         "Column2": 110302475,
         "Column3": 9,
         "Column4": "SP",
@@ -4381,7 +4325,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CAÍQUE PEREIRA SANTANA SANTOS",
+        "Column1": "CAÍQUE PEREIRA SANTANA SANTOS ",
         "Column2": 111772841,
         "Column3": 9,
         "Column4": "SP",
@@ -4395,7 +4339,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CHRISTIAN VICENTE COSTA",
+        "Column1": "CHRISTIAN VICENTE COSTA ",
         "Column2": 112532961,
         "Column3": 0,
         "Column4": "SP",
@@ -4409,7 +4353,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CHRISTOPHER RYAN FARIAS RODRIGUES",
+        "Column1": "CHRISTOPHER RYAN FARIAS RODRIGUES ",
         "Column2": 109309254,
         "Column3": 3,
         "Column4": "SP",
@@ -4423,7 +4367,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CHRISTOPHER RYAN FARIAS RODRIGUES",
+        "Column1": "CHRISTOPHER RYAN FARIAS RODRIGUES ",
         "Column2": 109309254,
         "Column3": 3,
         "Column4": "SP",
@@ -4437,7 +4381,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CHRISTOPHER RYAN FARIAS RODRIGUES",
+        "Column1": "CHRISTOPHER RYAN FARIAS RODRIGUES ",
         "Column2": 109309254,
         "Column3": 3,
         "Column4": "SP",
@@ -4451,7 +4395,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CHRISTOPHER RYAN FARIAS RODRIGUES",
+        "Column1": "CHRISTOPHER RYAN FARIAS RODRIGUES ",
         "Column2": 109309254,
         "Column3": 3,
         "Column4": "SP",
@@ -4465,7 +4409,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CLARA HELENA ALVES DOS RÊZES",
+        "Column1": "CLARA HELENA ALVES DOS RÊZES ",
         "Column2": 113303468,
         "Column3": 8,
         "Column4": "SP",
@@ -4479,7 +4423,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CLARA MIRANDA LACERDA",
+        "Column1": "CLARA MIRANDA LACERDA ",
         "Column2": 110030193,
         "Column3": 8,
         "Column4": "SP",
@@ -4493,7 +4437,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CLARICE ARAUJO DE OLIVEIRA",
+        "Column1": "CLARICE ARAUJO DE OLIVEIRA ",
         "Column2": 109593597,
         "Column3": 5,
         "Column4": "SP",
@@ -4507,7 +4451,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CLARICE ARAUJO DE OLIVEIRA",
+        "Column1": "CLARICE ARAUJO DE OLIVEIRA ",
         "Column2": 109593597,
         "Column3": 5,
         "Column4": "SP",
@@ -4521,7 +4465,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CLARICE ARAUJO DE OLIVEIRA",
+        "Column1": "CLARICE ARAUJO DE OLIVEIRA ",
         "Column2": 109593597,
         "Column3": 5,
         "Column4": "SP",
@@ -4535,7 +4479,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CLARICE ARAUJO DE OLIVEIRA",
+        "Column1": "CLARICE ARAUJO DE OLIVEIRA ",
         "Column2": 109593597,
         "Column3": 5,
         "Column4": "SP",
@@ -4549,7 +4493,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CLAUDIO HENRICH DE OLIVEIRA RAMOS",
+        "Column1": "CLAUDIO HENRICH DE OLIVEIRA RAMOS ",
         "Column2": 110750362,
         "Column3": 0,
         "Column4": "SP",
@@ -4563,7 +4507,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CLAUDIO HENRICH DE OLIVEIRA RAMOS",
+        "Column1": "CLAUDIO HENRICH DE OLIVEIRA RAMOS ",
         "Column2": 110750362,
         "Column3": 0,
         "Column4": "SP",
@@ -4577,7 +4521,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CLAUDIO HENRICH DE OLIVEIRA RAMOS",
+        "Column1": "CLAUDIO HENRICH DE OLIVEIRA RAMOS ",
         "Column2": 110750362,
         "Column3": 0,
         "Column4": "SP",
@@ -4591,7 +4535,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CLAUDIO HENRICH DE OLIVEIRA RAMOS",
+        "Column1": "CLAUDIO HENRICH DE OLIVEIRA RAMOS ",
         "Column2": 110750362,
         "Column3": 0,
         "Column4": "SP",
@@ -4605,7 +4549,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CLAYTON ARAUJO DE JESUS",
+        "Column1": "CLAYTON ARAUJO DE JESUS ",
         "Column2": 110365797,
         "Column3": 5,
         "Column4": "SP",
@@ -4619,7 +4563,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CLEDISON PEREIRA SANTANA SANTOS",
+        "Column1": "CLEDISON PEREIRA SANTANA SANTOS ",
         "Column2": 111631404,
         "Column3": 6,
         "Column4": "SP",
@@ -4633,7 +4577,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CLEYTON LISBOA FERREIRA",
+        "Column1": "CLEYTON LISBOA FERREIRA ",
         "Column2": 111991168,
         "Column3": 0,
         "Column4": "SP",
@@ -4647,7 +4591,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CLEYTON LISBOA FERREIRA",
+        "Column1": "CLEYTON LISBOA FERREIRA ",
         "Column2": 111991168,
         "Column3": 0,
         "Column4": "SP",
@@ -4661,7 +4605,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CRISTIAN ALVES DE SOUSA",
+        "Column1": "CRISTIAN ALVES DE SOUSA ",
         "Column2": 111730243,
         "Column3": "X",
         "Column4": "SP",
@@ -4675,7 +4619,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CRISTIANO FERREIRA DOS ANJOS",
+        "Column1": "CRISTIANO FERREIRA DOS ANJOS ",
         "Column2": 109486599,
         "Column3": 0,
         "Column4": "SP",
@@ -4689,7 +4633,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CRISTIANO FERREIRA DOS ANJOS",
+        "Column1": "CRISTIANO FERREIRA DOS ANJOS ",
         "Column2": 109486599,
         "Column3": 0,
         "Column4": "SP",
@@ -4703,7 +4647,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CRYSTOFER APARECIDO MARTINS VIANA",
+        "Column1": "CRYSTOFER APARECIDO MARTINS VIANA ",
         "Column2": 112470186,
         "Column3": 2,
         "Column4": "SP",
@@ -4717,7 +4661,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "CÉSAR VINÍCIUS DE SOUZA SANTOS",
+        "Column1": "CÉSAR VINÍCIUS DE SOUZA SANTOS ",
         "Column2": 111565497,
         "Column3": 4,
         "Column4": "SP",
@@ -4731,7 +4675,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DANIEL FERREIRA VITALINO",
+        "Column1": "DANIEL FERREIRA VITALINO ",
         "Column2": 107335617,
         "Column3": 6,
         "Column4": "SP",
@@ -4745,7 +4689,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DANIEL FERREIRA VITALINO",
+        "Column1": "DANIEL FERREIRA VITALINO ",
         "Column2": 107335617,
         "Column3": 6,
         "Column4": "SP",
@@ -4759,7 +4703,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DANIEL FERREIRA VITALINO",
+        "Column1": "DANIEL FERREIRA VITALINO ",
         "Column2": 107335617,
         "Column3": 6,
         "Column4": "SP",
@@ -4773,7 +4717,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DANIEL FERREIRA VITALINO",
+        "Column1": "DANIEL FERREIRA VITALINO ",
         "Column2": 107335617,
         "Column3": 6,
         "Column4": "SP",
@@ -4787,7 +4731,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DANIEL HENRIQUE MARTINS DE ALMEIDA",
+        "Column1": "DANIEL HENRIQUE MARTINS DE ALMEIDA ",
         "Column2": 109307974,
         "Column3": 5,
         "Column4": "SP",
@@ -4801,7 +4745,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DANIEL MESSIAS DE ARAUJO",
+        "Column1": "DANIEL MESSIAS DE ARAUJO ",
         "Column2": 111777102,
         "Column3": 7,
         "Column4": "SP",
@@ -4815,7 +4759,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DANIEL MORENO DA SILVA",
+        "Column1": "DANIEL MORENO DA SILVA ",
         "Column2": 109309777,
         "Column3": 2,
         "Column4": "SP",
@@ -4829,7 +4773,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DANIEL RODRIGUES DE MACEDO",
+        "Column1": "DANIEL RODRIGUES DE MACEDO ",
         "Column2": 110871725,
         "Column3": 1,
         "Column4": "SP",
@@ -4843,7 +4787,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DANIEL RODRIGUES DE MACEDO",
+        "Column1": "DANIEL RODRIGUES DE MACEDO ",
         "Column2": 110871725,
         "Column3": 1,
         "Column4": "SP",
@@ -4857,7 +4801,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DANIEL SOARES MATIAS DE SOUZA",
+        "Column1": "DANIEL SOARES MATIAS DE SOUZA ",
         "Column2": 109486633,
         "Column3": 7,
         "Column4": "SP",
@@ -4871,7 +4815,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DANIEL SOARES MATIAS DE SOUZA",
+        "Column1": "DANIEL SOARES MATIAS DE SOUZA ",
         "Column2": 109486633,
         "Column3": 7,
         "Column4": "SP",
@@ -4885,7 +4829,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DANIEL SOUZA CAMPOS",
+        "Column1": "DANIEL SOUZA CAMPOS ",
         "Column2": 109307982,
         "Column3": 4,
         "Column4": "SP",
@@ -4899,7 +4843,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DANIELA CAVALCANTE DE LIMA",
+        "Column1": "DANIELA CAVALCANTE DE LIMA ",
         "Column2": 111297417,
         "Column3": 9,
         "Column4": "SP",
@@ -4913,7 +4857,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DANIELA CAVALCANTE DE LIMA",
+        "Column1": "DANIELA CAVALCANTE DE LIMA ",
         "Column2": 111297417,
         "Column3": 9,
         "Column4": "SP",
@@ -4927,7 +4871,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DANIELA CAVALCANTE DE LIMA",
+        "Column1": "DANIELA CAVALCANTE DE LIMA ",
         "Column2": 111297417,
         "Column3": 9,
         "Column4": "SP",
@@ -4941,7 +4885,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DANIELA CAVALCANTE DE LIMA",
+        "Column1": "DANIELA CAVALCANTE DE LIMA ",
         "Column2": 111297417,
         "Column3": 9,
         "Column4": "SP",
@@ -4955,7 +4899,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DANIELA GONÇALVES MACEDO",
+        "Column1": "DANIELA GONÇALVES MACEDO ",
         "Column2": 112326607,
         "Column3": 4,
         "Column4": "SP",
@@ -4969,7 +4913,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DANIELA MOREIRA MEDEIROS",
+        "Column1": "DANIELA MOREIRA MEDEIROS ",
         "Column2": 110999495,
         "Column3": 3,
         "Column4": "SP",
@@ -4983,7 +4927,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DANIELA MOREIRA MEDEIROS",
+        "Column1": "DANIELA MOREIRA MEDEIROS ",
         "Column2": 110999495,
         "Column3": 3,
         "Column4": "SP",
@@ -4997,7 +4941,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DANIELE VITORIA BRITO DOS SANTOS",
+        "Column1": "DANIELE VITORIA BRITO DOS SANTOS ",
         "Column2": 111279389,
         "Column3": 6,
         "Column4": "SP",
@@ -5011,7 +4955,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DANIELE VITORIA BRITO DOS SANTOS",
+        "Column1": "DANIELE VITORIA BRITO DOS SANTOS ",
         "Column2": 111279389,
         "Column3": 6,
         "Column4": "SP",
@@ -5025,7 +4969,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DANIELE VITORIA BRITO DOS SANTOS",
+        "Column1": "DANIELE VITORIA BRITO DOS SANTOS ",
         "Column2": 111279389,
         "Column3": 6,
         "Column4": "SP",
@@ -5039,7 +4983,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DANIELE VITORIA BRITO DOS SANTOS",
+        "Column1": "DANIELE VITORIA BRITO DOS SANTOS ",
         "Column2": 111279389,
         "Column3": 6,
         "Column4": "SP",
@@ -5053,7 +4997,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DANIELI FERREIRA ROCHA",
+        "Column1": "DANIELI FERREIRA ROCHA ",
         "Column2": 109310109,
         "Column3": "X",
         "Column4": "SP",
@@ -5067,7 +5011,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DANIELI FERREIRA ROCHA",
+        "Column1": "DANIELI FERREIRA ROCHA ",
         "Column2": 109310109,
         "Column3": "X",
         "Column4": "SP",
@@ -5081,7 +5025,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DANIELLY CRISTINA DA SILVA",
+        "Column1": "DANIELLY CRISTINA DA SILVA ",
         "Column2": 109471879,
         "Column3": 8,
         "Column4": "SP",
@@ -5095,7 +5039,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DANILO BUCIOC DOS SANTOS",
+        "Column1": "DANILO BUCIOC DOS SANTOS ",
         "Column2": 110384710,
         "Column3": 7,
         "Column4": "SP",
@@ -5109,7 +5053,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DANILO OLIVEIRA GONÇALVES",
+        "Column1": "DANILO OLIVEIRA GONÇALVES ",
         "Column2": 115581785,
         "Column3": 0,
         "Column4": "SP",
@@ -5123,7 +5067,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DANYELLE FRANCYELLE NASCIMENTO DA SILVA",
+        "Column1": "DANYELLE FRANCYELLE NASCIMENTO DA SILVA ",
         "Column2": 112660219,
         "Column3": "X",
         "Column4": "SP",
@@ -5137,7 +5081,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DAVI GABRIEL DE ALMEIDA DIAS",
+        "Column1": "DAVI GABRIEL DE ALMEIDA DIAS ",
         "Column2": 109342628,
         "Column3": 7,
         "Column4": "SP",
@@ -5151,7 +5095,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DAVI GABRIEL DE ALMEIDA DIAS",
+        "Column1": "DAVI GABRIEL DE ALMEIDA DIAS ",
         "Column2": 109342628,
         "Column3": 7,
         "Column4": "SP",
@@ -5165,7 +5109,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DAVI LUCAS DE OLIVEIRA",
+        "Column1": "DAVI LUCAS DE OLIVEIRA ",
         "Column2": 115730392,
         "Column3": 4,
         "Column4": "SP",
@@ -5179,7 +5123,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DAVI SALES DE LIMA",
+        "Column1": "DAVI SALES DE LIMA ",
         "Column2": 109486658,
         "Column3": 1,
         "Column4": "SP",
@@ -5193,7 +5137,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DAVI SALES DE LIMA",
+        "Column1": "DAVI SALES DE LIMA ",
         "Column2": 109486658,
         "Column3": 1,
         "Column4": "SP",
@@ -5207,7 +5151,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DAVI SALES DE LIMA",
+        "Column1": "DAVI SALES DE LIMA ",
         "Column2": 109486658,
         "Column3": 1,
         "Column4": "SP",
@@ -5221,7 +5165,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DAVI SALES DE LIMA",
+        "Column1": "DAVI SALES DE LIMA ",
         "Column2": 109486658,
         "Column3": 1,
         "Column4": "SP",
@@ -5235,7 +5179,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DAVID ALBUQUERQUE",
+        "Column1": "DAVID ALBUQUERQUE ",
         "Column2": 109486873,
         "Column3": 5,
         "Column4": "SP",
@@ -5249,7 +5193,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DAVID ALBUQUERQUE",
+        "Column1": "DAVID ALBUQUERQUE ",
         "Column2": 109486873,
         "Column3": 5,
         "Column4": "SP",
@@ -5263,7 +5207,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DAVID ALBUQUERQUE",
+        "Column1": "DAVID ALBUQUERQUE ",
         "Column2": 109486873,
         "Column3": 5,
         "Column4": "SP",
@@ -5277,7 +5221,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DAVID ALBUQUERQUE",
+        "Column1": "DAVID ALBUQUERQUE ",
         "Column2": 109486873,
         "Column3": 5,
         "Column4": "SP",
@@ -5291,7 +5235,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DAVID BARRETO DA FONSECA",
+        "Column1": "DAVID BARRETO DA FONSECA ",
         "Column2": 112576341,
         "Column3": 3,
         "Column4": "SP",
@@ -5305,7 +5249,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DAVID DO NASCIMENTO XAVIER DA SILVA",
+        "Column1": "DAVID DO NASCIMENTO XAVIER DA SILVA ",
         "Column2": 111318103,
         "Column3": 5,
         "Column4": "SP",
@@ -5319,7 +5263,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DAVID GUILHERME FERREIRA GUIDO",
+        "Column1": "DAVID GUILHERME FERREIRA GUIDO ",
         "Column2": 109309014,
         "Column3": 5,
         "Column4": "SP",
@@ -5333,7 +5277,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DAVID GUILHERME FERREIRA GUIDO",
+        "Column1": "DAVID GUILHERME FERREIRA GUIDO ",
         "Column2": 109309014,
         "Column3": 5,
         "Column4": "SP",
@@ -5347,7 +5291,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DAVID GUILHERME FERREIRA GUIDO",
+        "Column1": "DAVID GUILHERME FERREIRA GUIDO ",
         "Column2": 109309014,
         "Column3": 5,
         "Column4": "SP",
@@ -5361,7 +5305,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DAVID GUILHERME FERREIRA GUIDO",
+        "Column1": "DAVID GUILHERME FERREIRA GUIDO ",
         "Column2": 109309014,
         "Column3": 5,
         "Column4": "SP",
@@ -5375,7 +5319,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DAVID HENRIQUE BARROS DOS SANTOS",
+        "Column1": "DAVID HENRIQUE BARROS DOS SANTOS ",
         "Column2": 111791839,
         "Column3": 7,
         "Column4": "SP",
@@ -5389,7 +5333,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DAVID HENRIQUE GOMES MATOSINHO",
+        "Column1": "DAVID HENRIQUE GOMES MATOSINHO ",
         "Column2": 109598664,
         "Column3": 8,
         "Column4": "SP",
@@ -5403,7 +5347,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DAVID HENRIQUE GOMES MATOSINHO",
+        "Column1": "DAVID HENRIQUE GOMES MATOSINHO ",
         "Column2": 109598664,
         "Column3": 8,
         "Column4": "SP",
@@ -5417,7 +5361,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DAVID HENRIQUE GOMES MATOSINHO",
+        "Column1": "DAVID HENRIQUE GOMES MATOSINHO ",
         "Column2": 109598664,
         "Column3": 8,
         "Column4": "SP",
@@ -5431,7 +5375,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DAVID HENRIQUE GOMES MATOSINHO",
+        "Column1": "DAVID HENRIQUE GOMES MATOSINHO ",
         "Column2": 109598664,
         "Column3": 8,
         "Column4": "SP",
@@ -5445,7 +5389,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DAVID SANTOS",
+        "Column1": "DAVID SANTOS ",
         "Column2": 111329487,
         "Column3": 5,
         "Column4": "SP",
@@ -5459,7 +5403,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DAVID SANTOS",
+        "Column1": "DAVID SANTOS ",
         "Column2": 111329487,
         "Column3": 5,
         "Column4": "SP",
@@ -5473,7 +5417,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DAVID SANTOS",
+        "Column1": "DAVID SANTOS ",
         "Column2": 111329487,
         "Column3": 5,
         "Column4": "SP",
@@ -5487,7 +5431,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DAVID SANTOS",
+        "Column1": "DAVID SANTOS ",
         "Column2": 111329487,
         "Column3": 5,
         "Column4": "SP",
@@ -5501,7 +5445,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DAVIDSON SILVA DE JESUS",
+        "Column1": "DAVIDSON SILVA DE JESUS ",
         "Column2": 111772971,
         "Column3": 0,
         "Column4": "SP",
@@ -5515,7 +5459,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DEBORA AMORIM SILVA",
+        "Column1": "DEBORA AMORIM SILVA ",
         "Column2": 108342473,
         "Column3": 7,
         "Column4": "SP",
@@ -5529,7 +5473,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DEBORA AMORIM SILVA",
+        "Column1": "DEBORA AMORIM SILVA ",
         "Column2": 108342473,
         "Column3": 7,
         "Column4": "SP",
@@ -5543,7 +5487,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DEBORA AMORIM SILVA",
+        "Column1": "DEBORA AMORIM SILVA ",
         "Column2": 108342473,
         "Column3": 7,
         "Column4": "SP",
@@ -5557,7 +5501,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DEBORA AMORIM SILVA",
+        "Column1": "DEBORA AMORIM SILVA ",
         "Column2": 108342473,
         "Column3": 7,
         "Column4": "SP",
@@ -5571,7 +5515,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DEBORA DOS SANTOS MATOS",
+        "Column1": "DEBORA DOS SANTOS MATOS ",
         "Column2": 109487233,
         "Column3": 7,
         "Column4": "SP",
@@ -5585,7 +5529,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DEBORA DOS SANTOS MATOS",
+        "Column1": "DEBORA DOS SANTOS MATOS ",
         "Column2": 109487233,
         "Column3": 7,
         "Column4": "SP",
@@ -5599,7 +5543,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DEBORA DOS SANTOS MATOS",
+        "Column1": "DEBORA DOS SANTOS MATOS ",
         "Column2": 109487233,
         "Column3": 7,
         "Column4": "SP",
@@ -5613,7 +5557,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DEBORA DOS SANTOS MATOS",
+        "Column1": "DEBORA DOS SANTOS MATOS ",
         "Column2": 109487233,
         "Column3": 7,
         "Column4": "SP",
@@ -5627,7 +5571,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DEBORAH GONCALVES FONSECA",
+        "Column1": "DEBORAH GONCALVES FONSECA ",
         "Column2": 109471578,
         "Column3": 5,
         "Column4": "SP",
@@ -5641,7 +5585,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DEIVID ALVES DOS SANTOS MATOS",
+        "Column1": "DEIVID ALVES DOS SANTOS MATOS ",
         "Column2": 110451514,
         "Column3": 3,
         "Column4": "SP",
@@ -5655,7 +5599,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DEIVID ALVES DOS SANTOS MATOS",
+        "Column1": "DEIVID ALVES DOS SANTOS MATOS ",
         "Column2": 110451514,
         "Column3": 3,
         "Column4": "SP",
@@ -5669,7 +5613,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DEIVID ALVES DOS SANTOS MATOS",
+        "Column1": "DEIVID ALVES DOS SANTOS MATOS ",
         "Column2": 110451514,
         "Column3": 3,
         "Column4": "SP",
@@ -5683,7 +5627,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DEIVID ALVES DOS SANTOS MATOS",
+        "Column1": "DEIVID ALVES DOS SANTOS MATOS ",
         "Column2": 110451514,
         "Column3": 3,
         "Column4": "SP",
@@ -5697,7 +5641,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DEIVISON KAUÃ OLIVEIRA DO ROSARIO",
+        "Column1": "DEIVISON KAUÃ OLIVEIRA DO ROSARIO ",
         "Column2": 111772893,
         "Column3": 6,
         "Column4": "SP",
@@ -5711,7 +5655,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DENIS ALMEIDA DA SILVA",
+        "Column1": "DENIS ALMEIDA DA SILVA ",
         "Column2": 110365713,
         "Column3": 6,
         "Column4": "SP",
@@ -5725,7 +5669,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DENIS BARBOSA RIBEIRO",
+        "Column1": "DENIS BARBOSA RIBEIRO ",
         "Column2": 104311347,
         "Column3": 2,
         "Column4": "SP",
@@ -5739,7 +5683,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DENIS BARBOSA RIBEIRO",
+        "Column1": "DENIS BARBOSA RIBEIRO ",
         "Column2": 104311347,
         "Column3": 2,
         "Column4": "SP",
@@ -5753,7 +5697,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DENIS PEREIRA SANTOS",
+        "Column1": "DENIS PEREIRA SANTOS ",
         "Column2": 111731589,
         "Column3": 7,
         "Column4": "SP",
@@ -5767,7 +5711,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DENIS PEREIRA SANTOS",
+        "Column1": "DENIS PEREIRA SANTOS ",
         "Column2": 111731589,
         "Column3": 7,
         "Column4": "SP",
@@ -5781,7 +5725,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DENISE BARBOSA CARVALHO",
+        "Column1": "DENISE BARBOSA CARVALHO ",
         "Column2": 110392442,
         "Column3": 4,
         "Column4": "SP",
@@ -5795,7 +5739,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DENISE BARBOSA CARVALHO",
+        "Column1": "DENISE BARBOSA CARVALHO ",
         "Column2": 110392442,
         "Column3": 4,
         "Column4": "SP",
@@ -5809,7 +5753,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DENISE BARBOSA CARVALHO",
+        "Column1": "DENISE BARBOSA CARVALHO ",
         "Column2": 110392442,
         "Column3": 4,
         "Column4": "SP",
@@ -5823,7 +5767,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DENISE BARBOSA CARVALHO",
+        "Column1": "DENISE BARBOSA CARVALHO ",
         "Column2": 110392442,
         "Column3": 4,
         "Column4": "SP",
@@ -5837,7 +5781,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DEVID DOS SANTOS NASCIMENTO",
+        "Column1": "DEVID DOS SANTOS NASCIMENTO ",
         "Column2": 122065121,
         "Column3": 7,
         "Column4": "SP",
@@ -5851,7 +5795,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DIEGO AUGUSTO COSTA LEITE DA SILVA",
+        "Column1": "DIEGO AUGUSTO COSTA LEITE DA SILVA ",
         "Column2": 111749201,
         "Column3": 1,
         "Column4": "SP",
@@ -5865,7 +5809,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DIEGO DE SOUZA FELIPE",
+        "Column1": "DIEGO DE SOUZA FELIPE ",
         "Column2": 111791863,
         "Column3": 4,
         "Column4": "SP",
@@ -5879,7 +5823,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DIEGO FERREIRA DA SILVA",
+        "Column1": "DIEGO FERREIRA DA SILVA ",
         "Column2": 110365622,
         "Column3": 3,
         "Column4": "SP",
@@ -5893,7 +5837,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DIEGO FERREIRA DA SILVA",
+        "Column1": "DIEGO FERREIRA DA SILVA ",
         "Column2": 110365622,
         "Column3": 3,
         "Column4": "SP",
@@ -5907,7 +5851,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DIEGO FERREIRA DA SILVA",
+        "Column1": "DIEGO FERREIRA DA SILVA ",
         "Column2": 110365622,
         "Column3": 3,
         "Column4": "SP",
@@ -5921,7 +5865,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DIOGO BATISTA DA SILVA",
+        "Column1": "DIOGO BATISTA DA SILVA ",
         "Column2": 107292448,
         "Column3": 1,
         "Column4": "SP",
@@ -5935,7 +5879,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DIOGO BATISTA DA SILVA",
+        "Column1": "DIOGO BATISTA DA SILVA ",
         "Column2": 107292448,
         "Column3": 1,
         "Column4": "SP",
@@ -5949,7 +5893,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DIOGO BATISTA DA SILVA",
+        "Column1": "DIOGO BATISTA DA SILVA ",
         "Column2": 107292448,
         "Column3": 1,
         "Column4": "SP",
@@ -5963,7 +5907,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DIOGO BATISTA DA SILVA",
+        "Column1": "DIOGO BATISTA DA SILVA ",
         "Column2": 107292448,
         "Column3": 1,
         "Column4": "SP",
@@ -5977,7 +5921,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DIOGO DOMINGUES ROCHA",
+        "Column1": "DIOGO DOMINGUES ROCHA ",
         "Column2": 109343138,
         "Column3": 6,
         "Column4": "SP",
@@ -5991,7 +5935,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DIOGO MACEDO SANTOS",
+        "Column1": "DIOGO MACEDO SANTOS ",
         "Column2": 112483328,
         "Column3": 6,
         "Column4": "SP",
@@ -6005,7 +5949,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DIOGO ROSARIO DA COSTA",
+        "Column1": "DIOGO ROSARIO DA COSTA ",
         "Column2": 112838527,
         "Column3": 2,
         "Column4": "SP",
@@ -6019,7 +5963,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DIÊGO FERREIRA DOS SANTOS",
+        "Column1": "DIÊGO FERREIRA DOS SANTOS ",
         "Column2": 111549495,
         "Column3": 8,
         "Column4": "SP",
@@ -6033,7 +5977,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DOMINIK OLIVEIRA ROCHA",
+        "Column1": "DOMINIK OLIVEIRA ROCHA ",
         "Column2": 112480770,
         "Column3": 6,
         "Column4": "SP",
@@ -6047,7 +5991,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DÉBORA BATISTA DOS SANTOS",
+        "Column1": "DÉBORA BATISTA DOS SANTOS ",
         "Column2": 109486659,
         "Column3": 3,
         "Column4": "SP",
@@ -6061,7 +6005,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DÉBORA BATISTA DOS SANTOS",
+        "Column1": "DÉBORA BATISTA DOS SANTOS ",
         "Column2": 109486659,
         "Column3": 3,
         "Column4": "SP",
@@ -6075,7 +6019,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DÉBORA BATISTA DOS SANTOS",
+        "Column1": "DÉBORA BATISTA DOS SANTOS ",
         "Column2": 109486659,
         "Column3": 3,
         "Column4": "SP",
@@ -6089,7 +6033,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DÉBORA BATISTA DOS SANTOS",
+        "Column1": "DÉBORA BATISTA DOS SANTOS ",
         "Column2": 109486659,
         "Column3": 3,
         "Column4": "SP",
@@ -6103,7 +6047,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DÉBORA JUSTINO DA SILVA",
+        "Column1": "DÉBORA JUSTINO DA SILVA ",
         "Column2": 114188900,
         "Column3": 6,
         "Column4": "SP",
@@ -6117,7 +6061,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DÉBORA OLIVEIRA ALEXANDRE DIAS",
+        "Column1": "DÉBORA OLIVEIRA ALEXANDRE DIAS ",
         "Column2": 109308113,
         "Column3": 2,
         "Column4": "SP",
@@ -6131,7 +6075,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DÉBORA PEREIRA DA SILVA",
+        "Column1": "DÉBORA PEREIRA DA SILVA ",
         "Column2": 108221954,
         "Column3": "X",
         "Column4": "SP",
@@ -6145,7 +6089,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DÉBORA SANTOS SANTANA",
+        "Column1": "DÉBORA SANTOS SANTANA ",
         "Column2": 111662665,
         "Column3": 2,
         "Column4": "SP",
@@ -6159,7 +6103,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DÉBORA SANTOS SANTANA",
+        "Column1": "DÉBORA SANTOS SANTANA ",
         "Column2": 111662665,
         "Column3": 2,
         "Column4": "SP",
@@ -6173,7 +6117,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DÉBORA VICENTE MOREIRA",
+        "Column1": "DÉBORA VICENTE MOREIRA ",
         "Column2": 108342476,
         "Column3": 2,
         "Column4": "SP",
@@ -6187,7 +6131,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "DÉBORA VICENTE MOREIRA",
+        "Column1": "DÉBORA VICENTE MOREIRA ",
         "Column2": 108342476,
         "Column3": 2,
         "Column4": "SP",
@@ -6201,7 +6145,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EDMILSON LEITE FARIA",
+        "Column1": "EDMILSON LEITE FARIA ",
         "Column2": 109309954,
         "Column3": 9,
         "Column4": "SP",
@@ -6215,7 +6159,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EDMILSON LEITE FARIA",
+        "Column1": "EDMILSON LEITE FARIA ",
         "Column2": 109309954,
         "Column3": 9,
         "Column4": "SP",
@@ -6229,7 +6173,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EDMILSON SANTOS DE LIMA",
+        "Column1": "EDMILSON SANTOS DE LIMA ",
         "Column2": 109309548,
         "Column3": 9,
         "Column4": "SP",
@@ -6243,7 +6187,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EDMILSON SANTOS DE LIMA",
+        "Column1": "EDMILSON SANTOS DE LIMA ",
         "Column2": 109309548,
         "Column3": 9,
         "Column4": "SP",
@@ -6257,7 +6201,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EDMILSON SANTOS DE LIMA",
+        "Column1": "EDMILSON SANTOS DE LIMA ",
         "Column2": 109309548,
         "Column3": 9,
         "Column4": "SP",
@@ -6271,7 +6215,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EDMILSON SANTOS DE LIMA",
+        "Column1": "EDMILSON SANTOS DE LIMA ",
         "Column2": 109309548,
         "Column3": 9,
         "Column4": "SP",
@@ -6285,7 +6229,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EDUARDA ARAUJO LOPES",
+        "Column1": "EDUARDA ARAUJO LOPES ",
         "Column2": 109487235,
         "Column3": 0,
         "Column4": "SP",
@@ -6299,7 +6243,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EDUARDA CARNEIRO DA SILVA",
+        "Column1": "EDUARDA CARNEIRO DA SILVA ",
         "Column2": 109308367,
         "Column3": 0,
         "Column4": "SP",
@@ -6313,7 +6257,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EDUARDA CARNEIRO DA SILVA",
+        "Column1": "EDUARDA CARNEIRO DA SILVA ",
         "Column2": 109308367,
         "Column3": 0,
         "Column4": "SP",
@@ -6327,7 +6271,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EDUARDA CRISTINA SANTOS DA COSTA",
+        "Column1": "EDUARDA CRISTINA SANTOS DA COSTA ",
         "Column2": 111314569,
         "Column3": 9,
         "Column4": "SP",
@@ -6341,7 +6285,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EDUARDA DE OLIVEIRA SOUZA",
+        "Column1": "EDUARDA DE OLIVEIRA SOUZA ",
         "Column2": 113541046,
         "Column3": "X",
         "Column4": "SP",
@@ -6355,7 +6299,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EDUARDA DOS SANTOS VIEIRA",
+        "Column1": "EDUARDA DOS SANTOS VIEIRA ",
         "Column2": 111818078,
         "Column3": 1,
         "Column4": "SP",
@@ -6369,7 +6313,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EDUARDO DA CRUZ MOURA",
+        "Column1": "EDUARDO DA CRUZ MOURA ",
         "Column2": 112483271,
         "Column3": 3,
         "Column4": "SP",
@@ -6383,7 +6327,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EDUARDO DE CASTRO PADILHA",
+        "Column1": "EDUARDO DE CASTRO PADILHA ",
         "Column2": 111815034,
         "Column3": "X",
         "Column4": "SP",
@@ -6397,7 +6341,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EDUARDO DOS SANTOS GUIMARÃES",
+        "Column1": "EDUARDO DOS SANTOS GUIMARÃES ",
         "Column2": 111772991,
         "Column3": 6,
         "Column4": "SP",
@@ -6411,7 +6355,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EDUARDO GOMES DA SILVA",
+        "Column1": "EDUARDO GOMES DA SILVA ",
         "Column2": 109309796,
         "Column3": 6,
         "Column4": "SP",
@@ -6425,7 +6369,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EDUARDO GOMES DA SILVA",
+        "Column1": "EDUARDO GOMES DA SILVA ",
         "Column2": 109309796,
         "Column3": 6,
         "Column4": "SP",
@@ -6439,7 +6383,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EDUARDO GOMES DA SILVA",
+        "Column1": "EDUARDO GOMES DA SILVA ",
         "Column2": 109309796,
         "Column3": 6,
         "Column4": "SP",
@@ -6453,7 +6397,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EDUARDO GOMES DA SILVA",
+        "Column1": "EDUARDO GOMES DA SILVA ",
         "Column2": 109309796,
         "Column3": 6,
         "Column4": "SP",
@@ -6467,7 +6411,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EDUARDO MIGUEL GONÇALVES DA SILVA",
+        "Column1": "EDUARDO MIGUEL GONÇALVES DA SILVA ",
         "Column2": 111887609,
         "Column3": "X",
         "Column4": "SP",
@@ -6481,7 +6425,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EDUARDO NATAN BATISTA AGUILAR CARDOSO",
+        "Column1": "EDUARDO NATAN BATISTA AGUILAR CARDOSO ",
         "Column2": 109334958,
         "Column3": "X",
         "Column4": "SP",
@@ -6495,7 +6439,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EDUARDO NATAN BATISTA AGUILAR CARDOSO",
+        "Column1": "EDUARDO NATAN BATISTA AGUILAR CARDOSO ",
         "Column2": 109334958,
         "Column3": "X",
         "Column4": "SP",
@@ -6509,7 +6453,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EDUARDO NATAN BATISTA AGUILAR CARDOSO",
+        "Column1": "EDUARDO NATAN BATISTA AGUILAR CARDOSO ",
         "Column2": 109334958,
         "Column3": "X",
         "Column4": "SP",
@@ -6523,7 +6467,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EDUARDO NATAN BATISTA AGUILAR CARDOSO",
+        "Column1": "EDUARDO NATAN BATISTA AGUILAR CARDOSO ",
         "Column2": 109334958,
         "Column3": "X",
         "Column4": "SP",
@@ -6537,7 +6481,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EDUARDO PEREIRA DOS SANTOS",
+        "Column1": "EDUARDO PEREIRA DOS SANTOS ",
         "Column2": 110385176,
         "Column3": 7,
         "Column4": "SP",
@@ -6551,7 +6495,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EDUARDO RAMOS DA SILVA",
+        "Column1": "EDUARDO RAMOS DA SILVA ",
         "Column2": 108328418,
         "Column3": 6,
         "Column4": "SP",
@@ -6565,7 +6509,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EDUARDO SANTANA DOS SANTOS",
+        "Column1": "EDUARDO SANTANA DOS SANTOS ",
         "Column2": 111730172,
         "Column3": 2,
         "Column4": "SP",
@@ -6579,7 +6523,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EDUARDO SANTANA DOS SANTOS",
+        "Column1": "EDUARDO SANTANA DOS SANTOS ",
         "Column2": 111730172,
         "Column3": 2,
         "Column4": "SP",
@@ -6593,7 +6537,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EDUARDO SANTANA DOS SANTOS",
+        "Column1": "EDUARDO SANTANA DOS SANTOS ",
         "Column2": 111730172,
         "Column3": 2,
         "Column4": "SP",
@@ -6607,7 +6551,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EDUARDO SOUZA DE JESUS",
+        "Column1": "EDUARDO SOUZA DE JESUS ",
         "Column2": 109309024,
         "Column3": 8,
         "Column4": "SP",
@@ -6621,7 +6565,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EDUARDO SOUZA DE JESUS",
+        "Column1": "EDUARDO SOUZA DE JESUS ",
         "Column2": 109309024,
         "Column3": 8,
         "Column4": "SP",
@@ -6635,7 +6579,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EDUARDO SOUZA DE JESUS",
+        "Column1": "EDUARDO SOUZA DE JESUS ",
         "Column2": 109309024,
         "Column3": 8,
         "Column4": "SP",
@@ -6649,7 +6593,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EDUARDO SOUZA DE JESUS",
+        "Column1": "EDUARDO SOUZA DE JESUS ",
         "Column2": 109309024,
         "Column3": 8,
         "Column4": "SP",
@@ -6663,7 +6607,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ELAINE MESQUITA FERREIRA",
+        "Column1": "ELAINE MESQUITA FERREIRA ",
         "Column2": 123286791,
         "Column3": 3,
         "Column4": "SP",
@@ -6677,7 +6621,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ELAINE MESQUITA FERREIRA",
+        "Column1": "ELAINE MESQUITA FERREIRA ",
         "Column2": 123286791,
         "Column3": 3,
         "Column4": "SP",
@@ -6691,7 +6635,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ELIAS ALVES LAURENTINO MARTINS",
+        "Column1": "ELIAS ALVES LAURENTINO MARTINS ",
         "Column2": 109432904,
         "Column3": 6,
         "Column4": "SP",
@@ -6705,7 +6649,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ELIAS ALVES LAURENTINO MARTINS",
+        "Column1": "ELIAS ALVES LAURENTINO MARTINS ",
         "Column2": 109432904,
         "Column3": 6,
         "Column4": "SP",
@@ -6719,7 +6663,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ELIAS ALVES LAURENTINO MARTINS",
+        "Column1": "ELIAS ALVES LAURENTINO MARTINS ",
         "Column2": 109432904,
         "Column3": 6,
         "Column4": "SP",
@@ -6733,7 +6677,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ELIAS ALVES LAURENTINO MARTINS",
+        "Column1": "ELIAS ALVES LAURENTINO MARTINS ",
         "Column2": 109432904,
         "Column3": 6,
         "Column4": "SP",
@@ -6747,7 +6691,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ELIAS DIEGO ROSARIO DA COSTA",
+        "Column1": "ELIAS DIEGO ROSARIO DA COSTA ",
         "Column2": 110463889,
         "Column3": 7,
         "Column4": "SP",
@@ -6761,7 +6705,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ELIAS DIEGO ROSARIO DA COSTA",
+        "Column1": "ELIAS DIEGO ROSARIO DA COSTA ",
         "Column2": 110463889,
         "Column3": 7,
         "Column4": "SP",
@@ -6775,7 +6719,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ELIELSON QUEIROZ DA SILVA",
+        "Column1": "ELIELSON QUEIROZ DA SILVA ",
         "Column2": 111328470,
         "Column3": 5,
         "Column4": "SP",
@@ -6789,7 +6733,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ELIELSON QUEIROZ DA SILVA",
+        "Column1": "ELIELSON QUEIROZ DA SILVA ",
         "Column2": 111328470,
         "Column3": 5,
         "Column4": "SP",
@@ -6803,7 +6747,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ELIELSON QUEIROZ DA SILVA",
+        "Column1": "ELIELSON QUEIROZ DA SILVA ",
         "Column2": 111328470,
         "Column3": 5,
         "Column4": "SP",
@@ -6817,7 +6761,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ELIELSON QUEIROZ DA SILVA",
+        "Column1": "ELIELSON QUEIROZ DA SILVA ",
         "Column2": 111328470,
         "Column3": 5,
         "Column4": "SP",
@@ -6831,7 +6775,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ELISEU DE AMORIM REIS",
+        "Column1": "ELISEU DE AMORIM REIS ",
         "Column2": 111781391,
         "Column3": 5,
         "Column4": "SP",
@@ -6845,7 +6789,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ELIVELTON FARIAS SANTOS",
+        "Column1": "ELIVELTON FARIAS SANTOS ",
         "Column2": 108320604,
         "Column3": 7,
         "Column4": "SP",
@@ -6859,7 +6803,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ELIVELTON FARIAS SANTOS",
+        "Column1": "ELIVELTON FARIAS SANTOS ",
         "Column2": 108320604,
         "Column3": 7,
         "Column4": "SP",
@@ -6873,7 +6817,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ELIVELTON FARIAS SANTOS",
+        "Column1": "ELIVELTON FARIAS SANTOS ",
         "Column2": 108320604,
         "Column3": 7,
         "Column4": "SP",
@@ -6887,7 +6831,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ELIVELTON FARIAS SANTOS",
+        "Column1": "ELIVELTON FARIAS SANTOS ",
         "Column2": 108320604,
         "Column3": 7,
         "Column4": "SP",
@@ -6901,7 +6845,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ELLEN CHRISTINE CORDEIRO SILVA",
+        "Column1": "ELLEN CHRISTINE CORDEIRO SILVA ",
         "Column2": 110394083,
         "Column3": 1,
         "Column4": "SP",
@@ -6915,7 +6859,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ELLEN SERAFIM FEIJÓ DOS SANTOS",
+        "Column1": "ELLEN SERAFIM FEIJÓ DOS SANTOS ",
         "Column2": 109308376,
         "Column3": 1,
         "Column4": "SP",
@@ -6929,7 +6873,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ELLEN SERAFIM FEIJÓ DOS SANTOS",
+        "Column1": "ELLEN SERAFIM FEIJÓ DOS SANTOS ",
         "Column2": 109308376,
         "Column3": 1,
         "Column4": "SP",
@@ -6943,7 +6887,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ELLEN SERAFIM FEIJÓ DOS SANTOS",
+        "Column1": "ELLEN SERAFIM FEIJÓ DOS SANTOS ",
         "Column2": 109308376,
         "Column3": 1,
         "Column4": "SP",
@@ -6957,7 +6901,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ELLEN SERAFIM FEIJÓ DOS SANTOS",
+        "Column1": "ELLEN SERAFIM FEIJÓ DOS SANTOS ",
         "Column2": 109308376,
         "Column3": 1,
         "Column4": "SP",
@@ -6971,7 +6915,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ELLEN VICTÓRIA DA PAZ SOUSA",
+        "Column1": "ELLEN VICTÓRIA DA PAZ SOUSA ",
         "Column2": 114455892,
         "Column3": "X",
         "Column4": "SP",
@@ -6985,7 +6929,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ELOISA BITTENCOURT DOS SANTOS",
+        "Column1": "ELOISA BITTENCOURT DOS SANTOS ",
         "Column2": 112306754,
         "Column3": 5,
         "Column4": "SP",
@@ -6999,7 +6943,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ELOIZA HOFFMANN DOS SANTOS",
+        "Column1": "ELOIZA HOFFMANN DOS SANTOS ",
         "Column2": 115629328,
         "Column3": 5,
         "Column4": "SP",
@@ -7013,7 +6957,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EMANUEL NEVES ALMEIDA",
+        "Column1": "EMANUEL NEVES ALMEIDA ",
         "Column2": 105123626,
         "Column3": 5,
         "Column4": "SP",
@@ -7027,7 +6971,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EMANUEL NEVES ALMEIDA",
+        "Column1": "EMANUEL NEVES ALMEIDA ",
         "Column2": 105123626,
         "Column3": 5,
         "Column4": "SP",
@@ -7041,7 +6985,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EMANUEL NEVES ALMEIDA",
+        "Column1": "EMANUEL NEVES ALMEIDA ",
         "Column2": 105123626,
         "Column3": 5,
         "Column4": "SP",
@@ -7055,7 +6999,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EMANUEL NEVES ALMEIDA",
+        "Column1": "EMANUEL NEVES ALMEIDA ",
         "Column2": 105123626,
         "Column3": 5,
         "Column4": "SP",
@@ -7069,7 +7013,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EMANUELLE ANDRÉ DE LIMA",
+        "Column1": "EMANUELLE ANDRÉ DE LIMA ",
         "Column2": 109470315,
         "Column3": 1,
         "Column4": "SP",
@@ -7083,7 +7027,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EMANUELLY VITORIA LIMA CUSTÓDIO",
+        "Column1": "EMANUELLY VITORIA LIMA CUSTÓDIO ",
         "Column2": 111792988,
         "Column3": 7,
         "Column4": "SP",
@@ -7097,7 +7041,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EMANUWEL SILVA AGUIAR",
+        "Column1": "EMANUWEL SILVA AGUIAR ",
         "Column2": 122735076,
         "Column3": 4,
         "Column4": "SP",
@@ -7111,7 +7055,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EMELLY DE ALMEIDA RIOS",
+        "Column1": "EMELLY DE ALMEIDA RIOS ",
         "Column2": 111776906,
         "Column3": 9,
         "Column4": "SP",
@@ -7125,7 +7069,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EMERSON LAUREANO VIEIRA DA SILVA",
+        "Column1": "EMERSON LAUREANO VIEIRA DA SILVA ",
         "Column2": 109425397,
         "Column3": 2,
         "Column4": "SP",
@@ -7139,7 +7083,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EMILLY DOS SANTOS LIMA",
+        "Column1": "EMILLY DOS SANTOS LIMA ",
         "Column2": 111846250,
         "Column3": 6,
         "Column4": "SP",
@@ -7153,7 +7097,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EMILLY GOMES DOS REIS",
+        "Column1": "EMILLY GOMES DOS REIS ",
         "Column2": 110662272,
         "Column3": 8,
         "Column4": "SP",
@@ -7167,7 +7111,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EMILLY LIMA CUSTODIO",
+        "Column1": "EMILLY LIMA CUSTODIO ",
         "Column2": 109471440,
         "Column3": 9,
         "Column4": "SP",
@@ -7181,7 +7125,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EMILLY MAIA DA SILVA",
+        "Column1": "EMILLY MAIA DA SILVA ",
         "Column2": 109308297,
         "Column3": 5,
         "Column4": "SP",
@@ -7195,7 +7139,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EMILLY RODRIGUES ELIAS",
+        "Column1": "EMILLY RODRIGUES ELIAS ",
         "Column2": 107295634,
         "Column3": 2,
         "Column4": "SP",
@@ -7209,7 +7153,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EMILLY RODRIGUES ELIAS",
+        "Column1": "EMILLY RODRIGUES ELIAS ",
         "Column2": 107295634,
         "Column3": 2,
         "Column4": "SP",
@@ -7223,7 +7167,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EMILLY RODRIGUES ELIAS",
+        "Column1": "EMILLY RODRIGUES ELIAS ",
         "Column2": 107295634,
         "Column3": 2,
         "Column4": "SP",
@@ -7237,7 +7181,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EMILLY RODRIGUES ELIAS",
+        "Column1": "EMILLY RODRIGUES ELIAS ",
         "Column2": 107295634,
         "Column3": 2,
         "Column4": "SP",
@@ -7251,7 +7195,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EMILLY VITORIA DE SANTANA",
+        "Column1": "EMILLY VITORIA DE SANTANA ",
         "Column2": 111730001,
         "Column3": 8,
         "Column4": "SP",
@@ -7265,7 +7209,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EMILLY VITORIA ROSA DA SILVA",
+        "Column1": "EMILLY VITORIA ROSA DA SILVA ",
         "Column2": 111791816,
         "Column3": 6,
         "Column4": "SP",
@@ -7279,7 +7223,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EMILLY VITÓRIA CONCEIÇÃO REIMBERG",
+        "Column1": "EMILLY VITÓRIA CONCEIÇÃO REIMBERG ",
         "Column2": 113531893,
         "Column3": 1,
         "Column4": "SP",
@@ -7293,7 +7237,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EMILLY VITÓRIA DOS SANTOS ARAUJO",
+        "Column1": "EMILLY VITÓRIA DOS SANTOS ARAUJO ",
         "Column2": 110389799,
         "Column3": 8,
         "Column4": "SP",
@@ -7307,7 +7251,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EMILLY VITÓRIA GODOIS PEREIRA",
+        "Column1": "EMILLY VITÓRIA GODOIS PEREIRA ",
         "Column2": 109343386,
         "Column3": 3,
         "Column4": "SP",
@@ -7321,7 +7265,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EMILY RODRIGUES PRUDENCIO",
+        "Column1": "EMILY RODRIGUES PRUDENCIO ",
         "Column2": 108342481,
         "Column3": 6,
         "Column4": "SP",
@@ -7335,7 +7279,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EMILY RODRIGUES PRUDENCIO",
+        "Column1": "EMILY RODRIGUES PRUDENCIO ",
         "Column2": 108342481,
         "Column3": 6,
         "Column4": "SP",
@@ -7349,7 +7293,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EMILY VITORIA PEREIRA SANTOS",
+        "Column1": "EMILY VITORIA PEREIRA SANTOS ",
         "Column2": 109471449,
         "Column3": 5,
         "Column4": "SP",
@@ -7363,7 +7307,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EMILY VITORIA PEREIRA SANTOS",
+        "Column1": "EMILY VITORIA PEREIRA SANTOS ",
         "Column2": 109471449,
         "Column3": 5,
         "Column4": "SP",
@@ -7377,7 +7321,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EMILY VITORIA PEREIRA SANTOS",
+        "Column1": "EMILY VITORIA PEREIRA SANTOS ",
         "Column2": 109471449,
         "Column3": 5,
         "Column4": "SP",
@@ -7391,7 +7335,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EMILY VITORIA PEREIRA SANTOS",
+        "Column1": "EMILY VITORIA PEREIRA SANTOS ",
         "Column2": 109471449,
         "Column3": 5,
         "Column4": "SP",
@@ -7405,7 +7349,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ENZO DA SILVA ADÃO",
+        "Column1": "ENZO DA SILVA ADÃO ",
         "Column2": 121092493,
         "Column3": 6,
         "Column4": "SP",
@@ -7419,7 +7363,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ERIC GABRIEL CORREIA DE BARROS",
+        "Column1": "ERIC GABRIEL CORREIA DE BARROS ",
         "Column2": 111772955,
         "Column3": 2,
         "Column4": "SP",
@@ -7433,7 +7377,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ERIC MACHADO DA SILVA",
+        "Column1": "ERIC MACHADO DA SILVA ",
         "Column2": 112569252,
         "Column3": 2,
         "Column4": "SP",
@@ -7447,7 +7391,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ERIC PEREIRA SANTOS",
+        "Column1": "ERIC PEREIRA SANTOS ",
         "Column2": 111873955,
         "Column3": 3,
         "Column4": "SP",
@@ -7461,7 +7405,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ERICA DA SILVA FERNANDES",
+        "Column1": "ERICA DA SILVA FERNANDES ",
         "Column2": 109342916,
         "Column3": 1,
         "Column4": "SP",
@@ -7475,7 +7419,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ERICA DA SILVA FERNANDES",
+        "Column1": "ERICA DA SILVA FERNANDES ",
         "Column2": 109342916,
         "Column3": 1,
         "Column4": "SP",
@@ -7489,7 +7433,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ERICK DA SILVA SOUZA",
+        "Column1": "ERICK DA SILVA SOUZA ",
         "Column2": 112584672,
         "Column3": 0,
         "Column4": "SP",
@@ -7503,7 +7447,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ERICK DA SILVA SOUZA",
+        "Column1": "ERICK DA SILVA SOUZA ",
         "Column2": 112584672,
         "Column3": 0,
         "Column4": "SP",
@@ -7517,7 +7461,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ERICK DOS SANTOS RODRIGUES",
+        "Column1": "ERICK DOS SANTOS RODRIGUES ",
         "Column2": 111788496,
         "Column3": "X",
         "Column4": "SP",
@@ -7531,7 +7475,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ERICK LERRANDRE DA SILVA CAMARGO",
+        "Column1": "ERICK LERRANDRE DA SILVA CAMARGO ",
         "Column2": 109429784,
         "Column3": 7,
         "Column4": "SP",
@@ -7545,7 +7489,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ERICK NERI SANTOS",
+        "Column1": "ERICK NERI SANTOS ",
         "Column2": 111739985,
         "Column3": 0,
         "Column4": "SP",
@@ -7559,7 +7503,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ERICK RODRIGUES AMARAL",
+        "Column1": "ERICK RODRIGUES AMARAL ",
         "Column2": 109471470,
         "Column3": 7,
         "Column4": "SP",
@@ -7573,7 +7517,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ERIK GABRIEL CLEMENTE DA SILVA",
+        "Column1": "ERIK GABRIEL CLEMENTE DA SILVA ",
         "Column2": 109469005,
         "Column3": 3,
         "Column4": "SP",
@@ -7587,7 +7531,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ESTER CRISTINA DOS SANTOS NASCIMENTO",
+        "Column1": "ESTER CRISTINA DOS SANTOS NASCIMENTO ",
         "Column2": 108359050,
         "Column3": 9,
         "Column4": "SP",
@@ -7601,7 +7545,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ESTER CRISTINA DOS SANTOS NASCIMENTO",
+        "Column1": "ESTER CRISTINA DOS SANTOS NASCIMENTO ",
         "Column2": 108359050,
         "Column3": 9,
         "Column4": "SP",
@@ -7615,7 +7559,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ESTER CRISTINA DOS SANTOS NASCIMENTO",
+        "Column1": "ESTER CRISTINA DOS SANTOS NASCIMENTO ",
         "Column2": 108359050,
         "Column3": 9,
         "Column4": "SP",
@@ -7629,7 +7573,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ESTER CRISTINA DOS SANTOS NASCIMENTO",
+        "Column1": "ESTER CRISTINA DOS SANTOS NASCIMENTO ",
         "Column2": 108359050,
         "Column3": 9,
         "Column4": "SP",
@@ -7643,7 +7587,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ESTHELA CARVALHO DOS SANTOS",
+        "Column1": "ESTHELA CARVALHO DOS SANTOS ",
         "Column2": 110384991,
         "Column3": 8,
         "Column4": "SP",
@@ -7657,7 +7601,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ESTHER FAGUNDES GONÇALVES",
+        "Column1": "ESTHER FAGUNDES GONÇALVES ",
         "Column2": 111845539,
         "Column3": 3,
         "Column4": "SP",
@@ -7671,7 +7615,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EVELIN GONÇALVES SANTANA",
+        "Column1": "EVELIN GONÇALVES SANTANA ",
         "Column2": 112034095,
         "Column3": 0,
         "Column4": "SP",
@@ -7685,7 +7629,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EVELLYN CRISTINA OLIVEIRA DA SILVA",
+        "Column1": "EVELLYN CRISTINA OLIVEIRA DA SILVA ",
         "Column2": 109343180,
         "Column3": 5,
         "Column4": "SP",
@@ -7699,7 +7643,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EVELLYN CRISTINY FERREIRA DE LIRA",
+        "Column1": "EVELLYN CRISTINY FERREIRA DE LIRA ",
         "Column2": 109307781,
         "Column3": 5,
         "Column4": "SP",
@@ -7713,7 +7657,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EVELLYN OLIVEIRA DE JESUS",
+        "Column1": "EVELLYN OLIVEIRA DE JESUS ",
         "Column2": 108311286,
         "Column3": 7,
         "Column4": "SP",
@@ -7727,7 +7671,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EVELLYN RAMOS FERNANDES",
+        "Column1": "EVELLYN RAMOS FERNANDES ",
         "Column2": 108359120,
         "Column3": 4,
         "Column4": "SP",
@@ -7741,7 +7685,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EVELYN CAVALCANTI DA SILVA",
+        "Column1": "EVELYN CAVALCANTI DA SILVA ",
         "Column2": 109416213,
         "Column3": 9,
         "Column4": "SP",
@@ -7755,7 +7699,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EVELYN CAVALCANTI DA SILVA",
+        "Column1": "EVELYN CAVALCANTI DA SILVA ",
         "Column2": 109416213,
         "Column3": 9,
         "Column4": "SP",
@@ -7769,7 +7713,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EVELYN DA PAZ SILVA",
+        "Column1": "EVELYN DA PAZ SILVA ",
         "Column2": 114610959,
         "Column3": 3,
         "Column4": "SP",
@@ -7783,7 +7727,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EVELYN DA SILVA",
+        "Column1": "EVELYN DA SILVA ",
         "Column2": 113988176,
         "Column3": 0,
         "Column4": "SP",
@@ -7797,7 +7741,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EVELYN DA SILVA",
+        "Column1": "EVELYN DA SILVA ",
         "Column2": 113988176,
         "Column3": 0,
         "Column4": "SP",
@@ -7811,7 +7755,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EVELYN GOMES DE CAMPOS",
+        "Column1": "EVELYN GOMES DE CAMPOS ",
         "Column2": 109308384,
         "Column3": 0,
         "Column4": "SP",
@@ -7825,7 +7769,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EVELYN GOMES DE CAMPOS",
+        "Column1": "EVELYN GOMES DE CAMPOS ",
         "Column2": 109308384,
         "Column3": 0,
         "Column4": "SP",
@@ -7839,7 +7783,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EVERSON OLIVEIRA DA SILVA",
+        "Column1": "EVERSON OLIVEIRA DA SILVA ",
         "Column2": 113515161,
         "Column3": 1,
         "Column4": "SP",
@@ -7853,7 +7797,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EVERTON PEDRO DA SILVA",
+        "Column1": "EVERTON PEDRO DA SILVA ",
         "Column2": 111873960,
         "Column3": 7,
         "Column4": "SP",
@@ -7867,7 +7811,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EVERTON SANTIAGO DA SILVA",
+        "Column1": "EVERTON SANTIAGO DA SILVA ",
         "Column2": 107266910,
         "Column3": 9,
         "Column4": "SP",
@@ -7881,7 +7825,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EVERTON SANTIAGO DA SILVA",
+        "Column1": "EVERTON SANTIAGO DA SILVA ",
         "Column2": 107266910,
         "Column3": 9,
         "Column4": "SP",
@@ -7895,7 +7839,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EVERTON SOARES ALVES DO NASCIMENTO",
+        "Column1": "EVERTON SOARES ALVES DO NASCIMENTO ",
         "Column2": 111841140,
         "Column3": 7,
         "Column4": "SP",
@@ -7909,7 +7853,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EVONIELE DE OLIVEIRA SILVA",
+        "Column1": "EVONIELE DE OLIVEIRA SILVA ",
         "Column2": 120249162,
         "Column3": 5,
         "Column4": "SP",
@@ -7923,7 +7867,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EVONIELE DE OLIVEIRA SILVA",
+        "Column1": "EVONIELE DE OLIVEIRA SILVA ",
         "Column2": 120249162,
         "Column3": 5,
         "Column4": "SP",
@@ -7937,7 +7881,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EVONIELE DE OLIVEIRA SILVA",
+        "Column1": "EVONIELE DE OLIVEIRA SILVA ",
         "Column2": 120249162,
         "Column3": 5,
         "Column4": "SP",
@@ -7951,7 +7895,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EVONIELE DE OLIVEIRA SILVA",
+        "Column1": "EVONIELE DE OLIVEIRA SILVA ",
         "Column2": 120249162,
         "Column3": 5,
         "Column4": "SP",
@@ -7965,7 +7909,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "EWERTON VINICIUS DOS SANTOS SILVA",
+        "Column1": "EWERTON VINICIUS DOS SANTOS SILVA ",
         "Column2": 111773043,
         "Column3": 8,
         "Column4": "SP",
@@ -7979,7 +7923,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FABIANE MARIA DA SILVA",
+        "Column1": "FABIANE MARIA DA SILVA ",
         "Column2": 109342651,
         "Column3": 2,
         "Column4": "SP",
@@ -7993,7 +7937,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FABIANE MARIA DA SILVA",
+        "Column1": "FABIANE MARIA DA SILVA ",
         "Column2": 109342651,
         "Column3": 2,
         "Column4": "SP",
@@ -8007,7 +7951,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FABIANNE RODRIGUES MORAIS",
+        "Column1": "FABIANNE RODRIGUES MORAIS ",
         "Column2": 113284685,
         "Column3": 7,
         "Column4": "SP",
@@ -8021,7 +7965,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FABIO GALDINO DA SILVA",
+        "Column1": "FABIO GALDINO DA SILVA ",
         "Column2": 109309814,
         "Column3": 4,
         "Column4": "SP",
@@ -8035,7 +7979,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FABIO GALDINO DA SILVA",
+        "Column1": "FABIO GALDINO DA SILVA ",
         "Column2": 109309814,
         "Column3": 4,
         "Column4": "SP",
@@ -8049,7 +7993,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FABIO HENRIQUE ALVES DE ALBUQUERQUE",
+        "Column1": "FABIO HENRIQUE ALVES DE ALBUQUERQUE ",
         "Column2": 109309045,
         "Column3": 5,
         "Column4": "SP",
@@ -8063,7 +8007,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FABIO HENRIQUE ALVES DE ALBUQUERQUE",
+        "Column1": "FABIO HENRIQUE ALVES DE ALBUQUERQUE ",
         "Column2": 109309045,
         "Column3": 5,
         "Column4": "SP",
@@ -8077,7 +8021,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FABIO HENRIQUE ALVES DE ALBUQUERQUE",
+        "Column1": "FABIO HENRIQUE ALVES DE ALBUQUERQUE ",
         "Column2": 109309045,
         "Column3": 5,
         "Column4": "SP",
@@ -8091,7 +8035,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FABIO HENRIQUE ALVES DE ALBUQUERQUE",
+        "Column1": "FABIO HENRIQUE ALVES DE ALBUQUERQUE ",
         "Column2": 109309045,
         "Column3": 5,
         "Column4": "SP",
@@ -8105,7 +8049,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FABIOLA DE JESUS DOS SANTOS",
+        "Column1": "FABIOLA DE JESUS DOS SANTOS ",
         "Column2": 111846222,
         "Column3": 1,
         "Column4": "SP",
@@ -8119,7 +8063,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FABIOLA DE JESUS DOS SANTOS",
+        "Column1": "FABIOLA DE JESUS DOS SANTOS ",
         "Column2": 111846222,
         "Column3": 1,
         "Column4": "SP",
@@ -8133,7 +8077,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FABRICIO DE LIMA FRANCISCO",
+        "Column1": "FABRICIO DE LIMA FRANCISCO ",
         "Column2": 111322629,
         "Column3": 8,
         "Column4": "SP",
@@ -8147,7 +8091,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FABRICIO DO NASCIMENTO RODRIGUES",
+        "Column1": "FABRICIO DO NASCIMENTO RODRIGUES ",
         "Column2": 109309262,
         "Column3": 2,
         "Column4": "SP",
@@ -8161,7 +8105,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FABRICIO DOS SANTOS RODRIGUES",
+        "Column1": "FABRICIO DOS SANTOS RODRIGUES ",
         "Column2": 105748819,
         "Column3": 7,
         "Column4": "SP",
@@ -8175,7 +8119,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FABRICIO SANTOS ARAUJO",
+        "Column1": "FABRICIO SANTOS ARAUJO ",
         "Column2": 109487185,
         "Column3": 0,
         "Column4": "SP",
@@ -8189,7 +8133,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FABRICIO SANTOS ARAUJO",
+        "Column1": "FABRICIO SANTOS ARAUJO ",
         "Column2": 109487185,
         "Column3": 0,
         "Column4": "SP",
@@ -8203,7 +8147,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FABRICIO SANTOS ARAUJO",
+        "Column1": "FABRICIO SANTOS ARAUJO ",
         "Column2": 109487185,
         "Column3": 0,
         "Column4": "SP",
@@ -8217,7 +8161,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FABRICIO SANTOS ARAUJO",
+        "Column1": "FABRICIO SANTOS ARAUJO ",
         "Column2": 109487185,
         "Column3": 0,
         "Column4": "SP",
@@ -8231,7 +8175,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FABRICIO SATURNINO SANTOS",
+        "Column1": "FABRICIO SATURNINO SANTOS ",
         "Column2": 110391027,
         "Column3": 9,
         "Column4": "SP",
@@ -8245,7 +8189,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FABRICIO SATURNINO SANTOS",
+        "Column1": "FABRICIO SATURNINO SANTOS ",
         "Column2": 110391027,
         "Column3": 9,
         "Column4": "SP",
@@ -8259,7 +8203,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FABRICIO SATURNINO SANTOS",
+        "Column1": "FABRICIO SATURNINO SANTOS ",
         "Column2": 110391027,
         "Column3": 9,
         "Column4": "SP",
@@ -8273,7 +8217,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FABRICIO SATURNINO SANTOS",
+        "Column1": "FABRICIO SATURNINO SANTOS ",
         "Column2": 110391027,
         "Column3": 9,
         "Column4": "SP",
@@ -8287,7 +8231,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FABRÍCIO GOMES BATISTA DOS SANTOS",
+        "Column1": "FABRÍCIO GOMES BATISTA DOS SANTOS ",
         "Column2": 112483831,
         "Column3": 4,
         "Column4": "SP",
@@ -8301,7 +8245,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FABRÍCIO MARQUES DE LIMA",
+        "Column1": "FABRÍCIO MARQUES DE LIMA ",
         "Column2": 104552177,
         "Column3": 2,
         "Column4": "SP",
@@ -8315,7 +8259,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FABRÍCIO MARQUES DE LIMA",
+        "Column1": "FABRÍCIO MARQUES DE LIMA ",
         "Column2": 104552177,
         "Column3": 2,
         "Column4": "SP",
@@ -8329,7 +8273,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FELIPE CIPRIANO DOS SANTOS",
+        "Column1": "FELIPE CIPRIANO DOS SANTOS ",
         "Column2": 113497049,
         "Column3": 3,
         "Column4": "SP",
@@ -8343,7 +8287,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FELIPE DE BRITO NASCIMENTO",
+        "Column1": "FELIPE DE BRITO NASCIMENTO ",
         "Column2": 111324986,
         "Column3": 9,
         "Column4": "SP",
@@ -8357,7 +8301,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FELIPE DUARTE DE SOUZA",
+        "Column1": "FELIPE DUARTE DE SOUZA ",
         "Column2": 111776996,
         "Column3": 3,
         "Column4": "SP",
@@ -8371,7 +8315,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FELIPE EDUARDO FERREIRA ALVES",
+        "Column1": "FELIPE EDUARDO FERREIRA ALVES ",
         "Column2": 113668372,
         "Column3": 0,
         "Column4": "SP",
@@ -8385,7 +8329,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FELIPE EDUARDO FERREIRA ALVES",
+        "Column1": "FELIPE EDUARDO FERREIRA ALVES ",
         "Column2": 113668372,
         "Column3": 0,
         "Column4": "SP",
@@ -8399,7 +8343,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FELIPE EDUARDO FERREIRA ALVES",
+        "Column1": "FELIPE EDUARDO FERREIRA ALVES ",
         "Column2": 113668372,
         "Column3": 0,
         "Column4": "SP",
@@ -8413,7 +8357,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FELIPE LOPES DA COSTA",
+        "Column1": "FELIPE LOPES DA COSTA ",
         "Column2": 113486636,
         "Column3": 7,
         "Column4": "SP",
@@ -8427,7 +8371,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FELIPE MENDES DE PAIVA",
+        "Column1": "FELIPE MENDES DE PAIVA ",
         "Column2": 111731634,
         "Column3": 8,
         "Column4": "SP",
@@ -8441,7 +8385,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FELIPE PINHEIRO DE ABREU SILVA",
+        "Column1": "FELIPE PINHEIRO DE ABREU SILVA ",
         "Column2": 109334967,
         "Column3": 0,
         "Column4": "SP",
@@ -8455,7 +8399,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FELIPE ROCHA ARAUJO",
+        "Column1": "FELIPE ROCHA ARAUJO ",
         "Column2": 109471791,
         "Column3": 5,
         "Column4": "SP",
@@ -8469,7 +8413,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FELIPE RODRIGUES DE ARAUJO",
+        "Column1": "FELIPE RODRIGUES DE ARAUJO ",
         "Column2": 107956273,
         "Column3": 4,
         "Column4": "SP",
@@ -8483,7 +8427,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FELIPE RODRIGUES DE ARAUJO",
+        "Column1": "FELIPE RODRIGUES DE ARAUJO ",
         "Column2": 107956273,
         "Column3": 4,
         "Column4": "SP",
@@ -8497,7 +8441,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FELIPE RODRIGUES DE ARAUJO",
+        "Column1": "FELIPE RODRIGUES DE ARAUJO ",
         "Column2": 107956273,
         "Column3": 4,
         "Column4": "SP",
@@ -8511,7 +8455,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FELIPE RODRIGUES DE ARAUJO",
+        "Column1": "FELIPE RODRIGUES DE ARAUJO ",
         "Column2": 107956273,
         "Column3": 4,
         "Column4": "SP",
@@ -8525,7 +8469,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FERNANDA AMARAL FRANCISCO",
+        "Column1": "FERNANDA AMARAL FRANCISCO ",
         "Column2": 111781386,
         "Column3": 1,
         "Column4": "SP",
@@ -8539,7 +8483,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FERNANDA BUCIOC DA COSTA",
+        "Column1": "FERNANDA BUCIOC DA COSTA ",
         "Column2": 109309056,
         "Column3": "X",
         "Column4": "SP",
@@ -8553,7 +8497,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FERNANDA BUCIOC DA COSTA",
+        "Column1": "FERNANDA BUCIOC DA COSTA ",
         "Column2": 109309056,
         "Column3": "X",
         "Column4": "SP",
@@ -8567,7 +8511,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FERNANDA BUCIOC DA COSTA",
+        "Column1": "FERNANDA BUCIOC DA COSTA ",
         "Column2": 109309056,
         "Column3": "X",
         "Column4": "SP",
@@ -8581,7 +8525,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FERNANDA BUCIOC DA COSTA",
+        "Column1": "FERNANDA BUCIOC DA COSTA ",
         "Column2": 109309056,
         "Column3": "X",
         "Column4": "SP",
@@ -8595,7 +8539,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FERNANDA DOS ANJOS RIBEIRO",
+        "Column1": "FERNANDA DOS ANJOS RIBEIRO ",
         "Column2": 112752483,
         "Column3": 5,
         "Column4": "SP",
@@ -8609,7 +8553,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FERNANDA SOUSA ARAUJO",
+        "Column1": "FERNANDA SOUSA ARAUJO ",
         "Column2": 109487239,
         "Column3": 8,
         "Column4": "SP",
@@ -8623,7 +8567,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FERNANDA SOUSA ARAUJO",
+        "Column1": "FERNANDA SOUSA ARAUJO ",
         "Column2": 109487239,
         "Column3": 8,
         "Column4": "SP",
@@ -8637,7 +8581,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FERNANDA SOUSA ARAUJO",
+        "Column1": "FERNANDA SOUSA ARAUJO ",
         "Column2": 109487239,
         "Column3": 8,
         "Column4": "SP",
@@ -8651,7 +8595,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FERNANDA SOUSA ARAUJO",
+        "Column1": "FERNANDA SOUSA ARAUJO ",
         "Column2": 109487239,
         "Column3": 8,
         "Column4": "SP",
@@ -8665,7 +8609,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FERNANDO GLAUCO GONCALVES GUIMARAES",
+        "Column1": "FERNANDO GLAUCO GONCALVES GUIMARAES ",
         "Column2": 111327890,
         "Column3": 0,
         "Column4": "SP",
@@ -8679,7 +8623,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FERNANDO GLAUCO GONCALVES GUIMARAES",
+        "Column1": "FERNANDO GLAUCO GONCALVES GUIMARAES ",
         "Column2": 111327890,
         "Column3": 0,
         "Column4": "SP",
@@ -8693,7 +8637,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FERNANDO GLAUCO GONCALVES GUIMARAES",
+        "Column1": "FERNANDO GLAUCO GONCALVES GUIMARAES ",
         "Column2": 111327890,
         "Column3": 0,
         "Column4": "SP",
@@ -8707,7 +8651,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FERNANDO GLAUCO GONCALVES GUIMARAES",
+        "Column1": "FERNANDO GLAUCO GONCALVES GUIMARAES ",
         "Column2": 111327890,
         "Column3": 0,
         "Column4": "SP",
@@ -8721,7 +8665,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FERNANDO LUCIO DE LIMA",
+        "Column1": "FERNANDO LUCIO DE LIMA ",
         "Column2": 108260328,
         "Column3": 4,
         "Column4": "SP",
@@ -8735,7 +8679,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FRANCISCO ADRIEL SOARES COSTA",
+        "Column1": "FRANCISCO ADRIEL SOARES COSTA ",
         "Column2": 111327679,
         "Column3": 4,
         "Column4": "SP",
@@ -8749,7 +8693,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FRANCISCO ADRIEL SOARES COSTA",
+        "Column1": "FRANCISCO ADRIEL SOARES COSTA ",
         "Column2": 111327679,
         "Column3": 4,
         "Column4": "SP",
@@ -8763,7 +8707,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FRANCISCO ADRIEL SOARES COSTA",
+        "Column1": "FRANCISCO ADRIEL SOARES COSTA ",
         "Column2": 111327679,
         "Column3": 4,
         "Column4": "SP",
@@ -8777,7 +8721,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FRANCISCO ADRIEL SOARES COSTA",
+        "Column1": "FRANCISCO ADRIEL SOARES COSTA ",
         "Column2": 111327679,
         "Column3": 4,
         "Column4": "SP",
@@ -8791,7 +8735,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FRANCYANE OLIVEIRA SOUSA",
+        "Column1": "FRANCYANE OLIVEIRA SOUSA ",
         "Column2": 109486878,
         "Column3": 4,
         "Column4": "SP",
@@ -8805,7 +8749,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FRANCYANE OLIVEIRA SOUSA",
+        "Column1": "FRANCYANE OLIVEIRA SOUSA ",
         "Column2": 109486878,
         "Column3": 4,
         "Column4": "SP",
@@ -8819,7 +8763,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FRANCYANE OLIVEIRA SOUSA",
+        "Column1": "FRANCYANE OLIVEIRA SOUSA ",
         "Column2": 109486878,
         "Column3": 4,
         "Column4": "SP",
@@ -8833,7 +8777,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "FRANCYANE OLIVEIRA SOUSA",
+        "Column1": "FRANCYANE OLIVEIRA SOUSA ",
         "Column2": 109486878,
         "Column3": 4,
         "Column4": "SP",
@@ -8847,7 +8791,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL ALVES DA SILVA",
+        "Column1": "GABRIEL ALVES DA SILVA ",
         "Column2": 111858814,
         "Column3": 9,
         "Column4": "SP",
@@ -8861,7 +8805,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL ALVES FERNANDES",
+        "Column1": "GABRIEL ALVES FERNANDES ",
         "Column2": 109469242,
         "Column3": 6,
         "Column4": "SP",
@@ -8875,7 +8819,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL ANDRADE ASSIS DE OLIVEIRA",
+        "Column1": "GABRIEL ANDRADE ASSIS DE OLIVEIRA ",
         "Column2": 107292478,
         "Column3": "X",
         "Column4": "SP",
@@ -8889,7 +8833,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL APARECIDO DE ARAUJO",
+        "Column1": "GABRIEL APARECIDO DE ARAUJO ",
         "Column2": 111731651,
         "Column3": 8,
         "Column4": "SP",
@@ -8903,7 +8847,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL BENTO RODRIGUES",
+        "Column1": "GABRIEL BENTO RODRIGUES ",
         "Column2": 111826896,
         "Column3": 9,
         "Column4": "SP",
@@ -8917,7 +8861,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL DA SILVA NOVAIS",
+        "Column1": "GABRIEL DA SILVA NOVAIS ",
         "Column2": 109416130,
         "Column3": 5,
         "Column4": "SP",
@@ -8931,7 +8875,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL DA SILVA NOVAIS",
+        "Column1": "GABRIEL DA SILVA NOVAIS ",
         "Column2": 109416130,
         "Column3": 5,
         "Column4": "SP",
@@ -8945,7 +8889,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL DE ASSIS CORDEIRO",
+        "Column1": "GABRIEL DE ASSIS CORDEIRO ",
         "Column2": 114532644,
         "Column3": 4,
         "Column4": "SP",
@@ -8959,7 +8903,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL DE SOUZA SANTOS",
+        "Column1": "GABRIEL DE SOUZA SANTOS ",
         "Column2": 110393482,
         "Column3": "X",
         "Column4": "SP",
@@ -8973,7 +8917,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL DE SOUZA SANTOS",
+        "Column1": "GABRIEL DE SOUZA SANTOS ",
         "Column2": 110393482,
         "Column3": "X",
         "Column4": "SP",
@@ -8987,7 +8931,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL DJALMA GOMES DE MOURA SANTOS",
+        "Column1": "GABRIEL DJALMA GOMES DE MOURA SANTOS ",
         "Column2": 111320006,
         "Column3": 6,
         "Column4": "SP",
@@ -9001,7 +8945,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL DOS SANTOS",
+        "Column1": "GABRIEL DOS SANTOS ",
         "Column2": 113563895,
         "Column3": 0,
         "Column4": "SP",
@@ -9015,7 +8959,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL DOS SANTOS LIRA ROCHA",
+        "Column1": "GABRIEL DOS SANTOS LIRA ROCHA ",
         "Column2": 115503204,
         "Column3": 4,
         "Column4": "SP",
@@ -9029,7 +8973,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL FAUSTINO DA COSTA SANTANA",
+        "Column1": "GABRIEL FAUSTINO DA COSTA SANTANA ",
         "Column2": 111730252,
         "Column3": 0,
         "Column4": "SP",
@@ -9043,7 +8987,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL FELIX DA SILVA",
+        "Column1": "GABRIEL FELIX DA SILVA ",
         "Column2": 110393183,
         "Column3": 0,
         "Column4": "SP",
@@ -9057,7 +9001,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL GOMES DOS SANTOS",
+        "Column1": "GABRIEL GOMES DOS SANTOS ",
         "Column2": 109343340,
         "Column3": 1,
         "Column4": "SP",
@@ -9071,7 +9015,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL LINO VIANA",
+        "Column1": "GABRIEL LINO VIANA ",
         "Column2": 113481704,
         "Column3": 6,
         "Column4": "SP",
@@ -9085,7 +9029,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL MIGUEL ALMEIDA SANTOS",
+        "Column1": "GABRIEL MIGUEL ALMEIDA SANTOS ",
         "Column2": 111791947,
         "Column3": "X",
         "Column4": "SP",
@@ -9099,7 +9043,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL MOREIRA DO NASCIMENTO",
+        "Column1": "GABRIEL MOREIRA DO NASCIMENTO ",
         "Column2": 111861390,
         "Column3": 9,
         "Column4": "SP",
@@ -9113,7 +9057,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL NASCIMENTO DE ALBUQUERQUE",
+        "Column1": "GABRIEL NASCIMENTO DE ALBUQUERQUE ",
         "Column2": 115971178,
         "Column3": 1,
         "Column4": "SP",
@@ -9127,7 +9071,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL OLIVEIRA DE SOUZA",
+        "Column1": "GABRIEL OLIVEIRA DE SOUZA ",
         "Column2": 110390279,
         "Column3": 9,
         "Column4": "SP",
@@ -9141,7 +9085,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL OLIVEIRA SANTOS",
+        "Column1": "GABRIEL OLIVEIRA SANTOS ",
         "Column2": 111874763,
         "Column3": "X",
         "Column4": "SP",
@@ -9155,7 +9099,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL PIRES CORTEZ PEREIRA",
+        "Column1": "GABRIEL PIRES CORTEZ PEREIRA ",
         "Column2": 109469321,
         "Column3": 2,
         "Column4": "SP",
@@ -9169,7 +9113,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL REIS DOS SANTOS",
+        "Column1": "GABRIEL REIS DOS SANTOS ",
         "Column2": 43655217,
         "Column3": 6,
         "Column4": "SP",
@@ -9183,7 +9127,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL REIS DOS SANTOS",
+        "Column1": "GABRIEL REIS DOS SANTOS ",
         "Column2": 43655217,
         "Column3": 6,
         "Column4": "SP",
@@ -9197,7 +9141,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL RIBEIRO DA SILVA",
+        "Column1": "GABRIEL RIBEIRO DA SILVA ",
         "Column2": 109486879,
         "Column3": 6,
         "Column4": "SP",
@@ -9211,7 +9155,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL RIBEIRO DA SILVA",
+        "Column1": "GABRIEL RIBEIRO DA SILVA ",
         "Column2": 109486879,
         "Column3": 6,
         "Column4": "SP",
@@ -9225,7 +9169,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL RIBEIRO DA SILVA",
+        "Column1": "GABRIEL RIBEIRO DA SILVA ",
         "Column2": 109486879,
         "Column3": 6,
         "Column4": "SP",
@@ -9239,7 +9183,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL RIBEIRO DA SILVA",
+        "Column1": "GABRIEL RIBEIRO DA SILVA ",
         "Column2": 109486879,
         "Column3": 6,
         "Column4": "SP",
@@ -9253,7 +9197,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL SANTANA ALVES",
+        "Column1": "GABRIEL SANTANA ALVES ",
         "Column2": 112558371,
         "Column3": "X",
         "Column4": "SP",
@@ -9267,7 +9211,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL SOUZA DE LIMA",
+        "Column1": "GABRIEL SOUZA DE LIMA ",
         "Column2": 109483726,
         "Column3": "X",
         "Column4": "SP",
@@ -9281,7 +9225,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL SOUZA DE LIMA",
+        "Column1": "GABRIEL SOUZA DE LIMA ",
         "Column2": 109483726,
         "Column3": "X",
         "Column4": "SP",
@@ -9295,7 +9239,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL SOUZA DE LIMA",
+        "Column1": "GABRIEL SOUZA DE LIMA ",
         "Column2": 109483726,
         "Column3": "X",
         "Column4": "SP",
@@ -9309,7 +9253,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL SOUZA DE LIMA",
+        "Column1": "GABRIEL SOUZA DE LIMA ",
         "Column2": 109483726,
         "Column3": "X",
         "Column4": "SP",
@@ -9323,7 +9267,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIEL TRINDADE SANTIAGO",
+        "Column1": "GABRIEL TRINDADE SANTIAGO ",
         "Column2": 113476048,
         "Column3": 6,
         "Column4": "SP",
@@ -9337,7 +9281,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIELA CECILIO DE SOUZA",
+        "Column1": "GABRIELA CECILIO DE SOUZA ",
         "Column2": 110365918,
         "Column3": 2,
         "Column4": "SP",
@@ -9351,7 +9295,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIELA CRISTINA DA COSTA MORAIS",
+        "Column1": "GABRIELA CRISTINA DA COSTA MORAIS ",
         "Column2": 110405956,
         "Column3": 3,
         "Column4": "SP",
@@ -9365,7 +9309,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIELA CRISTINA PENA DA SILVA",
+        "Column1": "GABRIELA CRISTINA PENA DA SILVA ",
         "Column2": 107181345,
         "Column3": 6,
         "Column4": "SP",
@@ -9379,7 +9323,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIELA CRISTINA PENA DA SILVA",
+        "Column1": "GABRIELA CRISTINA PENA DA SILVA ",
         "Column2": 107181345,
         "Column3": 6,
         "Column4": "SP",
@@ -9393,7 +9337,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIELA MARTINS GONÇALVES",
+        "Column1": "GABRIELA MARTINS GONÇALVES ",
         "Column2": 108342560,
         "Column3": 2,
         "Column4": "SP",
@@ -9407,7 +9351,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIELA MARTINS GONÇALVES",
+        "Column1": "GABRIELA MARTINS GONÇALVES ",
         "Column2": 108342560,
         "Column3": 2,
         "Column4": "SP",
@@ -9421,7 +9365,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIELA SANTOS DE SOUZA",
+        "Column1": "GABRIELA SANTOS DE SOUZA ",
         "Column2": 108354733,
         "Column3": 1,
         "Column4": "SP",
@@ -9435,7 +9379,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIELA SILVA BARBOSA",
+        "Column1": "GABRIELA SILVA BARBOSA ",
         "Column2": 111730089,
         "Column3": 4,
         "Column4": "SP",
@@ -9449,7 +9393,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIELE CARVALHO DA SILVA",
+        "Column1": "GABRIELE CARVALHO DA SILVA ",
         "Column2": 114076954,
         "Column3": 6,
         "Column4": "SP",
@@ -9463,7 +9407,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIELLA OLIVEIRA DE SOUZA",
+        "Column1": "GABRIELLA OLIVEIRA DE SOUZA ",
         "Column2": 111326407,
         "Column3": "X",
         "Column4": "SP",
@@ -9477,7 +9421,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIELLE LOPES VIEIRA",
+        "Column1": "GABRIELLE LOPES VIEIRA ",
         "Column2": 109343486,
         "Column3": 7,
         "Column4": "SP",
@@ -9491,7 +9435,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIELLI GOMES DE REZENDE",
+        "Column1": "GABRIELLI GOMES DE REZENDE ",
         "Column2": 111846208,
         "Column3": 7,
         "Column4": "SP",
@@ -9505,7 +9449,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIELLY APARECIDA SANTOS FERREIRA",
+        "Column1": "GABRIELLY APARECIDA SANTOS FERREIRA ",
         "Column2": 108342486,
         "Column3": 5,
         "Column4": "SP",
@@ -9519,7 +9463,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIELLY APARECIDA SANTOS FERREIRA",
+        "Column1": "GABRIELLY APARECIDA SANTOS FERREIRA ",
         "Column2": 108342486,
         "Column3": 5,
         "Column4": "SP",
@@ -9533,7 +9477,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIELLY DOS SANTOS SILVA",
+        "Column1": "GABRIELLY DOS SANTOS SILVA ",
         "Column2": 113510858,
         "Column3": 4,
         "Column4": "SP",
@@ -9547,7 +9491,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIELLY SANTOS BARBOSA",
+        "Column1": "GABRIELLY SANTOS BARBOSA ",
         "Column2": 111773010,
         "Column3": 4,
         "Column4": "SP",
@@ -9561,7 +9505,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIELY GOMES SOBRAL",
+        "Column1": "GABRIELY GOMES SOBRAL ",
         "Column2": 109309963,
         "Column3": "X",
         "Column4": "SP",
@@ -9575,7 +9519,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GABRIELY NOVAIS DE OLIVEIRA",
+        "Column1": "GABRIELY NOVAIS DE OLIVEIRA ",
         "Column2": 109342922,
         "Column3": 7,
         "Column4": "SP",
@@ -9589,7 +9533,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANA ALVES DOS SANTOS",
+        "Column1": "GEOVANA ALVES DOS SANTOS ",
         "Column2": 109308406,
         "Column3": 6,
         "Column4": "SP",
@@ -9603,7 +9547,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANA ALVES DOS SANTOS",
+        "Column1": "GEOVANA ALVES DOS SANTOS ",
         "Column2": 109308406,
         "Column3": 6,
         "Column4": "SP",
@@ -9617,7 +9561,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANA CARVALHO DA SILVA",
+        "Column1": "GEOVANA CARVALHO DA SILVA ",
         "Column2": 112611391,
         "Column3": 8,
         "Column4": "SP",
@@ -9631,7 +9575,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANA CARVALHO DA SILVA",
+        "Column1": "GEOVANA CARVALHO DA SILVA ",
         "Column2": 112611391,
         "Column3": 8,
         "Column4": "SP",
@@ -9645,7 +9589,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANA CAVALCANTE DE LIMA",
+        "Column1": "GEOVANA CAVALCANTE DE LIMA ",
         "Column2": 114956764,
         "Column3": 8,
         "Column4": "SP",
@@ -9659,7 +9603,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANA DA SILVA LINS",
+        "Column1": "GEOVANA DA SILVA LINS ",
         "Column2": 109466007,
         "Column3": 3,
         "Column4": "SP",
@@ -9673,7 +9617,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANA DA SILVA PAES",
+        "Column1": "GEOVANA DA SILVA PAES ",
         "Column2": 111587407,
         "Column3": "X",
         "Column4": "SP",
@@ -9687,7 +9631,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANA DA SILVA PAES",
+        "Column1": "GEOVANA DA SILVA PAES ",
         "Column2": 111587407,
         "Column3": "X",
         "Column4": "SP",
@@ -9701,7 +9645,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANA DA SILVA PAES",
+        "Column1": "GEOVANA DA SILVA PAES ",
         "Column2": 111587407,
         "Column3": "X",
         "Column4": "SP",
@@ -9715,7 +9659,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANA DA SILVA PAES",
+        "Column1": "GEOVANA DA SILVA PAES ",
         "Column2": 111587407,
         "Column3": "X",
         "Column4": "SP",
@@ -9729,7 +9673,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANA LIMA PEREIRA",
+        "Column1": "GEOVANA LIMA PEREIRA ",
         "Column2": 110300632,
         "Column3": 0,
         "Column4": "SP",
@@ -9743,7 +9687,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANA LIMA PEREIRA",
+        "Column1": "GEOVANA LIMA PEREIRA ",
         "Column2": 110300632,
         "Column3": 0,
         "Column4": "SP",
@@ -9757,7 +9701,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANA LIMA PEREIRA",
+        "Column1": "GEOVANA LIMA PEREIRA ",
         "Column2": 110300632,
         "Column3": 0,
         "Column4": "SP",
@@ -9771,7 +9715,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANA LIMA PEREIRA",
+        "Column1": "GEOVANA LIMA PEREIRA ",
         "Column2": 110300632,
         "Column3": 0,
         "Column4": "SP",
@@ -9785,7 +9729,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANA OLIVEIRA SOUZA DA CRUZ",
+        "Column1": "GEOVANA OLIVEIRA SOUZA DA CRUZ ",
         "Column2": 111323125,
         "Column3": 7,
         "Column4": "SP",
@@ -9799,7 +9743,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANA RODRIGUES ALVES",
+        "Column1": "GEOVANA RODRIGUES ALVES ",
         "Column2": 111841136,
         "Column3": 5,
         "Column4": "SP",
@@ -9813,7 +9757,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANA RODRIGUES ALVES",
+        "Column1": "GEOVANA RODRIGUES ALVES ",
         "Column2": 111841136,
         "Column3": 5,
         "Column4": "SP",
@@ -9827,7 +9771,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANI DE OLIVEIRA PONCIANO",
+        "Column1": "GEOVANI DE OLIVEIRA PONCIANO ",
         "Column2": 111699776,
         "Column3": 9,
         "Column4": "SP",
@@ -9841,7 +9785,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANNA CASEMIRO ABRAMOVIC",
+        "Column1": "GEOVANNA CASEMIRO ABRAMOVIC ",
         "Column2": 109261340,
         "Column3": 7,
         "Column4": "SP",
@@ -9855,7 +9799,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANNA CASEMIRO ABRAMOVIC",
+        "Column1": "GEOVANNA CASEMIRO ABRAMOVIC ",
         "Column2": 109261340,
         "Column3": 7,
         "Column4": "SP",
@@ -9869,7 +9813,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANNA CONCEIÇÃO DA SILVA",
+        "Column1": "GEOVANNA CONCEIÇÃO DA SILVA ",
         "Column2": 107280512,
         "Column3": 1,
         "Column4": "SP",
@@ -9883,7 +9827,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANNA CONCEIÇÃO DA SILVA",
+        "Column1": "GEOVANNA CONCEIÇÃO DA SILVA ",
         "Column2": 107280512,
         "Column3": 1,
         "Column4": "SP",
@@ -9897,7 +9841,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANNA CONCEIÇÃO DA SILVA",
+        "Column1": "GEOVANNA CONCEIÇÃO DA SILVA ",
         "Column2": 107280512,
         "Column3": 1,
         "Column4": "SP",
@@ -9911,7 +9855,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANNA CONCEIÇÃO DA SILVA",
+        "Column1": "GEOVANNA CONCEIÇÃO DA SILVA ",
         "Column2": 107280512,
         "Column3": 1,
         "Column4": "SP",
@@ -9925,7 +9869,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANNA COSTA SOUZA",
+        "Column1": "GEOVANNA COSTA SOUZA ",
         "Column2": 109496563,
         "Column3": 7,
         "Column4": "SP",
@@ -9939,7 +9883,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANNA COSTA SOUZA",
+        "Column1": "GEOVANNA COSTA SOUZA ",
         "Column2": 109496563,
         "Column3": 7,
         "Column4": "SP",
@@ -9953,7 +9897,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANNA CRISTINA DA SILVA RIBEIRO",
+        "Column1": "GEOVANNA CRISTINA DA SILVA RIBEIRO ",
         "Column2": 108323399,
         "Column3": 3,
         "Column4": "SP",
@@ -9967,7 +9911,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANNA CRISTINA DA SILVA RIBEIRO",
+        "Column1": "GEOVANNA CRISTINA DA SILVA RIBEIRO ",
         "Column2": 108323399,
         "Column3": 3,
         "Column4": "SP",
@@ -9981,7 +9925,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANNA CRISTINA DA SILVA RIBEIRO",
+        "Column1": "GEOVANNA CRISTINA DA SILVA RIBEIRO ",
         "Column2": 108323399,
         "Column3": 3,
         "Column4": "SP",
@@ -9995,7 +9939,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANNA CRISTINA DA SILVA RIBEIRO",
+        "Column1": "GEOVANNA CRISTINA DA SILVA RIBEIRO ",
         "Column2": 108323399,
         "Column3": 3,
         "Column4": "SP",
@@ -10009,7 +9953,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANNA PEREIRA COSTA SANTOS",
+        "Column1": "GEOVANNA PEREIRA COSTA SANTOS ",
         "Column2": 111846211,
         "Column3": 7,
         "Column4": "SP",
@@ -10023,7 +9967,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANNA SANTOS BESERRA SOUSA",
+        "Column1": "GEOVANNA SANTOS BESERRA SOUSA ",
         "Column2": 109342682,
         "Column3": 2,
         "Column4": "SP",
@@ -10037,7 +9981,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANNA SANTOS BESERRA SOUSA",
+        "Column1": "GEOVANNA SANTOS BESERRA SOUSA ",
         "Column2": 109342682,
         "Column3": 2,
         "Column4": "SP",
@@ -10051,7 +9995,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANNA SILVA ALVES",
+        "Column1": "GEOVANNA SILVA ALVES ",
         "Column2": 111773052,
         "Column3": 9,
         "Column4": "SP",
@@ -10065,7 +10009,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANNA SILVA SOUZA SANTOS SANTIAGO",
+        "Column1": "GEOVANNA SILVA SOUZA SANTOS SANTIAGO ",
         "Column2": 109343456,
         "Column3": 9,
         "Column4": "SP",
@@ -10079,7 +10023,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GEOVANNY FARIAS GONÇALVES DE ANDRADE DA SILVA",
+        "Column1": "GEOVANNY FARIAS GONÇALVES DE ANDRADE DA SILVA ",
         "Column2": 109469018,
         "Column3": 1,
         "Column4": "SP",
@@ -10093,7 +10037,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GIANLUCCA MENDONÇA LIMA",
+        "Column1": "GIANLUCCA MENDONÇA LIMA ",
         "Column2": 112430858,
         "Column3": 1,
         "Column4": "SP",
@@ -10107,7 +10051,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GIOVANA GABRIELLY JOSUÉ DE LIMA",
+        "Column1": "GIOVANA GABRIELLY JOSUÉ DE LIMA ",
         "Column2": 111336057,
         "Column3": 4,
         "Column4": "SP",
@@ -10121,7 +10065,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GIOVANA GABRIELLY JOSUÉ DE LIMA",
+        "Column1": "GIOVANA GABRIELLY JOSUÉ DE LIMA ",
         "Column2": 111336057,
         "Column3": 4,
         "Column4": "SP",
@@ -10135,7 +10079,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GIOVANA GABRIELLY JOSUÉ DE LIMA",
+        "Column1": "GIOVANA GABRIELLY JOSUÉ DE LIMA ",
         "Column2": 111336057,
         "Column3": 4,
         "Column4": "SP",
@@ -10149,7 +10093,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GIOVANA GABRIELLY JOSUÉ DE LIMA",
+        "Column1": "GIOVANA GABRIELLY JOSUÉ DE LIMA ",
         "Column2": 111336057,
         "Column3": 4,
         "Column4": "SP",
@@ -10163,7 +10107,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GIOVANNA FERREIRA DA CUNHA",
+        "Column1": "GIOVANNA FERREIRA DA CUNHA ",
         "Column2": 111792941,
         "Column3": 3,
         "Column4": "SP",
@@ -10177,7 +10121,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GIOVANNA GONCALVES MOREIRA",
+        "Column1": "GIOVANNA GONCALVES MOREIRA ",
         "Column2": 109291565,
         "Column3": 5,
         "Column4": "SP",
@@ -10191,7 +10135,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GIOVANNA MIZAEL SANTOS",
+        "Column1": "GIOVANNA MIZAEL SANTOS ",
         "Column2": 109309273,
         "Column3": 7,
         "Column4": "SP",
@@ -10205,7 +10149,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GIOVANNA MIZAEL SANTOS",
+        "Column1": "GIOVANNA MIZAEL SANTOS ",
         "Column2": 109309273,
         "Column3": 7,
         "Column4": "SP",
@@ -10219,7 +10163,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GIOVANNA MIZAEL SANTOS",
+        "Column1": "GIOVANNA MIZAEL SANTOS ",
         "Column2": 109309273,
         "Column3": 7,
         "Column4": "SP",
@@ -10233,7 +10177,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GIOVANNA MIZAEL SANTOS",
+        "Column1": "GIOVANNA MIZAEL SANTOS ",
         "Column2": 109309273,
         "Column3": 7,
         "Column4": "SP",
@@ -10247,7 +10191,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GIOVANNA RIBEIRO DE OLIVEIRA",
+        "Column1": "GIOVANNA RIBEIRO DE OLIVEIRA ",
         "Column2": 111730149,
         "Column3": 7,
         "Column4": "SP",
@@ -10261,7 +10205,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GISELI SILVA LOBO",
+        "Column1": "GISELI SILVA LOBO ",
         "Column2": 109308413,
         "Column3": 3,
         "Column4": "SP",
@@ -10275,7 +10219,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GISELI SILVA LOBO",
+        "Column1": "GISELI SILVA LOBO ",
         "Column2": 109308413,
         "Column3": 3,
         "Column4": "SP",
@@ -10289,7 +10233,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GISELLE FERNANDES MAIA",
+        "Column1": "GISELLE FERNANDES MAIA ",
         "Column2": 113349127,
         "Column3": 3,
         "Column4": "SP",
@@ -10303,7 +10247,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GISELLE GOMES SOBRAL",
+        "Column1": "GISELLE GOMES SOBRAL ",
         "Column2": 109343214,
         "Column3": 7,
         "Column4": "SP",
@@ -10317,7 +10261,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GISLAINE ARAUJO DE JESUS",
+        "Column1": "GISLAINE ARAUJO DE JESUS ",
         "Column2": 110390198,
         "Column3": 9,
         "Column4": "SP",
@@ -10331,7 +10275,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GISLENE PINTO ANDRADE",
+        "Column1": "GISLENE PINTO ANDRADE ",
         "Column2": 109335014,
         "Column3": 3,
         "Column4": "SP",
@@ -10345,7 +10289,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GISLENE PINTO ANDRADE",
+        "Column1": "GISLENE PINTO ANDRADE ",
         "Column2": 109335014,
         "Column3": 3,
         "Column4": "SP",
@@ -10359,7 +10303,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GISLENE PINTO ANDRADE",
+        "Column1": "GISLENE PINTO ANDRADE ",
         "Column2": 109335014,
         "Column3": 3,
         "Column4": "SP",
@@ -10373,7 +10317,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GISLENE PINTO ANDRADE",
+        "Column1": "GISLENE PINTO ANDRADE ",
         "Column2": 109335014,
         "Column3": 3,
         "Column4": "SP",
@@ -10387,7 +10331,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GRAZIELA DA SILVA OZORIO LOPES",
+        "Column1": "GRAZIELA DA SILVA OZORIO LOPES ",
         "Column2": 111323123,
         "Column3": 3,
         "Column4": "SP",
@@ -10401,7 +10345,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GRAZIELA SILVA MATOS",
+        "Column1": "GRAZIELA SILVA MATOS ",
         "Column2": 109479871,
         "Column3": "X",
         "Column4": "SP",
@@ -10415,7 +10359,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GRAZIELA SILVA MATOS",
+        "Column1": "GRAZIELA SILVA MATOS ",
         "Column2": 109479871,
         "Column3": "X",
         "Column4": "SP",
@@ -10429,7 +10373,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GRAZIELE DOS SANTOS SILVA",
+        "Column1": "GRAZIELE DOS SANTOS SILVA ",
         "Column2": 105803601,
         "Column3": 4,
         "Column4": "SP",
@@ -10443,7 +10387,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GRAZIELE DOS SANTOS SILVA",
+        "Column1": "GRAZIELE DOS SANTOS SILVA ",
         "Column2": 105803601,
         "Column3": 4,
         "Column4": "SP",
@@ -10457,7 +10401,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GRAZIELE DOS SANTOS SILVA",
+        "Column1": "GRAZIELE DOS SANTOS SILVA ",
         "Column2": 105803601,
         "Column3": 4,
         "Column4": "SP",
@@ -10471,7 +10415,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GRAZIELE DOS SANTOS SILVA",
+        "Column1": "GRAZIELE DOS SANTOS SILVA ",
         "Column2": 105803601,
         "Column3": 4,
         "Column4": "SP",
@@ -10485,7 +10429,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GRAZIELLE SILVA DE SENA",
+        "Column1": "GRAZIELLE SILVA DE SENA ",
         "Column2": 112471565,
         "Column3": 4,
         "Column4": "SP",
@@ -10499,7 +10443,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GRAZIELLY ALVES SANTOS",
+        "Column1": "GRAZIELLY ALVES SANTOS ",
         "Column2": 108280438,
         "Column3": 1,
         "Column4": "SP",
@@ -10513,7 +10457,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GRAZIELLY ALVES SANTOS",
+        "Column1": "GRAZIELLY ALVES SANTOS ",
         "Column2": 108280438,
         "Column3": 1,
         "Column4": "SP",
@@ -10527,7 +10471,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GRAZIELLY ALVES SANTOS",
+        "Column1": "GRAZIELLY ALVES SANTOS ",
         "Column2": 108280438,
         "Column3": 1,
         "Column4": "SP",
@@ -10541,7 +10485,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GRAZIELLY ALVES SANTOS",
+        "Column1": "GRAZIELLY ALVES SANTOS ",
         "Column2": 108280438,
         "Column3": 1,
         "Column4": "SP",
@@ -10555,7 +10499,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GRAZIELLY VITÓRIA JOSUÉ DE LIMA",
+        "Column1": "GRAZIELLY VITÓRIA JOSUÉ DE LIMA ",
         "Column2": 111846214,
         "Column3": 2,
         "Column4": "SP",
@@ -10569,7 +10513,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GRAZIÉLE FRANCISCO DE ALMEIDA",
+        "Column1": "GRAZIÉLE FRANCISCO DE ALMEIDA ",
         "Column2": 109487148,
         "Column3": 5,
         "Column4": "SP",
@@ -10583,7 +10527,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GRAZIÉLE FRANCISCO DE ALMEIDA",
+        "Column1": "GRAZIÉLE FRANCISCO DE ALMEIDA ",
         "Column2": 109487148,
         "Column3": 5,
         "Column4": "SP",
@@ -10597,7 +10541,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GRAZIÉLE FRANCISCO DE ALMEIDA",
+        "Column1": "GRAZIÉLE FRANCISCO DE ALMEIDA ",
         "Column2": 109487148,
         "Column3": 5,
         "Column4": "SP",
@@ -10611,7 +10555,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GRAZIÉLE FRANCISCO DE ALMEIDA",
+        "Column1": "GRAZIÉLE FRANCISCO DE ALMEIDA ",
         "Column2": 109487148,
         "Column3": 5,
         "Column4": "SP",
@@ -10625,7 +10569,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILBER MEDEIROS MACHADO",
+        "Column1": "GUILBER MEDEIROS MACHADO ",
         "Column2": 109487186,
         "Column3": 2,
         "Column4": "SP",
@@ -10639,7 +10583,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILBER MEDEIROS MACHADO",
+        "Column1": "GUILBER MEDEIROS MACHADO ",
         "Column2": 109487186,
         "Column3": 2,
         "Column4": "SP",
@@ -10653,7 +10597,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILBER MEDEIROS MACHADO",
+        "Column1": "GUILBER MEDEIROS MACHADO ",
         "Column2": 109487186,
         "Column3": 2,
         "Column4": "SP",
@@ -10667,7 +10611,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILBER MEDEIROS MACHADO",
+        "Column1": "GUILBER MEDEIROS MACHADO ",
         "Column2": 109487186,
         "Column3": 2,
         "Column4": "SP",
@@ -10681,7 +10625,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME ACELINO DA SILVA",
+        "Column1": "GUILHERME ACELINO DA SILVA ",
         "Column2": 110394168,
         "Column3": 9,
         "Column4": "SP",
@@ -10695,7 +10639,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME ALVES DE LIMA",
+        "Column1": "GUILHERME ALVES DE LIMA ",
         "Column2": 109487209,
         "Column3": "X",
         "Column4": "SP",
@@ -10709,7 +10653,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME ALVES DE LIMA",
+        "Column1": "GUILHERME ALVES DE LIMA ",
         "Column2": 109487209,
         "Column3": "X",
         "Column4": "SP",
@@ -10723,7 +10667,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME ALVES DE LIMA",
+        "Column1": "GUILHERME ALVES DE LIMA ",
         "Column2": 109487209,
         "Column3": "X",
         "Column4": "SP",
@@ -10737,7 +10681,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME ALVES DE LIMA",
+        "Column1": "GUILHERME ALVES DE LIMA ",
         "Column2": 109487209,
         "Column3": "X",
         "Column4": "SP",
@@ -10751,7 +10695,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME AMANCIO SILVA",
+        "Column1": "GUILHERME AMANCIO SILVA ",
         "Column2": 109308265,
         "Column3": 3,
         "Column4": "SP",
@@ -10765,7 +10709,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME ANTONIO DA SILVA",
+        "Column1": "GUILHERME ANTONIO DA SILVA ",
         "Column2": 110414176,
         "Column3": 0,
         "Column4": "SP",
@@ -10779,7 +10723,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME BARBOSA PINTO",
+        "Column1": "GUILHERME BARBOSA PINTO ",
         "Column2": 110365516,
         "Column3": 4,
         "Column4": "SP",
@@ -10793,7 +10737,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME BORGES DE MOURA",
+        "Column1": "GUILHERME BORGES DE MOURA ",
         "Column2": 110483607,
         "Column3": 5,
         "Column4": "SP",
@@ -10807,7 +10751,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME BORGES DE MOURA",
+        "Column1": "GUILHERME BORGES DE MOURA ",
         "Column2": 110483607,
         "Column3": 5,
         "Column4": "SP",
@@ -10821,7 +10765,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME BORGES DE MOURA",
+        "Column1": "GUILHERME BORGES DE MOURA ",
         "Column2": 110483607,
         "Column3": 5,
         "Column4": "SP",
@@ -10835,7 +10779,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME BORGES DE MOURA",
+        "Column1": "GUILHERME BORGES DE MOURA ",
         "Column2": 110483607,
         "Column3": 5,
         "Column4": "SP",
@@ -10849,7 +10793,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME DE JESUS BARBOZA",
+        "Column1": "GUILHERME DE JESUS BARBOZA ",
         "Column2": 111738750,
         "Column3": 1,
         "Column4": "SP",
@@ -10863,7 +10807,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME DE PAULA SANTOS",
+        "Column1": "GUILHERME DE PAULA SANTOS ",
         "Column2": 110394178,
         "Column3": 1,
         "Column4": "SP",
@@ -10877,7 +10821,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME DE PAULA SANTOS",
+        "Column1": "GUILHERME DE PAULA SANTOS ",
         "Column2": 110394178,
         "Column3": 1,
         "Column4": "SP",
@@ -10891,7 +10835,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME JESUS SANTOS",
+        "Column1": "GUILHERME JESUS SANTOS ",
         "Column2": 109343499,
         "Column3": 5,
         "Column4": "SP",
@@ -10905,7 +10849,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME JESUS SANTOS",
+        "Column1": "GUILHERME JESUS SANTOS ",
         "Column2": 109343499,
         "Column3": 5,
         "Column4": "SP",
@@ -10919,7 +10863,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME LORRAN LUIZ SILVA",
+        "Column1": "GUILHERME LORRAN LUIZ SILVA ",
         "Column2": 111846227,
         "Column3": 0,
         "Column4": "SP",
@@ -10933,7 +10877,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME LUCIO DA SILVA FRAZÃO",
+        "Column1": "GUILHERME LUCIO DA SILVA FRAZÃO ",
         "Column2": 113929396,
         "Column3": 5,
         "Column4": "SP",
@@ -10947,7 +10891,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME MIGUEL DE OLIVEIRA",
+        "Column1": "GUILHERME MIGUEL DE OLIVEIRA ",
         "Column2": 107281965,
         "Column3": "X",
         "Column4": "SP",
@@ -10961,7 +10905,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME NOGUEIRA DE SOUZA",
+        "Column1": "GUILHERME NOGUEIRA DE SOUZA ",
         "Column2": 111791846,
         "Column3": 4,
         "Column4": "SP",
@@ -10975,7 +10919,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME PEREIRA DOS SANTOS BISPO",
+        "Column1": "GUILHERME PEREIRA DOS SANTOS BISPO ",
         "Column2": 111772929,
         "Column3": 1,
         "Column4": "SP",
@@ -10989,7 +10933,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME SANTIAGO DA SILVA",
+        "Column1": "GUILHERME SANTIAGO DA SILVA ",
         "Column2": 111791823,
         "Column3": 3,
         "Column4": "SP",
@@ -11003,7 +10947,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME SANTOS DE SOUZA",
+        "Column1": "GUILHERME SANTOS DE SOUZA ",
         "Column2": 109335025,
         "Column3": 8,
         "Column4": "SP",
@@ -11017,7 +10961,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME SANTOS DE SOUZA",
+        "Column1": "GUILHERME SANTOS DE SOUZA ",
         "Column2": 109335025,
         "Column3": 8,
         "Column4": "SP",
@@ -11031,7 +10975,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME SANTOS FERREIRA",
+        "Column1": "GUILHERME SANTOS FERREIRA ",
         "Column2": 111875475,
         "Column3": "X",
         "Column4": "SP",
@@ -11045,7 +10989,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME SEVERIANO CARDOSO",
+        "Column1": "GUILHERME SEVERIANO CARDOSO ",
         "Column2": 110391137,
         "Column3": 5,
         "Column4": "SP",
@@ -11059,7 +11003,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME SILVA OLIVEIRA",
+        "Column1": "GUILHERME SILVA OLIVEIRA ",
         "Column2": 111731616,
         "Column3": 6,
         "Column4": "SP",
@@ -11073,7 +11017,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME SOUZA DOS SANTOS",
+        "Column1": "GUILHERME SOUZA DOS SANTOS ",
         "Column2": 105646729,
         "Column3": 0,
         "Column4": "SP",
@@ -11087,7 +11031,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME SOUZA DOS SANTOS",
+        "Column1": "GUILHERME SOUZA DOS SANTOS ",
         "Column2": 105646729,
         "Column3": 0,
         "Column4": "SP",
@@ -11101,7 +11045,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME SOUZA DOS SANTOS",
+        "Column1": "GUILHERME SOUZA DOS SANTOS ",
         "Column2": 105646729,
         "Column3": 0,
         "Column4": "SP",
@@ -11115,7 +11059,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME SOUZA DOS SANTOS",
+        "Column1": "GUILHERME SOUZA DOS SANTOS ",
         "Column2": 105646729,
         "Column3": 0,
         "Column4": "SP",
@@ -11129,7 +11073,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME VICENTE DE ABREU",
+        "Column1": "GUILHERME VICENTE DE ABREU ",
         "Column2": 111730230,
         "Column3": 1,
         "Column4": "SP",
@@ -11143,7 +11087,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUILHERME VITAL DA CONCEIÇÃO",
+        "Column1": "GUILHERME VITAL DA CONCEIÇÃO ",
         "Column2": 110334297,
         "Column3": 6,
         "Column4": "SP",
@@ -11157,7 +11101,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUIVISON YAN RIBEIRO ASSIS",
+        "Column1": "GUIVISON YAN RIBEIRO ASSIS ",
         "Column2": 109309064,
         "Column3": 9,
         "Column4": "SP",
@@ -11171,7 +11115,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUIVISON YAN RIBEIRO ASSIS",
+        "Column1": "GUIVISON YAN RIBEIRO ASSIS ",
         "Column2": 109309064,
         "Column3": 9,
         "Column4": "SP",
@@ -11185,7 +11129,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUIVISON YAN RIBEIRO ASSIS",
+        "Column1": "GUIVISON YAN RIBEIRO ASSIS ",
         "Column2": 109309064,
         "Column3": 9,
         "Column4": "SP",
@@ -11199,7 +11143,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUIVISON YAN RIBEIRO ASSIS",
+        "Column1": "GUIVISON YAN RIBEIRO ASSIS ",
         "Column2": 109309064,
         "Column3": 9,
         "Column4": "SP",
@@ -11213,7 +11157,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUSTAVO ALVES DA SILVA",
+        "Column1": "GUSTAVO ALVES DA SILVA ",
         "Column2": 109487149,
         "Column3": 7,
         "Column4": "SP",
@@ -11227,7 +11171,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUSTAVO ARAUJO GOMES",
+        "Column1": "GUSTAVO ARAUJO GOMES ",
         "Column2": 110390207,
         "Column3": 6,
         "Column4": "SP",
@@ -11241,7 +11185,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUSTAVO ARAUJO LIMA",
+        "Column1": "GUSTAVO ARAUJO LIMA ",
         "Column2": 110385002,
         "Column3": 7,
         "Column4": "SP",
@@ -11255,7 +11199,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUSTAVO BORGES DE MOURA",
+        "Column1": "GUSTAVO BORGES DE MOURA ",
         "Column2": 112343328,
         "Column3": 8,
         "Column4": "SP",
@@ -11269,7 +11213,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUSTAVO DA CRUZ SÁ",
+        "Column1": "GUSTAVO DA CRUZ SÁ ",
         "Column2": 110390701,
         "Column3": 3,
         "Column4": "SP",
@@ -11283,7 +11227,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUSTAVO DA SILVA SANTOS",
+        "Column1": "GUSTAVO DA SILVA SANTOS ",
         "Column2": 111712964,
         "Column3": 0,
         "Column4": "SP",
@@ -11297,7 +11241,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUSTAVO DE JESUS FERREIRA ANDRADE",
+        "Column1": "GUSTAVO DE JESUS FERREIRA ANDRADE ",
         "Column2": 111731535,
         "Column3": 6,
         "Column4": "SP",
@@ -11311,7 +11255,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUSTAVO DE LIRA",
+        "Column1": "GUSTAVO DE LIRA ",
         "Column2": 109308430,
         "Column3": 3,
         "Column4": "SP",
@@ -11325,7 +11269,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUSTAVO DE LIRA",
+        "Column1": "GUSTAVO DE LIRA ",
         "Column2": 109308430,
         "Column3": 3,
         "Column4": "SP",
@@ -11339,7 +11283,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUSTAVO DE LIRA",
+        "Column1": "GUSTAVO DE LIRA ",
         "Column2": 109308430,
         "Column3": 3,
         "Column4": "SP",
@@ -11353,7 +11297,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUSTAVO DE LIRA",
+        "Column1": "GUSTAVO DE LIRA ",
         "Column2": 109308430,
         "Column3": 3,
         "Column4": "SP",
@@ -11367,7 +11311,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUSTAVO DOS SANTOS BARROS",
+        "Column1": "GUSTAVO DOS SANTOS BARROS ",
         "Column2": 109465509,
         "Column3": 0,
         "Column4": "SP",
@@ -11381,7 +11325,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUSTAVO FELIX DA SILVA",
+        "Column1": "GUSTAVO FELIX DA SILVA ",
         "Column2": 109369201,
         "Column3": 7,
         "Column4": "SP",
@@ -11395,7 +11339,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUSTAVO FERREIRA DE LIRA",
+        "Column1": "GUSTAVO FERREIRA DE LIRA ",
         "Column2": 110449147,
         "Column3": 3,
         "Column4": "SP",
@@ -11409,7 +11353,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUSTAVO GIMENEZ SILVA DOS SANTOS MACHADO",
+        "Column1": "GUSTAVO GIMENEZ SILVA DOS SANTOS MACHADO ",
         "Column2": 109665546,
         "Column3": 9,
         "Column4": "SP",
@@ -11423,7 +11367,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUSTAVO HENRIQUE DE SOUSA",
+        "Column1": "GUSTAVO HENRIQUE DE SOUSA ",
         "Column2": 111314840,
         "Column3": 8,
         "Column4": "SP",
@@ -11437,7 +11381,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUSTAVO HENRIQUE OLIVEIRA DOS SANTOS",
+        "Column1": "GUSTAVO HENRIQUE OLIVEIRA DOS SANTOS ",
         "Column2": 109309369,
         "Column3": 9,
         "Column4": "SP",
@@ -11451,7 +11395,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUSTAVO HENRIQUE OLIVEIRA DOS SANTOS",
+        "Column1": "GUSTAVO HENRIQUE OLIVEIRA DOS SANTOS ",
         "Column2": 109309369,
         "Column3": 9,
         "Column4": "SP",
@@ -11465,7 +11409,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUSTAVO HENRIQUE OLIVEIRA DOS SANTOS",
+        "Column1": "GUSTAVO HENRIQUE OLIVEIRA DOS SANTOS ",
         "Column2": 109309369,
         "Column3": 9,
         "Column4": "SP",
@@ -11479,7 +11423,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUSTAVO HENRIQUE OLIVEIRA DOS SANTOS",
+        "Column1": "GUSTAVO HENRIQUE OLIVEIRA DOS SANTOS ",
         "Column2": 109309369,
         "Column3": 9,
         "Column4": "SP",
@@ -11493,7 +11437,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUSTAVO JESUS PEREIRA DOS SANTOS",
+        "Column1": "GUSTAVO JESUS PEREIRA DOS SANTOS ",
         "Column2": 108342528,
         "Column3": 6,
         "Column4": "SP",
@@ -11507,7 +11451,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUSTAVO JESUS PEREIRA DOS SANTOS",
+        "Column1": "GUSTAVO JESUS PEREIRA DOS SANTOS ",
         "Column2": 108342528,
         "Column3": 6,
         "Column4": "SP",
@@ -11521,7 +11465,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUSTAVO MARQUES DE AQUINO",
+        "Column1": "GUSTAVO MARQUES DE AQUINO ",
         "Column2": 110302357,
         "Column3": 3,
         "Column4": "SP",
@@ -11535,7 +11479,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUSTAVO OLIVEIRA PIRES",
+        "Column1": "GUSTAVO OLIVEIRA PIRES ",
         "Column2": 110390566,
         "Column3": 1,
         "Column4": "SP",
@@ -11549,7 +11493,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUSTAVO PATRICK CAETANO DUTRA",
+        "Column1": "GUSTAVO PATRICK CAETANO DUTRA ",
         "Column2": 109478742,
         "Column3": 5,
         "Column4": "SP",
@@ -11563,7 +11507,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUSTAVO SILVA DA CRUZ",
+        "Column1": "GUSTAVO SILVA DA CRUZ ",
         "Column2": 111781407,
         "Column3": 5,
         "Column4": "SP",
@@ -11577,7 +11521,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GUSTAVO VULCANI SANTANA",
+        "Column1": "GUSTAVO VULCANI SANTANA ",
         "Column2": 111320012,
         "Column3": 1,
         "Column4": "SP",
@@ -11591,7 +11535,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GYSELLE RODRIGUES DOS SANTOS",
+        "Column1": "GYSELLE RODRIGUES DOS SANTOS ",
         "Column2": 108333890,
         "Column3": 0,
         "Column4": "SP",
@@ -11605,7 +11549,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "GYSELLE RODRIGUES DOS SANTOS",
+        "Column1": "GYSELLE RODRIGUES DOS SANTOS ",
         "Column2": 108333890,
         "Column3": 0,
         "Column4": "SP",
@@ -11619,7 +11563,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HADASSA ESTER PEREIRA RODRIGUES",
+        "Column1": "HADASSA ESTER PEREIRA RODRIGUES ",
         "Column2": 121232884,
         "Column3": "X",
         "Column4": "SP",
@@ -11633,7 +11577,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HAGATHA KRISTHYNI SILVA DE SANTANA",
+        "Column1": "HAGATHA KRISTHYNI SILVA DE SANTANA ",
         "Column2": 110350591,
         "Column3": 9,
         "Column4": "SP",
@@ -11647,7 +11591,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HALLUMA CRISTINA CARVALHO DE SOUSA",
+        "Column1": "HALLUMA CRISTINA CARVALHO DE SOUSA ",
         "Column2": 110394116,
         "Column3": 1,
         "Column4": "SP",
@@ -11661,7 +11605,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HELOISA APARECIDA DA SILVA",
+        "Column1": "HELOISA APARECIDA DA SILVA ",
         "Column2": 111881634,
         "Column3": 1,
         "Column4": "SP",
@@ -11675,7 +11619,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HELOISA DA SILVA CANDIDO",
+        "Column1": "HELOISA DA SILVA CANDIDO ",
         "Column2": 111744623,
         "Column3": 2,
         "Column4": "SP",
@@ -11689,7 +11633,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HELOISA DE ALCANTARA SILVA",
+        "Column1": "HELOISA DE ALCANTARA SILVA ",
         "Column2": 111791860,
         "Column3": 9,
         "Column4": "SP",
@@ -11703,7 +11647,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HELOISA GIL PEREIRA DE MELO",
+        "Column1": "HELOISA GIL PEREIRA DE MELO ",
         "Column2": 109343083,
         "Column3": 7,
         "Column4": "SP",
@@ -11717,7 +11661,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HELOISA OLIVEIRA DE SOUZA MELO",
+        "Column1": "HELOISA OLIVEIRA DE SOUZA MELO ",
         "Column2": 112768771,
         "Column3": 2,
         "Column4": "SP",
@@ -11731,7 +11675,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HELOÍSA BRAGA SANTANA",
+        "Column1": "HELOÍSA BRAGA SANTANA ",
         "Column2": 110322069,
         "Column3": "X",
         "Column4": "SP",
@@ -11745,7 +11689,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HELOÍSA BRAGA SANTANA",
+        "Column1": "HELOÍSA BRAGA SANTANA ",
         "Column2": 110322069,
         "Column3": "X",
         "Column4": "SP",
@@ -11759,7 +11703,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HELOÍSA BRAGA SANTANA",
+        "Column1": "HELOÍSA BRAGA SANTANA ",
         "Column2": 110322069,
         "Column3": "X",
         "Column4": "SP",
@@ -11773,7 +11717,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HELOÍSA BRAGA SANTANA",
+        "Column1": "HELOÍSA BRAGA SANTANA ",
         "Column2": 110322069,
         "Column3": "X",
         "Column4": "SP",
@@ -11787,7 +11731,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HENRIQUE ANDRADE DOS SANTOS",
+        "Column1": "HENRIQUE ANDRADE DOS SANTOS ",
         "Column2": 112585263,
         "Column3": "X",
         "Column4": "SP",
@@ -11801,7 +11745,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HENRIQUE COELHO DOS SANTOS",
+        "Column1": "HENRIQUE COELHO DOS SANTOS ",
         "Column2": 110711428,
         "Column3": 7,
         "Column4": "SP",
@@ -11815,7 +11759,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HENRIQUE COELHO DOS SANTOS",
+        "Column1": "HENRIQUE COELHO DOS SANTOS ",
         "Column2": 110711428,
         "Column3": 7,
         "Column4": "SP",
@@ -11829,7 +11773,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HENRIQUE JOÃO DO NASCIMENTO",
+        "Column1": "HENRIQUE JOÃO DO NASCIMENTO ",
         "Column2": 112485899,
         "Column3": 4,
         "Column4": "SP",
@@ -11843,7 +11787,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HENRIQUE MATOS FERREIRA",
+        "Column1": "HENRIQUE MATOS FERREIRA ",
         "Column2": 111811453,
         "Column3": "X",
         "Column4": "SP",
@@ -11857,7 +11801,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HENRIQUE NASCIMENTO DA CONCEICAO",
+        "Column1": "HENRIQUE NASCIMENTO DA CONCEICAO ",
         "Column2": 111617901,
         "Column3": 5,
         "Column4": "SP",
@@ -11871,7 +11815,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HENRIQUE RODRIGUES SILVA",
+        "Column1": "HENRIQUE RODRIGUES SILVA ",
         "Column2": 116203411,
         "Column3": 7,
         "Column4": "SP",
@@ -11885,7 +11829,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HENRIQUE VIEIRA COIMBRA",
+        "Column1": "HENRIQUE VIEIRA COIMBRA ",
         "Column2": 111731671,
         "Column3": 3,
         "Column4": "SP",
@@ -11899,7 +11843,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HENRIQUE VIEIRA COIMBRA",
+        "Column1": "HENRIQUE VIEIRA COIMBRA ",
         "Column2": 111731671,
         "Column3": 3,
         "Column4": "SP",
@@ -11913,7 +11857,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HERBERT ARAUJO DOS SANTOS",
+        "Column1": "HERBERT ARAUJO DOS SANTOS ",
         "Column2": 112931080,
         "Column3": 2,
         "Column4": "SP",
@@ -11927,7 +11871,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HERIC PYETRO SOUZA GUIMARÃES",
+        "Column1": "HERIC PYETRO SOUZA GUIMARÃES ",
         "Column2": 111731664,
         "Column3": 6,
         "Column4": "SP",
@@ -11941,7 +11885,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HEVELLY MOREIRA GONÇALVES",
+        "Column1": "HEVELLY MOREIRA GONÇALVES ",
         "Column2": 111841099,
         "Column3": 3,
         "Column4": "SP",
@@ -11955,7 +11899,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HIAGO ROBERTO DE JESUS LIRA",
+        "Column1": "HIAGO ROBERTO DE JESUS LIRA ",
         "Column2": 109310134,
         "Column3": 9,
         "Column4": "SP",
@@ -11969,7 +11913,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HIAGO ROBERTO DE JESUS LIRA",
+        "Column1": "HIAGO ROBERTO DE JESUS LIRA ",
         "Column2": 109310134,
         "Column3": 9,
         "Column4": "SP",
@@ -11983,7 +11927,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HIGOR GOMES DE SOUZA",
+        "Column1": "HIGOR GOMES DE SOUZA ",
         "Column2": 109469263,
         "Column3": 3,
         "Column4": "SP",
@@ -11997,7 +11941,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HIGOR MENDES DOS ANJOS",
+        "Column1": "HIGOR MENDES DOS ANJOS ",
         "Column2": 109308206,
         "Column3": 9,
         "Column4": "SP",
@@ -12011,7 +11955,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HILLARY DOS SANTOS SILVA",
+        "Column1": "HILLARY DOS SANTOS SILVA ",
         "Column2": 108292278,
         "Column3": "X",
         "Column4": "SP",
@@ -12025,7 +11969,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HILLARY VITÓRIA CABRAL DA SILVA",
+        "Column1": "HILLARY VITÓRIA CABRAL DA SILVA ",
         "Column2": 111881524,
         "Column3": 5,
         "Column4": "SP",
@@ -12039,7 +11983,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HUDSON MIGUEL PEREIRA BRIEGA",
+        "Column1": "HUDSON MIGUEL PEREIRA BRIEGA ",
         "Column2": 111741028,
         "Column3": 6,
         "Column4": "SP",
@@ -12053,7 +11997,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HUGO GOMES DE CAMPOS",
+        "Column1": "HUGO GOMES DE CAMPOS ",
         "Column2": 109469272,
         "Column3": 4,
         "Column4": "SP",
@@ -12067,7 +12011,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HUGO GONÇALVES DA SILVA BASTOS",
+        "Column1": "HUGO GONÇALVES DA SILVA BASTOS ",
         "Column2": 111731744,
         "Column3": 4,
         "Column4": "SP",
@@ -12081,7 +12025,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "HUGO GONÇALVES DA SILVA BASTOS",
+        "Column1": "HUGO GONÇALVES DA SILVA BASTOS ",
         "Column2": 111731744,
         "Column3": 4,
         "Column4": "SP",
@@ -12095,7 +12039,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "IACLARA DE PAULO OLIVEIRA",
+        "Column1": "IACLARA DE PAULO OLIVEIRA ",
         "Column2": 115382753,
         "Column3": 0,
         "Column4": "SP",
@@ -12109,7 +12053,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "IACLARA DE PAULO OLIVEIRA",
+        "Column1": "IACLARA DE PAULO OLIVEIRA ",
         "Column2": 115382753,
         "Column3": 0,
         "Column4": "SP",
@@ -12123,7 +12067,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "IAGO PINHEIRO DA SILVA",
+        "Column1": "IAGO PINHEIRO DA SILVA ",
         "Column2": 110334178,
         "Column3": 9,
         "Column4": "SP",
@@ -12137,7 +12081,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "IAGO PINHEIRO DA SILVA",
+        "Column1": "IAGO PINHEIRO DA SILVA ",
         "Column2": 110334178,
         "Column3": 9,
         "Column4": "SP",
@@ -12151,7 +12095,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "IAGO PINHEIRO DA SILVA",
+        "Column1": "IAGO PINHEIRO DA SILVA ",
         "Column2": 110334178,
         "Column3": 9,
         "Column4": "SP",
@@ -12165,7 +12109,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "IARA MORAES DA SILVA",
+        "Column1": "IARA MORAES DA SILVA ",
         "Column2": 111770649,
         "Column3": 7,
         "Column4": "SP",
@@ -12179,7 +12123,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "IGOR ARAUJO DA COSTA",
+        "Column1": "IGOR ARAUJO DA COSTA ",
         "Column2": 111731716,
         "Column3": "X",
         "Column4": "SP",
@@ -12193,7 +12137,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "IGOR PEREIRA DE ALMEIDA",
+        "Column1": "IGOR PEREIRA DE ALMEIDA ",
         "Column2": 111730214,
         "Column3": 3,
         "Column4": "SP",
@@ -12207,7 +12151,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "IGOR SANTOS COSTA",
+        "Column1": "IGOR SANTOS COSTA ",
         "Column2": 109308305,
         "Column3": 0,
         "Column4": "SP",
@@ -12221,7 +12165,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "IGOR SILVA SOUZA JUNIOR",
+        "Column1": "IGOR SILVA SOUZA JUNIOR ",
         "Column2": 111314416,
         "Column3": 6,
         "Column4": "SP",
@@ -12235,7 +12179,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "IGOR VELOSO DA SILVA",
+        "Column1": "IGOR VELOSO DA SILVA ",
         "Column2": 110393902,
         "Column3": 6,
         "Column4": "SP",
@@ -12249,7 +12193,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "INGRID LAVINY SOUZA DA SILVA",
+        "Column1": "INGRID LAVINY SOUZA DA SILVA ",
         "Column2": 109620456,
         "Column3": 3,
         "Column4": "SP",
@@ -12263,7 +12207,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "INGRID LAVINY SOUZA DA SILVA",
+        "Column1": "INGRID LAVINY SOUZA DA SILVA ",
         "Column2": 109620456,
         "Column3": 3,
         "Column4": "SP",
@@ -12277,7 +12221,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "INGRID LAVINY SOUZA DA SILVA",
+        "Column1": "INGRID LAVINY SOUZA DA SILVA ",
         "Column2": 109620456,
         "Column3": 3,
         "Column4": "SP",
@@ -12291,7 +12235,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "INGRID LAVINY SOUZA DA SILVA",
+        "Column1": "INGRID LAVINY SOUZA DA SILVA ",
         "Column2": 109620456,
         "Column3": 3,
         "Column4": "SP",
@@ -12305,7 +12249,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "INGRID OLIVEIRA SANTOS",
+        "Column1": "INGRID OLIVEIRA SANTOS ",
         "Column2": 110312193,
         "Column3": 5,
         "Column4": "SP",
@@ -12319,7 +12263,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "INGRID OLIVEIRA SANTOS",
+        "Column1": "INGRID OLIVEIRA SANTOS ",
         "Column2": 110312193,
         "Column3": 5,
         "Column4": "SP",
@@ -12333,7 +12277,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "INGRID RAFAELA DA SILVA RAMOS",
+        "Column1": "INGRID RAFAELA DA SILVA RAMOS ",
         "Column2": 111845573,
         "Column3": 3,
         "Column4": "SP",
@@ -12347,7 +12291,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "IRIS SARA DOS SANTOS DIAS",
+        "Column1": "IRIS SARA DOS SANTOS DIAS ",
         "Column2": 109471610,
         "Column3": 8,
         "Column4": "SP",
@@ -12361,7 +12305,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISAAC DA SILVA CABRAL",
+        "Column1": "ISAAC DA SILVA CABRAL ",
         "Column2": 108391037,
         "Column3": 1,
         "Column4": "SP",
@@ -12375,7 +12319,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISAAC DA SILVA CABRAL",
+        "Column1": "ISAAC DA SILVA CABRAL ",
         "Column2": 108391037,
         "Column3": 1,
         "Column4": "SP",
@@ -12389,7 +12333,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISAAC MAGALHÃES LIMA",
+        "Column1": "ISAAC MAGALHÃES LIMA ",
         "Column2": 110366034,
         "Column3": 2,
         "Column4": "SP",
@@ -12403,7 +12347,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISAAC REIMBERG DE SOUZA",
+        "Column1": "ISAAC REIMBERG DE SOUZA ",
         "Column2": 111781405,
         "Column3": 1,
         "Column4": "SP",
@@ -12417,7 +12361,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISAAC RILLIAN CYRINO DE SOUSA",
+        "Column1": "ISAAC RILLIAN CYRINO DE SOUSA ",
         "Column2": 110390064,
         "Column3": "X",
         "Column4": "SP",
@@ -12431,7 +12375,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISAAC RILLIAN CYRINO DE SOUSA",
+        "Column1": "ISAAC RILLIAN CYRINO DE SOUSA ",
         "Column2": 110390064,
         "Column3": "X",
         "Column4": "SP",
@@ -12445,7 +12389,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISAAC RODRIGUES BRINGUEL",
+        "Column1": "ISAAC RODRIGUES BRINGUEL ",
         "Column2": 109380090,
         "Column3": 2,
         "Column4": "SP",
@@ -12459,7 +12403,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISAAC RODRIGUES BRINGUEL",
+        "Column1": "ISAAC RODRIGUES BRINGUEL ",
         "Column2": 109380090,
         "Column3": 2,
         "Column4": "SP",
@@ -12473,7 +12417,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISAAC RODRIGUES BRINGUEL",
+        "Column1": "ISAAC RODRIGUES BRINGUEL ",
         "Column2": 109380090,
         "Column3": 2,
         "Column4": "SP",
@@ -12487,7 +12431,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISAAC RODRIGUES BRINGUEL",
+        "Column1": "ISAAC RODRIGUES BRINGUEL ",
         "Column2": 109380090,
         "Column3": 2,
         "Column4": "SP",
@@ -12501,7 +12445,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISAAC SALES DOS SANTOS",
+        "Column1": "ISAAC SALES DOS SANTOS ",
         "Column2": 112470956,
         "Column3": 3,
         "Column4": "SP",
@@ -12515,7 +12459,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISABELA PEIXOTO SILVA",
+        "Column1": "ISABELA PEIXOTO SILVA ",
         "Column2": 111731556,
         "Column3": 3,
         "Column4": "SP",
@@ -12529,7 +12473,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISABELE TOSTA MACHADO",
+        "Column1": "ISABELE TOSTA MACHADO ",
         "Column2": 111324552,
         "Column3": 9,
         "Column4": "SP",
@@ -12543,7 +12487,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISABELLA FRANCA DOURADO",
+        "Column1": "ISABELLA FRANCA DOURADO ",
         "Column2": 111730152,
         "Column3": 7,
         "Column4": "SP",
@@ -12557,7 +12501,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISABELLA MENDES SELES",
+        "Column1": "ISABELLA MENDES SELES ",
         "Column2": 113295445,
         "Column3": 9,
         "Column4": "SP",
@@ -12571,7 +12515,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISABELLA MORAIS SILVA",
+        "Column1": "ISABELLA MORAIS SILVA ",
         "Column2": 108315289,
         "Column3": 0,
         "Column4": "SP",
@@ -12585,7 +12529,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISABELLA MORAIS SILVA",
+        "Column1": "ISABELLA MORAIS SILVA ",
         "Column2": 108315289,
         "Column3": 0,
         "Column4": "SP",
@@ -12599,7 +12543,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISABELLA SAMARA DE OLIVEIRA FELIX",
+        "Column1": "ISABELLA SAMARA DE OLIVEIRA FELIX ",
         "Column2": 112322897,
         "Column3": 8,
         "Column4": "SP",
@@ -12613,7 +12557,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISABELLA VITORIA RIBEIRO SANTOS RIOS",
+        "Column1": "ISABELLA VITORIA RIBEIRO SANTOS RIOS ",
         "Column2": 112568214,
         "Column3": 0,
         "Column4": "SP",
@@ -12627,7 +12571,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISABELLE DE SOUSA OLIVEIRA",
+        "Column1": "ISABELLE DE SOUSA OLIVEIRA ",
         "Column2": 110389886,
         "Column3": 3,
         "Column4": "SP",
@@ -12641,7 +12585,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISABELLE DE SOUSA OLIVEIRA",
+        "Column1": "ISABELLE DE SOUSA OLIVEIRA ",
         "Column2": 110389886,
         "Column3": 3,
         "Column4": "SP",
@@ -12655,7 +12599,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISABELLE GOMES SOBRAL",
+        "Column1": "ISABELLE GOMES SOBRAL ",
         "Column2": 109343238,
         "Column3": "X",
         "Column4": "SP",
@@ -12669,7 +12613,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISABELLY SILVA RUGGERI",
+        "Column1": "ISABELLY SILVA RUGGERI ",
         "Column2": 112483042,
         "Column3": "X",
         "Column4": "SP",
@@ -12683,7 +12627,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISABELLY SOUZA DOS SANTOS",
+        "Column1": "ISABELLY SOUZA DOS SANTOS ",
         "Column2": 109307716,
         "Column3": 5,
         "Column4": "SP",
@@ -12697,7 +12641,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISABELLY VITÓRIA MORATO DA SILVA",
+        "Column1": "ISABELLY VITÓRIA MORATO DA SILVA ",
         "Column2": 111742826,
         "Column3": 6,
         "Column4": "SP",
@@ -12711,7 +12655,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISABELY RIBEIRO DA SILVA",
+        "Column1": "ISABELY RIBEIRO DA SILVA ",
         "Column2": 107242218,
         "Column3": 9,
         "Column4": "SP",
@@ -12725,7 +12669,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISABELY RIBEIRO DA SILVA",
+        "Column1": "ISABELY RIBEIRO DA SILVA ",
         "Column2": 107242218,
         "Column3": 9,
         "Column4": "SP",
@@ -12739,7 +12683,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISABELY RIBEIRO DA SILVA",
+        "Column1": "ISABELY RIBEIRO DA SILVA ",
         "Column2": 107242218,
         "Column3": 9,
         "Column4": "SP",
@@ -12753,7 +12697,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISABELY RIBEIRO DA SILVA",
+        "Column1": "ISABELY RIBEIRO DA SILVA ",
         "Column2": 107242218,
         "Column3": 9,
         "Column4": "SP",
@@ -12767,7 +12711,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISABELY VITORIA BATISTA FERREIRA",
+        "Column1": "ISABELY VITORIA BATISTA FERREIRA ",
         "Column2": 111730090,
         "Column3": 0,
         "Column4": "SP",
@@ -12781,7 +12725,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISADORA REIS CRUZ",
+        "Column1": "ISADORA REIS CRUZ ",
         "Column2": 111878354,
         "Column3": 2,
         "Column4": "SP",
@@ -12795,7 +12739,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISAQUE DA SILVA DE OLIVEIRA",
+        "Column1": "ISAQUE DA SILVA DE OLIVEIRA ",
         "Column2": 111791954,
         "Column3": 7,
         "Column4": "SP",
@@ -12809,7 +12753,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISAQUE DE MENESES RAMOS",
+        "Column1": "ISAQUE DE MENESES RAMOS ",
         "Column2": 111887469,
         "Column3": 9,
         "Column4": "SP",
@@ -12823,7 +12767,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISAQUE VINICIUS SOUZA DA SILVA",
+        "Column1": "ISAQUE VINICIUS SOUZA DA SILVA ",
         "Column2": 109486881,
         "Column3": 4,
         "Column4": "SP",
@@ -12837,7 +12781,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISAQUE VINICIUS SOUZA DA SILVA",
+        "Column1": "ISAQUE VINICIUS SOUZA DA SILVA ",
         "Column2": 109486881,
         "Column3": 4,
         "Column4": "SP",
@@ -12851,7 +12795,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISAQUE VINICIUS SOUZA DA SILVA",
+        "Column1": "ISAQUE VINICIUS SOUZA DA SILVA ",
         "Column2": 109486881,
         "Column3": 4,
         "Column4": "SP",
@@ -12865,7 +12809,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISAQUE VINICIUS SOUZA DA SILVA",
+        "Column1": "ISAQUE VINICIUS SOUZA DA SILVA ",
         "Column2": 109486881,
         "Column3": 4,
         "Column4": "SP",
@@ -12879,7 +12823,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISIS VITÓRIA DE SOUZA SILVA",
+        "Column1": "ISIS VITÓRIA DE SOUZA SILVA ",
         "Column2": 110308718,
         "Column3": 6,
         "Column4": "SP",
@@ -12893,7 +12837,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISMAEL TAVARES DE MELO",
+        "Column1": "ISMAEL TAVARES DE MELO ",
         "Column2": 109486636,
         "Column3": 2,
         "Column4": "SP",
@@ -12907,7 +12851,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISMAEL TAVARES DE MELO",
+        "Column1": "ISMAEL TAVARES DE MELO ",
         "Column2": 109486636,
         "Column3": 2,
         "Column4": "SP",
@@ -12921,7 +12865,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ISRAEL REIMBERG DE SOUZA",
+        "Column1": "ISRAEL REIMBERG DE SOUZA ",
         "Column2": 115520523,
         "Column3": 6,
         "Column4": "SP",
@@ -12935,7 +12879,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "IZABELLI RODRIGUES NASCIMENTO",
+        "Column1": "IZABELLI RODRIGUES NASCIMENTO ",
         "Column2": 107334592,
         "Column3": 0,
         "Column4": "SP",
@@ -12949,7 +12893,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "IZABELLY FERREIRA DE LIMA",
+        "Column1": "IZABELLY FERREIRA DE LIMA ",
         "Column2": 112639916,
         "Column3": 4,
         "Column4": "SP",
@@ -12963,7 +12907,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "IZABELLY NOVAIS DE OLIVEIRA",
+        "Column1": "IZABELLY NOVAIS DE OLIVEIRA ",
         "Column2": 111772998,
         "Column3": 9,
         "Column4": "SP",
@@ -12977,7 +12921,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JADSON JONATHA MATOSINHO DE JESUS",
+        "Column1": "JADSON JONATHA MATOSINHO DE JESUS ",
         "Column2": 109183474,
         "Column3": "X",
         "Column4": "SP",
@@ -12991,7 +12935,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JADSON JONATHA MATOSINHO DE JESUS",
+        "Column1": "JADSON JONATHA MATOSINHO DE JESUS ",
         "Column2": 109183474,
         "Column3": "X",
         "Column4": "SP",
@@ -13005,7 +12949,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JADY BIANCA BARBOSA DE ARAUJO",
+        "Column1": "JADY BIANCA BARBOSA DE ARAUJO ",
         "Column2": 109343467,
         "Column3": 3,
         "Column4": "SP",
@@ -13019,7 +12963,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JAINARA SANY DA SILVA PRADO",
+        "Column1": "JAINARA SANY DA SILVA PRADO ",
         "Column2": 115520563,
         "Column3": 7,
         "Column4": "SP",
@@ -13033,7 +12977,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JAIRO RODRIGUES DOS SANTOS",
+        "Column1": "JAIRO RODRIGUES DOS SANTOS ",
         "Column2": 111875108,
         "Column3": 5,
         "Column4": "SP",
@@ -13047,7 +12991,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JAMILLY DE JESUS ROCHA",
+        "Column1": "JAMILLY DE JESUS ROCHA ",
         "Column2": 109308629,
         "Column3": 4,
         "Column4": "SP",
@@ -13061,7 +13005,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JAMILLY DE JESUS ROCHA",
+        "Column1": "JAMILLY DE JESUS ROCHA ",
         "Column2": 109308629,
         "Column3": 4,
         "Column4": "SP",
@@ -13075,7 +13019,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JAMILLY OLIVEIRA SANTOS",
+        "Column1": "JAMILLY OLIVEIRA SANTOS ",
         "Column2": 110389733,
         "Column3": 0,
         "Column4": "SP",
@@ -13089,7 +13033,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JAMILLY OLIVEIRA SANTOS",
+        "Column1": "JAMILLY OLIVEIRA SANTOS ",
         "Column2": 110389733,
         "Column3": 0,
         "Column4": "SP",
@@ -13103,7 +13047,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JAMILY DA PAIXÃO FREIRE OLIVEIRA",
+        "Column1": "JAMILY DA PAIXÃO FREIRE OLIVEIRA ",
         "Column2": 112323293,
         "Column3": 3,
         "Column4": "SP",
@@ -13117,7 +13061,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JAQUELINE PEREIRA DOS SANTOS",
+        "Column1": "JAQUELINE PEREIRA DOS SANTOS ",
         "Column2": 109524580,
         "Column3": 6,
         "Column4": "SP",
@@ -13131,7 +13075,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JAQUELINE PEREIRA DOS SANTOS",
+        "Column1": "JAQUELINE PEREIRA DOS SANTOS ",
         "Column2": 109524580,
         "Column3": 6,
         "Column4": "SP",
@@ -13145,7 +13089,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JAYANE AMPARO DOS SANTOS",
+        "Column1": "JAYANE AMPARO DOS SANTOS ",
         "Column2": 112444147,
         "Column3": 5,
         "Column4": "SP",
@@ -13159,7 +13103,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JAYANE ARAUJO DE JESUS",
+        "Column1": "JAYANE ARAUJO DE JESUS ",
         "Column2": 109487211,
         "Column3": 8,
         "Column4": "SP",
@@ -13173,7 +13117,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JAYNE SILVA VIEIRA",
+        "Column1": "JAYNE SILVA VIEIRA ",
         "Column2": 106500391,
         "Column3": 2,
         "Column4": "SP",
@@ -13187,7 +13131,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JAYNE SILVA VIEIRA",
+        "Column1": "JAYNE SILVA VIEIRA ",
         "Column2": 106500391,
         "Column3": 2,
         "Column4": "SP",
@@ -13201,7 +13145,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JAYNE SILVA VIEIRA",
+        "Column1": "JAYNE SILVA VIEIRA ",
         "Column2": 106500391,
         "Column3": 2,
         "Column4": "SP",
@@ -13215,7 +13159,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JAYNE SILVA VIEIRA",
+        "Column1": "JAYNE SILVA VIEIRA ",
         "Column2": 106500391,
         "Column3": 2,
         "Column4": "SP",
@@ -13229,7 +13173,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JEAN DE OLIVEIRA CARLOS",
+        "Column1": "JEAN DE OLIVEIRA CARLOS ",
         "Column2": 108276203,
         "Column3": 9,
         "Column4": "SP",
@@ -13243,7 +13187,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JEAN EDUARDO CORREIA DA SILVA",
+        "Column1": "JEAN EDUARDO CORREIA DA SILVA ",
         "Column2": 109309165,
         "Column3": 4,
         "Column4": "SP",
@@ -13257,7 +13201,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JEAN VITOR MATOS SOUSA",
+        "Column1": "JEAN VITOR MATOS SOUSA ",
         "Column2": 109487241,
         "Column3": 6,
         "Column4": "SP",
@@ -13271,7 +13215,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JEFERSON SILVA VIEIRA",
+        "Column1": "JEFERSON SILVA VIEIRA ",
         "Column2": 106500501,
         "Column3": 5,
         "Column4": "SP",
@@ -13285,7 +13229,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JEFERSON SILVA VIEIRA",
+        "Column1": "JEFERSON SILVA VIEIRA ",
         "Column2": 106500501,
         "Column3": 5,
         "Column4": "SP",
@@ -13299,7 +13243,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JEICIANE RODRIGUES DA SILVA",
+        "Column1": "JEICIANE RODRIGUES DA SILVA ",
         "Column2": 121555796,
         "Column3": 6,
         "Column4": "SP",
@@ -13313,7 +13257,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JEICIANE RODRIGUES DA SILVA",
+        "Column1": "JEICIANE RODRIGUES DA SILVA ",
         "Column2": 121555796,
         "Column3": 6,
         "Column4": "SP",
@@ -13327,7 +13271,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JEICIANE RODRIGUES DA SILVA",
+        "Column1": "JEICIANE RODRIGUES DA SILVA ",
         "Column2": 121555796,
         "Column3": 6,
         "Column4": "SP",
@@ -13341,7 +13285,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JEICIANE RODRIGUES DA SILVA",
+        "Column1": "JEICIANE RODRIGUES DA SILVA ",
         "Column2": 121555796,
         "Column3": 6,
         "Column4": "SP",
@@ -13355,7 +13299,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JENIFER VITORIA BOTELHO DOS SANTOS",
+        "Column1": "JENIFER VITORIA BOTELHO DOS SANTOS ",
         "Column2": 113519917,
         "Column3": 6,
         "Column4": "SP",
@@ -13369,7 +13313,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JENNIFER FERREIRA DA SILVA",
+        "Column1": "JENNIFER FERREIRA DA SILVA ",
         "Column2": 111845561,
         "Column3": 7,
         "Column4": "SP",
@@ -13383,7 +13327,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JENNIFER ISABELA DE SOUSA CORREIA",
+        "Column1": "JENNIFER ISABELA DE SOUSA CORREIA ",
         "Column2": 108362428,
         "Column3": 3,
         "Column4": "SP",
@@ -13397,7 +13341,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JENNIFER NICOLE COELHO SANTANA",
+        "Column1": "JENNIFER NICOLE COELHO SANTANA ",
         "Column2": 111315761,
         "Column3": 6,
         "Column4": "SP",
@@ -13411,7 +13355,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JENNIFER RODRIGUES GOMES",
+        "Column1": "JENNIFER RODRIGUES GOMES ",
         "Column2": 111776851,
         "Column3": "X",
         "Column4": "SP",
@@ -13425,7 +13369,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JENNIFER SANTOS DE FREITAS",
+        "Column1": "JENNIFER SANTOS DE FREITAS ",
         "Column2": 112343174,
         "Column3": 7,
         "Column4": "SP",
@@ -13439,7 +13383,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JENNIFER STEFANY CONCEICAO DOS SANTOS",
+        "Column1": "JENNIFER STEFANY CONCEICAO DOS SANTOS ",
         "Column2": 109486883,
         "Column3": 8,
         "Column4": "SP",
@@ -13453,7 +13397,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JENNIFER STEFANY CONCEICAO DOS SANTOS",
+        "Column1": "JENNIFER STEFANY CONCEICAO DOS SANTOS ",
         "Column2": 109486883,
         "Column3": 8,
         "Column4": "SP",
@@ -13467,7 +13411,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JENNIFER STEFANY CONCEICAO DOS SANTOS",
+        "Column1": "JENNIFER STEFANY CONCEICAO DOS SANTOS ",
         "Column2": 109486883,
         "Column3": 8,
         "Column4": "SP",
@@ -13481,7 +13425,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JENNIFER STEFANY CONCEICAO DOS SANTOS",
+        "Column1": "JENNIFER STEFANY CONCEICAO DOS SANTOS ",
         "Column2": 109486883,
         "Column3": 8,
         "Column4": "SP",
@@ -13495,7 +13439,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JENNYFER DE ALMEIDA MARTINS",
+        "Column1": "JENNYFER DE ALMEIDA MARTINS ",
         "Column2": 110314619,
         "Column3": 1,
         "Column4": "SP",
@@ -13509,7 +13453,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JENNYFER DE ALMEIDA MARTINS",
+        "Column1": "JENNYFER DE ALMEIDA MARTINS ",
         "Column2": 110314619,
         "Column3": 1,
         "Column4": "SP",
@@ -13523,7 +13467,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JENNYFER DE ALMEIDA MARTINS",
+        "Column1": "JENNYFER DE ALMEIDA MARTINS ",
         "Column2": 110314619,
         "Column3": 1,
         "Column4": "SP",
@@ -13537,7 +13481,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JENNYFER DE ALMEIDA MARTINS",
+        "Column1": "JENNYFER DE ALMEIDA MARTINS ",
         "Column2": 110314619,
         "Column3": 1,
         "Column4": "SP",
@@ -13551,7 +13495,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JENNYFER JESUS DIAS DA SILVA",
+        "Column1": "JENNYFER JESUS DIAS DA SILVA ",
         "Column2": 109471516,
         "Column3": 5,
         "Column4": "SP",
@@ -13565,7 +13509,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JENNYFER JESUS DIAS DA SILVA",
+        "Column1": "JENNYFER JESUS DIAS DA SILVA ",
         "Column2": 109471516,
         "Column3": 5,
         "Column4": "SP",
@@ -13579,7 +13523,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JENNYFER JESUS DIAS DA SILVA",
+        "Column1": "JENNYFER JESUS DIAS DA SILVA ",
         "Column2": 109471516,
         "Column3": 5,
         "Column4": "SP",
@@ -13593,7 +13537,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JENNYFER JESUS DIAS DA SILVA",
+        "Column1": "JENNYFER JESUS DIAS DA SILVA ",
         "Column2": 109471516,
         "Column3": 5,
         "Column4": "SP",
@@ -13607,7 +13551,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JHENNEFER EDUARDA SILVA AGUIAR",
+        "Column1": "JHENNEFER EDUARDA SILVA AGUIAR ",
         "Column2": 122735065,
         "Column3": "X",
         "Column4": "SP",
@@ -13621,7 +13565,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JHENNIFER SOUZA BARBOSA",
+        "Column1": "JHENNIFER SOUZA BARBOSA ",
         "Column2": 109429511,
         "Column3": 5,
         "Column4": "SP",
@@ -13635,7 +13579,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JHONATAN ALVES DO NASCIMENTO",
+        "Column1": "JHONATAN ALVES DO NASCIMENTO ",
         "Column2": 109368876,
         "Column3": 2,
         "Column4": "SP",
@@ -13649,7 +13593,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JHONATAN DAMASCENO VIEIRA SANTOS",
+        "Column1": "JHONATAN DAMASCENO VIEIRA SANTOS ",
         "Column2": 109487152,
         "Column3": 7,
         "Column4": "SP",
@@ -13663,7 +13607,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JHONATAN DAMASCENO VIEIRA SANTOS",
+        "Column1": "JHONATAN DAMASCENO VIEIRA SANTOS ",
         "Column2": 109487152,
         "Column3": 7,
         "Column4": "SP",
@@ -13677,7 +13621,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JHONATAN DAMASCENO VIEIRA SANTOS",
+        "Column1": "JHONATAN DAMASCENO VIEIRA SANTOS ",
         "Column2": 109487152,
         "Column3": 7,
         "Column4": "SP",
@@ -13691,7 +13635,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JHONATAN DAMASCENO VIEIRA SANTOS",
+        "Column1": "JHONATAN DAMASCENO VIEIRA SANTOS ",
         "Column2": 109487152,
         "Column3": 7,
         "Column4": "SP",
@@ -13705,7 +13649,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOABE OLIVEIRA SOUSA",
+        "Column1": "JOABE OLIVEIRA SOUSA ",
         "Column2": 110390530,
         "Column3": 2,
         "Column4": "SP",
@@ -13719,7 +13663,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOAO GABRIEL TAVARES DE OLIVEIRA",
+        "Column1": "JOAO GABRIEL TAVARES DE OLIVEIRA ",
         "Column2": 115420877,
         "Column3": 1,
         "Column4": "SP",
@@ -13733,7 +13677,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOAO HENRIQUE SANTOS ZEFERINO",
+        "Column1": "JOAO HENRIQUE SANTOS ZEFERINO ",
         "Column2": 109415872,
         "Column3": 0,
         "Column4": "SP",
@@ -13747,7 +13691,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOAO HENRIQUE SANTOS ZEFERINO",
+        "Column1": "JOAO HENRIQUE SANTOS ZEFERINO ",
         "Column2": 109415872,
         "Column3": 0,
         "Column4": "SP",
@@ -13761,7 +13705,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOAO HENRIQUE SANTOS ZEFERINO",
+        "Column1": "JOAO HENRIQUE SANTOS ZEFERINO ",
         "Column2": 109415872,
         "Column3": 0,
         "Column4": "SP",
@@ -13775,7 +13719,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOAO HENRIQUE SANTOS ZEFERINO",
+        "Column1": "JOAO HENRIQUE SANTOS ZEFERINO ",
         "Column2": 109415872,
         "Column3": 0,
         "Column4": "SP",
@@ -13789,7 +13733,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOAO PEDRO OLIVEIRA DE SOUSA",
+        "Column1": "JOAO PEDRO OLIVEIRA DE SOUSA ",
         "Column2": 110390372,
         "Column3": "X",
         "Column4": "SP",
@@ -13803,7 +13747,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOAO PEDRO SILVA ROCHA",
+        "Column1": "JOAO PEDRO SILVA ROCHA ",
         "Column2": 121262203,
         "Column3": 0,
         "Column4": "SP",
@@ -13817,7 +13761,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOAO PEDRO SILVA ROCHA",
+        "Column1": "JOAO PEDRO SILVA ROCHA ",
         "Column2": 121262203,
         "Column3": 0,
         "Column4": "SP",
@@ -13831,7 +13775,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOAO VICTOR DA SILVA GOMES",
+        "Column1": "JOAO VICTOR DA SILVA GOMES ",
         "Column2": 109471640,
         "Column3": 6,
         "Column4": "SP",
@@ -13845,7 +13789,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOAO VITOR PICCOLI PEREIRA",
+        "Column1": "JOAO VITOR PICCOLI PEREIRA ",
         "Column2": 113210066,
         "Column3": 5,
         "Column4": "SP",
@@ -13859,7 +13803,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOFFRE JUNQUEIRA AGUILERA",
+        "Column1": "JOFFRE JUNQUEIRA AGUILERA ",
         "Column2": 114456814,
         "Column3": 6,
         "Column4": "SP",
@@ -13873,7 +13817,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JONATHAN DE ALMEIDA SILVA SANTOS",
+        "Column1": "JONATHAN DE ALMEIDA SILVA SANTOS ",
         "Column2": 111792982,
         "Column3": 6,
         "Column4": "SP",
@@ -13887,7 +13831,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JONATHAN FRANCO DO OURO",
+        "Column1": "JONATHAN FRANCO DO OURO ",
         "Column2": 110379140,
         "Column3": 0,
         "Column4": "SP",
@@ -13901,7 +13845,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JONATHAN RUAN DE OLIVEIRA SILVA",
+        "Column1": "JONATHAN RUAN DE OLIVEIRA SILVA ",
         "Column2": 120249102,
         "Column3": 9,
         "Column4": "SP",
@@ -13915,7 +13859,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JONATHAN SANTOS DA ROCHA",
+        "Column1": "JONATHAN SANTOS DA ROCHA ",
         "Column2": 109731011,
         "Column3": 5,
         "Column4": "SP",
@@ -13929,7 +13873,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JONATHAN SANTOS DA ROCHA",
+        "Column1": "JONATHAN SANTOS DA ROCHA ",
         "Column2": 109731011,
         "Column3": 5,
         "Column4": "SP",
@@ -13943,7 +13887,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JONATHAN SANTOS DA ROCHA",
+        "Column1": "JONATHAN SANTOS DA ROCHA ",
         "Column2": 109731011,
         "Column3": 5,
         "Column4": "SP",
@@ -13957,7 +13901,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JONATHAN SANTOS DA ROCHA",
+        "Column1": "JONATHAN SANTOS DA ROCHA ",
         "Column2": 109731011,
         "Column3": 5,
         "Column4": "SP",
@@ -13971,7 +13915,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JONATHAN WILLIAM NERES DO NASCIMENTO",
+        "Column1": "JONATHAN WILLIAM NERES DO NASCIMENTO ",
         "Column2": 110841176,
         "Column3": 9,
         "Column4": "SP",
@@ -13985,7 +13929,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JONATHAN WILLIAM NERES DO NASCIMENTO",
+        "Column1": "JONATHAN WILLIAM NERES DO NASCIMENTO ",
         "Column2": 110841176,
         "Column3": 9,
         "Column4": "SP",
@@ -13999,7 +13943,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JONATTAN PETERSON LIMA DA CRUZ",
+        "Column1": "JONATTAN PETERSON LIMA DA CRUZ ",
         "Column2": 108362943,
         "Column3": 8,
         "Column4": "SP",
@@ -14013,7 +13957,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JONATTAN PETERSON LIMA DA CRUZ",
+        "Column1": "JONATTAN PETERSON LIMA DA CRUZ ",
         "Column2": 108362943,
         "Column3": 8,
         "Column4": "SP",
@@ -14027,7 +13971,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JONATTAN PETERSON LIMA DA CRUZ",
+        "Column1": "JONATTAN PETERSON LIMA DA CRUZ ",
         "Column2": 108362943,
         "Column3": 8,
         "Column4": "SP",
@@ -14041,7 +13985,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JONATTAN PETERSON LIMA DA CRUZ",
+        "Column1": "JONATTAN PETERSON LIMA DA CRUZ ",
         "Column2": 108362943,
         "Column3": 8,
         "Column4": "SP",
@@ -14055,7 +13999,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JORGE GABRIEL SANTOS DIAS",
+        "Column1": "JORGE GABRIEL SANTOS DIAS ",
         "Column2": 109307798,
         "Column3": 0,
         "Column4": "SP",
@@ -14069,7 +14013,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOSIMAR DOS SANTOS ARAUJO",
+        "Column1": "JOSIMAR DOS SANTOS ARAUJO ",
         "Column2": 111792934,
         "Column3": 6,
         "Column4": "SP",
@@ -14083,7 +14027,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOSUÉ CORREIA DO NASCIMENTO NETO",
+        "Column1": "JOSUÉ CORREIA DO NASCIMENTO NETO ",
         "Column2": 114573576,
         "Column3": 9,
         "Column4": "SP",
@@ -14097,7 +14041,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOSUÉ SOUTO E SILVA",
+        "Column1": "JOSUÉ SOUTO E SILVA ",
         "Column2": 112569188,
         "Column3": 8,
         "Column4": "SP",
@@ -14111,7 +14055,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOSÉ ANTONIO DA SILVA JÚNIOR",
+        "Column1": "JOSÉ ANTONIO DA SILVA JÚNIOR ",
         "Column2": 113588038,
         "Column3": 4,
         "Column4": "SP",
@@ -14125,7 +14069,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOSÉ CAUÃ CONCEIÇÃO DA SILVA",
+        "Column1": "JOSÉ CAUÃ CONCEIÇÃO DA SILVA ",
         "Column2": 109487213,
         "Column3": 1,
         "Column4": "SP",
@@ -14139,7 +14083,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOSÉ CAUÃ CONCEIÇÃO DA SILVA",
+        "Column1": "JOSÉ CAUÃ CONCEIÇÃO DA SILVA ",
         "Column2": 109487213,
         "Column3": 1,
         "Column4": "SP",
@@ -14153,7 +14097,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOSÉ CAUÃ CONCEIÇÃO DA SILVA",
+        "Column1": "JOSÉ CAUÃ CONCEIÇÃO DA SILVA ",
         "Column2": 109487213,
         "Column3": 1,
         "Column4": "SP",
@@ -14167,7 +14111,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOSÉ CAUÃ CONCEIÇÃO DA SILVA",
+        "Column1": "JOSÉ CAUÃ CONCEIÇÃO DA SILVA ",
         "Column2": 109487213,
         "Column3": 1,
         "Column4": "SP",
@@ -14181,7 +14125,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOSÉ GABRIEL JUVENCIO VIEIRA",
+        "Column1": "JOSÉ GABRIEL JUVENCIO VIEIRA ",
         "Column2": 111840896,
         "Column3": 2,
         "Column4": "SP",
@@ -14195,7 +14139,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOSÉ GABRIEL SANTANA DOS SANTOS",
+        "Column1": "JOSÉ GABRIEL SANTANA DOS SANTOS ",
         "Column2": 109308442,
         "Column3": "X",
         "Column4": "SP",
@@ -14209,7 +14153,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOSÉ GABRIEL SANTANA DOS SANTOS",
+        "Column1": "JOSÉ GABRIEL SANTANA DOS SANTOS ",
         "Column2": 109308442,
         "Column3": "X",
         "Column4": "SP",
@@ -14223,7 +14167,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOSÉ GABRIEL SANTANA DOS SANTOS",
+        "Column1": "JOSÉ GABRIEL SANTANA DOS SANTOS ",
         "Column2": 109308442,
         "Column3": "X",
         "Column4": "SP",
@@ -14237,7 +14181,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOSÉ GABRIEL SANTANA DOS SANTOS",
+        "Column1": "JOSÉ GABRIEL SANTANA DOS SANTOS ",
         "Column2": 109308442,
         "Column3": "X",
         "Column4": "SP",
@@ -14251,7 +14195,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOSÉ VINÍCIUS SOUZA SILVA",
+        "Column1": "JOSÉ VINÍCIUS SOUZA SILVA ",
         "Column2": 121512175,
         "Column3": 1,
         "Column4": "SP",
@@ -14265,7 +14209,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOSÉ WELLINGTON SILVA CAMPOS",
+        "Column1": "JOSÉ WELLINGTON SILVA CAMPOS ",
         "Column2": 110540586,
         "Column3": 2,
         "Column4": "SP",
@@ -14279,7 +14223,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOSÉ WELLINGTON SILVA CAMPOS",
+        "Column1": "JOSÉ WELLINGTON SILVA CAMPOS ",
         "Column2": 110540586,
         "Column3": 2,
         "Column4": "SP",
@@ -14293,7 +14237,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOYCE ELLEN PEREIRA SILVA DE JESUS",
+        "Column1": "JOYCE ELLEN PEREIRA SILVA DE JESUS ",
         "Column2": 109308452,
         "Column3": 2,
         "Column4": "SP",
@@ -14307,7 +14251,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOÃO GABRIEL DA COSTA SANTOS",
+        "Column1": "JOÃO GABRIEL DA COSTA SANTOS ",
         "Column2": 109368912,
         "Column3": 2,
         "Column4": "SP",
@@ -14321,7 +14265,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOÃO LUIS INACIO ANTUNES",
+        "Column1": "JOÃO LUIS INACIO ANTUNES ",
         "Column2": 109306832,
         "Column3": 2,
         "Column4": "SP",
@@ -14335,7 +14279,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOÃO MIGUEL DA SILVA CASTRO",
+        "Column1": "JOÃO MIGUEL DA SILVA CASTRO ",
         "Column2": 109307911,
         "Column3": 3,
         "Column4": "SP",
@@ -14349,7 +14293,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOÃO PAULO DA SILVA PIMENTEL",
+        "Column1": "JOÃO PAULO DA SILVA PIMENTEL ",
         "Column2": 109308435,
         "Column3": 2,
         "Column4": "SP",
@@ -14363,7 +14307,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOÃO PAULO DA SILVA PIMENTEL",
+        "Column1": "JOÃO PAULO DA SILVA PIMENTEL ",
         "Column2": 109308435,
         "Column3": 2,
         "Column4": "SP",
@@ -14377,7 +14321,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOÃO PAULO PAULINO CAVALCANTE",
+        "Column1": "JOÃO PAULO PAULINO CAVALCANTE ",
         "Column2": 110346113,
         "Column3": 8,
         "Column4": "SP",
@@ -14391,7 +14335,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOÃO PEDRO CORDEIRO SIMÕES RODRIGUES",
+        "Column1": "JOÃO PEDRO CORDEIRO SIMÕES RODRIGUES ",
         "Column2": 123348940,
         "Column3": 9,
         "Column4": "SP",
@@ -14405,7 +14349,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOÃO PEDRO CORDEIRO SIMÕES RODRIGUES",
+        "Column1": "JOÃO PEDRO CORDEIRO SIMÕES RODRIGUES ",
         "Column2": 123348940,
         "Column3": 9,
         "Column4": "SP",
@@ -14419,7 +14363,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOÃO PEDRO NOGUEIRA DE SOUZA",
+        "Column1": "JOÃO PEDRO NOGUEIRA DE SOUZA ",
         "Column2": 110385034,
         "Column3": 9,
         "Column4": "SP",
@@ -14433,7 +14377,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOÃO PEDRO RODRIGUES BRAGA",
+        "Column1": "JOÃO PEDRO RODRIGUES BRAGA ",
         "Column2": 112599653,
         "Column3": 5,
         "Column4": "SP",
@@ -14447,7 +14391,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOÃO VICTOR DE CARVALHO FERREIRA",
+        "Column1": "JOÃO VICTOR DE CARVALHO FERREIRA ",
         "Column2": 111561409,
         "Column3": 5,
         "Column4": "SP",
@@ -14461,7 +14405,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOÃO VICTOR DE SOUSA RAMOS",
+        "Column1": "JOÃO VICTOR DE SOUSA RAMOS ",
         "Column2": 110385198,
         "Column3": 6,
         "Column4": "SP",
@@ -14475,7 +14419,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOÃO VICTOR DIAS NASCIMENTO",
+        "Column1": "JOÃO VICTOR DIAS NASCIMENTO ",
         "Column2": 107273934,
         "Column3": 3,
         "Column4": "SP",
@@ -14489,7 +14433,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOÃO VICTOR DIAS NASCIMENTO",
+        "Column1": "JOÃO VICTOR DIAS NASCIMENTO ",
         "Column2": 107273934,
         "Column3": 3,
         "Column4": "SP",
@@ -14503,7 +14447,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOÃO VICTOR DIAS NASCIMENTO",
+        "Column1": "JOÃO VICTOR DIAS NASCIMENTO ",
         "Column2": 107273934,
         "Column3": 3,
         "Column4": "SP",
@@ -14517,7 +14461,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOÃO VICTOR DIAS NASCIMENTO",
+        "Column1": "JOÃO VICTOR DIAS NASCIMENTO ",
         "Column2": 107273934,
         "Column3": 3,
         "Column4": "SP",
@@ -14531,7 +14475,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOÃO VICTOR GOMES DA SILVA",
+        "Column1": "JOÃO VICTOR GOMES DA SILVA ",
         "Column2": 112326600,
         "Column3": 1,
         "Column4": "SP",
@@ -14545,7 +14489,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOÃO VITOR ALVES DA SILVA",
+        "Column1": "JOÃO VITOR ALVES DA SILVA ",
         "Column2": 109471539,
         "Column3": 6,
         "Column4": "SP",
@@ -14559,7 +14503,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOÃO VITOR BATISTA AGUILAR CARDOSO",
+        "Column1": "JOÃO VITOR BATISTA AGUILAR CARDOSO ",
         "Column2": 111791943,
         "Column3": 2,
         "Column4": "SP",
@@ -14573,7 +14517,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOÃO VITOR BERNARDINO ALVES",
+        "Column1": "JOÃO VITOR BERNARDINO ALVES ",
         "Column2": 111791874,
         "Column3": 9,
         "Column4": "SP",
@@ -14587,7 +14531,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOÃO VITOR FARIAS SANTOS",
+        "Column1": "JOÃO VITOR FARIAS SANTOS ",
         "Column2": 109812198,
         "Column3": 3,
         "Column4": "SP",
@@ -14601,7 +14545,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOÃO VITOR FARIAS SANTOS",
+        "Column1": "JOÃO VITOR FARIAS SANTOS ",
         "Column2": 109812198,
         "Column3": 3,
         "Column4": "SP",
@@ -14615,7 +14559,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOÃO VITOR FARIAS SANTOS",
+        "Column1": "JOÃO VITOR FARIAS SANTOS ",
         "Column2": 109812198,
         "Column3": 3,
         "Column4": "SP",
@@ -14629,7 +14573,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOÃO VITOR FARIAS SANTOS",
+        "Column1": "JOÃO VITOR FARIAS SANTOS ",
         "Column2": 109812198,
         "Column3": 3,
         "Column4": "SP",
@@ -14643,7 +14587,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOÃO VITOR MOREIRA SANTOS",
+        "Column1": "JOÃO VITOR MOREIRA SANTOS ",
         "Column2": 105720112,
         "Column3": 1,
         "Column4": "SP",
@@ -14657,7 +14601,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOÃO VITOR QUEIROZ RIBEIRO",
+        "Column1": "JOÃO VITOR QUEIROZ RIBEIRO ",
         "Column2": 110390016,
         "Column3": "X",
         "Column4": "SP",
@@ -14671,7 +14615,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JOÃO VITOR SANTOS DINIZ",
+        "Column1": "JOÃO VITOR SANTOS DINIZ ",
         "Column2": 122896238,
         "Column3": 8,
         "Column4": "SP",
@@ -14685,7 +14629,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JUAN ALVES BELTRAMI",
+        "Column1": "JUAN ALVES BELTRAMI ",
         "Column2": 110366487,
         "Column3": 6,
         "Column4": "SP",
@@ -14699,7 +14643,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JUAN BOSCO DE ALMEIDA",
+        "Column1": "JUAN BOSCO DE ALMEIDA ",
         "Column2": 113488627,
         "Column3": 5,
         "Column4": "SP",
@@ -14713,7 +14657,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JUAN DE ANDRADE SILVA",
+        "Column1": "JUAN DE ANDRADE SILVA ",
         "Column2": 110390964,
         "Column3": 2,
         "Column4": "SP",
@@ -14727,7 +14671,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JUAN GABRIEL SALLES",
+        "Column1": "JUAN GABRIEL SALLES ",
         "Column2": 109307722,
         "Column3": 0,
         "Column4": "SP",
@@ -14741,7 +14685,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JUAN GABRIEL SALLES",
+        "Column1": "JUAN GABRIEL SALLES ",
         "Column2": 109307722,
         "Column3": 0,
         "Column4": "SP",
@@ -14755,7 +14699,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JUAN NUNES DA CONCEIÇÃO SILVA",
+        "Column1": "JUAN NUNES DA CONCEIÇÃO SILVA ",
         "Column2": 111730182,
         "Column3": 5,
         "Column4": "SP",
@@ -14769,7 +14713,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JUAN PABLO DA SILVA GUIDO",
+        "Column1": "JUAN PABLO DA SILVA GUIDO ",
         "Column2": 109469331,
         "Column3": 5,
         "Column4": "SP",
@@ -14783,7 +14727,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JUAN ROBERTO DO NASCIMENTO SILVA",
+        "Column1": "JUAN ROBERTO DO NASCIMENTO SILVA ",
         "Column2": 109867675,
         "Column3": 0,
         "Column4": "SP",
@@ -14797,7 +14741,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JUAN ROBERTO DO NASCIMENTO SILVA",
+        "Column1": "JUAN ROBERTO DO NASCIMENTO SILVA ",
         "Column2": 109867675,
         "Column3": 0,
         "Column4": "SP",
@@ -14811,7 +14755,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JUCIMARA ROCHA SILVA DOS REIS",
+        "Column1": "JUCIMARA ROCHA SILVA DOS REIS ",
         "Column2": 112166995,
         "Column3": 5,
         "Column4": "SP",
@@ -14825,7 +14769,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JUCYMARA SANTANA TELES",
+        "Column1": "JUCYMARA SANTANA TELES ",
         "Column2": 110367325,
         "Column3": 7,
         "Column4": "SP",
@@ -14839,7 +14783,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIA ALVES SALES",
+        "Column1": "JULIA ALVES SALES ",
         "Column2": 105805377,
         "Column3": 2,
         "Column4": "SP",
@@ -14853,7 +14797,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIA ALVES SALES",
+        "Column1": "JULIA ALVES SALES ",
         "Column2": 105805377,
         "Column3": 2,
         "Column4": "SP",
@@ -14867,7 +14811,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIA ALVES SALES",
+        "Column1": "JULIA ALVES SALES ",
         "Column2": 105805377,
         "Column3": 2,
         "Column4": "SP",
@@ -14881,7 +14825,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIA ALVES SALES",
+        "Column1": "JULIA ALVES SALES ",
         "Column2": 105805377,
         "Column3": 2,
         "Column4": "SP",
@@ -14895,7 +14839,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIA BARBOSA DA SILVA",
+        "Column1": "JULIA BARBOSA DA SILVA ",
         "Column2": 109310191,
         "Column3": "X",
         "Column4": "SP",
@@ -14909,7 +14853,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIA BARBOSA DA SILVA",
+        "Column1": "JULIA BARBOSA DA SILVA ",
         "Column2": 109310191,
         "Column3": "X",
         "Column4": "SP",
@@ -14923,7 +14867,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIA BUCIOC DOS SANTOS",
+        "Column1": "JULIA BUCIOC DOS SANTOS ",
         "Column2": 108342572,
         "Column3": 9,
         "Column4": "SP",
@@ -14937,7 +14881,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIA BUCIOC DOS SANTOS",
+        "Column1": "JULIA BUCIOC DOS SANTOS ",
         "Column2": 108342572,
         "Column3": 9,
         "Column4": "SP",
@@ -14951,7 +14895,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIA BUCIOC DOS SANTOS",
+        "Column1": "JULIA BUCIOC DOS SANTOS ",
         "Column2": 108342572,
         "Column3": 9,
         "Column4": "SP",
@@ -14965,7 +14909,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIA BUCIOC DOS SANTOS",
+        "Column1": "JULIA BUCIOC DOS SANTOS ",
         "Column2": 108342572,
         "Column3": 9,
         "Column4": "SP",
@@ -14979,7 +14923,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIA DA SILVA SANTOS",
+        "Column1": "JULIA DA SILVA SANTOS ",
         "Column2": 109415944,
         "Column3": "X",
         "Column4": "SP",
@@ -14993,7 +14937,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIA DA SILVA SANTOS",
+        "Column1": "JULIA DA SILVA SANTOS ",
         "Column2": 109415944,
         "Column3": "X",
         "Column4": "SP",
@@ -15007,7 +14951,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIA DA SILVA SANTOS",
+        "Column1": "JULIA DA SILVA SANTOS ",
         "Column2": 109415944,
         "Column3": "X",
         "Column4": "SP",
@@ -15021,7 +14965,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIA DA SILVA SANTOS",
+        "Column1": "JULIA DA SILVA SANTOS ",
         "Column2": 109415944,
         "Column3": "X",
         "Column4": "SP",
@@ -15035,7 +14979,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIA DE SOUZA PEREIRA QUEIROZ DE LIMA",
+        "Column1": "JULIA DE SOUZA PEREIRA QUEIROZ DE LIMA ",
         "Column2": 113306805,
         "Column3": 4,
         "Column4": "SP",
@@ -15049,7 +14993,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIA JESUS DE OLIVEIRA",
+        "Column1": "JULIA JESUS DE OLIVEIRA ",
         "Column2": 112034779,
         "Column3": 8,
         "Column4": "SP",
@@ -15063,7 +15007,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIA LOPES JORDÃO",
+        "Column1": "JULIA LOPES JORDÃO ",
         "Column2": 106533918,
         "Column3": 5,
         "Column4": "SP",
@@ -15077,7 +15021,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIA LOPES JORDÃO",
+        "Column1": "JULIA LOPES JORDÃO ",
         "Column2": 106533918,
         "Column3": 5,
         "Column4": "SP",
@@ -15091,7 +15035,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIA LUCINDA SILVA FERREIRA",
+        "Column1": "JULIA LUCINDA SILVA FERREIRA ",
         "Column2": 111360637,
         "Column3": "X",
         "Column4": "SP",
@@ -15105,7 +15049,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIA NASCIMENTO FIRMINO",
+        "Column1": "JULIA NASCIMENTO FIRMINO ",
         "Column2": 109486884,
         "Column3": "X",
         "Column4": "SP",
@@ -15119,7 +15063,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIA NASCIMENTO FIRMINO",
+        "Column1": "JULIA NASCIMENTO FIRMINO ",
         "Column2": 109486884,
         "Column3": "X",
         "Column4": "SP",
@@ -15133,7 +15077,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIA NASCIMENTO FIRMINO",
+        "Column1": "JULIA NASCIMENTO FIRMINO ",
         "Column2": 109486884,
         "Column3": "X",
         "Column4": "SP",
@@ -15147,7 +15091,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIA NASCIMENTO FIRMINO",
+        "Column1": "JULIA NASCIMENTO FIRMINO ",
         "Column2": 109486884,
         "Column3": "X",
         "Column4": "SP",
@@ -15161,7 +15105,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIA OLIVEIRA GOMES",
+        "Column1": "JULIA OLIVEIRA GOMES ",
         "Column2": 108738191,
         "Column3": 5,
         "Column4": "SP",
@@ -15175,7 +15119,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIA PEREIRA GOTARDO",
+        "Column1": "JULIA PEREIRA GOTARDO ",
         "Column2": 109309386,
         "Column3": 9,
         "Column4": "SP",
@@ -15189,7 +15133,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIA PEREIRA GOTARDO",
+        "Column1": "JULIA PEREIRA GOTARDO ",
         "Column2": 109309386,
         "Column3": 9,
         "Column4": "SP",
@@ -15203,7 +15147,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIA PEREIRA GOTARDO",
+        "Column1": "JULIA PEREIRA GOTARDO ",
         "Column2": 109309386,
         "Column3": 9,
         "Column4": "SP",
@@ -15217,7 +15161,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIA PEREIRA GOTARDO",
+        "Column1": "JULIA PEREIRA GOTARDO ",
         "Column2": 109309386,
         "Column3": 9,
         "Column4": "SP",
@@ -15231,7 +15175,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIA RAELE ALMEIDA SILVA",
+        "Column1": "JULIA RAELE ALMEIDA SILVA ",
         "Column2": 122945695,
         "Column3": 8,
         "Column4": "SP",
@@ -15245,7 +15189,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIA SILVA DE SOUZA MOTA",
+        "Column1": "JULIA SILVA DE SOUZA MOTA ",
         "Column2": 113218667,
         "Column3": 5,
         "Column4": "SP",
@@ -15259,7 +15203,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIA SILVA DE SOUZA MOTA",
+        "Column1": "JULIA SILVA DE SOUZA MOTA ",
         "Column2": 113218667,
         "Column3": 5,
         "Column4": "SP",
@@ -15273,7 +15217,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIA TAUANY DUTRA SILVA",
+        "Column1": "JULIA TAUANY DUTRA SILVA ",
         "Column2": 111841130,
         "Column3": 4,
         "Column4": "SP",
@@ -15287,7 +15231,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIA VICTORIA SANTOS DO NASCIMENTO",
+        "Column1": "JULIA VICTORIA SANTOS DO NASCIMENTO ",
         "Column2": 108309374,
         "Column3": 5,
         "Column4": "SP",
@@ -15301,7 +15245,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIANA PEREIRA DA CONCEIÇÃO",
+        "Column1": "JULIANA PEREIRA DA CONCEIÇÃO ",
         "Column2": 111781368,
         "Column3": "X",
         "Column4": "SP",
@@ -15315,7 +15259,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIETY VITORIA RIBEIRO COSTA",
+        "Column1": "JULIETY VITORIA RIBEIRO COSTA ",
         "Column2": 111791859,
         "Column3": 2,
         "Column4": "SP",
@@ -15329,7 +15273,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIO CESAR OLIVEIRA DIAS",
+        "Column1": "JULIO CESAR OLIVEIRA DIAS ",
         "Column2": 111887600,
         "Column3": 3,
         "Column4": "SP",
@@ -15343,7 +15287,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULIO CESAR OLIVEIRA DIAS",
+        "Column1": "JULIO CESAR OLIVEIRA DIAS ",
         "Column2": 111887600,
         "Column3": 3,
         "Column4": "SP",
@@ -15357,7 +15301,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULLIA ALVES DA SILVA",
+        "Column1": "JULLIA ALVES DA SILVA ",
         "Column2": 109486662,
         "Column3": 3,
         "Column4": "SP",
@@ -15371,7 +15315,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULLIA ALVES DA SILVA",
+        "Column1": "JULLIA ALVES DA SILVA ",
         "Column2": 109486662,
         "Column3": 3,
         "Column4": "SP",
@@ -15385,7 +15329,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULLIA ALVES DA SILVA",
+        "Column1": "JULLIA ALVES DA SILVA ",
         "Column2": 109486662,
         "Column3": 3,
         "Column4": "SP",
@@ -15399,7 +15343,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JULLIA ALVES DA SILVA",
+        "Column1": "JULLIA ALVES DA SILVA ",
         "Column2": 109486662,
         "Column3": 3,
         "Column4": "SP",
@@ -15413,7 +15357,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JÉSSICA BARBOSA COUTO",
+        "Column1": "JÉSSICA BARBOSA COUTO ",
         "Column2": 109334784,
         "Column3": 3,
         "Column4": "SP",
@@ -15427,7 +15371,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JÉSSICA BARBOSA COUTO",
+        "Column1": "JÉSSICA BARBOSA COUTO ",
         "Column2": 109334784,
         "Column3": 3,
         "Column4": "SP",
@@ -15441,7 +15385,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JÉSSICA BARBOSA COUTO",
+        "Column1": "JÉSSICA BARBOSA COUTO ",
         "Column2": 109334784,
         "Column3": 3,
         "Column4": "SP",
@@ -15455,7 +15399,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JÉSSICA BARBOSA COUTO",
+        "Column1": "JÉSSICA BARBOSA COUTO ",
         "Column2": 109334784,
         "Column3": 3,
         "Column4": "SP",
@@ -15469,7 +15413,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JÉSSICA VIANA MEDINA DOS SANTOS",
+        "Column1": "JÉSSICA VIANA MEDINA DOS SANTOS ",
         "Column2": 109335109,
         "Column3": 3,
         "Column4": "SP",
@@ -15483,7 +15427,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JÉSSICA VIANA MEDINA DOS SANTOS",
+        "Column1": "JÉSSICA VIANA MEDINA DOS SANTOS ",
         "Column2": 109335109,
         "Column3": 3,
         "Column4": "SP",
@@ -15497,7 +15441,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JÉSSICA VIANA MEDINA DOS SANTOS",
+        "Column1": "JÉSSICA VIANA MEDINA DOS SANTOS ",
         "Column2": 109335109,
         "Column3": 3,
         "Column4": "SP",
@@ -15511,7 +15455,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JÉSSICA VIANA MEDINA DOS SANTOS",
+        "Column1": "JÉSSICA VIANA MEDINA DOS SANTOS ",
         "Column2": 109335109,
         "Column3": 3,
         "Column4": "SP",
@@ -15525,7 +15469,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JÚLIA BEATRIZ FARIA DE ANDRADE",
+        "Column1": "JÚLIA BEATRIZ FARIA DE ANDRADE ",
         "Column2": 111845553,
         "Column3": 8,
         "Column4": "SP",
@@ -15539,7 +15483,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JÚLIA FERNANDA SOARES FERREIRA",
+        "Column1": "JÚLIA FERNANDA SOARES FERREIRA ",
         "Column2": 108363841,
         "Column3": 5,
         "Column4": "SP",
@@ -15553,7 +15497,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JÚLIA FERNANDA SOARES FERREIRA",
+        "Column1": "JÚLIA FERNANDA SOARES FERREIRA ",
         "Column2": 108363841,
         "Column3": 5,
         "Column4": "SP",
@@ -15567,7 +15511,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JÚLIA ISABELLA SOUZA DIAS",
+        "Column1": "JÚLIA ISABELLA SOUZA DIAS ",
         "Column2": 109343410,
         "Column3": 7,
         "Column4": "SP",
@@ -15581,7 +15525,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JÚLIA ROSA ALVES MOREIRA",
+        "Column1": "JÚLIA ROSA ALVES MOREIRA ",
         "Column2": 109469029,
         "Column3": 6,
         "Column4": "SP",
@@ -15595,7 +15539,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JÚLIA VITÓRIA DE SANTANA MUNIS",
+        "Column1": "JÚLIA VITÓRIA DE SANTANA MUNIS ",
         "Column2": 109471695,
         "Column3": 9,
         "Column4": "SP",
@@ -15609,7 +15553,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JÚLIO CÉSAR LOPES DA COSTA",
+        "Column1": "JÚLIO CÉSAR LOPES DA COSTA ",
         "Column2": 110307107,
         "Column3": 5,
         "Column4": "SP",
@@ -15623,7 +15567,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JÚLIO CÉSAR LOPES DA COSTA",
+        "Column1": "JÚLIO CÉSAR LOPES DA COSTA ",
         "Column2": 110307107,
         "Column3": 5,
         "Column4": "SP",
@@ -15637,7 +15581,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JÚLIO CÉSAR LOPES DA COSTA",
+        "Column1": "JÚLIO CÉSAR LOPES DA COSTA ",
         "Column2": 110307107,
         "Column3": 5,
         "Column4": "SP",
@@ -15651,7 +15595,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JÚLIO CÉSAR LOPES DA COSTA",
+        "Column1": "JÚLIO CÉSAR LOPES DA COSTA ",
         "Column2": 110307107,
         "Column3": 5,
         "Column4": "SP",
@@ -15665,7 +15609,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "JÚLIO CÉSAR MARTINS DO NASCIMENTO",
+        "Column1": "JÚLIO CÉSAR MARTINS DO NASCIMENTO ",
         "Column2": 112471534,
         "Column3": 4,
         "Column4": "SP",
@@ -15679,7 +15623,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KADSON CRISTIANO DE SOUSA FERNANDES",
+        "Column1": "KADSON CRISTIANO DE SOUSA FERNANDES ",
         "Column2": 116805029,
         "Column3": 7,
         "Column4": "SP",
@@ -15693,7 +15637,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAIC DIAS PASSOS",
+        "Column1": "KAIC DIAS PASSOS ",
         "Column2": 114561127,
         "Column3": 8,
         "Column4": "SP",
@@ -15707,7 +15651,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAIKI FELIPE DUTRA DA SILVA",
+        "Column1": "KAIKI FELIPE DUTRA DA SILVA ",
         "Column2": 110385222,
         "Column3": "X",
         "Column4": "SP",
@@ -15721,7 +15665,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAIO HENRIQUE JOSUÉ DE LIMA",
+        "Column1": "KAIO HENRIQUE JOSUÉ DE LIMA ",
         "Column2": 111875110,
         "Column3": 3,
         "Column4": "SP",
@@ -15735,7 +15679,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAIO LEMOS DE FARIAS",
+        "Column1": "KAIO LEMOS DE FARIAS ",
         "Column2": 109308213,
         "Column3": 6,
         "Column4": "SP",
@@ -15749,7 +15693,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAIO VICENTE COSTA",
+        "Column1": "KAIO VICENTE COSTA ",
         "Column2": 108334927,
         "Column3": 2,
         "Column4": "SP",
@@ -15763,7 +15707,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAIO VICENTE COSTA",
+        "Column1": "KAIO VICENTE COSTA ",
         "Column2": 108334927,
         "Column3": 2,
         "Column4": "SP",
@@ -15777,7 +15721,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAIQUE ALVES DOS SANTOS",
+        "Column1": "KAIQUE ALVES DOS SANTOS ",
         "Column2": 109307917,
         "Column3": 4,
         "Column4": "SP",
@@ -15791,7 +15735,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAIQUE DE SOUZA LOPES",
+        "Column1": "KAIQUE DE SOUZA LOPES ",
         "Column2": 110303844,
         "Column3": 8,
         "Column4": "SP",
@@ -15805,7 +15749,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAIQUE DINDAIMON DA SILVA PRADO",
+        "Column1": "KAIQUE DINDAIMON DA SILVA PRADO ",
         "Column2": 109415873,
         "Column3": 2,
         "Column4": "SP",
@@ -15819,7 +15763,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAIQUE DINDAIMON DA SILVA PRADO",
+        "Column1": "KAIQUE DINDAIMON DA SILVA PRADO ",
         "Column2": 109415873,
         "Column3": 2,
         "Column4": "SP",
@@ -15833,7 +15777,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAIQUE DOS SANTOS SILVA",
+        "Column1": "KAIQUE DOS SANTOS SILVA ",
         "Column2": 109469109,
         "Column3": 4,
         "Column4": "SP",
@@ -15847,7 +15791,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAIQUE SAMUEL SOARES DOS SANTOS",
+        "Column1": "KAIQUE SAMUEL SOARES DOS SANTOS ",
         "Column2": 109308165,
         "Column3": "X",
         "Column4": "SP",
@@ -15861,7 +15805,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAIQUE SANTOS ARAUJO",
+        "Column1": "KAIQUE SANTOS ARAUJO ",
         "Column2": 109308462,
         "Column3": 5,
         "Column4": "SP",
@@ -15875,7 +15819,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAIQUE SANTOS ARAUJO",
+        "Column1": "KAIQUE SANTOS ARAUJO ",
         "Column2": 109308462,
         "Column3": 5,
         "Column4": "SP",
@@ -15889,7 +15833,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAIQUE SIQUEIRA DE OLIVEIRA",
+        "Column1": "KAIQUE SIQUEIRA DE OLIVEIRA ",
         "Column2": 107263378,
         "Column3": 4,
         "Column4": "SP",
@@ -15903,7 +15847,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAIQUE SIQUEIRA DE OLIVEIRA",
+        "Column1": "KAIQUE SIQUEIRA DE OLIVEIRA ",
         "Column2": 107263378,
         "Column3": 4,
         "Column4": "SP",
@@ -15917,7 +15861,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAIQUE SIQUEIRA DE OLIVEIRA",
+        "Column1": "KAIQUE SIQUEIRA DE OLIVEIRA ",
         "Column2": 107263378,
         "Column3": 4,
         "Column4": "SP",
@@ -15931,7 +15875,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAIQUE SIQUEIRA DE OLIVEIRA",
+        "Column1": "KAIQUE SIQUEIRA DE OLIVEIRA ",
         "Column2": 107263378,
         "Column3": 4,
         "Column4": "SP",
@@ -15945,7 +15889,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAITHYANNY LUIZA DAS NEVES",
+        "Column1": "KAITHYANNY LUIZA DAS NEVES ",
         "Column2": 108279185,
         "Column3": 4,
         "Column4": "SP",
@@ -15959,7 +15903,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAITHYANNY LUIZA DAS NEVES",
+        "Column1": "KAITHYANNY LUIZA DAS NEVES ",
         "Column2": 108279185,
         "Column3": 4,
         "Column4": "SP",
@@ -15973,7 +15917,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAMILA DE SOUZA SARAIVA",
+        "Column1": "KAMILA DE SOUZA SARAIVA ",
         "Column2": 112410013,
         "Column3": 1,
         "Column4": "SP",
@@ -15987,7 +15931,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAMILA DE SOUZA SARAIVA",
+        "Column1": "KAMILA DE SOUZA SARAIVA ",
         "Column2": 112410013,
         "Column3": 1,
         "Column4": "SP",
@@ -16001,7 +15945,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAMILLY VITÓRIA DUTRA CARVALHO",
+        "Column1": "KAMILLY VITÓRIA DUTRA CARVALHO ",
         "Column2": 111910722,
         "Column3": 2,
         "Column4": "SP",
@@ -16015,7 +15959,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAMILLY VITÓRIA DUTRA CARVALHO",
+        "Column1": "KAMILLY VITÓRIA DUTRA CARVALHO ",
         "Column2": 111910722,
         "Column3": 2,
         "Column4": "SP",
@@ -16029,7 +15973,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAMILLY VITÓRIA DUTRA CARVALHO",
+        "Column1": "KAMILLY VITÓRIA DUTRA CARVALHO ",
         "Column2": 111910722,
         "Column3": 2,
         "Column4": "SP",
@@ -16043,7 +15987,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAMILLY VITÓRIA DUTRA CARVALHO",
+        "Column1": "KAMILLY VITÓRIA DUTRA CARVALHO ",
         "Column2": 111910722,
         "Column3": 2,
         "Column4": "SP",
@@ -16057,7 +16001,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KARINA DOS SANTOS SILVA",
+        "Column1": "KARINA DOS SANTOS SILVA ",
         "Column2": 112337564,
         "Column3": 1,
         "Column4": "SP",
@@ -16071,7 +16015,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KARINE FERNANDES GONÇALVES",
+        "Column1": "KARINE FERNANDES GONÇALVES ",
         "Column2": 111773070,
         "Column3": 0,
         "Column4": "SP",
@@ -16085,7 +16029,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KARLA GABRIELA SANTANA DOS SANTOS",
+        "Column1": "KARLA GABRIELA SANTANA DOS SANTOS ",
         "Column2": 111312643,
         "Column3": 7,
         "Column4": "SP",
@@ -16099,7 +16043,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAROLAYNE ESTHEFANY FERREIRA LEAL",
+        "Column1": "KAROLAYNE ESTHEFANY FERREIRA LEAL ",
         "Column2": 113889840,
         "Column3": 5,
         "Column4": "SP",
@@ -16113,7 +16057,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAROLINA DE ARAUJO SOUZA",
+        "Column1": "KAROLINA DE ARAUJO SOUZA ",
         "Column2": 109307881,
         "Column3": 9,
         "Column4": "SP",
@@ -16127,7 +16071,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KARYN DA SILVA SANTOS",
+        "Column1": "KARYN DA SILVA SANTOS ",
         "Column2": 109307787,
         "Column3": 6,
         "Column4": "SP",
@@ -16141,7 +16085,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KARYN DA SILVA SANTOS",
+        "Column1": "KARYN DA SILVA SANTOS ",
         "Column2": 109307787,
         "Column3": 6,
         "Column4": "SP",
@@ -16155,7 +16099,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KATHELLEN LORANY SANTANA SANTOS",
+        "Column1": "KATHELLEN LORANY SANTANA SANTOS ",
         "Column2": 111730179,
         "Column3": 5,
         "Column4": "SP",
@@ -16169,7 +16113,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUA FERREIRA SILVA",
+        "Column1": "KAUA FERREIRA SILVA ",
         "Column2": 109471714,
         "Column3": 9,
         "Column4": "SP",
@@ -16183,7 +16127,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUA FERREIRA SILVA",
+        "Column1": "KAUA FERREIRA SILVA ",
         "Column2": 109471714,
         "Column3": 9,
         "Column4": "SP",
@@ -16197,7 +16141,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUA FERREIRA SILVA",
+        "Column1": "KAUA FERREIRA SILVA ",
         "Column2": 109471714,
         "Column3": 9,
         "Column4": "SP",
@@ -16211,7 +16155,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUA FERREIRA SILVA",
+        "Column1": "KAUA FERREIRA SILVA ",
         "Column2": 109471714,
         "Column3": 9,
         "Column4": "SP",
@@ -16225,7 +16169,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUA JONAS DE ALMEIDA RODRIGUES",
+        "Column1": "KAUA JONAS DE ALMEIDA RODRIGUES ",
         "Column2": 122854153,
         "Column3": "X",
         "Column4": "SP",
@@ -16239,7 +16183,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUA ROSA DE ALMEIDA",
+        "Column1": "KAUA ROSA DE ALMEIDA ",
         "Column2": 111841134,
         "Column3": 1,
         "Column4": "SP",
@@ -16253,7 +16197,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUAN ALVES DOS SANTOS",
+        "Column1": "KAUAN ALVES DOS SANTOS ",
         "Column2": 109307924,
         "Column3": 1,
         "Column4": "SP",
@@ -16267,7 +16211,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUAN ALVES SANTANA",
+        "Column1": "KAUAN ALVES SANTANA ",
         "Column2": 110365829,
         "Column3": 3,
         "Column4": "SP",
@@ -16281,7 +16225,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUAN GONÇALVES AGUIAR ROCHA",
+        "Column1": "KAUAN GONÇALVES AGUIAR ROCHA ",
         "Column2": 109308024,
         "Column3": 3,
         "Column4": "SP",
@@ -16295,7 +16239,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUAN OLIVEIRA DE JESUS",
+        "Column1": "KAUAN OLIVEIRA DE JESUS ",
         "Column2": 109526771,
         "Column3": 1,
         "Column4": "SP",
@@ -16309,7 +16253,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUAN OLIVEIRA DE JESUS",
+        "Column1": "KAUAN OLIVEIRA DE JESUS ",
         "Column2": 109526771,
         "Column3": 1,
         "Column4": "SP",
@@ -16323,7 +16267,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUAN PEREIRA FREITAS DA SILVA",
+        "Column1": "KAUAN PEREIRA FREITAS DA SILVA ",
         "Column2": 109471724,
         "Column3": 1,
         "Column4": "SP",
@@ -16337,7 +16281,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUANE MESSIAS COQUEIRO",
+        "Column1": "KAUANE MESSIAS COQUEIRO ",
         "Column2": 111791868,
         "Column3": 3,
         "Column4": "SP",
@@ -16351,7 +16295,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUANE VITORIA MARQUES GOMES",
+        "Column1": "KAUANE VITORIA MARQUES GOMES ",
         "Column2": 110393486,
         "Column3": 7,
         "Column4": "SP",
@@ -16365,7 +16309,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUANY DA SILVA SOUZA",
+        "Column1": "KAUANY DA SILVA SOUZA ",
         "Column2": 121022966,
         "Column3": 3,
         "Column4": "SP",
@@ -16379,7 +16323,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUANY DE SOUSA FIGUEIREDO",
+        "Column1": "KAUANY DE SOUSA FIGUEIREDO ",
         "Column2": 110365743,
         "Column3": 4,
         "Column4": "SP",
@@ -16393,7 +16337,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUANY GONÇALVES BARRETO",
+        "Column1": "KAUANY GONÇALVES BARRETO ",
         "Column2": 111781394,
         "Column3": 0,
         "Column4": "SP",
@@ -16407,7 +16351,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUANY PEREIRA DO CARMO",
+        "Column1": "KAUANY PEREIRA DO CARMO ",
         "Column2": 111772961,
         "Column3": 8,
         "Column4": "SP",
@@ -16421,7 +16365,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUANY SANTOS ARAUJO",
+        "Column1": "KAUANY SANTOS ARAUJO ",
         "Column2": 110365554,
         "Column3": 1,
         "Column4": "SP",
@@ -16435,7 +16379,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUE FREIRE DOS SANTOS",
+        "Column1": "KAUE FREIRE DOS SANTOS ",
         "Column2": 110393892,
         "Column3": 7,
         "Column4": "SP",
@@ -16449,7 +16393,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUE FREIRE DOS SANTOS",
+        "Column1": "KAUE FREIRE DOS SANTOS ",
         "Column2": 110393892,
         "Column3": 7,
         "Column4": "SP",
@@ -16463,7 +16407,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUE FREIRE DOS SANTOS",
+        "Column1": "KAUE FREIRE DOS SANTOS ",
         "Column2": 110393892,
         "Column3": 7,
         "Column4": "SP",
@@ -16477,7 +16421,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUE FREIRE DOS SANTOS",
+        "Column1": "KAUE FREIRE DOS SANTOS ",
         "Column2": 110393892,
         "Column3": 7,
         "Column4": "SP",
@@ -16491,7 +16435,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUE RIBEIRO DE SOUZA",
+        "Column1": "KAUE RIBEIRO DE SOUZA ",
         "Column2": 111791844,
         "Column3": 0,
         "Column4": "SP",
@@ -16505,7 +16449,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUÃ HENRIQUE DA CONCEIÇÃO",
+        "Column1": "KAUÃ HENRIQUE DA CONCEIÇÃO ",
         "Column2": 107335700,
         "Column3": 4,
         "Column4": "SP",
@@ -16519,7 +16463,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUÃ HENRIQUE DA CONCEIÇÃO",
+        "Column1": "KAUÃ HENRIQUE DA CONCEIÇÃO ",
         "Column2": 107335700,
         "Column3": 4,
         "Column4": "SP",
@@ -16533,7 +16477,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUÃ HENRIQUE DA CONCEIÇÃO",
+        "Column1": "KAUÃ HENRIQUE DA CONCEIÇÃO ",
         "Column2": 107335700,
         "Column3": 4,
         "Column4": "SP",
@@ -16547,7 +16491,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUÃ HENRIQUE DA CONCEIÇÃO",
+        "Column1": "KAUÃ HENRIQUE DA CONCEIÇÃO ",
         "Column2": 107335700,
         "Column3": 4,
         "Column4": "SP",
@@ -16561,7 +16505,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUÃ KAITO DE JESUS SILVA",
+        "Column1": "KAUÃ KAITO DE JESUS SILVA ",
         "Column2": 109342942,
         "Column3": 2,
         "Column4": "SP",
@@ -16575,7 +16519,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUÃ KAITO DE JESUS SILVA",
+        "Column1": "KAUÃ KAITO DE JESUS SILVA ",
         "Column2": 109342942,
         "Column3": 2,
         "Column4": "SP",
@@ -16589,7 +16533,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUÃ LIMA ANDRADE",
+        "Column1": "KAUÃ LIMA ANDRADE ",
         "Column2": 111320057,
         "Column3": 1,
         "Column4": "SP",
@@ -16603,7 +16547,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUÃ LIMA DA SILVA",
+        "Column1": "KAUÃ LIMA DA SILVA ",
         "Column2": 109307960,
         "Column3": 5,
         "Column4": "SP",
@@ -16617,7 +16561,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUÃ RICHARD ALMEIDA LUZ",
+        "Column1": "KAUÃ RICHARD ALMEIDA LUZ ",
         "Column2": 109487195,
         "Column3": 3,
         "Column4": "SP",
@@ -16631,7 +16575,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUÃ SILVA DE OLIVEIRA LUZ",
+        "Column1": "KAUÃ SILVA DE OLIVEIRA LUZ ",
         "Column2": 108058514,
         "Column3": "X",
         "Column4": "SP",
@@ -16645,7 +16589,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUÃ SILVA DE OLIVEIRA LUZ",
+        "Column1": "KAUÃ SILVA DE OLIVEIRA LUZ ",
         "Column2": 108058514,
         "Column3": "X",
         "Column4": "SP",
@@ -16659,7 +16603,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUÃ SILVA DE OLIVEIRA LUZ",
+        "Column1": "KAUÃ SILVA DE OLIVEIRA LUZ ",
         "Column2": 108058514,
         "Column3": "X",
         "Column4": "SP",
@@ -16673,7 +16617,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUÃ SILVA DE OLIVEIRA LUZ",
+        "Column1": "KAUÃ SILVA DE OLIVEIRA LUZ ",
         "Column2": 108058514,
         "Column3": "X",
         "Column4": "SP",
@@ -16687,7 +16631,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUÃ SILVA DOS SANTOS",
+        "Column1": "KAUÃ SILVA DOS SANTOS ",
         "Column2": 109469040,
         "Column3": 5,
         "Column4": "SP",
@@ -16701,7 +16645,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUÊ CÉSAR MOREIRA SILVEIRA",
+        "Column1": "KAUÊ CÉSAR MOREIRA SILVEIRA ",
         "Column2": 110589172,
         "Column3": 0,
         "Column4": "SP",
@@ -16715,7 +16659,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUÊ NICOLAS FERREIRA",
+        "Column1": "KAUÊ NICOLAS FERREIRA ",
         "Column2": 109486608,
         "Column3": 8,
         "Column4": "SP",
@@ -16729,7 +16673,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAUÊ NICOLAS FERREIRA",
+        "Column1": "KAUÊ NICOLAS FERREIRA ",
         "Column2": 109486608,
         "Column3": 8,
         "Column4": "SP",
@@ -16743,7 +16687,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAWAN HENRIQUE DA CRUZ",
+        "Column1": "KAWAN HENRIQUE DA CRUZ ",
         "Column2": 109084292,
         "Column3": 2,
         "Column4": "SP",
@@ -16757,7 +16701,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAWAN HENRIQUE DA CRUZ",
+        "Column1": "KAWAN HENRIQUE DA CRUZ ",
         "Column2": 109084292,
         "Column3": 2,
         "Column4": "SP",
@@ -16771,7 +16715,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAWAN HENRIQUE DA CRUZ",
+        "Column1": "KAWAN HENRIQUE DA CRUZ ",
         "Column2": 109084292,
         "Column3": 2,
         "Column4": "SP",
@@ -16785,7 +16729,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAWAN HENRIQUE DA CRUZ",
+        "Column1": "KAWAN HENRIQUE DA CRUZ ",
         "Column2": 109084292,
         "Column3": 2,
         "Column4": "SP",
@@ -16799,7 +16743,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAWANA SANTANA DE SOUZA",
+        "Column1": "KAWANA SANTANA DE SOUZA ",
         "Column2": 109415981,
         "Column3": 5,
         "Column4": "SP",
@@ -16813,7 +16757,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAWANA SANTANA DE SOUZA",
+        "Column1": "KAWANA SANTANA DE SOUZA ",
         "Column2": 109415981,
         "Column3": 5,
         "Column4": "SP",
@@ -16827,7 +16771,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAWANA SANTANA DE SOUZA",
+        "Column1": "KAWANA SANTANA DE SOUZA ",
         "Column2": 109415981,
         "Column3": 5,
         "Column4": "SP",
@@ -16841,7 +16785,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAWANA SANTANA DE SOUZA",
+        "Column1": "KAWANA SANTANA DE SOUZA ",
         "Column2": 109415981,
         "Column3": 5,
         "Column4": "SP",
@@ -16855,7 +16799,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAWANY ALVES DA SILVA",
+        "Column1": "KAWANY ALVES DA SILVA ",
         "Column2": 109416236,
         "Column3": "X",
         "Column4": "SP",
@@ -16869,7 +16813,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAWANY ALVES DA SILVA",
+        "Column1": "KAWANY ALVES DA SILVA ",
         "Column2": 109416236,
         "Column3": "X",
         "Column4": "SP",
@@ -16883,7 +16827,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAWANY QUEIROZ SILVA",
+        "Column1": "KAWANY QUEIROZ SILVA ",
         "Column2": 110389939,
         "Column3": 9,
         "Column4": "SP",
@@ -16897,7 +16841,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAWE ALVES DA SILVA",
+        "Column1": "KAWE ALVES DA SILVA ",
         "Column2": 115013398,
         "Column3": 3,
         "Column4": "SP",
@@ -16911,7 +16855,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAWE NASCIMENTO ROCHA SANTOS",
+        "Column1": "KAWE NASCIMENTO ROCHA SANTOS ",
         "Column2": 109493176,
         "Column3": 7,
         "Column4": "SP",
@@ -16925,7 +16869,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAWE NASCIMENTO ROCHA SANTOS",
+        "Column1": "KAWE NASCIMENTO ROCHA SANTOS ",
         "Column2": 109493176,
         "Column3": 7,
         "Column4": "SP",
@@ -16939,7 +16883,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAWE NASCIMENTO ROCHA SANTOS",
+        "Column1": "KAWE NASCIMENTO ROCHA SANTOS ",
         "Column2": 109493176,
         "Column3": 7,
         "Column4": "SP",
@@ -16953,7 +16897,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAWE NASCIMENTO ROCHA SANTOS",
+        "Column1": "KAWE NASCIMENTO ROCHA SANTOS ",
         "Column2": 109493176,
         "Column3": 7,
         "Column4": "SP",
@@ -16967,7 +16911,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAYK JUAN SILVA SANTOS",
+        "Column1": "KAYK JUAN SILVA SANTOS ",
         "Column2": 111731708,
         "Column3": 0,
         "Column4": "SP",
@@ -16981,7 +16925,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAYK JUAN SILVA SANTOS",
+        "Column1": "KAYK JUAN SILVA SANTOS ",
         "Column2": 111731708,
         "Column3": 0,
         "Column4": "SP",
@@ -16995,7 +16939,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAYLAN MENEZES DE SOUZA",
+        "Column1": "KAYLAN MENEZES DE SOUZA ",
         "Column2": 114069697,
         "Column3": "X",
         "Column4": "SP",
@@ -17009,7 +16953,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAYQUE DOS SANTOS VIEIRA",
+        "Column1": "KAYQUE DOS SANTOS VIEIRA ",
         "Column2": 110366539,
         "Column3": "X",
         "Column4": "SP",
@@ -17023,7 +16967,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KAYQUE DOS SANTOS VIEIRA",
+        "Column1": "KAYQUE DOS SANTOS VIEIRA ",
         "Column2": 110366539,
         "Column3": "X",
         "Column4": "SP",
@@ -17037,7 +16981,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KELLYSON LUAN SILVA SOUSA",
+        "Column1": "KELLYSON LUAN SILVA SOUSA ",
         "Column2": 122376347,
         "Column3": "X",
         "Column4": "SP",
@@ -17051,7 +16995,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KELVIN ALMEIDA HONORATO",
+        "Column1": "KELVIN ALMEIDA HONORATO ",
         "Column2": 111731697,
         "Column3": "X",
         "Column4": "SP",
@@ -17065,7 +17009,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KELVIN CUSTODIO CASSIANO",
+        "Column1": "KELVIN CUSTODIO CASSIANO ",
         "Column2": 112170744,
         "Column3": 0,
         "Column4": "SP",
@@ -17079,7 +17023,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KELVIN LUCAS NASCIMENTO MIRANDA",
+        "Column1": "KELVIN LUCAS NASCIMENTO MIRANDA ",
         "Column2": 109471734,
         "Column3": 4,
         "Column4": "SP",
@@ -17093,7 +17037,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KELVIN OLIVEIRA SILVA",
+        "Column1": "KELVIN OLIVEIRA SILVA ",
         "Column2": 112343743,
         "Column3": 9,
         "Column4": "SP",
@@ -17107,7 +17051,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KEMILIN VITORIA ALEXANDRE",
+        "Column1": "KEMILIN VITORIA ALEXANDRE ",
         "Column2": 111773054,
         "Column3": 2,
         "Column4": "SP",
@@ -17121,7 +17065,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KEMILLY ESTRELA LOURENÇO",
+        "Column1": "KEMILLY ESTRELA LOURENÇO ",
         "Column2": 108320927,
         "Column3": 9,
         "Column4": "SP",
@@ -17135,7 +17079,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KEMILLY ESTRELA LOURENÇO",
+        "Column1": "KEMILLY ESTRELA LOURENÇO ",
         "Column2": 108320927,
         "Column3": 9,
         "Column4": "SP",
@@ -17149,7 +17093,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KENEDY ALVES DE SANTANA",
+        "Column1": "KENEDY ALVES DE SANTANA ",
         "Column2": 115107290,
         "Column3": 4,
         "Column4": "SP",
@@ -17163,7 +17107,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KENY KAUANY DOS SANTOS SOUZA",
+        "Column1": "KENY KAUANY DOS SANTOS SOUZA ",
         "Column2": 112320923,
         "Column3": 6,
         "Column4": "SP",
@@ -17177,7 +17121,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KEROLLAYNE COSTA CARVALHO",
+        "Column1": "KEROLLAYNE COSTA CARVALHO ",
         "Column2": 111791927,
         "Column3": 4,
         "Column4": "SP",
@@ -17191,7 +17135,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KETELLYN VITORIA ALVES DE SOUZA",
+        "Column1": "KETELLYN VITORIA ALVES DE SOUZA ",
         "Column2": 110393366,
         "Column3": 8,
         "Column4": "SP",
@@ -17205,7 +17149,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KETELLYN VITORIA ALVES DE SOUZA",
+        "Column1": "KETELLYN VITORIA ALVES DE SOUZA ",
         "Column2": 110393366,
         "Column3": 8,
         "Column4": "SP",
@@ -17219,7 +17163,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KETELLYN VITORIA ALVES DE SOUZA",
+        "Column1": "KETELLYN VITORIA ALVES DE SOUZA ",
         "Column2": 110393366,
         "Column3": 8,
         "Column4": "SP",
@@ -17233,7 +17177,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KETELLYN VITORIA ALVES DE SOUZA",
+        "Column1": "KETELLYN VITORIA ALVES DE SOUZA ",
         "Column2": 110393366,
         "Column3": 8,
         "Column4": "SP",
@@ -17247,7 +17191,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KETHELLYN MARTINS NASCIMENTO",
+        "Column1": "KETHELLYN MARTINS NASCIMENTO ",
         "Column2": 109308876,
         "Column3": "X",
         "Column4": "SP",
@@ -17261,7 +17205,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KETHELLYN VITORIA SANTIAGO SILVA",
+        "Column1": "KETHELLYN VITORIA SANTIAGO SILVA ",
         "Column2": 111731594,
         "Column3": 0,
         "Column4": "SP",
@@ -17275,7 +17219,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KETHELYN VICTORIA DA CONCEICAO DUDA",
+        "Column1": "KETHELYN VICTORIA DA CONCEICAO DUDA ",
         "Column2": 111787424,
         "Column3": 2,
         "Column4": "SP",
@@ -17289,7 +17233,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KETLIN CRISTINE ALMEIDA LINHARES",
+        "Column1": "KETLIN CRISTINE ALMEIDA LINHARES ",
         "Column2": 109308665,
         "Column3": 8,
         "Column4": "SP",
@@ -17303,7 +17247,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KETLLEY VITÓRIA CAETANA DUTRA",
+        "Column1": "KETLLEY VITÓRIA CAETANA DUTRA ",
         "Column2": 107335678,
         "Column3": 4,
         "Column4": "SP",
@@ -17317,7 +17261,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KETLLEY VITÓRIA CAETANA DUTRA",
+        "Column1": "KETLLEY VITÓRIA CAETANA DUTRA ",
         "Column2": 107335678,
         "Column3": 4,
         "Column4": "SP",
@@ -17331,7 +17275,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KETLLEY VITÓRIA CAETANA DUTRA",
+        "Column1": "KETLLEY VITÓRIA CAETANA DUTRA ",
         "Column2": 107335678,
         "Column3": 4,
         "Column4": "SP",
@@ -17345,7 +17289,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KETLLEY VITÓRIA CAETANA DUTRA",
+        "Column1": "KETLLEY VITÓRIA CAETANA DUTRA ",
         "Column2": 107335678,
         "Column3": 4,
         "Column4": "SP",
@@ -17359,7 +17303,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KEVELIN PEREIRA NASCIMENTO",
+        "Column1": "KEVELIN PEREIRA NASCIMENTO ",
         "Column2": 113267962,
         "Column3": "X",
         "Column4": "SP",
@@ -17373,7 +17317,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KEVEN LEONARDO CAVALCANTE LUIZ",
+        "Column1": "KEVEN LEONARDO CAVALCANTE LUIZ ",
         "Column2": 110302390,
         "Column3": 1,
         "Column4": "SP",
@@ -17387,7 +17331,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KEVEN LEONARDO CAVALCANTE LUIZ",
+        "Column1": "KEVEN LEONARDO CAVALCANTE LUIZ ",
         "Column2": 110302390,
         "Column3": 1,
         "Column4": "SP",
@@ -17401,7 +17345,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KEVEN LEONARDO CAVALCANTE LUIZ",
+        "Column1": "KEVEN LEONARDO CAVALCANTE LUIZ ",
         "Column2": 110302390,
         "Column3": 1,
         "Column4": "SP",
@@ -17415,7 +17359,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KEVEN LEONARDO CAVALCANTE LUIZ",
+        "Column1": "KEVEN LEONARDO CAVALCANTE LUIZ ",
         "Column2": 110302390,
         "Column3": 1,
         "Column4": "SP",
@@ -17429,7 +17373,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KEVEN TADEU SANTOS DAS VIRGENS",
+        "Column1": "KEVEN TADEU SANTOS DAS VIRGENS ",
         "Column2": 109344625,
         "Column3": 0,
         "Column4": "SP",
@@ -17443,7 +17387,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KEVIN ALECS SOUZA GUEDES",
+        "Column1": "KEVIN ALECS SOUZA GUEDES ",
         "Column2": 109044662,
         "Column3": 7,
         "Column4": "SP",
@@ -17457,7 +17401,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KEVIN COSTA DE OLIVEIRA",
+        "Column1": "KEVIN COSTA DE OLIVEIRA ",
         "Column2": 110390574,
         "Column3": 0,
         "Column4": "SP",
@@ -17471,7 +17415,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KEYLLA GISLLYENNY DA SILVA SOUSA",
+        "Column1": "KEYLLA GISLLYENNY DA SILVA SOUSA ",
         "Column2": 122451627,
         "Column3": 8,
         "Column4": "SP",
@@ -17485,7 +17429,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "KIMBERLY COSTA CAMILO",
+        "Column1": "KIMBERLY COSTA CAMILO ",
         "Column2": 109309175,
         "Column3": 7,
         "Column4": "SP",
@@ -17499,7 +17443,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LAILA PICCOLI CRUZ",
+        "Column1": "LAILA PICCOLI CRUZ ",
         "Column2": 110390970,
         "Column3": 8,
         "Column4": "SP",
@@ -17513,7 +17457,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LAIS DA SILVA RIBEIRO ALMEIDA",
+        "Column1": "LAIS DA SILVA RIBEIRO ALMEIDA ",
         "Column2": 109343473,
         "Column3": 9,
         "Column4": "SP",
@@ -17527,7 +17471,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LAIS WALLY' S MACEDO SILVA",
+        "Column1": "LAIS WALLY ' S MACEDO SILVA",
         "Column2": 112770559,
         "Column3": 3,
         "Column4": "SP",
@@ -17541,7 +17485,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LAISLA SOUSA RODRIGUES",
+        "Column1": "LAISLA SOUSA RODRIGUES ",
         "Column2": 112171813,
         "Column3": 9,
         "Column4": "SP",
@@ -17555,7 +17499,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LARISSA APARECIDA ALVES BISPO",
+        "Column1": "LARISSA APARECIDA ALVES BISPO ",
         "Column2": 111865823,
         "Column3": 1,
         "Column4": "SP",
@@ -17569,7 +17513,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LARISSA BARROS RAMOS",
+        "Column1": "LARISSA BARROS RAMOS ",
         "Column2": 109308673,
         "Column3": 7,
         "Column4": "SP",
@@ -17583,7 +17527,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LARISSA BARROS RAMOS",
+        "Column1": "LARISSA BARROS RAMOS ",
         "Column2": 109308673,
         "Column3": 7,
         "Column4": "SP",
@@ -17597,7 +17541,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LARISSA BRITO CASTRO",
+        "Column1": "LARISSA BRITO CASTRO ",
         "Column2": 111874505,
         "Column3": "X",
         "Column4": "SP",
@@ -17611,7 +17555,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LARISSA CUNHA DE MOURA",
+        "Column1": "LARISSA CUNHA DE MOURA ",
         "Column2": 111793003,
         "Column3": 8,
         "Column4": "SP",
@@ -17625,7 +17569,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LARISSA DOS SANTOS MACHADO",
+        "Column1": "LARISSA DOS SANTOS MACHADO ",
         "Column2": 109712116,
         "Column3": 1,
         "Column4": "SP",
@@ -17639,7 +17583,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LARISSA DOS SANTOS MACHADO",
+        "Column1": "LARISSA DOS SANTOS MACHADO ",
         "Column2": 109712116,
         "Column3": 1,
         "Column4": "SP",
@@ -17653,7 +17597,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LARISSA DOS SANTOS MACHADO",
+        "Column1": "LARISSA DOS SANTOS MACHADO ",
         "Column2": 109712116,
         "Column3": 1,
         "Column4": "SP",
@@ -17667,7 +17611,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LARISSA DOS SANTOS MACHADO",
+        "Column1": "LARISSA DOS SANTOS MACHADO ",
         "Column2": 109712116,
         "Column3": 1,
         "Column4": "SP",
@@ -17681,7 +17625,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LARISSA GABRIELLY DA SILVA",
+        "Column1": "LARISSA GABRIELLY DA SILVA ",
         "Column2": 111731739,
         "Column3": 0,
         "Column4": "SP",
@@ -17695,7 +17639,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LARISSA PEREIRA DA SILVA",
+        "Column1": "LARISSA PEREIRA DA SILVA ",
         "Column2": 110358613,
         "Column3": 0,
         "Column4": "SP",
@@ -17709,7 +17653,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LARISSA PEREIRA DA SILVA",
+        "Column1": "LARISSA PEREIRA DA SILVA ",
         "Column2": 110358613,
         "Column3": 0,
         "Column4": "SP",
@@ -17723,7 +17667,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LARISSA RIBEIRO DE MELO",
+        "Column1": "LARISSA RIBEIRO DE MELO ",
         "Column2": 110366006,
         "Column3": 8,
         "Column4": "SP",
@@ -17737,7 +17681,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LAUAN DE SOUSA RODRIGUES",
+        "Column1": "LAUAN DE SOUSA RODRIGUES ",
         "Column2": 110384985,
         "Column3": 2,
         "Column4": "SP",
@@ -17751,7 +17695,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LAUAN DE SOUSA RODRIGUES",
+        "Column1": "LAUAN DE SOUSA RODRIGUES ",
         "Column2": 110384985,
         "Column3": 2,
         "Column4": "SP",
@@ -17765,7 +17709,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LAURA ALVES AMARAL",
+        "Column1": "LAURA ALVES AMARAL ",
         "Column2": 110140339,
         "Column3": 1,
         "Column4": "SP",
@@ -17779,7 +17723,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LAURA CRISTHINA DO NASCIMENTO SALES",
+        "Column1": "LAURA CRISTHINA DO NASCIMENTO SALES ",
         "Column2": 111792969,
         "Column3": 3,
         "Column4": "SP",
@@ -17793,7 +17737,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LAURA MENDES SILVA",
+        "Column1": "LAURA MENDES SILVA ",
         "Column2": 112473345,
         "Column3": 0,
         "Column4": "SP",
@@ -17807,7 +17751,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LAURA NICOLLI LIMA PEREIRA",
+        "Column1": "LAURA NICOLLI LIMA PEREIRA ",
         "Column2": 110318038,
         "Column3": 1,
         "Column4": "SP",
@@ -17821,7 +17765,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LAURA OLIVEIRA MARQUES FRANCISCO",
+        "Column1": "LAURA OLIVEIRA MARQUES FRANCISCO ",
         "Column2": 108354752,
         "Column3": 5,
         "Column4": "SP",
@@ -17835,7 +17779,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LAURA OLIVEIRA MARQUES FRANCISCO",
+        "Column1": "LAURA OLIVEIRA MARQUES FRANCISCO ",
         "Column2": 108354752,
         "Column3": 5,
         "Column4": "SP",
@@ -17849,7 +17793,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LAURA RODRIGUES AGUIAR",
+        "Column1": "LAURA RODRIGUES AGUIAR ",
         "Column2": 111730015,
         "Column3": 8,
         "Column4": "SP",
@@ -17863,7 +17807,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LAURA SANTANA SILVA",
+        "Column1": "LAURA SANTANA SILVA ",
         "Column2": 110390817,
         "Column3": 0,
         "Column4": "SP",
@@ -17877,7 +17821,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LAURA SANTANA SILVA",
+        "Column1": "LAURA SANTANA SILVA ",
         "Column2": 110390817,
         "Column3": 0,
         "Column4": "SP",
@@ -17891,7 +17835,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LAURA SANTANA SILVA",
+        "Column1": "LAURA SANTANA SILVA ",
         "Column2": 110390817,
         "Column3": 0,
         "Column4": "SP",
@@ -17905,7 +17849,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LAURA SANTANA SILVA",
+        "Column1": "LAURA SANTANA SILVA ",
         "Column2": 110390817,
         "Column3": 0,
         "Column4": "SP",
@@ -17919,7 +17863,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LAURA SOPHIA OLIVEIRA RODRIGUES",
+        "Column1": "LAURA SOPHIA OLIVEIRA RODRIGUES ",
         "Column2": 114088525,
         "Column3": "X",
         "Column4": "SP",
@@ -17933,7 +17877,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LAWHANY GOMES DE SOUZA",
+        "Column1": "LAWHANY GOMES DE SOUZA ",
         "Column2": 112342956,
         "Column3": "X",
         "Column4": "SP",
@@ -17947,7 +17891,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LAYS DE MELO RIBEIRO",
+        "Column1": "LAYS DE MELO RIBEIRO ",
         "Column2": 111792996,
         "Column3": 6,
         "Column4": "SP",
@@ -17961,7 +17905,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LAYSE MOURA DE SOUSA",
+        "Column1": "LAYSE MOURA DE SOUSA ",
         "Column2": 111772944,
         "Column3": 8,
         "Column4": "SP",
@@ -17975,7 +17919,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LAYSLA CRISTINA DOS SANTOS GUIDO",
+        "Column1": "LAYSLA CRISTINA DOS SANTOS GUIDO ",
         "Column2": 109486616,
         "Column3": 7,
         "Column4": "SP",
@@ -17989,7 +17933,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LAYSLA CRISTINA DOS SANTOS GUIDO",
+        "Column1": "LAYSLA CRISTINA DOS SANTOS GUIDO ",
         "Column2": 109486616,
         "Column3": 7,
         "Column4": "SP",
@@ -18003,7 +17947,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LAYSLA CRISTINA SOARES DA SILVA",
+        "Column1": "LAYSLA CRISTINA SOARES DA SILVA ",
         "Column2": 111320572,
         "Column3": 6,
         "Column4": "SP",
@@ -18017,7 +17961,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LAYSSA SAMPAIO DOS SANTOS",
+        "Column1": "LAYSSA SAMPAIO DOS SANTOS ",
         "Column2": 111781383,
         "Column3": 6,
         "Column4": "SP",
@@ -18031,7 +17975,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LAÍS ARAUJO DOS SANTOS",
+        "Column1": "LAÍS ARAUJO DOS SANTOS ",
         "Column2": 111740741,
         "Column3": "X",
         "Column4": "SP",
@@ -18045,7 +17989,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LAÍS ARAUJO DOS SANTOS",
+        "Column1": "LAÍS ARAUJO DOS SANTOS ",
         "Column2": 111740741,
         "Column3": "X",
         "Column4": "SP",
@@ -18059,7 +18003,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LAÍS ARAUJO DOS SANTOS",
+        "Column1": "LAÍS ARAUJO DOS SANTOS ",
         "Column2": 111740741,
         "Column3": "X",
         "Column4": "SP",
@@ -18073,7 +18017,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LEANDERSON COSTA LEAL",
+        "Column1": "LEANDERSON COSTA LEAL ",
         "Column2": 115096299,
         "Column3": 9,
         "Column4": "SP",
@@ -18087,7 +18031,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LEANDRO ALVES BARBOSA",
+        "Column1": "LEANDRO ALVES BARBOSA ",
         "Column2": 113649969,
         "Column3": 6,
         "Column4": "SP",
@@ -18101,7 +18045,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LEANDRO ALVES BARBOZA",
+        "Column1": "LEANDRO ALVES BARBOZA ",
         "Column2": 105311536,
         "Column3": 2,
         "Column4": "SP",
@@ -18115,7 +18059,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LEANDRO ALVES BARBOZA",
+        "Column1": "LEANDRO ALVES BARBOZA ",
         "Column2": 105311536,
         "Column3": 2,
         "Column4": "SP",
@@ -18129,7 +18073,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LEANDRO ALVES BARBOZA",
+        "Column1": "LEANDRO ALVES BARBOZA ",
         "Column2": 105311536,
         "Column3": 2,
         "Column4": "SP",
@@ -18143,7 +18087,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LEANDRO ALVES BARBOZA",
+        "Column1": "LEANDRO ALVES BARBOZA ",
         "Column2": 105311536,
         "Column3": 2,
         "Column4": "SP",
@@ -18157,7 +18101,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LEANDRO CESAR DA SILVA DE LANA",
+        "Column1": "LEANDRO CESAR DA SILVA DE LANA ",
         "Column2": 109430005,
         "Column3": 6,
         "Column4": "SP",
@@ -18171,7 +18115,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LEANDRO CESAR DA SILVA DE LANA",
+        "Column1": "LEANDRO CESAR DA SILVA DE LANA ",
         "Column2": 109430005,
         "Column3": 6,
         "Column4": "SP",
@@ -18185,7 +18129,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LEANDRO KAÍQUE VITALINO DA SILVA",
+        "Column1": "LEANDRO KAÍQUE VITALINO DA SILVA ",
         "Column2": 120120194,
         "Column3": 9,
         "Column4": "SP",
@@ -18199,7 +18143,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LEANDRO KAÍQUE VITALINO DA SILVA",
+        "Column1": "LEANDRO KAÍQUE VITALINO DA SILVA ",
         "Column2": 120120194,
         "Column3": 9,
         "Column4": "SP",
@@ -18213,7 +18157,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LEANDRO SANTOS DA SILVA",
+        "Column1": "LEANDRO SANTOS DA SILVA ",
         "Column2": 110391051,
         "Column3": 6,
         "Column4": "SP",
@@ -18227,7 +18171,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LEILIANE SANTOS DE JESUS",
+        "Column1": "LEILIANE SANTOS DE JESUS ",
         "Column2": 111314205,
         "Column3": 4,
         "Column4": "SP",
@@ -18241,7 +18185,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LEONARDA GIL PEREIRA SOUZA",
+        "Column1": "LEONARDA GIL PEREIRA SOUZA ",
         "Column2": 109334872,
         "Column3": 0,
         "Column4": "SP",
@@ -18255,7 +18199,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LEONARDA GIL PEREIRA SOUZA",
+        "Column1": "LEONARDA GIL PEREIRA SOUZA ",
         "Column2": 109334872,
         "Column3": 0,
         "Column4": "SP",
@@ -18269,7 +18213,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LEONARDA GIL PEREIRA SOUZA",
+        "Column1": "LEONARDA GIL PEREIRA SOUZA ",
         "Column2": 109334872,
         "Column3": 0,
         "Column4": "SP",
@@ -18283,7 +18227,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LEONARDA GIL PEREIRA SOUZA",
+        "Column1": "LEONARDA GIL PEREIRA SOUZA ",
         "Column2": 109334872,
         "Column3": 0,
         "Column4": "SP",
@@ -18297,7 +18241,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LEONARDO AMARAL DE OLIVEIRA",
+        "Column1": "LEONARDO AMARAL DE OLIVEIRA ",
         "Column2": 112572410,
         "Column3": 9,
         "Column4": "SP",
@@ -18311,7 +18255,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LEONARDO DA SILVA LIMA",
+        "Column1": "LEONARDO DA SILVA LIMA ",
         "Column2": 111778835,
         "Column3": 0,
         "Column4": "SP",
@@ -18325,7 +18269,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LEONARDO DA SILVA LIMA",
+        "Column1": "LEONARDO DA SILVA LIMA ",
         "Column2": 111778835,
         "Column3": 0,
         "Column4": "SP",
@@ -18339,7 +18283,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LEONARDO DE OLIVEIRA ALMEIDA",
+        "Column1": "LEONARDO DE OLIVEIRA ALMEIDA ",
         "Column2": 110390027,
         "Column3": 4,
         "Column4": "SP",
@@ -18353,7 +18297,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LEONARDO MACHADO DA SILVA",
+        "Column1": "LEONARDO MACHADO DA SILVA ",
         "Column2": 109309102,
         "Column3": 2,
         "Column4": "SP",
@@ -18367,7 +18311,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LEONARDO MACHADO DA SILVA",
+        "Column1": "LEONARDO MACHADO DA SILVA ",
         "Column2": 109309102,
         "Column3": 2,
         "Column4": "SP",
@@ -18381,7 +18325,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LEONARDO MACHADO DA SILVA",
+        "Column1": "LEONARDO MACHADO DA SILVA ",
         "Column2": 109309102,
         "Column3": 2,
         "Column4": "SP",
@@ -18395,7 +18339,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LEONARDO MACHADO DA SILVA",
+        "Column1": "LEONARDO MACHADO DA SILVA ",
         "Column2": 109309102,
         "Column3": 2,
         "Column4": "SP",
@@ -18409,7 +18353,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LEONARDO MIGUEL DE SANTOS OLIVEIRA",
+        "Column1": "LEONARDO MIGUEL DE SANTOS OLIVEIRA ",
         "Column2": 110864158,
         "Column3": 1,
         "Column4": "SP",
@@ -18423,7 +18367,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LEONARDO SANTOS GUIMARAES",
+        "Column1": "LEONARDO SANTOS GUIMARAES ",
         "Column2": 110393914,
         "Column3": 2,
         "Column4": "SP",
@@ -18437,7 +18381,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LEONARDO SANTOS GUIMARAES",
+        "Column1": "LEONARDO SANTOS GUIMARAES ",
         "Column2": 110393914,
         "Column3": 2,
         "Column4": "SP",
@@ -18451,7 +18395,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LEONARDO SANTOS GUIMARAES",
+        "Column1": "LEONARDO SANTOS GUIMARAES ",
         "Column2": 110393914,
         "Column3": 2,
         "Column4": "SP",
@@ -18465,7 +18409,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LEONARDO SANTOS GUIMARAES",
+        "Column1": "LEONARDO SANTOS GUIMARAES ",
         "Column2": 110393914,
         "Column3": 2,
         "Column4": "SP",
@@ -18479,7 +18423,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LETICIA AIRES DA SILVA",
+        "Column1": "LETICIA AIRES DA SILVA ",
         "Column2": 109487154,
         "Column3": 0,
         "Column4": "SP",
@@ -18493,7 +18437,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LETICIA AIRES DA SILVA",
+        "Column1": "LETICIA AIRES DA SILVA ",
         "Column2": 109487154,
         "Column3": 0,
         "Column4": "SP",
@@ -18507,7 +18451,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LETICIA ALCANTARA DE ANDRADE",
+        "Column1": "LETICIA ALCANTARA DE ANDRADE ",
         "Column2": 112163058,
         "Column3": 3,
         "Column4": "SP",
@@ -18521,7 +18465,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LETICIA ALVES DE SOUZA",
+        "Column1": "LETICIA ALVES DE SOUZA ",
         "Column2": 110393881,
         "Column3": 2,
         "Column4": "SP",
@@ -18535,7 +18479,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LETICIA DA SILVA NUNES",
+        "Column1": "LETICIA DA SILVA NUNES ",
         "Column2": 109487155,
         "Column3": 2,
         "Column4": "SP",
@@ -18549,7 +18493,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LETICIA DA SILVA NUNES",
+        "Column1": "LETICIA DA SILVA NUNES ",
         "Column2": 109487155,
         "Column3": 2,
         "Column4": "SP",
@@ -18563,7 +18507,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LETICIA HELENA INACIO MARQUES",
+        "Column1": "LETICIA HELENA INACIO MARQUES ",
         "Column2": 111792964,
         "Column3": 4,
         "Column4": "SP",
@@ -18577,7 +18521,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LETICIA RIBEIRO DE MELO",
+        "Column1": "LETICIA RIBEIRO DE MELO ",
         "Column2": 109343094,
         "Column3": 1,
         "Column4": "SP",
@@ -18591,7 +18535,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LETICIA RODRIGUES SOARES",
+        "Column1": "LETICIA RODRIGUES SOARES ",
         "Column2": 109309859,
         "Column3": 4,
         "Column4": "SP",
@@ -18605,7 +18549,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LETICIA RODRIGUES SOARES",
+        "Column1": "LETICIA RODRIGUES SOARES ",
         "Column2": 109309859,
         "Column3": 4,
         "Column4": "SP",
@@ -18619,7 +18563,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LETYCIA MARIA DE OLIVEIRA SARAIVA",
+        "Column1": "LETYCIA MARIA DE OLIVEIRA SARAIVA ",
         "Column2": 110390933,
         "Column3": 2,
         "Column4": "SP",
@@ -18633,7 +18577,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LETÍCIA MIRELA DOS SANTOS MOREIRA",
+        "Column1": "LETÍCIA MIRELA DOS SANTOS MOREIRA ",
         "Column2": 111340615,
         "Column3": "X",
         "Column4": "SP",
@@ -18647,7 +18591,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LETÍCIA MIRELA DOS SANTOS MOREIRA",
+        "Column1": "LETÍCIA MIRELA DOS SANTOS MOREIRA ",
         "Column2": 111340615,
         "Column3": "X",
         "Column4": "SP",
@@ -18661,7 +18605,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LETÍCIA MIRELA DOS SANTOS MOREIRA",
+        "Column1": "LETÍCIA MIRELA DOS SANTOS MOREIRA ",
         "Column2": 111340615,
         "Column3": "X",
         "Column4": "SP",
@@ -18675,7 +18619,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LETÍCIA MIRELA DOS SANTOS MOREIRA",
+        "Column1": "LETÍCIA MIRELA DOS SANTOS MOREIRA ",
         "Column2": 111340615,
         "Column3": "X",
         "Column4": "SP",
@@ -18689,7 +18633,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LETÍCIA REGES OZORIO",
+        "Column1": "LETÍCIA REGES OZORIO ",
         "Column2": 111887477,
         "Column3": 8,
         "Column4": "SP",
@@ -18703,7 +18647,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LIDIA DA SILVA DE ALMEIDA",
+        "Column1": "LIDIA DA SILVA DE ALMEIDA ",
         "Column2": 111845575,
         "Column3": 7,
         "Column4": "SP",
@@ -18717,7 +18661,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LIDIA DA SILVA DE ALMEIDA",
+        "Column1": "LIDIA DA SILVA DE ALMEIDA ",
         "Column2": 111845575,
         "Column3": 7,
         "Column4": "SP",
@@ -18731,7 +18675,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LIEDSON VITALINO DA SILVA",
+        "Column1": "LIEDSON VITALINO DA SILVA ",
         "Column2": 120122091,
         "Column3": 9,
         "Column4": "SP",
@@ -18745,7 +18689,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LIEDSON VITALINO DA SILVA",
+        "Column1": "LIEDSON VITALINO DA SILVA ",
         "Column2": 120122091,
         "Column3": 9,
         "Column4": "SP",
@@ -18759,7 +18703,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LIEDSON VITALINO DA SILVA",
+        "Column1": "LIEDSON VITALINO DA SILVA ",
         "Column2": 120122091,
         "Column3": 9,
         "Column4": "SP",
@@ -18773,7 +18717,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LIEDSON VITALINO DA SILVA",
+        "Column1": "LIEDSON VITALINO DA SILVA ",
         "Column2": 120122091,
         "Column3": 9,
         "Column4": "SP",
@@ -18787,7 +18731,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LIVIA EMANUELY MIRANDA OLIVEIRA",
+        "Column1": "LIVIA EMANUELY MIRANDA OLIVEIRA ",
         "Column2": 111731691,
         "Column3": 9,
         "Column4": "SP",
@@ -18801,7 +18745,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LIVIA MARIA DE OLIVEIRA MENOSSI",
+        "Column1": "LIVIA MARIA DE OLIVEIRA MENOSSI ",
         "Column2": 109309867,
         "Column3": 3,
         "Column4": "SP",
@@ -18815,7 +18759,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LIVIA MARIA DE OLIVEIRA MENOSSI",
+        "Column1": "LIVIA MARIA DE OLIVEIRA MENOSSI ",
         "Column2": 109309867,
         "Column3": 3,
         "Column4": "SP",
@@ -18829,7 +18773,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LIVIA SILVA DE OLIVEIRA",
+        "Column1": "LIVIA SILVA DE OLIVEIRA ",
         "Column2": 111792980,
         "Column3": 2,
         "Column4": "SP",
@@ -18843,7 +18787,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LOHAN HENRIQUE DE JESUS DOS SANTOS",
+        "Column1": "LOHAN HENRIQUE DE JESUS DOS SANTOS ",
         "Column2": 113087425,
         "Column3": 4,
         "Column4": "SP",
@@ -18857,7 +18801,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LOHANE MORAES DE SOUSA",
+        "Column1": "LOHANE MORAES DE SOUSA ",
         "Column2": 111731728,
         "Column3": 6,
         "Column4": "SP",
@@ -18871,7 +18815,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LORENA RODRIGUES DOS SANTOS",
+        "Column1": "LORENA RODRIGUES DOS SANTOS ",
         "Column2": 114994893,
         "Column3": 0,
         "Column4": "SP",
@@ -18885,7 +18829,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LORENNA ANGÉLICA DINIZ SILVA",
+        "Column1": "LORENNA ANGÉLICA DINIZ SILVA ",
         "Column2": 110720257,
         "Column3": 7,
         "Column4": "SP",
@@ -18899,7 +18843,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LORRANE SANTOS ALCANTARA",
+        "Column1": "LORRANE SANTOS ALCANTARA ",
         "Column2": 109456590,
         "Column3": 8,
         "Column4": "SP",
@@ -18913,7 +18857,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LORRANE SANTOS ALCANTARA",
+        "Column1": "LORRANE SANTOS ALCANTARA ",
         "Column2": 109456590,
         "Column3": 8,
         "Column4": "SP",
@@ -18927,7 +18871,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LORRANE SANTOS ALCANTARA",
+        "Column1": "LORRANE SANTOS ALCANTARA ",
         "Column2": 109456590,
         "Column3": 8,
         "Column4": "SP",
@@ -18941,7 +18885,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LORRANE SANTOS ALCANTARA",
+        "Column1": "LORRANE SANTOS ALCANTARA ",
         "Column2": 109456590,
         "Column3": 8,
         "Column4": "SP",
@@ -18955,7 +18899,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LORRANY FERNANDA SILVA DOS SANTOS",
+        "Column1": "LORRANY FERNANDA SILVA DOS SANTOS ",
         "Column2": 110334347,
         "Column3": 6,
         "Column4": "SP",
@@ -18969,7 +18913,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LORRANY MACEDO DE SOUZA",
+        "Column1": "LORRANY MACEDO DE SOUZA ",
         "Column2": 105650758,
         "Column3": 5,
         "Column4": "SP",
@@ -18983,7 +18927,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LORRANY SANTANA DE OLIVEIRA",
+        "Column1": "LORRANY SANTANA DE OLIVEIRA ",
         "Column2": 114877409,
         "Column3": 9,
         "Column4": "SP",
@@ -18997,7 +18941,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LORRAYNE HELENA MIRANDA MANOEL",
+        "Column1": "LORRAYNE HELENA MIRANDA MANOEL ",
         "Column2": 115159871,
         "Column3": 9,
         "Column4": "SP",
@@ -19011,7 +18955,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUAN AUGUSTO MOURA DA SILVA",
+        "Column1": "LUAN AUGUSTO MOURA DA SILVA ",
         "Column2": 109507510,
         "Column3": "X",
         "Column4": "SP",
@@ -19025,7 +18969,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUAN AUGUSTO MOURA DA SILVA",
+        "Column1": "LUAN AUGUSTO MOURA DA SILVA ",
         "Column2": 109507510,
         "Column3": "X",
         "Column4": "SP",
@@ -19039,7 +18983,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUAN BRAGA DA SILVA",
+        "Column1": "LUAN BRAGA DA SILVA ",
         "Column2": 111029309,
         "Column3": 4,
         "Column4": "SP",
@@ -19053,7 +18997,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUAN BRAGA DA SILVA",
+        "Column1": "LUAN BRAGA DA SILVA ",
         "Column2": 111029309,
         "Column3": 4,
         "Column4": "SP",
@@ -19067,7 +19011,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUAN DOS SANTOS PEREIRA",
+        "Column1": "LUAN DOS SANTOS PEREIRA ",
         "Column2": 108334027,
         "Column3": "X",
         "Column4": "SP",
@@ -19081,7 +19025,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUAN DOS SANTOS PEREIRA",
+        "Column1": "LUAN DOS SANTOS PEREIRA ",
         "Column2": 108334027,
         "Column3": "X",
         "Column4": "SP",
@@ -19095,7 +19039,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUAN FELIPE SANTOS DA SILVA",
+        "Column1": "LUAN FELIPE SANTOS DA SILVA ",
         "Column2": 110390978,
         "Column3": 2,
         "Column4": "SP",
@@ -19109,7 +19053,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUAN FELIPE SOUZA SANTOS",
+        "Column1": "LUAN FELIPE SOUZA SANTOS ",
         "Column2": 110408056,
         "Column3": 4,
         "Column4": "SP",
@@ -19123,7 +19067,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUAN FELIPE SOUZA SANTOS",
+        "Column1": "LUAN FELIPE SOUZA SANTOS ",
         "Column2": 110408056,
         "Column3": 4,
         "Column4": "SP",
@@ -19137,7 +19081,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUAN FELIPE SOUZA SANTOS",
+        "Column1": "LUAN FELIPE SOUZA SANTOS ",
         "Column2": 110408056,
         "Column3": 4,
         "Column4": "SP",
@@ -19151,7 +19095,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUAN FELIPE SOUZA SANTOS",
+        "Column1": "LUAN FELIPE SOUZA SANTOS ",
         "Column2": 110408056,
         "Column3": 4,
         "Column4": "SP",
@@ -19165,7 +19109,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUAN PEREIRA QUEIROZ",
+        "Column1": "LUAN PEREIRA QUEIROZ ",
         "Column2": 111792930,
         "Column3": 9,
         "Column4": "SP",
@@ -19179,7 +19123,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUAN PINHEIRO DE OLIVEIRA",
+        "Column1": "LUAN PINHEIRO DE OLIVEIRA ",
         "Column2": 100180836,
         "Column3": 8,
         "Column4": "SP",
@@ -19193,7 +19137,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUAN PINHEIRO DE OLIVEIRA",
+        "Column1": "LUAN PINHEIRO DE OLIVEIRA ",
         "Column2": 100180836,
         "Column3": 8,
         "Column4": "SP",
@@ -19207,7 +19151,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUAN RAFAEL PEDRA BARBOSA",
+        "Column1": "LUAN RAFAEL PEDRA BARBOSA ",
         "Column2": 110415924,
         "Column3": 7,
         "Column4": "SP",
@@ -19221,7 +19165,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUAN RAFAEL PEDRA BARBOSA",
+        "Column1": "LUAN RAFAEL PEDRA BARBOSA ",
         "Column2": 110415924,
         "Column3": 7,
         "Column4": "SP",
@@ -19235,7 +19179,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUAN TEIXEIRA DOS SANTOS",
+        "Column1": "LUAN TEIXEIRA DOS SANTOS ",
         "Column2": 112359348,
         "Column3": 6,
         "Column4": "SP",
@@ -19249,7 +19193,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUANA CONCEICAO DA SILVA",
+        "Column1": "LUANA CONCEICAO DA SILVA ",
         "Column2": 111791887,
         "Column3": 7,
         "Column4": "SP",
@@ -19263,7 +19207,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUANA DA SILVA VIANA",
+        "Column1": "LUANA DA SILVA VIANA ",
         "Column2": 115433551,
         "Column3": 3,
         "Column4": "SP",
@@ -19277,7 +19221,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUANA DOS SANTOS MACHADO DE OLIVEIRA",
+        "Column1": "LUANA DOS SANTOS MACHADO DE OLIVEIRA ",
         "Column2": 109487156,
         "Column3": 4,
         "Column4": "SP",
@@ -19291,7 +19235,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUANA DOS SANTOS MACHADO DE OLIVEIRA",
+        "Column1": "LUANA DOS SANTOS MACHADO DE OLIVEIRA ",
         "Column2": 109487156,
         "Column3": 4,
         "Column4": "SP",
@@ -19305,7 +19249,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUANA DOS SANTOS MACHADO DE OLIVEIRA",
+        "Column1": "LUANA DOS SANTOS MACHADO DE OLIVEIRA ",
         "Column2": 109487156,
         "Column3": 4,
         "Column4": "SP",
@@ -19319,7 +19263,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUANA DOS SANTOS MACHADO DE OLIVEIRA",
+        "Column1": "LUANA DOS SANTOS MACHADO DE OLIVEIRA ",
         "Column2": 109487156,
         "Column3": 4,
         "Column4": "SP",
@@ -19333,7 +19277,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUANA OTILIA DA SILVA",
+        "Column1": "LUANA OTILIA DA SILVA ",
         "Column2": 110365930,
         "Column3": 3,
         "Column4": "SP",
@@ -19347,7 +19291,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUANA RIBEIRO DE SOUZA",
+        "Column1": "LUANA RIBEIRO DE SOUZA ",
         "Column2": 109342863,
         "Column3": 6,
         "Column4": "SP",
@@ -19361,7 +19305,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUANA RODRIGUES DA SILVA",
+        "Column1": "LUANA RODRIGUES DA SILVA ",
         "Column2": 111319778,
         "Column3": "X",
         "Column4": "SP",
@@ -19375,7 +19319,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUANA SENA GONÇALVES",
+        "Column1": "LUANA SENA GONÇALVES ",
         "Column2": 111731629,
         "Column3": 4,
         "Column4": "SP",
@@ -19389,7 +19333,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUCAS ANSELMO DA CRUZ",
+        "Column1": "LUCAS ANSELMO DA CRUZ ",
         "Column2": 108258264,
         "Column3": 5,
         "Column4": "SP",
@@ -19403,7 +19347,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUCAS ANSELMO DA CRUZ",
+        "Column1": "LUCAS ANSELMO DA CRUZ ",
         "Column2": 108258264,
         "Column3": 5,
         "Column4": "SP",
@@ -19417,7 +19361,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUCAS DA SILVA GAMA",
+        "Column1": "LUCAS DA SILVA GAMA ",
         "Column2": 110390984,
         "Column3": 8,
         "Column4": "SP",
@@ -19431,7 +19375,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUCAS DA SILVA GAMA",
+        "Column1": "LUCAS DA SILVA GAMA ",
         "Column2": 110390984,
         "Column3": 8,
         "Column4": "SP",
@@ -19445,7 +19389,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUCAS DA SILVA GAMA",
+        "Column1": "LUCAS DA SILVA GAMA ",
         "Column2": 110390984,
         "Column3": 8,
         "Column4": "SP",
@@ -19459,7 +19403,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUCAS DA SILVA GAMA",
+        "Column1": "LUCAS DA SILVA GAMA ",
         "Column2": 110390984,
         "Column3": 8,
         "Column4": "SP",
@@ -19473,7 +19417,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUCAS DE ASSIS VIANA",
+        "Column1": "LUCAS DE ASSIS VIANA ",
         "Column2": 111297101,
         "Column3": 4,
         "Column4": "SP",
@@ -19487,7 +19431,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUCAS DE ASSIS VIANA",
+        "Column1": "LUCAS DE ASSIS VIANA ",
         "Column2": 111297101,
         "Column3": 4,
         "Column4": "SP",
@@ -19501,7 +19445,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUCAS DE ASSIS VIANA",
+        "Column1": "LUCAS DE ASSIS VIANA ",
         "Column2": 111297101,
         "Column3": 4,
         "Column4": "SP",
@@ -19515,7 +19459,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUCAS DE ASSIS VIANA",
+        "Column1": "LUCAS DE ASSIS VIANA ",
         "Column2": 111297101,
         "Column3": 4,
         "Column4": "SP",
@@ -19529,7 +19473,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUCAS DOS SANTOS ARAUJO",
+        "Column1": "LUCAS DOS SANTOS ARAUJO ",
         "Column2": 109342741,
         "Column3": 3,
         "Column4": "SP",
@@ -19543,7 +19487,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUCAS DOS SANTOS ARAUJO",
+        "Column1": "LUCAS DOS SANTOS ARAUJO ",
         "Column2": 112554867,
         "Column3": 8,
         "Column4": "SP",
@@ -19557,7 +19501,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUCAS DOS SANTOS ARAUJO",
+        "Column1": "LUCAS DOS SANTOS ARAUJO ",
         "Column2": 109342741,
         "Column3": 3,
         "Column4": "SP",
@@ -19571,7 +19515,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUCAS DOS SANTOS ARAUJO",
+        "Column1": "LUCAS DOS SANTOS ARAUJO ",
         "Column2": 109342741,
         "Column3": 3,
         "Column4": "SP",
@@ -19585,7 +19529,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUCAS DOS SANTOS ARAUJO",
+        "Column1": "LUCAS DOS SANTOS ARAUJO ",
         "Column2": 109342741,
         "Column3": 3,
         "Column4": "SP",
@@ -19599,7 +19543,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUCAS FELIX DOS SANTOS CRUZ",
+        "Column1": "LUCAS FELIX DOS SANTOS CRUZ ",
         "Column2": 109307671,
         "Column3": 9,
         "Column4": "SP",
@@ -19613,7 +19557,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUCAS FELYPE DOS SANTOS ROCHA",
+        "Column1": "LUCAS FELYPE DOS SANTOS ROCHA ",
         "Column2": 110612025,
         "Column3": 5,
         "Column4": "SP",
@@ -19627,7 +19571,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUCAS FELYPE DOS SANTOS ROCHA",
+        "Column1": "LUCAS FELYPE DOS SANTOS ROCHA ",
         "Column2": 110612025,
         "Column3": 5,
         "Column4": "SP",
@@ -19641,7 +19585,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUCAS GONZAGA SOARES",
+        "Column1": "LUCAS GONZAGA SOARES ",
         "Column2": 110322851,
         "Column3": 1,
         "Column4": "SP",
@@ -19655,7 +19599,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUCAS GONZAGA SOARES",
+        "Column1": "LUCAS GONZAGA SOARES ",
         "Column2": 110322851,
         "Column3": 1,
         "Column4": "SP",
@@ -19669,7 +19613,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUCAS GUEDES MELO DA SILVA",
+        "Column1": "LUCAS GUEDES MELO DA SILVA ",
         "Column2": 109471830,
         "Column3": 0,
         "Column4": "SP",
@@ -19683,7 +19627,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUCAS HENRIQUE ALVES CAVALCANTI",
+        "Column1": "LUCAS HENRIQUE ALVES CAVALCANTI ",
         "Column2": 109309192,
         "Column3": 7,
         "Column4": "SP",
@@ -19697,7 +19641,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUCAS MARIANO DA CONCEIÇÃO",
+        "Column1": "LUCAS MARIANO DA CONCEIÇÃO ",
         "Column2": 111731649,
         "Column3": "X",
         "Column4": "SP",
@@ -19711,7 +19655,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUCAS RODRIGUES DA SILVA",
+        "Column1": "LUCAS RODRIGUES DA SILVA ",
         "Column2": 111322806,
         "Column3": 4,
         "Column4": "SP",
@@ -19725,7 +19669,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUCAS SILVA ALMEIDA",
+        "Column1": "LUCAS SILVA ALMEIDA ",
         "Column2": 109627623,
         "Column3": 9,
         "Column4": "SP",
@@ -19739,7 +19683,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUCAS VIEIRA BENVINDO BARBOSA",
+        "Column1": "LUCAS VIEIRA BENVINDO BARBOSA ",
         "Column2": 109307843,
         "Column3": 1,
         "Column4": "SP",
@@ -19753,7 +19697,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUCIELE MOURA DE SOUSA",
+        "Column1": "LUCIELE MOURA DE SOUSA ",
         "Column2": 111742854,
         "Column3": 0,
         "Column4": "SP",
@@ -19767,7 +19711,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUCYELLE SANTANA DE SOUZA",
+        "Column1": "LUCYELLE SANTANA DE SOUZA ",
         "Column2": 107353244,
         "Column3": 6,
         "Column4": "SP",
@@ -19781,7 +19725,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUCYELLE SANTANA DE SOUZA",
+        "Column1": "LUCYELLE SANTANA DE SOUZA ",
         "Column2": 107353244,
         "Column3": 6,
         "Column4": "SP",
@@ -19795,7 +19739,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUDMILA DOS SANTOS SOARES",
+        "Column1": "LUDMILA DOS SANTOS SOARES ",
         "Column2": 111730194,
         "Column3": 1,
         "Column4": "SP",
@@ -19809,7 +19753,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUDMILA FERREIRA DE SÁ",
+        "Column1": "LUDMILA FERREIRA DE SÁ ",
         "Column2": 115365412,
         "Column3": "X",
         "Column4": "SP",
@@ -19823,7 +19767,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUDMILA PEREIRA DE ALMEIDA",
+        "Column1": "LUDMILA PEREIRA DE ALMEIDA ",
         "Column2": 111791910,
         "Column3": 9,
         "Column4": "SP",
@@ -19837,7 +19781,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIS FABIANO BOLLODIVIM DE ANDRADE",
+        "Column1": "LUIS FABIANO BOLLODIVIM DE ANDRADE ",
         "Column2": 111792986,
         "Column3": 3,
         "Column4": "SP",
@@ -19851,7 +19795,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIS FABIANO DE MELO",
+        "Column1": "LUIS FABIANO DE MELO ",
         "Column2": 111730084,
         "Column3": 5,
         "Column4": "SP",
@@ -19865,7 +19809,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIS FELIPE OLIVEIRA SANTANA",
+        "Column1": "LUIS FELIPE OLIVEIRA SANTANA ",
         "Column2": 107335726,
         "Column3": 0,
         "Column4": "SP",
@@ -19879,7 +19823,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIS FELIPE OLIVEIRA SANTANA",
+        "Column1": "LUIS FELIPE OLIVEIRA SANTANA ",
         "Column2": 107335726,
         "Column3": 0,
         "Column4": "SP",
@@ -19893,7 +19837,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIS FELIPE OLIVEIRA SANTANA",
+        "Column1": "LUIS FELIPE OLIVEIRA SANTANA ",
         "Column2": 107335726,
         "Column3": 0,
         "Column4": "SP",
@@ -19907,7 +19851,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIS FELIPE OLIVEIRA SANTANA",
+        "Column1": "LUIS FELIPE OLIVEIRA SANTANA ",
         "Column2": 107335726,
         "Column3": 0,
         "Column4": "SP",
@@ -19921,7 +19865,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIS FELIPE RODRIGUES LIMA",
+        "Column1": "LUIS FELIPE RODRIGUES LIMA ",
         "Column2": 111279630,
         "Column3": 7,
         "Column4": "SP",
@@ -19935,7 +19879,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIS FELIPE RODRIGUES LIMA",
+        "Column1": "LUIS FELIPE RODRIGUES LIMA ",
         "Column2": 111279630,
         "Column3": 7,
         "Column4": "SP",
@@ -19949,7 +19893,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIS FELIPE RODRIGUES LIMA",
+        "Column1": "LUIS FELIPE RODRIGUES LIMA ",
         "Column2": 111279630,
         "Column3": 7,
         "Column4": "SP",
@@ -19963,7 +19907,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIS FELIPE RODRIGUES LIMA",
+        "Column1": "LUIS FELIPE RODRIGUES LIMA ",
         "Column2": 111279630,
         "Column3": 7,
         "Column4": "SP",
@@ -19977,7 +19921,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIS GUSTAVO BATISTA",
+        "Column1": "LUIS GUSTAVO BATISTA ",
         "Column2": 109307680,
         "Column3": "X",
         "Column4": "SP",
@@ -19991,7 +19935,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIS HENRIQUE DA SILVA MAIURA",
+        "Column1": "LUIS HENRIQUE DA SILVA MAIURA ",
         "Column2": 107241584,
         "Column3": 7,
         "Column4": "SP",
@@ -20005,7 +19949,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIS HENRIQUE DA SILVA MAIURA",
+        "Column1": "LUIS HENRIQUE DA SILVA MAIURA ",
         "Column2": 107241584,
         "Column3": 7,
         "Column4": "SP",
@@ -20019,7 +19963,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIS HENRIQUE DOS SANTOS ARAUJO",
+        "Column1": "LUIS HENRIQUE DOS SANTOS ARAUJO ",
         "Column2": 109296341,
         "Column3": 8,
         "Column4": "SP",
@@ -20033,7 +19977,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIS VITÓRIO MASCARENHAS NASCIMENTO",
+        "Column1": "LUIS VITÓRIO MASCARENHAS NASCIMENTO ",
         "Column2": 107266709,
         "Column3": 5,
         "Column4": "SP",
@@ -20047,7 +19991,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIS VITÓRIO MASCARENHAS NASCIMENTO",
+        "Column1": "LUIS VITÓRIO MASCARENHAS NASCIMENTO ",
         "Column2": 107266709,
         "Column3": 5,
         "Column4": "SP",
@@ -20061,7 +20005,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ CARLOS BOTELHO DOS SANTOS",
+        "Column1": "LUIZ CARLOS BOTELHO DOS SANTOS ",
         "Column2": 110451581,
         "Column3": 7,
         "Column4": "SP",
@@ -20075,7 +20019,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ CARLOS BOTELHO DOS SANTOS",
+        "Column1": "LUIZ CARLOS BOTELHO DOS SANTOS ",
         "Column2": 110451581,
         "Column3": 7,
         "Column4": "SP",
@@ -20089,7 +20033,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ CARLOS GOMES DA SILVA",
+        "Column1": "LUIZ CARLOS GOMES DA SILVA ",
         "Column2": 107706762,
         "Column3": 8,
         "Column4": "SP",
@@ -20103,7 +20047,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ CARLOS GOMES DA SILVA",
+        "Column1": "LUIZ CARLOS GOMES DA SILVA ",
         "Column2": 107706762,
         "Column3": 8,
         "Column4": "SP",
@@ -20117,7 +20061,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ CARLOS PACHECO DE OLIVEIRA",
+        "Column1": "LUIZ CARLOS PACHECO DE OLIVEIRA ",
         "Column2": 111840885,
         "Column3": 8,
         "Column4": "SP",
@@ -20131,7 +20075,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ FABIO AGUILAR DE ASSIS",
+        "Column1": "LUIZ FABIO AGUILAR DE ASSIS ",
         "Column2": 109343529,
         "Column3": "X",
         "Column4": "SP",
@@ -20145,7 +20089,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ FERNANDO FERREIRA LIMA",
+        "Column1": "LUIZ FERNANDO FERREIRA LIMA ",
         "Column2": 109486618,
         "Column3": 0,
         "Column4": "SP",
@@ -20159,7 +20103,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ FERNANDO FERREIRA LIMA",
+        "Column1": "LUIZ FERNANDO FERREIRA LIMA ",
         "Column2": 109486618,
         "Column3": 0,
         "Column4": "SP",
@@ -20173,7 +20117,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ FERNANDO FONSECA GONÇALVES",
+        "Column1": "LUIZ FERNANDO FONSECA GONÇALVES ",
         "Column2": 105677181,
         "Column3": 1,
         "Column4": "SP",
@@ -20187,7 +20131,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ FERNANDO FONSECA GONÇALVES",
+        "Column1": "LUIZ FERNANDO FONSECA GONÇALVES ",
         "Column2": 105677181,
         "Column3": 1,
         "Column4": "SP",
@@ -20201,7 +20145,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ FERNANDO LAUDELINO SILVA",
+        "Column1": "LUIZ FERNANDO LAUDELINO SILVA ",
         "Column2": 108312632,
         "Column3": 5,
         "Column4": "SP",
@@ -20215,7 +20159,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ FERNANDO SILVA DE LIMA",
+        "Column1": "LUIZ FERNANDO SILVA DE LIMA ",
         "Column2": 109471743,
         "Column3": 5,
         "Column4": "SP",
@@ -20229,7 +20173,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ FILIPE DIAS DE SOUSA",
+        "Column1": "LUIZ FILIPE DIAS DE SOUSA ",
         "Column2": 111770409,
         "Column3": 9,
         "Column4": "SP",
@@ -20243,7 +20187,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ GABRIEL NELO DE JESUS",
+        "Column1": "LUIZ GABRIEL NELO DE JESUS ",
         "Column2": 112343547,
         "Column3": 9,
         "Column4": "SP",
@@ -20257,7 +20201,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ GUSTAVO GONÇALVES DE SIQUEIRA",
+        "Column1": "LUIZ GUSTAVO GONÇALVES DE SIQUEIRA ",
         "Column2": 114043930,
         "Column3": 3,
         "Column4": "SP",
@@ -20271,7 +20215,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ GUSTAVO UCHOA",
+        "Column1": "LUIZ GUSTAVO UCHOA ",
         "Column2": 109309299,
         "Column3": 3,
         "Column4": "SP",
@@ -20285,7 +20229,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ GUSTAVO UCHOA",
+        "Column1": "LUIZ GUSTAVO UCHOA ",
         "Column2": 109309299,
         "Column3": 3,
         "Column4": "SP",
@@ -20299,7 +20243,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ GUSTAVO UCHOA",
+        "Column1": "LUIZ GUSTAVO UCHOA ",
         "Column2": 109309299,
         "Column3": 3,
         "Column4": "SP",
@@ -20313,7 +20257,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ GUSTAVO UCHOA",
+        "Column1": "LUIZ GUSTAVO UCHOA ",
         "Column2": 109309299,
         "Column3": 3,
         "Column4": "SP",
@@ -20327,7 +20271,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ HENRIQUE BERNARDO RODRIGUES PEREIRA",
+        "Column1": "LUIZ HENRIQUE BERNARDO RODRIGUES PEREIRA ",
         "Column2": 110393498,
         "Column3": 3,
         "Column4": "SP",
@@ -20341,7 +20285,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ HENRIQUE DE OLIVEIRA DIAS",
+        "Column1": "LUIZ HENRIQUE DE OLIVEIRA DIAS ",
         "Column2": 109479092,
         "Column3": 8,
         "Column4": "SP",
@@ -20355,7 +20299,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ HENRIQUE DE OLIVEIRA DIAS",
+        "Column1": "LUIZ HENRIQUE DE OLIVEIRA DIAS ",
         "Column2": 109479092,
         "Column3": 8,
         "Column4": "SP",
@@ -20369,7 +20313,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ HENRIQUE DE OLIVEIRA DIAS",
+        "Column1": "LUIZ HENRIQUE DE OLIVEIRA DIAS ",
         "Column2": 109479092,
         "Column3": 8,
         "Column4": "SP",
@@ -20383,7 +20327,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ HENRIQUE DE OLIVEIRA DIAS",
+        "Column1": "LUIZ HENRIQUE DE OLIVEIRA DIAS ",
         "Column2": 109479092,
         "Column3": 8,
         "Column4": "SP",
@@ -20397,7 +20341,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ HENRIQUE FRANCISCO CAMINI",
+        "Column1": "LUIZ HENRIQUE FRANCISCO CAMINI ",
         "Column2": 110359354,
         "Column3": 7,
         "Column4": "SP",
@@ -20411,7 +20355,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ HENRIQUE FRANCISCO CAMINI",
+        "Column1": "LUIZ HENRIQUE FRANCISCO CAMINI ",
         "Column2": 110359354,
         "Column3": 7,
         "Column4": "SP",
@@ -20425,7 +20369,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ HENRIQUE FRANCISCO CAMINI",
+        "Column1": "LUIZ HENRIQUE FRANCISCO CAMINI ",
         "Column2": 110359354,
         "Column3": 7,
         "Column4": "SP",
@@ -20439,7 +20383,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ HENRIQUE FRANCISCO CAMINI",
+        "Column1": "LUIZ HENRIQUE FRANCISCO CAMINI ",
         "Column2": 110359354,
         "Column3": 7,
         "Column4": "SP",
@@ -20453,7 +20397,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ HENRIQUE LOPES FERNANDES",
+        "Column1": "LUIZ HENRIQUE LOPES FERNANDES ",
         "Column2": 111845522,
         "Column3": 8,
         "Column4": "SP",
@@ -20467,7 +20411,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ HENRIQUE SANTIAGO TRAJANO",
+        "Column1": "LUIZ HENRIQUE SANTIAGO TRAJANO ",
         "Column2": 111730162,
         "Column3": "X",
         "Column4": "SP",
@@ -20481,7 +20425,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ HENRIQUE VIANA LIMA",
+        "Column1": "LUIZ HENRIQUE VIANA LIMA ",
         "Column2": 109335100,
         "Column3": 7,
         "Column4": "SP",
@@ -20495,7 +20439,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ RAFAEL TRINDADE DA SILVA",
+        "Column1": "LUIZ RAFAEL TRINDADE DA SILVA ",
         "Column2": 111887481,
         "Column3": "X",
         "Column4": "SP",
@@ -20509,7 +20453,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ VITOR FERREIRA SANTOS COSTA",
+        "Column1": "LUIZ VITOR FERREIRA SANTOS COSTA ",
         "Column2": 110312225,
         "Column3": 3,
         "Column4": "SP",
@@ -20523,7 +20467,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ VITOR FERREIRA SANTOS COSTA",
+        "Column1": "LUIZ VITOR FERREIRA SANTOS COSTA ",
         "Column2": 110312225,
         "Column3": 3,
         "Column4": "SP",
@@ -20537,7 +20481,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ VITOR FERREIRA SANTOS COSTA",
+        "Column1": "LUIZ VITOR FERREIRA SANTOS COSTA ",
         "Column2": 110312225,
         "Column3": 3,
         "Column4": "SP",
@@ -20551,7 +20495,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZ VITOR FERREIRA SANTOS COSTA",
+        "Column1": "LUIZ VITOR FERREIRA SANTOS COSTA ",
         "Column2": 110312225,
         "Column3": 3,
         "Column4": "SP",
@@ -20565,7 +20509,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZA MARCOS RESENDE",
+        "Column1": "LUIZA MARCOS RESENDE ",
         "Column2": 111781390,
         "Column3": 3,
         "Column4": "SP",
@@ -20579,7 +20523,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZA ROCHA CAETANO",
+        "Column1": "LUIZA ROCHA CAETANO ",
         "Column2": 109310200,
         "Column3": 7,
         "Column4": "SP",
@@ -20593,7 +20537,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUIZA ROCHA CAETANO",
+        "Column1": "LUIZA ROCHA CAETANO ",
         "Column2": 109310200,
         "Column3": 7,
         "Column4": "SP",
@@ -20607,7 +20551,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUÃ RIBEIRO DOS SANTOS",
+        "Column1": "LUÃ RIBEIRO DOS SANTOS ",
         "Column2": 104306267,
         "Column3": 1,
         "Column4": "SP",
@@ -20621,7 +20565,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUÃ RIBEIRO DOS SANTOS",
+        "Column1": "LUÃ RIBEIRO DOS SANTOS ",
         "Column2": 104306267,
         "Column3": 1,
         "Column4": "SP",
@@ -20635,7 +20579,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUÃ RIBEIRO DOS SANTOS",
+        "Column1": "LUÃ RIBEIRO DOS SANTOS ",
         "Column2": 104306267,
         "Column3": 1,
         "Column4": "SP",
@@ -20649,7 +20593,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LUÃ RIBEIRO DOS SANTOS",
+        "Column1": "LUÃ RIBEIRO DOS SANTOS ",
         "Column2": 104306267,
         "Column3": 1,
         "Column4": "SP",
@@ -20663,7 +20607,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LYAN GOMES CABRAL DA SILVA",
+        "Column1": "LYAN GOMES CABRAL DA SILVA ",
         "Column2": 109343250,
         "Column3": 0,
         "Column4": "SP",
@@ -20677,7 +20621,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LYVIA SANTOS LIMA",
+        "Column1": "LYVIA SANTOS LIMA ",
         "Column2": 110393503,
         "Column3": 3,
         "Column4": "SP",
@@ -20691,7 +20635,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "LÍVIA LIMA FERREIRA",
+        "Column1": "LÍVIA LIMA FERREIRA ",
         "Column2": 111736185,
         "Column3": 8,
         "Column4": "SP",
@@ -20705,7 +20649,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MACIEL CHAGAS FERREIRA DE OLIVEIRA",
+        "Column1": "MACIEL CHAGAS FERREIRA DE OLIVEIRA ",
         "Column2": 112640525,
         "Column3": 5,
         "Column4": "SP",
@@ -20719,7 +20663,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MAGNO MUNIZ FIDELIS",
+        "Column1": "MAGNO MUNIZ FIDELIS ",
         "Column2": 110384675,
         "Column3": 9,
         "Column4": "SP",
@@ -20733,7 +20677,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MAGNO MUNIZ FIDELIS",
+        "Column1": "MAGNO MUNIZ FIDELIS ",
         "Column2": 110384675,
         "Column3": 9,
         "Column4": "SP",
@@ -20747,7 +20691,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MAICOM FILIPE RIBEIRO DOS SANTOS LOPES",
+        "Column1": "MAICOM FILIPE RIBEIRO DOS SANTOS LOPES ",
         "Column2": 114247793,
         "Column3": 9,
         "Column4": "SP",
@@ -20761,7 +20705,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MAICON EDUARDO DOS SANTOS PEREIRA",
+        "Column1": "MAICON EDUARDO DOS SANTOS PEREIRA ",
         "Column2": 108279109,
         "Column3": "X",
         "Column4": "SP",
@@ -20775,7 +20719,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MAICON GUIMARÃES DE ARAUJO",
+        "Column1": "MAICON GUIMARÃES DE ARAUJO ",
         "Column2": 109309976,
         "Column3": 8,
         "Column4": "SP",
@@ -20789,7 +20733,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MAICON GUIMARÃES DE ARAUJO",
+        "Column1": "MAICON GUIMARÃES DE ARAUJO ",
         "Column2": 109309976,
         "Column3": 8,
         "Column4": "SP",
@@ -20803,7 +20747,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MANOELA VITORIA DOS SANTOS NASCIMENTO",
+        "Column1": "MANOELA VITORIA DOS SANTOS NASCIMENTO ",
         "Column2": 110388097,
         "Column3": 4,
         "Column4": "SP",
@@ -20817,7 +20761,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MANOELLA CHRISTINE SPAMPINATO CRUZ",
+        "Column1": "MANOELLA CHRISTINE SPAMPINATO CRUZ ",
         "Column2": 111744519,
         "Column3": 7,
         "Column4": "SP",
@@ -20831,7 +20775,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MANUELA CRISTINA SOUZA DOS SANTOS",
+        "Column1": "MANUELA CRISTINA SOUZA DOS SANTOS ",
         "Column2": 109330731,
         "Column3": 6,
         "Column4": "SP",
@@ -20845,7 +20789,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MANUELLA JESUS VASCONCELOS DOS SANTOS",
+        "Column1": "MANUELLA JESUS VASCONCELOS DOS SANTOS ",
         "Column2": 106192177,
         "Column3": 3,
         "Column4": "SP",
@@ -20859,7 +20803,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MANUELLA JESUS VASCONCELOS DOS SANTOS",
+        "Column1": "MANUELLA JESUS VASCONCELOS DOS SANTOS ",
         "Column2": 106192177,
         "Column3": 3,
         "Column4": "SP",
@@ -20873,7 +20817,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MANUELLA JESUS VASCONCELOS DOS SANTOS",
+        "Column1": "MANUELLA JESUS VASCONCELOS DOS SANTOS ",
         "Column2": 106192177,
         "Column3": 3,
         "Column4": "SP",
@@ -20887,7 +20831,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MANUELLA JESUS VASCONCELOS DOS SANTOS",
+        "Column1": "MANUELLA JESUS VASCONCELOS DOS SANTOS ",
         "Column2": 106192177,
         "Column3": 3,
         "Column4": "SP",
@@ -20901,7 +20845,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARCELA DOS REIS CARVALHO",
+        "Column1": "MARCELA DOS REIS CARVALHO ",
         "Column2": 109305330,
         "Column3": 6,
         "Column4": "SP",
@@ -20915,7 +20859,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARCELLA BARROS GOMES DE OLIVEIRA",
+        "Column1": "MARCELLA BARROS GOMES DE OLIVEIRA ",
         "Column2": 110382152,
         "Column3": 0,
         "Column4": "SP",
@@ -20929,7 +20873,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARCELLA DA SILVA SANTANA",
+        "Column1": "MARCELLA DA SILVA SANTANA ",
         "Column2": 110693968,
         "Column3": 2,
         "Column4": "SP",
@@ -20943,7 +20887,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARCELLA DA SILVA SANTANA",
+        "Column1": "MARCELLA DA SILVA SANTANA ",
         "Column2": 110693968,
         "Column3": 2,
         "Column4": "SP",
@@ -20957,7 +20901,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARCELLE PEREIRA DA SILVA",
+        "Column1": "MARCELLE PEREIRA DA SILVA ",
         "Column2": 116183125,
         "Column3": 3,
         "Column4": "SP",
@@ -20971,7 +20915,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARCELO ALVES RIBEIRO DO NASCIMENTO",
+        "Column1": "MARCELO ALVES RIBEIRO DO NASCIMENTO ",
         "Column2": 115089645,
         "Column3": 0,
         "Column4": "SP",
@@ -20985,7 +20929,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARCELO CLEMENTINO DE SÁ",
+        "Column1": "MARCELO CLEMENTINO DE SÁ ",
         "Column2": 111838584,
         "Column3": 6,
         "Column4": "SP",
@@ -20999,7 +20943,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARCELO SANTOS DA SILVA",
+        "Column1": "MARCELO SANTOS DA SILVA ",
         "Column2": 109486620,
         "Column3": 9,
         "Column4": "SP",
@@ -21013,7 +20957,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARCELO SANTOS DA SILVA",
+        "Column1": "MARCELO SANTOS DA SILVA ",
         "Column2": 109486620,
         "Column3": 9,
         "Column4": "SP",
@@ -21027,7 +20971,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARCOS SALES SILVA",
+        "Column1": "MARCOS SALES SILVA ",
         "Column2": 111676491,
         "Column3": "X",
         "Column4": "SP",
@@ -21041,7 +20985,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARCOS VINICIUS ARRUDA DE ANDRADE",
+        "Column1": "MARCOS VINICIUS ARRUDA DE ANDRADE ",
         "Column2": 110391447,
         "Column3": 9,
         "Column4": "SP",
@@ -21055,7 +20999,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARCOS VINICIUS ARRUDA DE ANDRADE",
+        "Column1": "MARCOS VINICIUS ARRUDA DE ANDRADE ",
         "Column2": 110391447,
         "Column3": 9,
         "Column4": "SP",
@@ -21069,7 +21013,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARCOS VINICIUS ARRUDA DE ANDRADE",
+        "Column1": "MARCOS VINICIUS ARRUDA DE ANDRADE ",
         "Column2": 110391447,
         "Column3": 9,
         "Column4": "SP",
@@ -21083,7 +21027,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARCOS VINICIUS ARRUDA DE ANDRADE",
+        "Column1": "MARCOS VINICIUS ARRUDA DE ANDRADE ",
         "Column2": 110391447,
         "Column3": 9,
         "Column4": "SP",
@@ -21097,7 +21041,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARCOS VINICIUS DA SILVA AZEVEDO",
+        "Column1": "MARCOS VINICIUS DA SILVA AZEVEDO ",
         "Column2": 114408450,
         "Column3": 7,
         "Column4": "SP",
@@ -21111,7 +21055,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARCOS VINYCIUS JUVÊNCIO VIEIRA",
+        "Column1": "MARCOS VINYCIUS JUVÊNCIO VIEIRA ",
         "Column2": 108317419,
         "Column3": 8,
         "Column4": "SP",
@@ -21125,7 +21069,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARCOS VINYCIUS JUVÊNCIO VIEIRA",
+        "Column1": "MARCOS VINYCIUS JUVÊNCIO VIEIRA ",
         "Column2": 108317419,
         "Column3": 8,
         "Column4": "SP",
@@ -21139,7 +21083,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA CLARA DA SILVA FELIX BARROS DOS SANTOS",
+        "Column1": "MARIA CLARA DA SILVA FELIX BARROS DOS SANTOS ",
         "Column2": 109308322,
         "Column3": 0,
         "Column4": "SP",
@@ -21153,7 +21097,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA CLARA DA SILVA QUADROS",
+        "Column1": "MARIA CLARA DA SILVA QUADROS ",
         "Column2": 111703431,
         "Column3": 8,
         "Column4": "SP",
@@ -21167,7 +21111,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA CLARA DA SILVA QUADROS",
+        "Column1": "MARIA CLARA DA SILVA QUADROS ",
         "Column2": 111703431,
         "Column3": 8,
         "Column4": "SP",
@@ -21181,7 +21125,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA CLARA DA SILVA QUADROS",
+        "Column1": "MARIA CLARA DA SILVA QUADROS ",
         "Column2": 111703431,
         "Column3": 8,
         "Column4": "SP",
@@ -21195,7 +21139,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA CLARA DA SILVA QUADROS",
+        "Column1": "MARIA CLARA DA SILVA QUADROS ",
         "Column2": 111703431,
         "Column3": 8,
         "Column4": "SP",
@@ -21209,7 +21153,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA CLARA DO NASCIMENTO",
+        "Column1": "MARIA CLARA DO NASCIMENTO ",
         "Column2": 110430200,
         "Column3": 7,
         "Column4": "SP",
@@ -21223,7 +21167,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA CLARA EMMANUELLY LAURINDO DE SOUZA DANTAS",
+        "Column1": "MARIA CLARA EMMANUELLY LAURINDO DE SOUZA DANTAS ",
         "Column2": 111839015,
         "Column3": 5,
         "Column4": "SP",
@@ -21237,7 +21181,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA CLARA LACERDA DA SILVA",
+        "Column1": "MARIA CLARA LACERDA DA SILVA ",
         "Column2": 112234725,
         "Column3": "X",
         "Column4": "SP",
@@ -21251,7 +21195,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA CLARA MACEDO MELLO",
+        "Column1": "MARIA CLARA MACEDO MELLO ",
         "Column2": 111846238,
         "Column3": 5,
         "Column4": "SP",
@@ -21265,7 +21209,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA CRISTIANE FERREIRA DO NASCIMENTO",
+        "Column1": "MARIA CRISTIANE FERREIRA DO NASCIMENTO ",
         "Column2": 109487249,
         "Column3": 0,
         "Column4": "SP",
@@ -21279,7 +21223,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA CRISTIANE FERREIRA DO NASCIMENTO",
+        "Column1": "MARIA CRISTIANE FERREIRA DO NASCIMENTO ",
         "Column2": 109487249,
         "Column3": 0,
         "Column4": "SP",
@@ -21293,7 +21237,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA CRISTIANE FERREIRA DO NASCIMENTO",
+        "Column1": "MARIA CRISTIANE FERREIRA DO NASCIMENTO ",
         "Column2": 109487249,
         "Column3": 0,
         "Column4": "SP",
@@ -21307,7 +21251,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA CRISTIANE FERREIRA DO NASCIMENTO",
+        "Column1": "MARIA CRISTIANE FERREIRA DO NASCIMENTO ",
         "Column2": 109487249,
         "Column3": 0,
         "Column4": "SP",
@@ -21321,7 +21265,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA EDUARDA CAMILO DOS SANTOS",
+        "Column1": "MARIA EDUARDA CAMILO DOS SANTOS ",
         "Column2": 111744648,
         "Column3": 7,
         "Column4": "SP",
@@ -21335,7 +21279,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA EDUARDA DA FONSECA FAUSTINO",
+        "Column1": "MARIA EDUARDA DA FONSECA FAUSTINO ",
         "Column2": 107267142,
         "Column3": 6,
         "Column4": "SP",
@@ -21349,7 +21293,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA EDUARDA DA FONSECA FAUSTINO",
+        "Column1": "MARIA EDUARDA DA FONSECA FAUSTINO ",
         "Column2": 107267142,
         "Column3": 6,
         "Column4": "SP",
@@ -21363,7 +21307,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA EDUARDA DA SILVA",
+        "Column1": "MARIA EDUARDA DA SILVA ",
         "Column2": 110393931,
         "Column3": 2,
         "Column4": "SP",
@@ -21377,7 +21321,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA EDUARDA DA SILVA",
+        "Column1": "MARIA EDUARDA DA SILVA ",
         "Column2": 110393931,
         "Column3": 2,
         "Column4": "SP",
@@ -21391,7 +21335,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA EDUARDA DA SILVA",
+        "Column1": "MARIA EDUARDA DA SILVA ",
         "Column2": 110393931,
         "Column3": 2,
         "Column4": "SP",
@@ -21405,7 +21349,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA EDUARDA DA SILVA",
+        "Column1": "MARIA EDUARDA DA SILVA ",
         "Column2": 110393931,
         "Column3": 2,
         "Column4": "SP",
@@ -21419,7 +21363,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA EDUARDA DA SILVA AVELINO",
+        "Column1": "MARIA EDUARDA DA SILVA AVELINO ",
         "Column2": 109308227,
         "Column3": 6,
         "Column4": "SP",
@@ -21433,7 +21377,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA EDUARDA DA SILVA FERNANDES",
+        "Column1": "MARIA EDUARDA DA SILVA FERNANDES ",
         "Column2": 112361357,
         "Column3": 6,
         "Column4": "SP",
@@ -21447,7 +21391,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA EDUARDA DA SILVA SANTOS",
+        "Column1": "MARIA EDUARDA DA SILVA SANTOS ",
         "Column2": 109343257,
         "Column3": 3,
         "Column4": "SP",
@@ -21461,7 +21405,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA EDUARDA DE MELO LOPES",
+        "Column1": "MARIA EDUARDA DE MELO LOPES ",
         "Column2": 112659511,
         "Column3": 1,
         "Column4": "SP",
@@ -21475,7 +21419,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA EDUARDA DE MELO RIBEIRO",
+        "Column1": "MARIA EDUARDA DE MELO RIBEIRO ",
         "Column2": 110365758,
         "Column3": 6,
         "Column4": "SP",
@@ -21489,7 +21433,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA EDUARDA DE OLIVEIRA DO CARMO",
+        "Column1": "MARIA EDUARDA DE OLIVEIRA DO CARMO ",
         "Column2": 111793026,
         "Column3": 9,
         "Column4": "SP",
@@ -21503,7 +21447,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA EDUARDA DOS SANTOS MENOSSI",
+        "Column1": "MARIA EDUARDA DOS SANTOS MENOSSI ",
         "Column2": 111730222,
         "Column3": 2,
         "Column4": "SP",
@@ -21517,7 +21461,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA EDUARDA DOS SANTOS ROCHA",
+        "Column1": "MARIA EDUARDA DOS SANTOS ROCHA ",
         "Column2": 112359433,
         "Column3": 8,
         "Column4": "SP",
@@ -21531,7 +21475,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA EDUARDA FREITAS GOMES",
+        "Column1": "MARIA EDUARDA FREITAS GOMES ",
         "Column2": 109844219,
         "Column3": 2,
         "Column4": "SP",
@@ -21545,7 +21489,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA EDUARDA FREITAS GOMES",
+        "Column1": "MARIA EDUARDA FREITAS GOMES ",
         "Column2": 109844219,
         "Column3": 2,
         "Column4": "SP",
@@ -21559,7 +21503,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA EDUARDA FREITAS GOMES",
+        "Column1": "MARIA EDUARDA FREITAS GOMES ",
         "Column2": 109844219,
         "Column3": 2,
         "Column4": "SP",
@@ -21573,7 +21517,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA EDUARDA FREITAS GOMES",
+        "Column1": "MARIA EDUARDA FREITAS GOMES ",
         "Column2": 109844219,
         "Column3": 2,
         "Column4": "SP",
@@ -21587,7 +21531,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA EDUARDA GOMES SEMENSATO",
+        "Column1": "MARIA EDUARDA GOMES SEMENSATO ",
         "Column2": 109471762,
         "Column3": 9,
         "Column4": "SP",
@@ -21601,7 +21545,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA EDUARDA GONÇALVES DA SILVA",
+        "Column1": "MARIA EDUARDA GONÇALVES DA SILVA ",
         "Column2": 111880786,
         "Column3": 8,
         "Column4": "SP",
@@ -21615,7 +21559,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA EDUARDA MENDES SANDES",
+        "Column1": "MARIA EDUARDA MENDES SANDES ",
         "Column2": 114080546,
         "Column3": 0,
         "Column4": "SP",
@@ -21629,7 +21573,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA EDUARDA SATURNINO SOJO",
+        "Column1": "MARIA EDUARDA SATURNINO SOJO ",
         "Column2": 109308330,
         "Column3": "X",
         "Column4": "SP",
@@ -21643,7 +21587,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA FERNANDA SOARES DOS REIS",
+        "Column1": "MARIA FERNANDA SOARES DOS REIS ",
         "Column2": 113131110,
         "Column3": 3,
         "Column4": "SP",
@@ -21657,7 +21601,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA GABRIELA RIBEIRO DO NASCIMENTO",
+        "Column1": "MARIA GABRIELA RIBEIRO DO NASCIMENTO ",
         "Column2": 109335045,
         "Column3": 3,
         "Column4": "SP",
@@ -21671,7 +21615,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA GABRIELA RIBEIRO DO NASCIMENTO",
+        "Column1": "MARIA GABRIELA RIBEIRO DO NASCIMENTO ",
         "Column2": 109335045,
         "Column3": 3,
         "Column4": "SP",
@@ -21685,7 +21629,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA ISABELLA MACEDO DOURADO",
+        "Column1": "MARIA ISABELLA MACEDO DOURADO ",
         "Column2": 113078865,
         "Column3": 9,
         "Column4": "SP",
@@ -21699,7 +21643,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA ISABELLY CARVALHO DA SILVA",
+        "Column1": "MARIA ISABELLY CARVALHO DA SILVA ",
         "Column2": 109344456,
         "Column3": 3,
         "Column4": "SP",
@@ -21713,7 +21657,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA IZABELLI PEREIRA MARTILIANO",
+        "Column1": "MARIA IZABELLI PEREIRA MARTILIANO ",
         "Column2": 111781381,
         "Column3": 2,
         "Column4": "SP",
@@ -21727,7 +21671,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA LUIZA DE SOUZA MEIRA",
+        "Column1": "MARIA LUIZA DE SOUZA MEIRA ",
         "Column2": 109486622,
         "Column3": 2,
         "Column4": "SP",
@@ -21741,7 +21685,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA LUIZA DE SOUZA MEIRA",
+        "Column1": "MARIA LUIZA DE SOUZA MEIRA ",
         "Column2": 109486622,
         "Column3": 2,
         "Column4": "SP",
@@ -21755,7 +21699,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA LUIZA DE SOUZA QUEIROZ",
+        "Column1": "MARIA LUIZA DE SOUZA QUEIROZ ",
         "Column2": 110352850,
         "Column3": 6,
         "Column4": "SP",
@@ -21769,7 +21713,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA LUIZA DE SOUZA QUEIROZ",
+        "Column1": "MARIA LUIZA DE SOUZA QUEIROZ ",
         "Column2": 110352850,
         "Column3": 6,
         "Column4": "SP",
@@ -21783,7 +21727,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA LUIZA SANTOS SILVA",
+        "Column1": "MARIA LUIZA SANTOS SILVA ",
         "Column2": 109309434,
         "Column3": 5,
         "Column4": "SP",
@@ -21797,7 +21741,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA LUIZA SANTOS SILVA",
+        "Column1": "MARIA LUIZA SANTOS SILVA ",
         "Column2": 109309434,
         "Column3": 5,
         "Column4": "SP",
@@ -21811,7 +21755,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA LUIZA SANTOS SILVA",
+        "Column1": "MARIA LUIZA SANTOS SILVA ",
         "Column2": 109309434,
         "Column3": 5,
         "Column4": "SP",
@@ -21825,7 +21769,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA LUIZA SANTOS SILVA",
+        "Column1": "MARIA LUIZA SANTOS SILVA ",
         "Column2": 109309434,
         "Column3": 5,
         "Column4": "SP",
@@ -21839,7 +21783,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA SANTANA SANTOS",
+        "Column1": "MARIA SANTANA SANTOS ",
         "Column2": 112572462,
         "Column3": 6,
         "Column4": "SP",
@@ -21853,7 +21797,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA SILVA DOS SANTOS",
+        "Column1": "MARIA SILVA DOS SANTOS ",
         "Column2": 108329306,
         "Column3": 0,
         "Column4": "SP",
@@ -21867,7 +21811,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIA SILVA DOS SANTOS",
+        "Column1": "MARIA SILVA DOS SANTOS ",
         "Column2": 108329306,
         "Column3": 0,
         "Column4": "SP",
@@ -21881,7 +21825,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIAH CLARA SANTOS MARQUES",
+        "Column1": "MARIAH CLARA SANTOS MARQUES ",
         "Column2": 111811631,
         "Column3": 8,
         "Column4": "SP",
@@ -21895,7 +21839,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIANA BARBOSA DE MELO OLIVEIRA",
+        "Column1": "MARIANA BARBOSA DE MELO OLIVEIRA ",
         "Column2": 111518871,
         "Column3": 9,
         "Column4": "SP",
@@ -21909,7 +21853,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIANA DA SILVA GAUDENCIO",
+        "Column1": "MARIANA DA SILVA GAUDENCIO ",
         "Column2": 109309306,
         "Column3": 7,
         "Column4": "SP",
@@ -21923,7 +21867,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIANA DA SILVA GAUDENCIO",
+        "Column1": "MARIANA DA SILVA GAUDENCIO ",
         "Column2": 109309306,
         "Column3": 7,
         "Column4": "SP",
@@ -21937,7 +21881,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIANA DA SILVA GAUDENCIO",
+        "Column1": "MARIANA DA SILVA GAUDENCIO ",
         "Column2": 109309306,
         "Column3": 7,
         "Column4": "SP",
@@ -21951,7 +21895,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIANA DA SILVA GAUDENCIO",
+        "Column1": "MARIANA DA SILVA GAUDENCIO ",
         "Column2": 109309306,
         "Column3": 7,
         "Column4": "SP",
@@ -21965,7 +21909,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIANA PINHEIRO DE OLIVEIRA",
+        "Column1": "MARIANA PINHEIRO DE OLIVEIRA ",
         "Column2": 111878323,
         "Column3": 2,
         "Column4": "SP",
@@ -21979,7 +21923,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIANA SANTIAGO SOUSA SILVA",
+        "Column1": "MARIANA SANTIAGO SOUSA SILVA ",
         "Column2": 111773036,
         "Column3": 0,
         "Column4": "SP",
@@ -21993,7 +21937,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIANA SHUEGUER HEGUEDUSCH",
+        "Column1": "MARIANA SHUEGUER HEGUEDUSCH ",
         "Column2": 109342450,
         "Column3": 3,
         "Column4": "SP",
@@ -22007,7 +21951,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIANA SILVA BARBOSA",
+        "Column1": "MARIANA SILVA BARBOSA ",
         "Column2": 111731723,
         "Column3": 7,
         "Column4": "SP",
@@ -22021,7 +21965,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIANA SILVA BARBOSA",
+        "Column1": "MARIANA SILVA BARBOSA ",
         "Column2": 111731723,
         "Column3": 7,
         "Column4": "SP",
@@ -22035,7 +21979,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIANA SILVA BARBOSA",
+        "Column1": "MARIANA SILVA BARBOSA ",
         "Column2": 111731723,
         "Column3": 7,
         "Column4": "SP",
@@ -22049,7 +21993,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIANA VIEIRA DE SOUZA",
+        "Column1": "MARIANA VIEIRA DE SOUZA ",
         "Column2": 113253146,
         "Column3": 9,
         "Column4": "SP",
@@ -22063,7 +22007,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIANA VITÓRIA DE ARAUJO",
+        "Column1": "MARIANA VITÓRIA DE ARAUJO ",
         "Column2": 111791853,
         "Column3": 1,
         "Column4": "SP",
@@ -22077,7 +22021,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIANA VITÓRIA DE ARAUJO",
+        "Column1": "MARIANA VITÓRIA DE ARAUJO ",
         "Column2": 111791853,
         "Column3": 1,
         "Column4": "SP",
@@ -22091,7 +22035,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIANA VITÓRIA MARQUES SOUZA",
+        "Column1": "MARIANA VITÓRIA MARQUES SOUZA ",
         "Column2": 110365848,
         "Column3": 7,
         "Column4": "SP",
@@ -22105,7 +22049,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIANE SANTOS FERNANDES",
+        "Column1": "MARIANE SANTOS FERNANDES ",
         "Column2": 116770921,
         "Column3": 4,
         "Column4": "SP",
@@ -22119,7 +22063,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARIANNY MORAES SAMPAIO",
+        "Column1": "MARIANNY MORAES SAMPAIO ",
         "Column2": 111826910,
         "Column3": "X",
         "Column4": "SP",
@@ -22133,7 +22077,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARINA SOUZA SOARES",
+        "Column1": "MARINA SOUZA SOARES ",
         "Column2": 109465669,
         "Column3": 0,
         "Column4": "SP",
@@ -22147,7 +22091,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARINA SOUZA SOARES",
+        "Column1": "MARINA SOUZA SOARES ",
         "Column2": 109465669,
         "Column3": 0,
         "Column4": "SP",
@@ -22161,7 +22105,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARINA SOUZA SOARES",
+        "Column1": "MARINA SOUZA SOARES ",
         "Column2": 109465669,
         "Column3": 0,
         "Column4": "SP",
@@ -22175,7 +22119,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARINA SOUZA SOARES",
+        "Column1": "MARINA SOUZA SOARES ",
         "Column2": 109465669,
         "Column3": 0,
         "Column4": "SP",
@@ -22189,7 +22133,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MARLLON LUZ GERALDO",
+        "Column1": "MARLLON LUZ GERALDO ",
         "Column2": 111323908,
         "Column3": 6,
         "Column4": "SP",
@@ -22203,7 +22147,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MATEUS ALVES RAMOS",
+        "Column1": "MATEUS ALVES RAMOS ",
         "Column2": 122793836,
         "Column3": 6,
         "Column4": "SP",
@@ -22217,7 +22161,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MATEUS DOS SANTOS SOARES",
+        "Column1": "MATEUS DOS SANTOS SOARES ",
         "Column2": 109342761,
         "Column3": 9,
         "Column4": "SP",
@@ -22231,7 +22175,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MATEUS DOS SANTOS SOARES",
+        "Column1": "MATEUS DOS SANTOS SOARES ",
         "Column2": 109342761,
         "Column3": 9,
         "Column4": "SP",
@@ -22245,7 +22189,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MATEUS KAUAN DA SILVA SANTOS",
+        "Column1": "MATEUS KAUAN DA SILVA SANTOS ",
         "Column2": 111776903,
         "Column3": 3,
         "Column4": "SP",
@@ -22259,7 +22203,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MATEUS LUAN TEODORO",
+        "Column1": "MATEUS LUAN TEODORO ",
         "Column2": 109486888,
         "Column3": 7,
         "Column4": "SP",
@@ -22273,7 +22217,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MATEUS LUAN TEODORO",
+        "Column1": "MATEUS LUAN TEODORO ",
         "Column2": 109486888,
         "Column3": 7,
         "Column4": "SP",
@@ -22287,7 +22231,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MATEUS LUAN TEODORO",
+        "Column1": "MATEUS LUAN TEODORO ",
         "Column2": 109486888,
         "Column3": 7,
         "Column4": "SP",
@@ -22301,7 +22245,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MATEUS LUAN TEODORO",
+        "Column1": "MATEUS LUAN TEODORO ",
         "Column2": 109486888,
         "Column3": 7,
         "Column4": "SP",
@@ -22315,7 +22259,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MATHEUS CASTRO CARVALHO",
+        "Column1": "MATHEUS CASTRO CARVALHO ",
         "Column2": 109307762,
         "Column3": 1,
         "Column4": "SP",
@@ -22329,7 +22273,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MATHEUS DA SILVA REIS",
+        "Column1": "MATHEUS DA SILVA REIS ",
         "Column2": 112169469,
         "Column3": "X",
         "Column4": "SP",
@@ -22343,7 +22287,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MATHEUS DA SILVA SANTOS",
+        "Column1": "MATHEUS DA SILVA SANTOS ",
         "Column2": 111314395,
         "Column3": 2,
         "Column4": "SP",
@@ -22357,7 +22301,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MATHEUS DE LIMA FRANCISCO",
+        "Column1": "MATHEUS DE LIMA FRANCISCO ",
         "Column2": 109310002,
         "Column3": 3,
         "Column4": "SP",
@@ -22371,7 +22315,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MATHEUS DE LIMA FRANCISCO",
+        "Column1": "MATHEUS DE LIMA FRANCISCO ",
         "Column2": 109310002,
         "Column3": 3,
         "Column4": "SP",
@@ -22385,7 +22329,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MATHEUS DE LIMA FRANCISCO",
+        "Column1": "MATHEUS DE LIMA FRANCISCO ",
         "Column2": 109310002,
         "Column3": 3,
         "Column4": "SP",
@@ -22399,7 +22343,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MATHEUS DE LIMA FRANCISCO",
+        "Column1": "MATHEUS DE LIMA FRANCISCO ",
         "Column2": 109310002,
         "Column3": 3,
         "Column4": "SP",
@@ -22413,7 +22357,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MATHEUS GABRIEL SANTANA GUERRA",
+        "Column1": "MATHEUS GABRIEL SANTANA GUERRA ",
         "Column2": 112557011,
         "Column3": 8,
         "Column4": "SP",
@@ -22427,7 +22371,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MATHEUS GUEDES DE MELO DA SILVA",
+        "Column1": "MATHEUS GUEDES DE MELO DA SILVA ",
         "Column2": 111778915,
         "Column3": 9,
         "Column4": "SP",
@@ -22441,7 +22385,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MATHEUS HENRICK RIBEIRO NUNES",
+        "Column1": "MATHEUS HENRICK RIBEIRO NUNES ",
         "Column2": 108551079,
         "Column3": 7,
         "Column4": "SP",
@@ -22455,7 +22399,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MATHEUS HENRICK RIBEIRO NUNES",
+        "Column1": "MATHEUS HENRICK RIBEIRO NUNES ",
         "Column2": 108551079,
         "Column3": 7,
         "Column4": "SP",
@@ -22469,7 +22413,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MATHEUS HENRIQUE LIMA DA SILVA",
+        "Column1": "MATHEUS HENRIQUE LIMA DA SILVA ",
         "Column2": 109519543,
         "Column3": 8,
         "Column4": "SP",
@@ -22483,7 +22427,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MATHEUS HENRIQUE LIMA DA SILVA",
+        "Column1": "MATHEUS HENRIQUE LIMA DA SILVA ",
         "Column2": 109519543,
         "Column3": 8,
         "Column4": "SP",
@@ -22497,7 +22441,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MATHEUS LEONARDO DOS SANTOS",
+        "Column1": "MATHEUS LEONARDO DOS SANTOS ",
         "Column2": 111674141,
         "Column3": 6,
         "Column4": "SP",
@@ -22511,7 +22455,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MATHEUS NATAN GOMES DOS SANTOS",
+        "Column1": "MATHEUS NATAN GOMES DOS SANTOS ",
         "Column2": 109342455,
         "Column3": 2,
         "Column4": "SP",
@@ -22525,7 +22469,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MATHEUS NATAN GOMES DOS SANTOS",
+        "Column1": "MATHEUS NATAN GOMES DOS SANTOS ",
         "Column2": 109342455,
         "Column3": 2,
         "Column4": "SP",
@@ -22539,7 +22483,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MATHEUS NATAN GOMES DOS SANTOS",
+        "Column1": "MATHEUS NATAN GOMES DOS SANTOS ",
         "Column2": 109342455,
         "Column3": 2,
         "Column4": "SP",
@@ -22553,7 +22497,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MATHEUS NATAN GOMES DOS SANTOS",
+        "Column1": "MATHEUS NATAN GOMES DOS SANTOS ",
         "Column2": 109342455,
         "Column3": 2,
         "Column4": "SP",
@@ -22567,7 +22511,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MATHEUS SANTANA DE SOUSA",
+        "Column1": "MATHEUS SANTANA DE SOUSA ",
         "Column2": 111864848,
         "Column3": 1,
         "Column4": "SP",
@@ -22581,7 +22525,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MATHEUS VIANA RODRIGUES",
+        "Column1": "MATHEUS VIANA RODRIGUES ",
         "Column2": 104046368,
         "Column3": "X",
         "Column4": "SP",
@@ -22595,7 +22539,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MATHEUS VIANA RODRIGUES",
+        "Column1": "MATHEUS VIANA RODRIGUES ",
         "Column2": 104046368,
         "Column3": "X",
         "Column4": "SP",
@@ -22609,7 +22553,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MATHEUS VIEIRA DA SILVA",
+        "Column1": "MATHEUS VIEIRA DA SILVA ",
         "Column2": 113495005,
         "Column3": 6,
         "Column4": "SP",
@@ -22623,7 +22567,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MATHIAS DA SILVA BENITE",
+        "Column1": "MATHIAS DA SILVA BENITE ",
         "Column2": 110469124,
         "Column3": 3,
         "Column4": "SP",
@@ -22637,7 +22581,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MATHIAS DA SILVA BENITE",
+        "Column1": "MATHIAS DA SILVA BENITE ",
         "Column2": 110469124,
         "Column3": 3,
         "Column4": "SP",
@@ -22651,7 +22595,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MAURICIO GONÇALVES LOPES",
+        "Column1": "MAURICIO GONÇALVES LOPES ",
         "Column2": 109310011,
         "Column3": 4,
         "Column4": "SP",
@@ -22665,7 +22609,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MAURICIO GONÇALVES LOPES",
+        "Column1": "MAURICIO GONÇALVES LOPES ",
         "Column2": 109310011,
         "Column3": 4,
         "Column4": "SP",
@@ -22679,7 +22623,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MAURILIO ALAN DO NASCIMENTO LOPES DE LIMA",
+        "Column1": "MAURILIO ALAN DO NASCIMENTO LOPES DE LIMA ",
         "Column2": 111873993,
         "Column3": 0,
         "Column4": "SP",
@@ -22693,7 +22637,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MAX JOHNNY SANTOS SILVA",
+        "Column1": "MAX JOHNNY SANTOS SILVA ",
         "Column2": 110363520,
         "Column3": 7,
         "Column4": "SP",
@@ -22707,7 +22651,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MAYCOM KEVEN DA SILVA",
+        "Column1": "MAYCOM KEVEN DA SILVA ",
         "Column2": 109476859,
         "Column3": 5,
         "Column4": "SP",
@@ -22721,7 +22665,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MAYCON DOS SANTOS DIAS",
+        "Column1": "MAYCON DOS SANTOS DIAS ",
         "Column2": 108397612,
         "Column3": 6,
         "Column4": "SP",
@@ -22735,7 +22679,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MAYCON DOS SANTOS DIAS",
+        "Column1": "MAYCON DOS SANTOS DIAS ",
         "Column2": 108397612,
         "Column3": 6,
         "Column4": "SP",
@@ -22749,7 +22693,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MAYLLON RAFAEL DO NASCIMENTO BATISTA MENDES",
+        "Column1": "MAYLLON RAFAEL DO NASCIMENTO BATISTA MENDES ",
         "Column2": 115328217,
         "Column3": 3,
         "Column4": "SP",
@@ -22763,7 +22707,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MESSIAS SOUZA PEREIRA DE BARROS",
+        "Column1": "MESSIAS SOUZA PEREIRA DE BARROS ",
         "Column2": 114597092,
         "Column3": 8,
         "Column4": "SP",
@@ -22777,7 +22721,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MICHAEL ARAUJO DOS SANTOS",
+        "Column1": "MICHAEL ARAUJO DOS SANTOS ",
         "Column2": 110365769,
         "Column3": 0,
         "Column4": "SP",
@@ -22791,7 +22735,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MICHAEL BRUNO VICENTE DOS SANTOS",
+        "Column1": "MICHAEL BRUNO VICENTE DOS SANTOS ",
         "Column2": 116229073,
         "Column3": 0,
         "Column4": "SP",
@@ -22805,7 +22749,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MICHEL LIMA DE MOURA",
+        "Column1": "MICHEL LIMA DE MOURA ",
         "Column2": 111778825,
         "Column3": 8,
         "Column4": "SP",
@@ -22819,7 +22763,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MICHELLI DOS SANTOS GUIMARÃES",
+        "Column1": "MICHELLI DOS SANTOS GUIMARÃES ",
         "Column2": 111287294,
         "Column3": 2,
         "Column4": "SP",
@@ -22833,7 +22777,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MIGUEL ARAUJO DO NASCIMENTO",
+        "Column1": "MIGUEL ARAUJO DO NASCIMENTO ",
         "Column2": 109465327,
         "Column3": 5,
         "Column4": "SP",
@@ -22847,7 +22791,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MIGUEL DA SILVA DE ALMEIDA",
+        "Column1": "MIGUEL DA SILVA DE ALMEIDA ",
         "Column2": 111280700,
         "Column3": 7,
         "Column4": "SP",
@@ -22861,7 +22805,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MIGUEL DA SILVA DE ALMEIDA",
+        "Column1": "MIGUEL DA SILVA DE ALMEIDA ",
         "Column2": 111280700,
         "Column3": 7,
         "Column4": "SP",
@@ -22875,7 +22819,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MIGUEL DA SILVA DE ALMEIDA",
+        "Column1": "MIGUEL DA SILVA DE ALMEIDA ",
         "Column2": 111280700,
         "Column3": 7,
         "Column4": "SP",
@@ -22889,7 +22833,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MIGUEL DA SILVA DE ALMEIDA",
+        "Column1": "MIGUEL DA SILVA DE ALMEIDA ",
         "Column2": 111280700,
         "Column3": 7,
         "Column4": "SP",
@@ -22903,7 +22847,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MIGUEL FRANÇA LOURENÇO",
+        "Column1": "MIGUEL FRANÇA LOURENÇO ",
         "Column2": 109296654,
         "Column3": 7,
         "Column4": "SP",
@@ -22917,7 +22861,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MIGUEL GOMES DE SOUSA",
+        "Column1": "MIGUEL GOMES DE SOUSA ",
         "Column2": 111791908,
         "Column3": 0,
         "Column4": "SP",
@@ -22931,7 +22875,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MIGUEL HENRIQUE MARTINS MENEZES",
+        "Column1": "MIGUEL HENRIQUE MARTINS MENEZES ",
         "Column2": 108122175,
         "Column3": 6,
         "Column4": "SP",
@@ -22945,7 +22889,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MIGUEL RODRIGUES GOULART",
+        "Column1": "MIGUEL RODRIGUES GOULART ",
         "Column2": 111881548,
         "Column3": 8,
         "Column4": "SP",
@@ -22959,7 +22903,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MIGUEL SANTOS DIAS",
+        "Column1": "MIGUEL SANTOS DIAS ",
         "Column2": 113307752,
         "Column3": 3,
         "Column4": "SP",
@@ -22973,7 +22917,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MIGUEL SENA GONÇALVES",
+        "Column1": "MIGUEL SENA GONÇALVES ",
         "Column2": 111841111,
         "Column3": 0,
         "Column4": "SP",
@@ -22987,7 +22931,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MIGUEL SERAFIM DA SILVA",
+        "Column1": "MIGUEL SERAFIM DA SILVA ",
         "Column2": 110366015,
         "Column3": 9,
         "Column4": "SP",
@@ -23001,7 +22945,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MIKAEL BRITO DE SOUZA",
+        "Column1": "MIKAEL BRITO DE SOUZA ",
         "Column2": 109349962,
         "Column3": "X",
         "Column4": "SP",
@@ -23015,7 +22959,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MIKAEL DOS REIS SOUZA LIMA",
+        "Column1": "MIKAEL DOS REIS SOUZA LIMA ",
         "Column2": 109342467,
         "Column3": 9,
         "Column4": "SP",
@@ -23029,7 +22973,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MIKAEL SANTOS LAVRADOR DE ABREU",
+        "Column1": "MIKAEL SANTOS LAVRADOR DE ABREU ",
         "Column2": 113566289,
         "Column3": 7,
         "Column4": "SP",
@@ -23043,7 +22987,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MIKAELY ARAUJO FELIPE",
+        "Column1": "MIKAELY ARAUJO FELIPE ",
         "Column2": 109526381,
         "Column3": "X",
         "Column4": "SP",
@@ -23057,7 +23001,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MIKAELY ARAUJO FELIPE",
+        "Column1": "MIKAELY ARAUJO FELIPE ",
         "Column2": 109526381,
         "Column3": "X",
         "Column4": "SP",
@@ -23071,7 +23015,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MILENA MENDES TEIXEIRA",
+        "Column1": "MILENA MENDES TEIXEIRA ",
         "Column2": 109486641,
         "Column3": 6,
         "Column4": "SP",
@@ -23085,7 +23029,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MILENA MENDES TEIXEIRA",
+        "Column1": "MILENA MENDES TEIXEIRA ",
         "Column2": 109486641,
         "Column3": 6,
         "Column4": "SP",
@@ -23099,7 +23043,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MILENA VILMA FRANCO DO OURO",
+        "Column1": "MILENA VILMA FRANCO DO OURO ",
         "Column2": 111777806,
         "Column3": "X",
         "Column4": "SP",
@@ -23113,7 +23057,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MIQUÉIAS CONCEIÇÃO CERQUEIRA",
+        "Column1": "MIQUÉIAS CONCEIÇÃO CERQUEIRA ",
         "Column2": 109469147,
         "Column3": 1,
         "Column4": "SP",
@@ -23127,7 +23071,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MIRIAM FERREIRA DA SILVA",
+        "Column1": "MIRIAM FERREIRA DA SILVA ",
         "Column2": 110388422,
         "Column3": 0,
         "Column4": "SP",
@@ -23141,7 +23085,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MONIQUE SANTOS RIBEIRO",
+        "Column1": "MONIQUE SANTOS RIBEIRO ",
         "Column2": 111772864,
         "Column3": "X",
         "Column4": "SP",
@@ -23155,7 +23099,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MURILLO VIEIRA BARROS",
+        "Column1": "MURILLO VIEIRA BARROS ",
         "Column2": 111692807,
         "Column3": 3,
         "Column4": "SP",
@@ -23169,7 +23113,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MURILO GABRIEL RODRIGUES ELIAS",
+        "Column1": "MURILO GABRIEL RODRIGUES ELIAS ",
         "Column2": 108267770,
         "Column3": "X",
         "Column4": "SP",
@@ -23183,7 +23127,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "MÁRCIO JÛNIO SILVA SOUZA",
+        "Column1": "MÁRCIO JÛNIO SILVA SOUZA ",
         "Column2": 109342755,
         "Column3": 3,
         "Column4": "SP",
@@ -23197,7 +23141,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NAIARA VITORIA DE OLIVEIRA DIAS",
+        "Column1": "NAIARA VITORIA DE OLIVEIRA DIAS ",
         "Column2": 111742818,
         "Column3": 7,
         "Column4": "SP",
@@ -23211,7 +23155,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NAIELLY VITORIA DOS SANTOS SILVA",
+        "Column1": "NAIELLY VITORIA DOS SANTOS SILVA ",
         "Column2": 111730185,
         "Column3": 0,
         "Column4": "SP",
@@ -23225,7 +23169,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NAIKELLY NUNES DOS SANTOS",
+        "Column1": "NAIKELLY NUNES DOS SANTOS ",
         "Column2": 112470152,
         "Column3": 7,
         "Column4": "SP",
@@ -23239,7 +23183,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NAILSON PEREIRA BARBOSA",
+        "Column1": "NAILSON PEREIRA BARBOSA ",
         "Column2": 112349957,
         "Column3": 3,
         "Column4": "SP",
@@ -23253,7 +23197,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NATALIA ALVES DE JESUS",
+        "Column1": "NATALIA ALVES DE JESUS ",
         "Column2": 115109054,
         "Column3": 2,
         "Column4": "SP",
@@ -23267,7 +23211,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NATALIA ALVES DE JESUS",
+        "Column1": "NATALIA ALVES DE JESUS ",
         "Column2": 115109054,
         "Column3": 2,
         "Column4": "SP",
@@ -23281,7 +23225,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NATANAEL DOS SANTOS LIRA",
+        "Column1": "NATANAEL DOS SANTOS LIRA ",
         "Column2": 110384800,
         "Column3": 8,
         "Column4": "SP",
@@ -23295,7 +23239,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NATASHA MICHELLE CARVALHO MARCONDES",
+        "Column1": "NATASHA MICHELLE CARVALHO MARCONDES ",
         "Column2": 107335656,
         "Column3": 5,
         "Column4": "SP",
@@ -23309,7 +23253,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NATASHA MICHELLE CARVALHO MARCONDES",
+        "Column1": "NATASHA MICHELLE CARVALHO MARCONDES ",
         "Column2": 107335656,
         "Column3": 5,
         "Column4": "SP",
@@ -23323,7 +23267,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NATASHA MICHELLE CARVALHO MARCONDES",
+        "Column1": "NATASHA MICHELLE CARVALHO MARCONDES ",
         "Column2": 107335656,
         "Column3": 5,
         "Column4": "SP",
@@ -23337,7 +23281,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NATASHA MICHELLE CARVALHO MARCONDES",
+        "Column1": "NATASHA MICHELLE CARVALHO MARCONDES ",
         "Column2": 107335656,
         "Column3": 5,
         "Column4": "SP",
@@ -23351,7 +23295,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NATHALY OLIVEIRA DOS SANTOS",
+        "Column1": "NATHALY OLIVEIRA DOS SANTOS ",
         "Column2": 109342773,
         "Column3": 5,
         "Column4": "SP",
@@ -23365,7 +23309,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NATHALY OLIVEIRA DOS SANTOS",
+        "Column1": "NATHALY OLIVEIRA DOS SANTOS ",
         "Column2": 109342773,
         "Column3": 5,
         "Column4": "SP",
@@ -23379,7 +23323,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NATHALYA VITORIA DA SILVA SANTOS",
+        "Column1": "NATHALYA VITORIA DA SILVA SANTOS ",
         "Column2": 109307694,
         "Column3": "X",
         "Column4": "SP",
@@ -23393,7 +23337,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NATHAN LOPES REHEM",
+        "Column1": "NATHAN LOPES REHEM ",
         "Column2": 107336913,
         "Column3": 4,
         "Column4": "SP",
@@ -23407,7 +23351,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NATHAN LOPES REHEM",
+        "Column1": "NATHAN LOPES REHEM ",
         "Column2": 107336913,
         "Column3": 4,
         "Column4": "SP",
@@ -23421,7 +23365,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NATHAN LOPES REHEM",
+        "Column1": "NATHAN LOPES REHEM ",
         "Column2": 107336913,
         "Column3": 4,
         "Column4": "SP",
@@ -23435,7 +23379,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NATHAN LOPES REHEM",
+        "Column1": "NATHAN LOPES REHEM ",
         "Column2": 107336913,
         "Column3": 4,
         "Column4": "SP",
@@ -23449,7 +23393,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NATHANAEL NAZARIO TEIXEIRA",
+        "Column1": "NATHANAEL NAZARIO TEIXEIRA ",
         "Column2": 111286672,
         "Column3": 3,
         "Column4": "SP",
@@ -23463,7 +23407,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NATHANAEL NAZARIO TEIXEIRA",
+        "Column1": "NATHANAEL NAZARIO TEIXEIRA ",
         "Column2": 111286672,
         "Column3": 3,
         "Column4": "SP",
@@ -23477,7 +23421,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NATHANAEL NAZARIO TEIXEIRA",
+        "Column1": "NATHANAEL NAZARIO TEIXEIRA ",
         "Column2": 111286672,
         "Column3": 3,
         "Column4": "SP",
@@ -23491,7 +23435,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NATHANAEL NAZARIO TEIXEIRA",
+        "Column1": "NATHANAEL NAZARIO TEIXEIRA ",
         "Column2": 111286672,
         "Column3": 3,
         "Column4": "SP",
@@ -23505,7 +23449,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NATHÁLIA SILVA MARTINS",
+        "Column1": "NATHÁLIA SILVA MARTINS ",
         "Column2": 110335473,
         "Column3": 5,
         "Column4": "SP",
@@ -23519,7 +23463,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NATTIELY LEMOS DE FRANÇA",
+        "Column1": "NATTIELY LEMOS DE FRANÇA ",
         "Column2": 110365577,
         "Column3": 2,
         "Column4": "SP",
@@ -23533,7 +23477,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NATÁLIA DE SOUZA PIRES",
+        "Column1": "NATÁLIA DE SOUZA PIRES ",
         "Column2": 109119515,
         "Column3": 8,
         "Column4": "SP",
@@ -23547,7 +23491,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NATÃ PEREIRA FRANCISCO",
+        "Column1": "NATÃ PEREIRA FRANCISCO ",
         "Column2": 109487199,
         "Column3": 0,
         "Column4": "SP",
@@ -23561,7 +23505,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NAYARA DA SILVA ARAUJO",
+        "Column1": "NAYARA DA SILVA ARAUJO ",
         "Column2": 109308486,
         "Column3": 8,
         "Column4": "SP",
@@ -23575,7 +23519,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NAYARA DA SILVA ARAUJO",
+        "Column1": "NAYARA DA SILVA ARAUJO ",
         "Column2": 109308486,
         "Column3": 8,
         "Column4": "SP",
@@ -23589,7 +23533,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NAYARA DE JESUS SILVA",
+        "Column1": "NAYARA DE JESUS SILVA ",
         "Column2": 109467495,
         "Column3": 3,
         "Column4": "SP",
@@ -23603,7 +23547,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NAYARA DE JESUS SILVA",
+        "Column1": "NAYARA DE JESUS SILVA ",
         "Column2": 109467495,
         "Column3": 3,
         "Column4": "SP",
@@ -23617,7 +23561,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NAYARA DE JESUS SILVA",
+        "Column1": "NAYARA DE JESUS SILVA ",
         "Column2": 109467495,
         "Column3": 3,
         "Column4": "SP",
@@ -23631,7 +23575,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NAYARA DE JESUS SILVA",
+        "Column1": "NAYARA DE JESUS SILVA ",
         "Column2": 109467495,
         "Column3": 3,
         "Column4": "SP",
@@ -23645,7 +23589,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NEJLA SOUSA BARBOSA DE CASTRO",
+        "Column1": "NEJLA SOUSA BARBOSA DE CASTRO ",
         "Column2": 106732752,
         "Column3": 6,
         "Column4": "SP",
@@ -23659,7 +23603,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NEJLA SOUSA BARBOSA DE CASTRO",
+        "Column1": "NEJLA SOUSA BARBOSA DE CASTRO ",
         "Column2": 106732752,
         "Column3": 6,
         "Column4": "SP",
@@ -23673,7 +23617,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NEY LUIZ HERCULANO SILVA",
+        "Column1": "NEY LUIZ HERCULANO SILVA ",
         "Column2": 109456332,
         "Column3": 8,
         "Column4": "SP",
@@ -23687,7 +23631,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NEY LUIZ HERCULANO SILVA",
+        "Column1": "NEY LUIZ HERCULANO SILVA ",
         "Column2": 109456332,
         "Column3": 8,
         "Column4": "SP",
@@ -23701,7 +23645,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NICOLAS DA SILVA GUEDES",
+        "Column1": "NICOLAS DA SILVA GUEDES ",
         "Column2": 110365312,
         "Column3": "X",
         "Column4": "SP",
@@ -23715,7 +23659,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NICOLAS DE ANDRADE VIANA",
+        "Column1": "NICOLAS DE ANDRADE VIANA ",
         "Column2": 111846246,
         "Column3": 4,
         "Column4": "SP",
@@ -23729,7 +23673,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NICOLAS MIGUEL CAMPOS CORDEIRO",
+        "Column1": "NICOLAS MIGUEL CAMPOS CORDEIRO ",
         "Column2": 110401516,
         "Column3": "X",
         "Column4": "SP",
@@ -23743,7 +23687,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NICOLAS VINÍCIUS DE OLIVEIRA SANTIAGO",
+        "Column1": "NICOLAS VINÍCIUS DE OLIVEIRA SANTIAGO ",
         "Column2": 111324203,
         "Column3": 6,
         "Column4": "SP",
@@ -23757,7 +23701,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NICOLE JESUS DOS SANTOS",
+        "Column1": "NICOLE JESUS DOS SANTOS ",
         "Column2": 111679558,
         "Column3": 9,
         "Column4": "SP",
@@ -23771,7 +23715,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NICOLLE CAROLINE DIAS SILVA",
+        "Column1": "NICOLLE CAROLINE DIAS SILVA ",
         "Column2": 123401656,
         "Column3": 4,
         "Column4": "SP",
@@ -23785,7 +23729,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NICOLLY BARROS GOMES DE OLIVEIRA",
+        "Column1": "NICOLLY BARROS GOMES DE OLIVEIRA ",
         "Column2": 109441507,
         "Column3": 8,
         "Column4": "SP",
@@ -23799,7 +23743,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NICOLLY BARROS GOMES DE OLIVEIRA",
+        "Column1": "NICOLLY BARROS GOMES DE OLIVEIRA ",
         "Column2": 109441507,
         "Column3": 8,
         "Column4": "SP",
@@ -23813,7 +23757,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NICOLLY BARROS GOMES DE OLIVEIRA",
+        "Column1": "NICOLLY BARROS GOMES DE OLIVEIRA ",
         "Column2": 109441507,
         "Column3": 8,
         "Column4": "SP",
@@ -23827,7 +23771,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NICOLLY BARROS GOMES DE OLIVEIRA",
+        "Column1": "NICOLLY BARROS GOMES DE OLIVEIRA ",
         "Column2": 109441507,
         "Column3": 8,
         "Column4": "SP",
@@ -23841,7 +23785,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NICOLLY HILLARY FAUSTINO LIMA",
+        "Column1": "NICOLLY HILLARY FAUSTINO LIMA ",
         "Column2": 111783933,
         "Column3": 3,
         "Column4": "SP",
@@ -23855,7 +23799,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NICOLLY OLIMPIO BERNARDO FERNANDO",
+        "Column1": "NICOLLY OLIMPIO BERNARDO FERNANDO ",
         "Column2": 109309048,
         "Column3": 0,
         "Column4": "SP",
@@ -23869,7 +23813,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NICOLLY OLIVEIRA DE BRITO",
+        "Column1": "NICOLLY OLIVEIRA DE BRITO ",
         "Column2": 109462996,
         "Column3": 0,
         "Column4": "SP",
@@ -23883,7 +23827,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NICOLLY PAULA DE MENEZES",
+        "Column1": "NICOLLY PAULA DE MENEZES ",
         "Column2": 109343269,
         "Column3": "X",
         "Column4": "SP",
@@ -23897,7 +23841,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NICOLLY WILLIANY PEREIRA VAZ",
+        "Column1": "NICOLLY WILLIANY PEREIRA VAZ ",
         "Column2": 109308337,
         "Column3": 2,
         "Column4": "SP",
@@ -23911,7 +23855,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NICOLY NOVAIS DA SILVA",
+        "Column1": "NICOLY NOVAIS DA SILVA ",
         "Column2": 108851333,
         "Column3": 5,
         "Column4": "SP",
@@ -23925,7 +23869,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NICOLY NOVAIS DA SILVA",
+        "Column1": "NICOLY NOVAIS DA SILVA ",
         "Column2": 108851333,
         "Column3": 5,
         "Column4": "SP",
@@ -23939,7 +23883,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NICOLY NOVAIS DA SILVA",
+        "Column1": "NICOLY NOVAIS DA SILVA ",
         "Column2": 108851333,
         "Column3": 5,
         "Column4": "SP",
@@ -23953,7 +23897,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NICOLY NOVAIS DA SILVA",
+        "Column1": "NICOLY NOVAIS DA SILVA ",
         "Column2": 108851333,
         "Column3": 5,
         "Column4": "SP",
@@ -23967,7 +23911,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NICOLY SAMIRA CAETANA DA SILVA",
+        "Column1": "NICOLY SAMIRA CAETANA DA SILVA ",
         "Column2": 110390941,
         "Column3": 1,
         "Column4": "SP",
@@ -23981,7 +23925,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NICOLY VITÓRIA DOS SANTOS NASCIMENTO",
+        "Column1": "NICOLY VITÓRIA DOS SANTOS NASCIMENTO ",
         "Column2": 110345628,
         "Column3": 3,
         "Column4": "SP",
@@ -23995,7 +23939,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NIKOLAS GOMES BARBOSA",
+        "Column1": "NIKOLAS GOMES BARBOSA ",
         "Column2": 109343275,
         "Column3": 5,
         "Column4": "SP",
@@ -24009,7 +23953,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NIKOLAS OTAVIO DE OLIVEIRA RAMOS",
+        "Column1": "NIKOLAS OTAVIO DE OLIVEIRA RAMOS ",
         "Column2": 109343294,
         "Column3": 9,
         "Column4": "SP",
@@ -24023,7 +23967,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NIKOLE GOMES PEREIRA FERREIRA",
+        "Column1": "NIKOLE GOMES PEREIRA FERREIRA ",
         "Column2": 109416017,
         "Column3": 9,
         "Column4": "SP",
@@ -24037,7 +23981,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NIKOLE GOMES PEREIRA FERREIRA",
+        "Column1": "NIKOLE GOMES PEREIRA FERREIRA ",
         "Column2": 109416017,
         "Column3": 9,
         "Column4": "SP",
@@ -24051,7 +23995,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NIKOLE GOMES PEREIRA FERREIRA",
+        "Column1": "NIKOLE GOMES PEREIRA FERREIRA ",
         "Column2": 109416017,
         "Column3": 9,
         "Column4": "SP",
@@ -24065,7 +24009,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NIKOLE GOMES PEREIRA FERREIRA",
+        "Column1": "NIKOLE GOMES PEREIRA FERREIRA ",
         "Column2": 109416017,
         "Column3": 9,
         "Column4": "SP",
@@ -24079,7 +24023,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NYCOLLAS RIKELME VIEIRA DE SOUZA",
+        "Column1": "NYCOLLAS RIKELME VIEIRA DE SOUZA ",
         "Column2": 112328811,
         "Column3": 2,
         "Column4": "SP",
@@ -24093,7 +24037,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "NÁTALY CRISTINI GOMES SAMPAIO",
+        "Column1": "NÁTALY CRISTINI GOMES SAMPAIO ",
         "Column2": 109486627,
         "Column3": 1,
         "Column4": "SP",
@@ -24107,7 +24051,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ONILDO SILVA MATOS",
+        "Column1": "ONILDO SILVA MATOS ",
         "Column2": 107267009,
         "Column3": 4,
         "Column4": "SP",
@@ -24121,7 +24065,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ONILDO SILVA MATOS",
+        "Column1": "ONILDO SILVA MATOS ",
         "Column2": 107267009,
         "Column3": 4,
         "Column4": "SP",
@@ -24135,7 +24079,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "OTAVIO SILVA MATOS",
+        "Column1": "OTAVIO SILVA MATOS ",
         "Column2": 111740963,
         "Column3": 6,
         "Column4": "SP",
@@ -24149,7 +24093,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PABLO DOS SANTOS ROCHA",
+        "Column1": "PABLO DOS SANTOS ROCHA ",
         "Column2": 113543574,
         "Column3": 1,
         "Column4": "SP",
@@ -24163,7 +24107,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PABLO EDUARDO SILVA GARCIA",
+        "Column1": "PABLO EDUARDO SILVA GARCIA ",
         "Column2": 109307735,
         "Column3": 9,
         "Column4": "SP",
@@ -24177,7 +24121,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PABLO EMANUEL SILVA GONÇALVES",
+        "Column1": "PABLO EMANUEL SILVA GONÇALVES ",
         "Column2": 114179641,
         "Column3": 7,
         "Column4": "SP",
@@ -24191,7 +24135,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PABLO HENRIQUE CAMARGO DA SILVA",
+        "Column1": "PABLO HENRIQUE CAMARGO DA SILVA ",
         "Column2": 112169835,
         "Column3": 9,
         "Column4": "SP",
@@ -24205,7 +24149,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PABLO KAUA ARAUJO DO CARMO DE SOUSA",
+        "Column1": "PABLO KAUA ARAUJO DO CARMO DE SOUSA ",
         "Column2": 109308235,
         "Column3": 5,
         "Column4": "SP",
@@ -24219,7 +24163,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PABLO MIGUEL RODRIGUES NASCIMENTO",
+        "Column1": "PABLO MIGUEL RODRIGUES NASCIMENTO ",
         "Column2": 110341912,
         "Column3": 2,
         "Column4": "SP",
@@ -24233,7 +24177,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PABLO SANTANA DE OLIVEIRA",
+        "Column1": "PABLO SANTANA DE OLIVEIRA ",
         "Column2": 109342791,
         "Column3": 7,
         "Column4": "SP",
@@ -24247,7 +24191,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PABLO SANTANA DE OLIVEIRA",
+        "Column1": "PABLO SANTANA DE OLIVEIRA ",
         "Column2": 109342791,
         "Column3": 7,
         "Column4": "SP",
@@ -24261,7 +24205,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PABLO SANTANA DE OLIVEIRA",
+        "Column1": "PABLO SANTANA DE OLIVEIRA ",
         "Column2": 109342791,
         "Column3": 7,
         "Column4": "SP",
@@ -24275,7 +24219,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PABLO SANTANA DE OLIVEIRA",
+        "Column1": "PABLO SANTANA DE OLIVEIRA ",
         "Column2": 109342791,
         "Column3": 7,
         "Column4": "SP",
@@ -24289,7 +24233,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PABLO SANTOS ROCHA",
+        "Column1": "PABLO SANTOS ROCHA ",
         "Column2": 111738692,
         "Column3": 2,
         "Column4": "SP",
@@ -24303,7 +24247,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PABLO SANTOS ROCHA",
+        "Column1": "PABLO SANTOS ROCHA ",
         "Column2": 111738692,
         "Column3": 2,
         "Column4": "SP",
@@ -24317,7 +24261,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PALOMA DOS SANTOS TENORIO",
+        "Column1": "PALOMA DOS SANTOS TENORIO ",
         "Column2": 111791942,
         "Column3": 0,
         "Column4": "SP",
@@ -24331,7 +24275,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PAMELA DA CONCEICÃO PEREIRA",
+        "Column1": "PAMELA DA CONCEICÃO PEREIRA ",
         "Column2": 111286826,
         "Column3": 4,
         "Column4": "SP",
@@ -24345,7 +24289,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PAMELA DA CONCEICÃO PEREIRA",
+        "Column1": "PAMELA DA CONCEICÃO PEREIRA ",
         "Column2": 111286826,
         "Column3": 4,
         "Column4": "SP",
@@ -24359,7 +24303,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PAMELA DA CONCEICÃO PEREIRA",
+        "Column1": "PAMELA DA CONCEICÃO PEREIRA ",
         "Column2": 111286826,
         "Column3": 4,
         "Column4": "SP",
@@ -24373,7 +24317,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PAMELA DA CONCEICÃO PEREIRA",
+        "Column1": "PAMELA DA CONCEICÃO PEREIRA ",
         "Column2": 111286826,
         "Column3": 4,
         "Column4": "SP",
@@ -24387,7 +24331,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PAULA MONIK CECILIO DE SOUZA",
+        "Column1": "PAULA MONIK CECILIO DE SOUZA ",
         "Column2": 109309210,
         "Column3": 5,
         "Column4": "SP",
@@ -24401,7 +24345,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PAULO FERNANDO DA CRUZ",
+        "Column1": "PAULO FERNANDO DA CRUZ ",
         "Column2": 114289427,
         "Column3": 7,
         "Column4": "SP",
@@ -24415,7 +24359,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PAULO HENRIQUE DE SOUZA PEREIRA",
+        "Column1": "PAULO HENRIQUE DE SOUZA PEREIRA ",
         "Column2": 120314020,
         "Column3": 4,
         "Column4": "SP",
@@ -24429,7 +24373,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PAULO HENRIQUE DOS SANTOS FAGUNDES",
+        "Column1": "PAULO HENRIQUE DOS SANTOS FAGUNDES ",
         "Column2": 109342566,
         "Column3": 0,
         "Column4": "SP",
@@ -24443,7 +24387,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PAULO HENRIQUE DOS SANTOS OLIVEIRA",
+        "Column1": "PAULO HENRIQUE DOS SANTOS OLIVEIRA ",
         "Column2": 109342525,
         "Column3": 8,
         "Column4": "SP",
@@ -24457,7 +24401,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PAULO HENRIQUE FERNANDES DA SILVA",
+        "Column1": "PAULO HENRIQUE FERNANDES DA SILVA ",
         "Column2": 113296373,
         "Column3": 4,
         "Column4": "SP",
@@ -24471,7 +24415,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PAULO HENRIQUE SOARES BARBOSA",
+        "Column1": "PAULO HENRIQUE SOARES BARBOSA ",
         "Column2": 112050493,
         "Column3": 4,
         "Column4": "SP",
@@ -24485,7 +24429,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PAULO MOREIRA LIMA",
+        "Column1": "PAULO MOREIRA LIMA ",
         "Column2": 112336908,
         "Column3": 2,
         "Column4": "SP",
@@ -24499,7 +24443,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PAULO ROBERTO DA SILVA MENDES",
+        "Column1": "PAULO ROBERTO DA SILVA MENDES ",
         "Column2": 109486666,
         "Column3": 0,
         "Column4": "SP",
@@ -24513,7 +24457,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PAULO ROBERTO DA SILVA MENDES",
+        "Column1": "PAULO ROBERTO DA SILVA MENDES ",
         "Column2": 109486666,
         "Column3": 0,
         "Column4": "SP",
@@ -24527,7 +24471,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PAULO ROBERTO DA SILVA MENDES",
+        "Column1": "PAULO ROBERTO DA SILVA MENDES ",
         "Column2": 109486666,
         "Column3": 0,
         "Column4": "SP",
@@ -24541,7 +24485,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PAULO ROBERTO DA SILVA MENDES",
+        "Column1": "PAULO ROBERTO DA SILVA MENDES ",
         "Column2": 109486666,
         "Column3": 0,
         "Column4": "SP",
@@ -24555,7 +24499,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PAULO ROBERTO DE ABREU DOS SANTOS",
+        "Column1": "PAULO ROBERTO DE ABREU DOS SANTOS ",
         "Column2": 108325255,
         "Column3": 0,
         "Column4": "SP",
@@ -24569,7 +24513,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PAULO ROBERTO DE ABREU DOS SANTOS",
+        "Column1": "PAULO ROBERTO DE ABREU DOS SANTOS ",
         "Column2": 108325255,
         "Column3": 0,
         "Column4": "SP",
@@ -24583,7 +24527,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PAULO RYAN CAETANO DA SILVA",
+        "Column1": "PAULO RYAN CAETANO DA SILVA ",
         "Column2": 108342624,
         "Column3": 2,
         "Column4": "SP",
@@ -24597,7 +24541,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PAULO RYAN CAETANO DA SILVA",
+        "Column1": "PAULO RYAN CAETANO DA SILVA ",
         "Column2": 108342624,
         "Column3": 2,
         "Column4": "SP",
@@ -24611,7 +24555,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PAULO RYAN CAETANO DA SILVA",
+        "Column1": "PAULO RYAN CAETANO DA SILVA ",
         "Column2": 108342624,
         "Column3": 2,
         "Column4": "SP",
@@ -24625,7 +24569,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PAULO RYAN CAETANO DA SILVA",
+        "Column1": "PAULO RYAN CAETANO DA SILVA ",
         "Column2": 108342624,
         "Column3": 2,
         "Column4": "SP",
@@ -24639,7 +24583,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PAULO VINICIUS DOS SANTOS NUNES",
+        "Column1": "PAULO VINICIUS DOS SANTOS NUNES ",
         "Column2": 111874757,
         "Column3": 4,
         "Column4": "SP",
@@ -24653,7 +24597,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PEDRO ALEXANDRO PEREIRA MARTILIANO",
+        "Column1": "PEDRO ALEXANDRO PEREIRA MARTILIANO ",
         "Column2": 111781388,
         "Column3": 5,
         "Column4": "SP",
@@ -24667,7 +24611,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PEDRO ALVES CAETANO",
+        "Column1": "PEDRO ALVES CAETANO ",
         "Column2": 110343809,
         "Column3": 8,
         "Column4": "SP",
@@ -24681,7 +24625,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PEDRO GUILHERME LIRA DOS SANTOS",
+        "Column1": "PEDRO GUILHERME LIRA DOS SANTOS ",
         "Column2": 109469169,
         "Column3": 0,
         "Column4": "SP",
@@ -24695,7 +24639,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PEDRO HENRIQUE BORGES DA CONCEIÇÃO",
+        "Column1": "PEDRO HENRIQUE BORGES DA CONCEIÇÃO ",
         "Column2": 111730117,
         "Column3": 5,
         "Column4": "SP",
@@ -24709,7 +24653,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PEDRO HENRIQUE DA SILVA NASCIMENTO",
+        "Column1": "PEDRO HENRIQUE DA SILVA NASCIMENTO ",
         "Column2": 111750927,
         "Column3": 8,
         "Column4": "SP",
@@ -24723,7 +24667,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PEDRO HENRIQUE DE FREITAS RIBEIRO",
+        "Column1": "PEDRO HENRIQUE DE FREITAS RIBEIRO ",
         "Column2": 111730125,
         "Column3": 4,
         "Column4": "SP",
@@ -24737,7 +24681,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PEDRO HENRIQUE DE JESUS CARVALHO",
+        "Column1": "PEDRO HENRIQUE DE JESUS CARVALHO ",
         "Column2": 109343150,
         "Column3": 7,
         "Column4": "SP",
@@ -24751,7 +24695,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PEDRO HENRIQUE DE MELO LOPES",
+        "Column1": "PEDRO HENRIQUE DE MELO LOPES ",
         "Column2": 112582584,
         "Column3": 4,
         "Column4": "SP",
@@ -24765,7 +24709,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PEDRO HENRIQUE DOS SANTOS ANDREOLLA",
+        "Column1": "PEDRO HENRIQUE DOS SANTOS ANDREOLLA ",
         "Column2": 108252821,
         "Column3": 3,
         "Column4": "SP",
@@ -24779,7 +24723,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PEDRO HENRIQUE RODRIGUES DA SILVA",
+        "Column1": "PEDRO HENRIQUE RODRIGUES DA SILVA ",
         "Column2": 111772916,
         "Column3": 3,
         "Column4": "SP",
@@ -24793,7 +24737,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PEDRO HENRIQUE SOARES GONCALVES",
+        "Column1": "PEDRO HENRIQUE SOARES GONCALVES ",
         "Column2": 111855533,
         "Column3": 8,
         "Column4": "SP",
@@ -24807,7 +24751,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PEDRO HENRIQUE VENADES DE CARVALHO",
+        "Column1": "PEDRO HENRIQUE VENADES DE CARVALHO ",
         "Column2": 111779606,
         "Column3": 1,
         "Column4": "SP",
@@ -24821,7 +24765,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PEDRO HENRIQUE XAVIER MIRANDA",
+        "Column1": "PEDRO HENRIQUE XAVIER MIRANDA ",
         "Column2": 110394195,
         "Column3": 1,
         "Column4": "SP",
@@ -24835,7 +24779,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PEDRO MATOS ANSELMO",
+        "Column1": "PEDRO MATOS ANSELMO ",
         "Column2": 107258038,
         "Column3": "X",
         "Column4": "SP",
@@ -24849,7 +24793,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PEDRO NASCIMENTO DE OLIVEIRA",
+        "Column1": "PEDRO NASCIMENTO DE OLIVEIRA ",
         "Column2": 110390827,
         "Column3": 3,
         "Column4": "SP",
@@ -24863,7 +24807,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PEDRO NASCIMENTO DE OLIVEIRA",
+        "Column1": "PEDRO NASCIMENTO DE OLIVEIRA ",
         "Column2": 110390827,
         "Column3": 3,
         "Column4": "SP",
@@ -24877,7 +24821,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PEDRO NASCIMENTO DE OLIVEIRA",
+        "Column1": "PEDRO NASCIMENTO DE OLIVEIRA ",
         "Column2": 110390827,
         "Column3": 3,
         "Column4": "SP",
@@ -24891,7 +24835,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PEDRO NASCIMENTO DE OLIVEIRA",
+        "Column1": "PEDRO NASCIMENTO DE OLIVEIRA ",
         "Column2": 110390827,
         "Column3": 3,
         "Column4": "SP",
@@ -24905,7 +24849,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PEDRO RODRIGUES COSTA",
+        "Column1": "PEDRO RODRIGUES COSTA ",
         "Column2": 107914113,
         "Column3": 3,
         "Column4": "SP",
@@ -24919,7 +24863,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PEDRO RODRIGUES COSTA",
+        "Column1": "PEDRO RODRIGUES COSTA ",
         "Column2": 107914113,
         "Column3": 3,
         "Column4": "SP",
@@ -24933,7 +24877,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PEDRO RODRIGUES DOS SANTOS SILVA",
+        "Column1": "PEDRO RODRIGUES DOS SANTOS SILVA ",
         "Column2": 110378405,
         "Column3": 5,
         "Column4": "SP",
@@ -24947,7 +24891,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "POLYANNA COSTA SOUZA",
+        "Column1": "POLYANNA COSTA SOUZA ",
         "Column2": 111783973,
         "Column3": 4,
         "Column4": "SP",
@@ -24961,7 +24905,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PRISCILA DE OLIVEIRA BASTOS",
+        "Column1": "PRISCILA DE OLIVEIRA BASTOS ",
         "Column2": 109487164,
         "Column3": 3,
         "Column4": "SP",
@@ -24975,7 +24919,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PRISCILA DE OLIVEIRA BASTOS",
+        "Column1": "PRISCILA DE OLIVEIRA BASTOS ",
         "Column2": 109487164,
         "Column3": 3,
         "Column4": "SP",
@@ -24989,7 +24933,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PRISCILA DE OLIVEIRA BASTOS",
+        "Column1": "PRISCILA DE OLIVEIRA BASTOS ",
         "Column2": 109487164,
         "Column3": 3,
         "Column4": "SP",
@@ -25003,7 +24947,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PRISCILA DE OLIVEIRA BASTOS",
+        "Column1": "PRISCILA DE OLIVEIRA BASTOS ",
         "Column2": 109487164,
         "Column3": 3,
         "Column4": "SP",
@@ -25017,7 +24961,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "PYETRO NUNES CABRAL DE OLIVEIRA",
+        "Column1": "PYETRO NUNES CABRAL DE OLIVEIRA ",
         "Column2": 110389961,
         "Column3": 2,
         "Column4": "SP",
@@ -25031,7 +24975,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAFAEL ALVES DE OLIVEIRA",
+        "Column1": "RAFAEL ALVES DE OLIVEIRA ",
         "Column2": 109416132,
         "Column3": 9,
         "Column4": "SP",
@@ -25045,7 +24989,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAFAEL ALVES DE OLIVEIRA",
+        "Column1": "RAFAEL ALVES DE OLIVEIRA ",
         "Column2": 109416132,
         "Column3": 9,
         "Column4": "SP",
@@ -25059,7 +25003,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAFAEL BEZERRA SANTANA",
+        "Column1": "RAFAEL BEZERRA SANTANA ",
         "Column2": 112470206,
         "Column3": 4,
         "Column4": "SP",
@@ -25073,7 +25017,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAFAEL DENIS DE ARAUJO SANTANA",
+        "Column1": "RAFAEL DENIS DE ARAUJO SANTANA ",
         "Column2": 111791901,
         "Column3": 8,
         "Column4": "SP",
@@ -25087,7 +25031,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAFAEL NASCIMENTO",
+        "Column1": "RAFAEL NASCIMENTO ",
         "Column2": 111691211,
         "Column3": 9,
         "Column4": "SP",
@@ -25101,7 +25045,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAFAEL RIBEIRO DOS SANTOS",
+        "Column1": "RAFAEL RIBEIRO DOS SANTOS ",
         "Column2": 111299661,
         "Column3": 8,
         "Column4": "SP",
@@ -25115,7 +25059,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAFAEL RIBEIRO DOS SANTOS",
+        "Column1": "RAFAEL RIBEIRO DOS SANTOS ",
         "Column2": 111299661,
         "Column3": 8,
         "Column4": "SP",
@@ -25129,7 +25073,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAFAEL RIBEIRO DOS SANTOS",
+        "Column1": "RAFAEL RIBEIRO DOS SANTOS ",
         "Column2": 111299661,
         "Column3": 8,
         "Column4": "SP",
@@ -25143,7 +25087,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAFAEL RIBEIRO DOS SANTOS",
+        "Column1": "RAFAEL RIBEIRO DOS SANTOS ",
         "Column2": 111299661,
         "Column3": 8,
         "Column4": "SP",
@@ -25157,7 +25101,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAFAEL SILVA BARBOSA",
+        "Column1": "RAFAEL SILVA BARBOSA ",
         "Column2": 111731702,
         "Column3": "X",
         "Column4": "SP",
@@ -25171,7 +25115,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAFAEL SILVA BARBOSA",
+        "Column1": "RAFAEL SILVA BARBOSA ",
         "Column2": 111731702,
         "Column3": "X",
         "Column4": "SP",
@@ -25185,7 +25129,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAFAELA ANDRADE TAVARES DA SILVA",
+        "Column1": "RAFAELA ANDRADE TAVARES DA SILVA ",
         "Column2": 109359626,
         "Column3": 0,
         "Column4": "SP",
@@ -25199,7 +25143,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAFAELA ANDRADE TAVARES DA SILVA",
+        "Column1": "RAFAELA ANDRADE TAVARES DA SILVA ",
         "Column2": 109359626,
         "Column3": 0,
         "Column4": "SP",
@@ -25213,7 +25157,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAFAELA ANDRADE TAVARES DA SILVA",
+        "Column1": "RAFAELA ANDRADE TAVARES DA SILVA ",
         "Column2": 109359626,
         "Column3": 0,
         "Column4": "SP",
@@ -25227,7 +25171,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAFAELA ANDRADE TAVARES DA SILVA",
+        "Column1": "RAFAELA ANDRADE TAVARES DA SILVA ",
         "Column2": 109359626,
         "Column3": 0,
         "Column4": "SP",
@@ -25241,7 +25185,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAFAELA DE ANDRADE MOURA LEAL",
+        "Column1": "RAFAELA DE ANDRADE MOURA LEAL ",
         "Column2": 112265198,
         "Column3": 3,
         "Column4": "SP",
@@ -25255,7 +25199,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAFAELA GOMES DA CRUZ",
+        "Column1": "RAFAELA GOMES DA CRUZ ",
         "Column2": 116234035,
         "Column3": 6,
         "Column4": "SP",
@@ -25269,7 +25213,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAFAELA SIMÕES DE ARAUJO",
+        "Column1": "RAFAELA SIMÕES DE ARAUJO ",
         "Column2": 111793000,
         "Column3": 2,
         "Column4": "SP",
@@ -25283,7 +25227,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAFAELLA CRUZ INACIO",
+        "Column1": "RAFAELLA CRUZ INACIO ",
         "Column2": 108094090,
         "Column3": "X",
         "Column4": "SP",
@@ -25297,7 +25241,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAFAELLA CRUZ INACIO",
+        "Column1": "RAFAELLA CRUZ INACIO ",
         "Column2": 108094090,
         "Column3": "X",
         "Column4": "SP",
@@ -25311,7 +25255,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAFAELLA CRUZ INACIO",
+        "Column1": "RAFAELLA CRUZ INACIO ",
         "Column2": 108094090,
         "Column3": "X",
         "Column4": "SP",
@@ -25325,7 +25269,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAFAELLA CRUZ INACIO",
+        "Column1": "RAFAELLA CRUZ INACIO ",
         "Column2": 108094090,
         "Column3": "X",
         "Column4": "SP",
@@ -25339,7 +25283,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAISSA ELIZIANE LOPES DA SILVA",
+        "Column1": "RAISSA ELIZIANE LOPES DA SILVA ",
         "Column2": 110430203,
         "Column3": 2,
         "Column4": "SP",
@@ -25353,7 +25297,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAISSA ELIZIANE LOPES DA SILVA",
+        "Column1": "RAISSA ELIZIANE LOPES DA SILVA ",
         "Column2": 110430203,
         "Column3": 2,
         "Column4": "SP",
@@ -25367,7 +25311,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAISSA ELIZIANE LOPES DA SILVA",
+        "Column1": "RAISSA ELIZIANE LOPES DA SILVA ",
         "Column2": 110430203,
         "Column3": 2,
         "Column4": "SP",
@@ -25381,7 +25325,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAISSA ELIZIANE LOPES DA SILVA",
+        "Column1": "RAISSA ELIZIANE LOPES DA SILVA ",
         "Column2": 110430203,
         "Column3": 2,
         "Column4": "SP",
@@ -25395,7 +25339,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAISSA MELO GOMES MENDES",
+        "Column1": "RAISSA MELO GOMES MENDES ",
         "Column2": 110345462,
         "Column3": 6,
         "Column4": "SP",
@@ -25409,7 +25353,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RANUSIA BEATRIZ DOS SANTOS OLIVEIRA",
+        "Column1": "RANUSIA BEATRIZ DOS SANTOS OLIVEIRA ",
         "Column2": 115181638,
         "Column3": 3,
         "Column4": "SP",
@@ -25423,7 +25367,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAPHAEL COSTA LOPES",
+        "Column1": "RAPHAEL COSTA LOPES ",
         "Column2": 110365587,
         "Column3": 5,
         "Column4": "SP",
@@ -25437,7 +25381,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAPHAEL GONCALVES DE HOLANDA",
+        "Column1": "RAPHAEL GONCALVES DE HOLANDA ",
         "Column2": 109291482,
         "Column3": 1,
         "Column4": "SP",
@@ -25451,7 +25395,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAPHAEL GONCALVES DE HOLANDA",
+        "Column1": "RAPHAEL GONCALVES DE HOLANDA ",
         "Column2": 109291482,
         "Column3": 1,
         "Column4": "SP",
@@ -25465,7 +25409,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAPHAEL GONCALVES DE HOLANDA",
+        "Column1": "RAPHAEL GONCALVES DE HOLANDA ",
         "Column2": 109291482,
         "Column3": 1,
         "Column4": "SP",
@@ -25479,7 +25423,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAPHAEL GONCALVES DE HOLANDA",
+        "Column1": "RAPHAEL GONCALVES DE HOLANDA ",
         "Column2": 109291482,
         "Column3": 1,
         "Column4": "SP",
@@ -25493,7 +25437,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAPHAEL GUTEMBERG ARRUDA DA SILVA",
+        "Column1": "RAPHAEL GUTEMBERG ARRUDA DA SILVA ",
         "Column2": 110390188,
         "Column3": 6,
         "Column4": "SP",
@@ -25507,7 +25451,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAPHAEL OLIVEIRA SAMPAIO",
+        "Column1": "RAPHAEL OLIVEIRA SAMPAIO ",
         "Column2": 111841090,
         "Column3": 7,
         "Column4": "SP",
@@ -25521,7 +25465,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAQUEL THOME DA SILVA",
+        "Column1": "RAQUEL THOME DA SILVA ",
         "Column2": 109456281,
         "Column3": 6,
         "Column4": "SP",
@@ -25535,7 +25479,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAQUEL THOME DA SILVA",
+        "Column1": "RAQUEL THOME DA SILVA ",
         "Column2": 109456281,
         "Column3": 6,
         "Column4": "SP",
@@ -25549,7 +25493,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAQUEL THOME DA SILVA",
+        "Column1": "RAQUEL THOME DA SILVA ",
         "Column2": 109456281,
         "Column3": 6,
         "Column4": "SP",
@@ -25563,7 +25507,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAQUEL THOME DA SILVA",
+        "Column1": "RAQUEL THOME DA SILVA ",
         "Column2": 109456281,
         "Column3": 6,
         "Column4": "SP",
@@ -25577,7 +25521,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAQUEL VITÓRIA JOSUÉ DE MORAIS",
+        "Column1": "RAQUEL VITÓRIA JOSUÉ DE MORAIS ",
         "Column2": 109342957,
         "Column3": 4,
         "Column4": "SP",
@@ -25591,7 +25535,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAQUEL VITÓRIA JOSUÉ DE MORAIS",
+        "Column1": "RAQUEL VITÓRIA JOSUÉ DE MORAIS ",
         "Column2": 109342957,
         "Column3": 4,
         "Column4": "SP",
@@ -25605,7 +25549,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAQUELLY CRISTINI SILVA MAIA",
+        "Column1": "RAQUELLY CRISTINI SILVA MAIA ",
         "Column2": 111730188,
         "Column3": 6,
         "Column4": "SP",
@@ -25619,7 +25563,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAUL CÉSAR FRANCISCO CAMINI",
+        "Column1": "RAUL CÉSAR FRANCISCO CAMINI ",
         "Column2": 111729560,
         "Column3": 6,
         "Column4": "SP",
@@ -25633,7 +25577,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAUL DA SILVA SOUZA",
+        "Column1": "RAUL DA SILVA SOUZA ",
         "Column2": 109334743,
         "Column3": 0,
         "Column4": "SP",
@@ -25647,7 +25591,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAUL DA SILVA SOUZA",
+        "Column1": "RAUL DA SILVA SOUZA ",
         "Column2": 109334743,
         "Column3": 0,
         "Column4": "SP",
@@ -25661,7 +25605,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAYANA DOS SANTOS VITORIO",
+        "Column1": "RAYANA DOS SANTOS VITORIO ",
         "Column2": 111334171,
         "Column3": 3,
         "Column4": "SP",
@@ -25675,7 +25619,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAYANA DOS SANTOS VITORIO",
+        "Column1": "RAYANA DOS SANTOS VITORIO ",
         "Column2": 111334171,
         "Column3": 3,
         "Column4": "SP",
@@ -25689,7 +25633,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAYANA DOS SANTOS VITORIO",
+        "Column1": "RAYANA DOS SANTOS VITORIO ",
         "Column2": 111334171,
         "Column3": 3,
         "Column4": "SP",
@@ -25703,7 +25647,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAYANA DOS SANTOS VITORIO",
+        "Column1": "RAYANA DOS SANTOS VITORIO ",
         "Column2": 111334171,
         "Column3": 3,
         "Column4": "SP",
@@ -25717,7 +25661,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAYANNE SILVA REIS",
+        "Column1": "RAYANNE SILVA REIS ",
         "Column2": 109343300,
         "Column3": 0,
         "Column4": "SP",
@@ -25731,7 +25675,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAYSSA CARVALHO DA SILVA",
+        "Column1": "RAYSSA CARVALHO DA SILVA ",
         "Column2": 111295247,
         "Column3": 0,
         "Column4": "SP",
@@ -25745,7 +25689,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAYSSA CARVALHO DA SILVA",
+        "Column1": "RAYSSA CARVALHO DA SILVA ",
         "Column2": 111295247,
         "Column3": 0,
         "Column4": "SP",
@@ -25759,7 +25703,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAYSSA CARVALHO DA SILVA",
+        "Column1": "RAYSSA CARVALHO DA SILVA ",
         "Column2": 111295247,
         "Column3": 0,
         "Column4": "SP",
@@ -25773,7 +25717,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAYSSA CARVALHO DA SILVA",
+        "Column1": "RAYSSA CARVALHO DA SILVA ",
         "Column2": 111295247,
         "Column3": 0,
         "Column4": "SP",
@@ -25787,7 +25731,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAYSSA LOURENÇO DA SILVA",
+        "Column1": "RAYSSA LOURENÇO DA SILVA ",
         "Column2": 111792998,
         "Column3": "X",
         "Column4": "SP",
@@ -25801,7 +25745,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAYSSA NUNES FERREIRA",
+        "Column1": "RAYSSA NUNES FERREIRA ",
         "Column2": 109469364,
         "Column3": 9,
         "Column4": "SP",
@@ -25815,7 +25759,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAYSSA RAMOS MACEDO",
+        "Column1": "RAYSSA RAMOS MACEDO ",
         "Column2": 108342510,
         "Column3": 9,
         "Column4": "SP",
@@ -25829,7 +25773,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAYSSA RAMOS MACEDO",
+        "Column1": "RAYSSA RAMOS MACEDO ",
         "Column2": 108342510,
         "Column3": 9,
         "Column4": "SP",
@@ -25843,7 +25787,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAYSSA VITÓRIA GARCIA GALVÃO",
+        "Column1": "RAYSSA VITÓRIA GARCIA GALVÃO ",
         "Column2": 108292169,
         "Column3": 5,
         "Column4": "SP",
@@ -25857,7 +25801,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAYZA CRUZ LIMA",
+        "Column1": "RAYZA CRUZ LIMA ",
         "Column2": 111839467,
         "Column3": 7,
         "Column4": "SP",
@@ -25871,7 +25815,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAYZA LUCAS LINS DA SILVA",
+        "Column1": "RAYZA LUCAS LINS DA SILVA ",
         "Column2": 110311763,
         "Column3": 4,
         "Column4": "SP",
@@ -25885,7 +25829,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAYZA LUCAS LINS DA SILVA",
+        "Column1": "RAYZA LUCAS LINS DA SILVA ",
         "Column2": 110311763,
         "Column3": 4,
         "Column4": "SP",
@@ -25899,7 +25843,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAYZA LUCAS LINS DA SILVA",
+        "Column1": "RAYZA LUCAS LINS DA SILVA ",
         "Column2": 110311763,
         "Column3": 4,
         "Column4": "SP",
@@ -25913,7 +25857,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RAYZA LUCAS LINS DA SILVA",
+        "Column1": "RAYZA LUCAS LINS DA SILVA ",
         "Column2": 110311763,
         "Column3": 4,
         "Column4": "SP",
@@ -25927,7 +25871,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "REBECA BARBOSA DE SOUZA",
+        "Column1": "REBECA BARBOSA DE SOUZA ",
         "Column2": 112862428,
         "Column3": "X",
         "Column4": "SP",
@@ -25941,7 +25885,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "REBECA DUARTE SANTIAGO",
+        "Column1": "REBECA DUARTE SANTIAGO ",
         "Column2": 109480223,
         "Column3": 2,
         "Column4": "SP",
@@ -25955,7 +25899,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "REBECA VITÓRIA GOMES RODRIGUES",
+        "Column1": "REBECA VITÓRIA GOMES RODRIGUES ",
         "Column2": 109307748,
         "Column3": 7,
         "Column4": "SP",
@@ -25969,7 +25913,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "REBECA VITÓRIA GOMES RODRIGUES",
+        "Column1": "REBECA VITÓRIA GOMES RODRIGUES ",
         "Column2": 109307748,
         "Column3": 7,
         "Column4": "SP",
@@ -25983,7 +25927,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RENAN BEZERRA DE OLIVEIRA",
+        "Column1": "RENAN BEZERRA DE OLIVEIRA ",
         "Column2": 113224989,
         "Column3": 2,
         "Column4": "SP",
@@ -25997,7 +25941,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RENAN MASCARENHAS NASCIMENTO",
+        "Column1": "RENAN MASCARENHAS NASCIMENTO ",
         "Column2": 111742845,
         "Column3": "X",
         "Column4": "SP",
@@ -26011,7 +25955,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RENAN RODRIGUES DE SOUZA",
+        "Column1": "RENAN RODRIGUES DE SOUZA ",
         "Column2": 110480973,
         "Column3": 4,
         "Column4": "SP",
@@ -26025,7 +25969,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RENAN RODRIGUES DE SOUZA",
+        "Column1": "RENAN RODRIGUES DE SOUZA ",
         "Column2": 110480973,
         "Column3": 4,
         "Column4": "SP",
@@ -26039,7 +25983,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RENAN SILVA BRITO",
+        "Column1": "RENAN SILVA BRITO ",
         "Column2": 109342962,
         "Column3": 8,
         "Column4": "SP",
@@ -26053,7 +25997,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RENAN SILVA BRITO",
+        "Column1": "RENAN SILVA BRITO ",
         "Column2": 109342962,
         "Column3": 8,
         "Column4": "SP",
@@ -26067,7 +26011,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RENATA SOUSA DE OLIVEIRA",
+        "Column1": "RENATA SOUSA DE OLIVEIRA ",
         "Column2": 110391002,
         "Column3": 4,
         "Column4": "SP",
@@ -26081,7 +26025,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RENNAN GUILHERME SILVA LIMA",
+        "Column1": "RENNAN GUILHERME SILVA LIMA ",
         "Column2": 111772922,
         "Column3": 9,
         "Column4": "SP",
@@ -26095,7 +26039,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RHAYANNE GABRIELLY PEREIRA DA SILVA",
+        "Column1": "RHAYANNE GABRIELLY PEREIRA DA SILVA ",
         "Column2": 111845547,
         "Column3": 2,
         "Column4": "SP",
@@ -26109,7 +26053,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RHAYSSA DA CONCEIÇÃO DE SÁ",
+        "Column1": "RHAYSSA DA CONCEIÇÃO DE SÁ ",
         "Column2": 112252062,
         "Column3": 1,
         "Column4": "SP",
@@ -26123,7 +26067,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RHIAN DA SILVA PEREIRA",
+        "Column1": "RHIAN DA SILVA PEREIRA ",
         "Column2": 111741738,
         "Column3": 4,
         "Column4": "SP",
@@ -26137,7 +26081,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RHICHARD INACIO DOS SANTOS",
+        "Column1": "RHICHARD INACIO DOS SANTOS ",
         "Column2": 109343306,
         "Column3": 1,
         "Column4": "SP",
@@ -26151,7 +26095,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RICARDO HENRIQUE SANTOS OLIVEIRA",
+        "Column1": "RICARDO HENRIQUE SANTOS OLIVEIRA ",
         "Column2": 115598695,
         "Column3": 7,
         "Column4": "SP",
@@ -26165,7 +26109,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RICARDO MOREIRA DO NASCIMENTO",
+        "Column1": "RICARDO MOREIRA DO NASCIMENTO ",
         "Column2": 111694998,
         "Column3": 2,
         "Column4": "SP",
@@ -26179,7 +26123,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RICHARD ALVES DA ROCHA",
+        "Column1": "RICHARD ALVES DA ROCHA ",
         "Column2": 109469373,
         "Column3": "X",
         "Column4": "SP",
@@ -26193,7 +26137,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RICHARDS GABRIEL CONCEIÇÃO DOS SANTOS",
+        "Column1": "RICHARDS GABRIEL CONCEIÇÃO DOS SANTOS ",
         "Column2": 112588384,
         "Column3": 4,
         "Column4": "SP",
@@ -26207,7 +26151,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RICHARDY HENRIQUE GOMES VIANA",
+        "Column1": "RICHARDY HENRIQUE GOMES VIANA ",
         "Column2": 109456368,
         "Column3": 7,
         "Column4": "SP",
@@ -26221,7 +26165,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RICHARDY HENRIQUE GOMES VIANA",
+        "Column1": "RICHARDY HENRIQUE GOMES VIANA ",
         "Column2": 109456368,
         "Column3": 7,
         "Column4": "SP",
@@ -26235,7 +26179,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RICHARDY HENRIQUE GOMES VIANA",
+        "Column1": "RICHARDY HENRIQUE GOMES VIANA ",
         "Column2": 109456368,
         "Column3": 7,
         "Column4": "SP",
@@ -26249,7 +26193,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RICHARDY HENRIQUE GOMES VIANA",
+        "Column1": "RICHARDY HENRIQUE GOMES VIANA ",
         "Column2": 109456368,
         "Column3": 7,
         "Column4": "SP",
@@ -26263,7 +26207,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RIQUELME ROCHA LIMA",
+        "Column1": "RIQUELME ROCHA LIMA ",
         "Column2": 110365395,
         "Column3": 7,
         "Column4": "SP",
@@ -26277,7 +26221,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RIQUELME ROCHA SILVA DOS REIS",
+        "Column1": "RIQUELME ROCHA SILVA DOS REIS ",
         "Column2": 116225171,
         "Column3": 2,
         "Column4": "SP",
@@ -26291,7 +26235,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RIQUELME SANTOS TRINDADE",
+        "Column1": "RIQUELME SANTOS TRINDADE ",
         "Column2": 110390772,
         "Column3": 4,
         "Column4": "SP",
@@ -26305,7 +26249,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RIQUELME SANTOS TRINDADE",
+        "Column1": "RIQUELME SANTOS TRINDADE ",
         "Column2": 110390772,
         "Column3": 4,
         "Column4": "SP",
@@ -26319,7 +26263,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RIQUELME SANTOS TRINDADE",
+        "Column1": "RIQUELME SANTOS TRINDADE ",
         "Column2": 110390772,
         "Column3": 4,
         "Column4": "SP",
@@ -26333,7 +26277,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RIQUELME SANTOS TRINDADE",
+        "Column1": "RIQUELME SANTOS TRINDADE ",
         "Column2": 110390772,
         "Column3": 4,
         "Column4": "SP",
@@ -26347,7 +26291,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ROBERTHA BARBOSA DA SILVA",
+        "Column1": "ROBERTHA BARBOSA DA SILVA ",
         "Column2": 123406512,
         "Column3": 5,
         "Column4": "SP",
@@ -26361,7 +26305,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ROBSON ARAUJO DE JESUS",
+        "Column1": "ROBSON ARAUJO DE JESUS ",
         "Column2": 111781400,
         "Column3": 2,
         "Column4": "SP",
@@ -26375,7 +26319,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ROBSON DE JESUS SILVA",
+        "Column1": "ROBSON DE JESUS SILVA ",
         "Column2": 109334775,
         "Column3": 2,
         "Column4": "SP",
@@ -26389,7 +26333,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ROBSON DE JESUS SILVA",
+        "Column1": "ROBSON DE JESUS SILVA ",
         "Column2": 109334775,
         "Column3": 2,
         "Column4": "SP",
@@ -26403,7 +26347,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ROBSON DOS SANTOS BUCIOC",
+        "Column1": "ROBSON DOS SANTOS BUCIOC ",
         "Column2": 108342551,
         "Column3": 1,
         "Column4": "SP",
@@ -26417,7 +26361,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ROBSON DOS SANTOS BUCIOC",
+        "Column1": "ROBSON DOS SANTOS BUCIOC ",
         "Column2": 108342551,
         "Column3": 1,
         "Column4": "SP",
@@ -26431,7 +26375,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RODRIGO APARECIDO DA SILVA NUNES",
+        "Column1": "RODRIGO APARECIDO DA SILVA NUNES ",
         "Column2": 112342986,
         "Column3": 8,
         "Column4": "SP",
@@ -26445,7 +26389,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ROGER RIBEIRO GUIDA DE SOUSA",
+        "Column1": "ROGER RIBEIRO GUIDA DE SOUSA ",
         "Column2": 112557673,
         "Column3": "X",
         "Column4": "SP",
@@ -26459,7 +26403,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "ROGER RIBEIRO GUIDA DE SOUSA",
+        "Column1": "ROGER RIBEIRO GUIDA DE SOUSA ",
         "Column2": 112557673,
         "Column3": "X",
         "Column4": "SP",
@@ -26473,7 +26417,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RUAN CARLOS RIBEIRO DOS SANTOS",
+        "Column1": "RUAN CARLOS RIBEIRO DOS SANTOS ",
         "Column2": 115785546,
         "Column3": 5,
         "Column4": "SP",
@@ -26487,7 +26431,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RUAN MIGUEL PEREIRA MARTILIANO",
+        "Column1": "RUAN MIGUEL PEREIRA MARTILIANO ",
         "Column2": 111868449,
         "Column3": 7,
         "Column4": "SP",
@@ -26501,7 +26445,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RUAN VICTOR FREITAS NEVES",
+        "Column1": "RUAN VICTOR FREITAS NEVES ",
         "Column2": 105802374,
         "Column3": 3,
         "Column4": "SP",
@@ -26515,7 +26459,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RUTH PEREIRA SILVA",
+        "Column1": "RUTH PEREIRA SILVA ",
         "Column2": 110384832,
         "Column3": "X",
         "Column4": "SP",
@@ -26529,7 +26473,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RUTH PEREIRA SILVA",
+        "Column1": "RUTH PEREIRA SILVA ",
         "Column2": 110384832,
         "Column3": "X",
         "Column4": "SP",
@@ -26543,7 +26487,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RUTH PEREIRA SILVA",
+        "Column1": "RUTH PEREIRA SILVA ",
         "Column2": 110384832,
         "Column3": "X",
         "Column4": "SP",
@@ -26557,7 +26501,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RUTH PEREIRA SILVA",
+        "Column1": "RUTH PEREIRA SILVA ",
         "Column2": 110384832,
         "Column3": "X",
         "Column4": "SP",
@@ -26571,7 +26515,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RYAN CARLOS MARTINS FERREIRA",
+        "Column1": "RYAN CARLOS MARTINS FERREIRA ",
         "Column2": 108801358,
         "Column3": 2,
         "Column4": "SP",
@@ -26585,7 +26529,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RYAN CARLOS MARTINS FERREIRA",
+        "Column1": "RYAN CARLOS MARTINS FERREIRA ",
         "Column2": 108801358,
         "Column3": 2,
         "Column4": "SP",
@@ -26599,7 +26543,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RYAN DE OLIVEIRA SILVA",
+        "Column1": "RYAN DE OLIVEIRA SILVA ",
         "Column2": 111322596,
         "Column3": 8,
         "Column4": "SP",
@@ -26613,7 +26557,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RYAN DOS SANTOS RODRIGUES FERREIRA",
+        "Column1": "RYAN DOS SANTOS RODRIGUES FERREIRA ",
         "Column2": 111773009,
         "Column3": 8,
         "Column4": "SP",
@@ -26627,7 +26571,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RYAN FELIPE LOPES DA SILVA",
+        "Column1": "RYAN FELIPE LOPES DA SILVA ",
         "Column2": 109343552,
         "Column3": 5,
         "Column4": "SP",
@@ -26641,7 +26585,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RYAN SANTANA BRAGA",
+        "Column1": "RYAN SANTANA BRAGA ",
         "Column2": 109343562,
         "Column3": 8,
         "Column4": "SP",
@@ -26655,7 +26599,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RYAN SANTOS DOS REIS",
+        "Column1": "RYAN SANTOS DOS REIS ",
         "Column2": 111777610,
         "Column3": 4,
         "Column4": "SP",
@@ -26669,7 +26613,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RYANNA SILVA REIS",
+        "Column1": "RYANNA SILVA REIS ",
         "Column2": 111878568,
         "Column3": "X",
         "Column4": "SP",
@@ -26683,7 +26627,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "RYCHARD LUIZ SALES RODRIGUES",
+        "Column1": "RYCHARD LUIZ SALES RODRIGUES ",
         "Column2": 110393508,
         "Column3": 2,
         "Column4": "SP",
@@ -26697,7 +26641,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SABRINA BATISTA VIEIRA",
+        "Column1": "SABRINA BATISTA VIEIRA ",
         "Column2": 107250480,
         "Column3": 7,
         "Column4": "SP",
@@ -26711,7 +26655,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SABRINA BATISTA VIEIRA",
+        "Column1": "SABRINA BATISTA VIEIRA ",
         "Column2": 107250480,
         "Column3": 7,
         "Column4": "SP",
@@ -26725,7 +26669,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SABRINA BEATRIZ COSTA DA SILVA",
+        "Column1": "SABRINA BEATRIZ COSTA DA SILVA ",
         "Column2": 111846221,
         "Column3": "X",
         "Column4": "SP",
@@ -26739,7 +26683,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SABRINA FERREIRA",
+        "Column1": "SABRINA FERREIRA ",
         "Column2": 105654302,
         "Column3": 4,
         "Column4": "SP",
@@ -26753,7 +26697,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SABRINA FLORES CANDIDA",
+        "Column1": "SABRINA FLORES CANDIDA ",
         "Column2": 111786002,
         "Column3": 4,
         "Column4": "SP",
@@ -26767,7 +26711,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SABRINA SALLES DA SILVA",
+        "Column1": "SABRINA SALLES DA SILVA ",
         "Column2": 109330022,
         "Column3": "X",
         "Column4": "SP",
@@ -26781,7 +26725,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SABRINA SALUSTIANO DOS SANTOS",
+        "Column1": "SABRINA SALUSTIANO DOS SANTOS ",
         "Column2": 109469301,
         "Column3": 7,
         "Column4": "SP",
@@ -26795,7 +26739,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SABRINA VIEIRA COIMBRA",
+        "Column1": "SABRINA VIEIRA COIMBRA ",
         "Column2": 111770653,
         "Column3": 9,
         "Column4": "SP",
@@ -26809,7 +26753,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SABRYNA DA SILVA QUADROS",
+        "Column1": "SABRYNA DA SILVA QUADROS ",
         "Column2": 111845552,
         "Column3": 6,
         "Column4": "SP",
@@ -26823,7 +26767,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SALATIEL FERREIRA DA SILVA",
+        "Column1": "SALATIEL FERREIRA DA SILVA ",
         "Column2": 111732500,
         "Column3": 3,
         "Column4": "SP",
@@ -26837,7 +26781,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SAMAILSON DA SILVA DOS SANTOS",
+        "Column1": "SAMAILSON DA SILVA DOS SANTOS ",
         "Column2": 112374068,
         "Column3": 9,
         "Column4": "SP",
@@ -26851,7 +26795,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SAMANTHA DA SILVA RODRIGUES",
+        "Column1": "SAMANTHA DA SILVA RODRIGUES ",
         "Column2": 108352041,
         "Column3": 6,
         "Column4": "SP",
@@ -26865,7 +26809,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SAMANTHA TEREZINHA ALVES DA SILVA",
+        "Column1": "SAMANTHA TEREZINHA ALVES DA SILVA ",
         "Column2": 109487200,
         "Column3": 3,
         "Column4": "SP",
@@ -26879,7 +26823,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SAMARA LIMA DOS SANTOS",
+        "Column1": "SAMARA LIMA DOS SANTOS ",
         "Column2": 111286659,
         "Column3": 0,
         "Column4": "SP",
@@ -26893,7 +26837,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SAMARA LIMA DOS SANTOS",
+        "Column1": "SAMARA LIMA DOS SANTOS ",
         "Column2": 111286659,
         "Column3": 0,
         "Column4": "SP",
@@ -26907,7 +26851,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SAMARA LIMA DOS SANTOS",
+        "Column1": "SAMARA LIMA DOS SANTOS ",
         "Column2": 111286659,
         "Column3": 0,
         "Column4": "SP",
@@ -26921,7 +26865,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SAMARA LIMA DOS SANTOS",
+        "Column1": "SAMARA LIMA DOS SANTOS ",
         "Column2": 111286659,
         "Column3": 0,
         "Column4": "SP",
@@ -26935,7 +26879,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SAMARA SANTOS SILVA",
+        "Column1": "SAMARA SANTOS SILVA ",
         "Column2": 111323118,
         "Column3": "X",
         "Column4": "SP",
@@ -26949,7 +26893,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SAMELY CRISTINE CRUZ SOUSA",
+        "Column1": "SAMELY CRISTINE CRUZ SOUSA ",
         "Column2": 114648891,
         "Column3": 9,
         "Column4": "SP",
@@ -26963,7 +26907,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SAMILY APARECIDA ASSIS SILVA",
+        "Column1": "SAMILY APARECIDA ASSIS SILVA ",
         "Column2": 111744529,
         "Column3": "X",
         "Column4": "SP",
@@ -26977,7 +26921,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SAMIRA NASCIMENTO DOS SANTOS GOMES",
+        "Column1": "SAMIRA NASCIMENTO DOS SANTOS GOMES ",
         "Column2": 111418726,
         "Column3": 4,
         "Column4": "SP",
@@ -26991,7 +26935,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SAMIRA NASCIMENTO DOS SANTOS GOMES",
+        "Column1": "SAMIRA NASCIMENTO DOS SANTOS GOMES ",
         "Column2": 111418726,
         "Column3": 4,
         "Column4": "SP",
@@ -27005,7 +26949,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SAMIRA NASCIMENTO DOS SANTOS GOMES",
+        "Column1": "SAMIRA NASCIMENTO DOS SANTOS GOMES ",
         "Column2": 111418726,
         "Column3": 4,
         "Column4": "SP",
@@ -27019,7 +26963,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SAMIRA NASCIMENTO DOS SANTOS GOMES",
+        "Column1": "SAMIRA NASCIMENTO DOS SANTOS GOMES ",
         "Column2": 111418726,
         "Column3": 4,
         "Column4": "SP",
@@ -27033,7 +26977,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SAMUEL DE OLIVEIRA FELICIANO",
+        "Column1": "SAMUEL DE OLIVEIRA FELICIANO ",
         "Column2": 111841118,
         "Column3": 3,
         "Column4": "SP",
@@ -27047,7 +26991,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SAMUEL DE SOUSA OLIVEIRA",
+        "Column1": "SAMUEL DE SOUSA OLIVEIRA ",
         "Column2": 111841114,
         "Column3": 6,
         "Column4": "SP",
@@ -27061,7 +27005,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SAMUEL DE SOUSA OLIVEIRA",
+        "Column1": "SAMUEL DE SOUSA OLIVEIRA ",
         "Column2": 111841114,
         "Column3": 6,
         "Column4": "SP",
@@ -27075,7 +27019,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SAMUEL DOS SANTOS MENOSSI",
+        "Column1": "SAMUEL DOS SANTOS MENOSSI ",
         "Column2": 109342968,
         "Column3": 9,
         "Column4": "SP",
@@ -27089,7 +27033,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SAMUEL DOS SANTOS MENOSSI",
+        "Column1": "SAMUEL DOS SANTOS MENOSSI ",
         "Column2": 109342968,
         "Column3": 9,
         "Column4": "SP",
@@ -27103,7 +27047,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SAMUEL DOS SANTOS MENOSSI",
+        "Column1": "SAMUEL DOS SANTOS MENOSSI ",
         "Column2": 109342968,
         "Column3": 9,
         "Column4": "SP",
@@ -27117,7 +27061,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SAMUEL DOS SANTOS MENOSSI",
+        "Column1": "SAMUEL DOS SANTOS MENOSSI ",
         "Column2": 109342968,
         "Column3": 9,
         "Column4": "SP",
@@ -27131,7 +27075,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SAMUEL FARIAS FERREIRA DA SILVA",
+        "Column1": "SAMUEL FARIAS FERREIRA DA SILVA ",
         "Column2": 111659456,
         "Column3": 0,
         "Column4": "SP",
@@ -27145,7 +27089,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SAMUEL FARIAS FERREIRA DA SILVA",
+        "Column1": "SAMUEL FARIAS FERREIRA DA SILVA ",
         "Column2": 111659456,
         "Column3": 0,
         "Column4": "SP",
@@ -27159,7 +27103,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SAMUEL FRANCISCO DO NASCIMENTO REIS",
+        "Column1": "SAMUEL FRANCISCO DO NASCIMENTO REIS ",
         "Column2": 112612752,
         "Column3": 8,
         "Column4": "SP",
@@ -27173,7 +27117,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SAMUEL OLIVEIRA SILVA",
+        "Column1": "SAMUEL OLIVEIRA SILVA ",
         "Column2": 112242383,
         "Column3": 4,
         "Column4": "SP",
@@ -27187,7 +27131,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SAMUEL PEREIRA DA CONCEICAO",
+        "Column1": "SAMUEL PEREIRA DA CONCEICAO ",
         "Column2": 111744609,
         "Column3": 8,
         "Column4": "SP",
@@ -27201,7 +27145,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SAMUEL RICHARD ALMEIDA DA SILVA",
+        "Column1": "SAMUEL RICHARD ALMEIDA DA SILVA ",
         "Column2": 113276147,
         "Column3": 5,
         "Column4": "SP",
@@ -27215,7 +27159,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SARA RODRIGUES DE SOUSA",
+        "Column1": "SARA RODRIGUES DE SOUSA ",
         "Column2": 111301057,
         "Column3": 5,
         "Column4": "SP",
@@ -27229,7 +27173,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SARAH BIANCA FILIZOLA ANDRADE",
+        "Column1": "SARAH BIANCA FILIZOLA ANDRADE ",
         "Column2": 111846242,
         "Column3": 7,
         "Column4": "SP",
@@ -27243,7 +27187,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SARAH NEVES ALMEIDA",
+        "Column1": "SARAH NEVES ALMEIDA ",
         "Column2": 106452319,
         "Column3": 5,
         "Column4": "SP",
@@ -27257,7 +27201,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SARAH NEVES ALMEIDA",
+        "Column1": "SARAH NEVES ALMEIDA ",
         "Column2": 106452319,
         "Column3": 5,
         "Column4": "SP",
@@ -27271,7 +27215,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SARAH OLIVEIRA DO ROSARIO",
+        "Column1": "SARAH OLIVEIRA DO ROSARIO ",
         "Column2": 111731587,
         "Column3": 3,
         "Column4": "SP",
@@ -27285,7 +27229,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SARAH SABINO ALVES DA SILVA",
+        "Column1": "SARAH SABINO ALVES DA SILVA ",
         "Column2": 113445388,
         "Column3": 7,
         "Column4": "SP",
@@ -27299,7 +27243,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SAYARA CALIXTO DE SOUZA",
+        "Column1": "SAYARA CALIXTO DE SOUZA ",
         "Column2": 111793005,
         "Column3": 1,
         "Column4": "SP",
@@ -27313,7 +27257,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SAYURI RAMOS DE SOUSA",
+        "Column1": "SAYURI RAMOS DE SOUSA ",
         "Column2": 109308902,
         "Column3": 7,
         "Column4": "SP",
@@ -27327,7 +27271,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SAYURI RAMOS DE SOUSA",
+        "Column1": "SAYURI RAMOS DE SOUSA ",
         "Column2": 109308902,
         "Column3": 7,
         "Column4": "SP",
@@ -27341,7 +27285,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SEBASTIAO CESARIO NETO DA SILVA",
+        "Column1": "SEBASTIAO CESARIO NETO DA SILVA ",
         "Column2": 109771352,
         "Column3": 0,
         "Column4": "SP",
@@ -27355,7 +27299,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SEBASTIAO CESARIO NETO DA SILVA",
+        "Column1": "SEBASTIAO CESARIO NETO DA SILVA ",
         "Column2": 109771352,
         "Column3": 0,
         "Column4": "SP",
@@ -27369,7 +27313,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SEBASTIAO CESARIO NETO DA SILVA",
+        "Column1": "SEBASTIAO CESARIO NETO DA SILVA ",
         "Column2": 109771352,
         "Column3": 0,
         "Column4": "SP",
@@ -27383,7 +27327,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SEBASTIAO CESARIO NETO DA SILVA",
+        "Column1": "SEBASTIAO CESARIO NETO DA SILVA ",
         "Column2": 109771352,
         "Column3": 0,
         "Column4": "SP",
@@ -27397,7 +27341,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SHAYENE MARIA DE SANTANA",
+        "Column1": "SHAYENE MARIA DE SANTANA ",
         "Column2": 110389108,
         "Column3": "X",
         "Column4": "SP",
@@ -27411,7 +27355,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SIDNEY HUGO MEDEIROS VIEIRA",
+        "Column1": "SIDNEY HUGO MEDEIROS VIEIRA ",
         "Column2": 115510753,
         "Column3": 6,
         "Column4": "SP",
@@ -27425,7 +27369,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SIDNEY SANTOS SILVA",
+        "Column1": "SIDNEY SANTOS SILVA ",
         "Column2": 111730178,
         "Column3": 3,
         "Column4": "SP",
@@ -27439,7 +27383,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SIDNEY SANTOS SILVA",
+        "Column1": "SIDNEY SANTOS SILVA ",
         "Column2": 111730178,
         "Column3": 3,
         "Column4": "SP",
@@ -27453,7 +27397,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SOFIA CABRAL DA SILVA ARAUJO",
+        "Column1": "SOFIA CABRAL DA SILVA ARAUJO ",
         "Column2": 111731699,
         "Column3": 3,
         "Column4": "SP",
@@ -27467,7 +27411,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SOPHIA CARVALHO DE OLIVEIRA",
+        "Column1": "SOPHIA CARVALHO DE OLIVEIRA ",
         "Column2": 111719325,
         "Column3": 1,
         "Column4": "SP",
@@ -27481,7 +27425,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SOPHIA CARVALHO DE OLIVEIRA",
+        "Column1": "SOPHIA CARVALHO DE OLIVEIRA ",
         "Column2": 111719325,
         "Column3": 1,
         "Column4": "SP",
@@ -27495,7 +27439,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SOPHIA MARIA DE OLIVEIRA FERNANDES",
+        "Column1": "SOPHIA MARIA DE OLIVEIRA FERNANDES ",
         "Column2": 111730132,
         "Column3": 1,
         "Column4": "SP",
@@ -27509,7 +27453,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SOPHIA SANTOS HENRIQUEZ",
+        "Column1": "SOPHIA SANTOS HENRIQUEZ ",
         "Column2": 110385253,
         "Column3": "X",
         "Column4": "SP",
@@ -27523,7 +27467,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SOPHIA VICTORIA DE MELO DO CARMO",
+        "Column1": "SOPHIA VICTORIA DE MELO DO CARMO ",
         "Column2": 111791830,
         "Column3": 0,
         "Column4": "SP",
@@ -27537,7 +27481,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "SOPHIE VITORIA CARVALHO COSTA DA SILVA",
+        "Column1": "SOPHIE VITORIA CARVALHO COSTA DA SILVA ",
         "Column2": 111874753,
         "Column3": 7,
         "Column4": "SP",
@@ -27551,7 +27495,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "STACY SOUZA ROCHA",
+        "Column1": "STACY SOUZA ROCHA ",
         "Column2": 108333937,
         "Column3": 0,
         "Column4": "SP",
@@ -27565,7 +27509,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "STACY SOUZA ROCHA",
+        "Column1": "STACY SOUZA ROCHA ",
         "Column2": 108333937,
         "Column3": 0,
         "Column4": "SP",
@@ -27579,7 +27523,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "STEFANNY FRANCISCO FUKUDA",
+        "Column1": "STEFANNY FRANCISCO FUKUDA ",
         "Column2": 111791832,
         "Column3": 4,
         "Column4": "SP",
@@ -27593,7 +27537,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "STEFFANY ROCHA DA CONCEIÇÃO",
+        "Column1": "STEFFANY ROCHA DA CONCEIÇÃO ",
         "Column2": 109308503,
         "Column3": 4,
         "Column4": "SP",
@@ -27607,7 +27551,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "STELA CARVALHO COSTA",
+        "Column1": "STELA CARVALHO COSTA ",
         "Column2": 109343364,
         "Column3": 4,
         "Column4": "SP",
@@ -27621,7 +27565,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "STHEFANI GONÇALVES PEREIRA",
+        "Column1": "STHEFANI GONÇALVES PEREIRA ",
         "Column2": 110393937,
         "Column3": 3,
         "Column4": "SP",
@@ -27635,7 +27579,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "STHEFANNY FRANCISCO DE ALMEIDA",
+        "Column1": "STHEFANNY FRANCISCO DE ALMEIDA ",
         "Column2": 111792939,
         "Column3": 5,
         "Column4": "SP",
@@ -27649,7 +27593,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "STHEFANY GABRIELLE PEREIRA ROCHA",
+        "Column1": "STHEFANY GABRIELLE PEREIRA ROCHA ",
         "Column2": 110417981,
         "Column3": 7,
         "Column4": "SP",
@@ -27663,7 +27607,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "STHEFFANY VIEIRA DE SOUZA",
+        "Column1": "STHEFFANY VIEIRA DE SOUZA ",
         "Column2": 111772924,
         "Column3": 2,
         "Column4": "SP",
@@ -27677,7 +27621,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "STHEFFANY VIEIRA DE SOUZA",
+        "Column1": "STHEFFANY VIEIRA DE SOUZA ",
         "Column2": 111772924,
         "Column3": 2,
         "Column4": "SP",
@@ -27691,7 +27635,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "STHEPHANY KELLY SOUZA REIMBERG",
+        "Column1": "STHEPHANY KELLY SOUZA REIMBERG ",
         "Column2": 111322553,
         "Column3": 1,
         "Column4": "SP",
@@ -27705,7 +27649,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "STHEPHANY LAYANE LOPES DOS ANJOS",
+        "Column1": "STHEPHANY LAYANE LOPES DOS ANJOS ",
         "Column2": 109486668,
         "Column3": 4,
         "Column4": "SP",
@@ -27719,7 +27663,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "STHEPHANY LAYANE LOPES DOS ANJOS",
+        "Column1": "STHEPHANY LAYANE LOPES DOS ANJOS ",
         "Column2": 109486668,
         "Column3": 4,
         "Column4": "SP",
@@ -27733,7 +27677,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "STHEPHANY LAYANE LOPES DOS ANJOS",
+        "Column1": "STHEPHANY LAYANE LOPES DOS ANJOS ",
         "Column2": 109486668,
         "Column3": 4,
         "Column4": "SP",
@@ -27747,7 +27691,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "STHEPHANY LAYANE LOPES DOS ANJOS",
+        "Column1": "STHEPHANY LAYANE LOPES DOS ANJOS ",
         "Column2": 109486668,
         "Column3": 4,
         "Column4": "SP",
@@ -27761,7 +27705,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "TALISSON APARECIDO ALVES DE SOUZA",
+        "Column1": "TALISSON APARECIDO ALVES DE SOUZA ",
         "Column2": 109506602,
         "Column3": "X",
         "Column4": "SP",
@@ -27775,7 +27719,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "TALISSON APARECIDO ALVES DE SOUZA",
+        "Column1": "TALISSON APARECIDO ALVES DE SOUZA ",
         "Column2": 109506602,
         "Column3": "X",
         "Column4": "SP",
@@ -27789,7 +27733,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "TARSILA LIVIA MENDONCA LIMA",
+        "Column1": "TARSILA LIVIA MENDONCA LIMA ",
         "Column2": 109486895,
         "Column3": 4,
         "Column4": "SP",
@@ -27803,7 +27747,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "TARSILA LIVIA MENDONCA LIMA",
+        "Column1": "TARSILA LIVIA MENDONCA LIMA ",
         "Column2": 109486895,
         "Column3": 4,
         "Column4": "SP",
@@ -27817,7 +27761,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "TARSILA LIVIA MENDONCA LIMA",
+        "Column1": "TARSILA LIVIA MENDONCA LIMA ",
         "Column2": 109486895,
         "Column3": 4,
         "Column4": "SP",
@@ -27831,7 +27775,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "TARSILA LIVIA MENDONCA LIMA",
+        "Column1": "TARSILA LIVIA MENDONCA LIMA ",
         "Column2": 109486895,
         "Column3": 4,
         "Column4": "SP",
@@ -27845,7 +27789,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "TAUANY DE OLIVEIRA OSORIO",
+        "Column1": "TAUANY DE OLIVEIRA OSORIO ",
         "Column2": 110389832,
         "Column3": 2,
         "Column4": "SP",
@@ -27859,7 +27803,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "TAYNÁ DA CRUZ LIMA",
+        "Column1": "TAYNÁ DA CRUZ LIMA ",
         "Column2": 109343568,
         "Column3": 9,
         "Column4": "SP",
@@ -27873,7 +27817,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THAINA KESIA ROCHA DA SILVA",
+        "Column1": "THAINA KESIA ROCHA DA SILVA ",
         "Column2": 109308708,
         "Column3": 0,
         "Column4": "SP",
@@ -27887,7 +27831,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THAINA KESIA ROCHA DA SILVA",
+        "Column1": "THAINA KESIA ROCHA DA SILVA ",
         "Column2": 109308708,
         "Column3": 0,
         "Column4": "SP",
@@ -27901,7 +27845,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THALLITA DE SOUSA VENTURA",
+        "Column1": "THALLITA DE SOUSA VENTURA ",
         "Column2": 110394233,
         "Column3": 5,
         "Column4": "SP",
@@ -27915,7 +27859,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THAMIRIS BARBOSA DA SILVA",
+        "Column1": "THAMIRIS BARBOSA DA SILVA ",
         "Column2": 109343116,
         "Column3": 7,
         "Column4": "SP",
@@ -27929,7 +27873,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THAYANNE REIMBERG DA SILVA",
+        "Column1": "THAYANNE REIMBERG DA SILVA ",
         "Column2": 112303118,
         "Column3": 6,
         "Column4": "SP",
@@ -27943,7 +27887,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THAYLA LAYANE FERREIRA SANTOS",
+        "Column1": "THAYLA LAYANE FERREIRA SANTOS ",
         "Column2": 111792972,
         "Column3": 3,
         "Column4": "SP",
@@ -27957,7 +27901,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THAYLINE GLASSIELLE SILVA",
+        "Column1": "THAYLINE GLASSIELLE SILVA ",
         "Column2": 109487168,
         "Column3": 0,
         "Column4": "SP",
@@ -27971,7 +27915,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THAYLINE GLASSIELLE SILVA",
+        "Column1": "THAYLINE GLASSIELLE SILVA ",
         "Column2": 109487168,
         "Column3": 0,
         "Column4": "SP",
@@ -27985,7 +27929,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THAYLINE GLASSIELLE SILVA",
+        "Column1": "THAYLINE GLASSIELLE SILVA ",
         "Column2": 109487168,
         "Column3": 0,
         "Column4": "SP",
@@ -27999,7 +27943,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THAYLINE GLASSIELLE SILVA",
+        "Column1": "THAYLINE GLASSIELLE SILVA ",
         "Column2": 109487168,
         "Column3": 0,
         "Column4": "SP",
@@ -28013,7 +27957,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THAYLLINE VICTORIA DA CONCEICAO INACIO",
+        "Column1": "THAYLLINE VICTORIA DA CONCEICAO INACIO ",
         "Column2": 107259608,
         "Column3": 8,
         "Column4": "SP",
@@ -28027,7 +27971,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THAYLLINE VICTORIA DA CONCEICAO INACIO",
+        "Column1": "THAYLLINE VICTORIA DA CONCEICAO INACIO ",
         "Column2": 107259608,
         "Column3": 8,
         "Column4": "SP",
@@ -28041,7 +27985,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THAYNA CUSTODIO FELIPE",
+        "Column1": "THAYNA CUSTODIO FELIPE ",
         "Column2": 109342974,
         "Column3": 4,
         "Column4": "SP",
@@ -28055,7 +27999,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THAYNA CUSTODIO FELIPE",
+        "Column1": "THAYNA CUSTODIO FELIPE ",
         "Column2": 109342974,
         "Column3": 4,
         "Column4": "SP",
@@ -28069,7 +28013,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THAYNARA DE DEUS RAMOS",
+        "Column1": "THAYNARA DE DEUS RAMOS ",
         "Column2": 112206679,
         "Column3": "X",
         "Column4": "SP",
@@ -28083,7 +28027,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THAYNARA SOARES SANTOS",
+        "Column1": "THAYNARA SOARES SANTOS ",
         "Column2": 111845569,
         "Column3": 1,
         "Column4": "SP",
@@ -28097,7 +28041,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THAÍS LEITE BARBOSA",
+        "Column1": "THAÍS LEITE BARBOSA ",
         "Column2": 111876926,
         "Column3": 0,
         "Column4": "SP",
@@ -28111,7 +28055,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THAÍS SOUSA GABRIEL",
+        "Column1": "THAÍS SOUSA GABRIEL ",
         "Column2": 109308716,
         "Column3": "X",
         "Column4": "SP",
@@ -28125,7 +28069,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THAÍS SOUSA GABRIEL",
+        "Column1": "THAÍS SOUSA GABRIEL ",
         "Column2": 109308716,
         "Column3": "X",
         "Column4": "SP",
@@ -28139,7 +28083,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THAÍS VITÓRIA SANTOS SILVA",
+        "Column1": "THAÍS VITÓRIA SANTOS SILVA ",
         "Column2": 109469313,
         "Column3": 3,
         "Column4": "SP",
@@ -28153,7 +28097,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THIAGO AMORIM DE FREITAS",
+        "Column1": "THIAGO AMORIM DE FREITAS ",
         "Column2": 109432497,
         "Column3": 8,
         "Column4": "SP",
@@ -28167,7 +28111,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THIAGO DA SILVA MACIEL",
+        "Column1": "THIAGO DA SILVA MACIEL ",
         "Column2": 121001755,
         "Column3": 6,
         "Column4": "SP",
@@ -28181,7 +28125,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THIAGO DA SILVA MACIEL",
+        "Column1": "THIAGO DA SILVA MACIEL ",
         "Column2": 121001755,
         "Column3": 6,
         "Column4": "SP",
@@ -28195,7 +28139,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THIAGO DA SILVA MACIEL",
+        "Column1": "THIAGO DA SILVA MACIEL ",
         "Column2": 121001755,
         "Column3": 6,
         "Column4": "SP",
@@ -28209,7 +28153,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THIAGO DA SILVA MACIEL",
+        "Column1": "THIAGO DA SILVA MACIEL ",
         "Column2": 121001755,
         "Column3": 6,
         "Column4": "SP",
@@ -28223,7 +28167,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THIAGO HENRIQUE PEREIRA NASCIMENTO",
+        "Column1": "THIAGO HENRIQUE PEREIRA NASCIMENTO ",
         "Column2": 106163956,
         "Column3": 3,
         "Column4": "SP",
@@ -28237,7 +28181,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THIAGO HENRIQUE PEREIRA NASCIMENTO",
+        "Column1": "THIAGO HENRIQUE PEREIRA NASCIMENTO ",
         "Column2": 106163956,
         "Column3": 3,
         "Column4": "SP",
@@ -28251,7 +28195,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THIAGO LUCAS LINS DA SILVA",
+        "Column1": "THIAGO LUCAS LINS DA SILVA ",
         "Column2": 111887480,
         "Column3": 8,
         "Column4": "SP",
@@ -28265,7 +28209,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THIAGO VICENTE MOREIRA",
+        "Column1": "THIAGO VICENTE MOREIRA ",
         "Column2": 111841108,
         "Column3": 0,
         "Column4": "SP",
@@ -28279,7 +28223,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THIERRY MAIA GREGORIO",
+        "Column1": "THIERRY MAIA GREGORIO ",
         "Column2": 109343157,
         "Column3": "X",
         "Column4": "SP",
@@ -28293,7 +28237,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THIFANY OLIVEIRA DA SILVA",
+        "Column1": "THIFANY OLIVEIRA DA SILVA ",
         "Column2": 112469514,
         "Column3": "X",
         "Column4": "SP",
@@ -28307,7 +28251,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THIFANY OLIVEIRA DA SILVA",
+        "Column1": "THIFANY OLIVEIRA DA SILVA ",
         "Column2": 112469514,
         "Column3": "X",
         "Column4": "SP",
@@ -28321,7 +28265,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THOMAS DE MOURA PEREIRA",
+        "Column1": "THOMAS DE MOURA PEREIRA ",
         "Column2": 111791840,
         "Column3": 3,
         "Column4": "SP",
@@ -28335,7 +28279,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THOMAS JEFFERSON SOARES SILVA",
+        "Column1": "THOMAS JEFFERSON SOARES SILVA ",
         "Column2": 110772074,
         "Column3": 6,
         "Column4": "SP",
@@ -28349,7 +28293,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THOMAS JEFFERSON SOARES SILVA",
+        "Column1": "THOMAS JEFFERSON SOARES SILVA ",
         "Column2": 110772074,
         "Column3": 6,
         "Column4": "SP",
@@ -28363,7 +28307,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THOMAS JEFFERSON SOARES SILVA",
+        "Column1": "THOMAS JEFFERSON SOARES SILVA ",
         "Column2": 110772074,
         "Column3": 6,
         "Column4": "SP",
@@ -28377,7 +28321,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "THOMAS JEFFERSON SOARES SILVA",
+        "Column1": "THOMAS JEFFERSON SOARES SILVA ",
         "Column2": 110772074,
         "Column3": 6,
         "Column4": "SP",
@@ -28391,7 +28335,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "TIAGO LEITE FARIA",
+        "Column1": "TIAGO LEITE FARIA ",
         "Column2": 111783964,
         "Column3": 3,
         "Column4": "SP",
@@ -28405,7 +28349,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "TIAGO SILVA CAMPOS",
+        "Column1": "TIAGO SILVA CAMPOS ",
         "Column2": 109605489,
         "Column3": 9,
         "Column4": "SP",
@@ -28419,7 +28363,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "TIAGO SOUZA DO NASCIMENTO JUNIOR",
+        "Column1": "TIAGO SOUZA DO NASCIMENTO JUNIOR ",
         "Column2": 109309333,
         "Column3": "X",
         "Column4": "SP",
@@ -28433,7 +28377,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VAGNER SILVA DE JESUS",
+        "Column1": "VAGNER SILVA DE JESUS ",
         "Column2": 112483119,
         "Column3": 8,
         "Column4": "SP",
@@ -28447,7 +28391,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VALERIA SILVA DE ARAUJO",
+        "Column1": "VALERIA SILVA DE ARAUJO ",
         "Column2": 114675847,
         "Column3": 9,
         "Column4": "SP",
@@ -28461,7 +28405,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VALERIA SILVA DE ARAUJO",
+        "Column1": "VALERIA SILVA DE ARAUJO ",
         "Column2": 114675847,
         "Column3": 9,
         "Column4": "SP",
@@ -28475,7 +28419,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VALÉRIA LOPES DA SILVA",
+        "Column1": "VALÉRIA LOPES DA SILVA ",
         "Column2": 109308344,
         "Column3": "X",
         "Column4": "SP",
@@ -28489,7 +28433,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VANESSA LOPES DA SILVA",
+        "Column1": "VANESSA LOPES DA SILVA ",
         "Column2": 110390624,
         "Column3": 0,
         "Column4": "SP",
@@ -28503,7 +28447,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VERONICA FERREIRA PORTO",
+        "Column1": "VERONICA FERREIRA PORTO ",
         "Column2": 110430199,
         "Column3": 4,
         "Column4": "SP",
@@ -28517,7 +28461,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VICKTOR DA SILVA ALMEIDA",
+        "Column1": "VICKTOR DA SILVA ALMEIDA ",
         "Column2": 109968821,
         "Column3": 8,
         "Column4": "SP",
@@ -28531,7 +28475,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VICKTOR DA SILVA ALMEIDA",
+        "Column1": "VICKTOR DA SILVA ALMEIDA ",
         "Column2": 109968821,
         "Column3": 8,
         "Column4": "SP",
@@ -28545,7 +28489,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VICTOR ALVES DIAS",
+        "Column1": "VICTOR ALVES DIAS ",
         "Column2": 110393949,
         "Column3": "X",
         "Column4": "SP",
@@ -28559,7 +28503,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VICTOR ALVES DIAS",
+        "Column1": "VICTOR ALVES DIAS ",
         "Column2": 110393949,
         "Column3": "X",
         "Column4": "SP",
@@ -28573,7 +28517,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VICTOR ALVES DIAS",
+        "Column1": "VICTOR ALVES DIAS ",
         "Column2": 110393949,
         "Column3": "X",
         "Column4": "SP",
@@ -28587,7 +28531,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VICTOR ALVES DIAS",
+        "Column1": "VICTOR ALVES DIAS ",
         "Column2": 110393949,
         "Column3": "X",
         "Column4": "SP",
@@ -28601,7 +28545,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VICTOR SANTANA DA COSTA",
+        "Column1": "VICTOR SANTANA DA COSTA ",
         "Column2": 112470963,
         "Column3": 0,
         "Column4": "SP",
@@ -28615,7 +28559,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VICTORIA APARECIDA DA SILVA",
+        "Column1": "VICTORIA APARECIDA DA SILVA ",
         "Column2": 110404119,
         "Column3": 4,
         "Column4": "SP",
@@ -28629,7 +28573,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VICTORIA APARECIDA DA SILVA",
+        "Column1": "VICTORIA APARECIDA DA SILVA ",
         "Column2": 110404119,
         "Column3": 4,
         "Column4": "SP",
@@ -28643,7 +28587,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VICTÓRIA DE LIMA BENITE",
+        "Column1": "VICTÓRIA DE LIMA BENITE ",
         "Column2": 113376025,
         "Column3": 9,
         "Column4": "SP",
@@ -28657,7 +28601,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VICTÓRIA MARIA ALMEIDA MESQUITA GOMES",
+        "Column1": "VICTÓRIA MARIA ALMEIDA MESQUITA GOMES ",
         "Column2": 109309485,
         "Column3": 0,
         "Column4": "SP",
@@ -28671,7 +28615,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VICTÓRIA MARIA ALMEIDA MESQUITA GOMES",
+        "Column1": "VICTÓRIA MARIA ALMEIDA MESQUITA GOMES ",
         "Column2": 109309485,
         "Column3": 0,
         "Column4": "SP",
@@ -28685,7 +28629,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VICTÓRIA MARIA ALMEIDA MESQUITA GOMES",
+        "Column1": "VICTÓRIA MARIA ALMEIDA MESQUITA GOMES ",
         "Column2": 109309485,
         "Column3": 0,
         "Column4": "SP",
@@ -28699,7 +28643,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VICTÓRIA MARIA ALMEIDA MESQUITA GOMES",
+        "Column1": "VICTÓRIA MARIA ALMEIDA MESQUITA GOMES ",
         "Column2": 109309485,
         "Column3": 0,
         "Column4": "SP",
@@ -28713,7 +28657,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VICTÓRIA VALENTINA GOMES DA SILVA",
+        "Column1": "VICTÓRIA VALENTINA GOMES DA SILVA ",
         "Column2": 110365881,
         "Column3": 5,
         "Column4": "SP",
@@ -28727,7 +28671,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VINICIUS ALBERTO FERREIRA DOS SANTOS",
+        "Column1": "VINICIUS ALBERTO FERREIRA DOS SANTOS ",
         "Column2": 109309685,
         "Column3": 8,
         "Column4": "SP",
@@ -28741,7 +28685,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VINICIUS ALBERTO FERREIRA DOS SANTOS",
+        "Column1": "VINICIUS ALBERTO FERREIRA DOS SANTOS ",
         "Column2": 109309685,
         "Column3": 8,
         "Column4": "SP",
@@ -28755,7 +28699,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VINICIUS ALVES DA SILVA",
+        "Column1": "VINICIUS ALVES DA SILVA ",
         "Column2": 111846215,
         "Column3": 4,
         "Column4": "SP",
@@ -28769,7 +28713,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VINICIUS ALVES DA SILVA",
+        "Column1": "VINICIUS ALVES DA SILVA ",
         "Column2": 111846215,
         "Column3": 4,
         "Column4": "SP",
@@ -28783,7 +28727,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VINICIUS BARROS RAMOS",
+        "Column1": "VINICIUS BARROS RAMOS ",
         "Column2": 111846253,
         "Column3": 1,
         "Column4": "SP",
@@ -28797,7 +28741,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VINICIUS CÂNDIDO DA ROCHA",
+        "Column1": "VINICIUS CÂNDIDO DA ROCHA ",
         "Column2": 109422712,
         "Column3": 2,
         "Column4": "SP",
@@ -28811,7 +28755,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VINICIUS CÂNDIDO DA ROCHA",
+        "Column1": "VINICIUS CÂNDIDO DA ROCHA ",
         "Column2": 109422712,
         "Column3": 2,
         "Column4": "SP",
@@ -28825,7 +28769,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VINICIUS CÂNDIDO DA ROCHA",
+        "Column1": "VINICIUS CÂNDIDO DA ROCHA ",
         "Column2": 109422712,
         "Column3": 2,
         "Column4": "SP",
@@ -28839,7 +28783,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VINICIUS CÂNDIDO DA ROCHA",
+        "Column1": "VINICIUS CÂNDIDO DA ROCHA ",
         "Column2": 109422712,
         "Column3": 2,
         "Column4": "SP",
@@ -28853,7 +28797,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VINICIUS DE MAGALHÃES SOUZA",
+        "Column1": "VINICIUS DE MAGALHÃES SOUZA ",
         "Column2": 108327477,
         "Column3": 6,
         "Column4": "SP",
@@ -28867,7 +28811,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VINICIUS MORATO DA SILVA",
+        "Column1": "VINICIUS MORATO DA SILVA ",
         "Column2": 110393957,
         "Column3": 9,
         "Column4": "SP",
@@ -28881,7 +28825,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VINICIUS MORATO DA SILVA",
+        "Column1": "VINICIUS MORATO DA SILVA ",
         "Column2": 110393957,
         "Column3": 9,
         "Column4": "SP",
@@ -28895,7 +28839,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VINICIUS MORATO DA SILVA",
+        "Column1": "VINICIUS MORATO DA SILVA ",
         "Column2": 110393957,
         "Column3": 9,
         "Column4": "SP",
@@ -28909,7 +28853,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VINICIUS MORATO DA SILVA",
+        "Column1": "VINICIUS MORATO DA SILVA ",
         "Column2": 110393957,
         "Column3": 9,
         "Column4": "SP",
@@ -28923,7 +28867,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VINICIUS SANTOS GOMES DE MOURA",
+        "Column1": "VINICIUS SANTOS GOMES DE MOURA ",
         "Column2": 111314197,
         "Column3": 9,
         "Column4": "SP",
@@ -28937,7 +28881,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VINICIUS TORQUATO MOTA",
+        "Column1": "VINICIUS TORQUATO MOTA ",
         "Column2": 108312661,
         "Column3": 1,
         "Column4": "SP",
@@ -28951,7 +28895,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VINÍCIUS BRAGA DOS SANTOS",
+        "Column1": "VINÍCIUS BRAGA DOS SANTOS ",
         "Column2": 111315751,
         "Column3": 3,
         "Column4": "SP",
@@ -28965,7 +28909,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VINÍCIUS JOSÉ DA SILVA",
+        "Column1": "VINÍCIUS JOSÉ DA SILVA ",
         "Column2": 109342582,
         "Column3": 9,
         "Column4": "SP",
@@ -28979,7 +28923,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VINÍCIUS MARCEL LUCIO DA SILVA KLUBER",
+        "Column1": "VINÍCIUS MARCEL LUCIO DA SILVA KLUBER ",
         "Column2": 113065938,
         "Column3": 0,
         "Column4": "SP",
@@ -28993,7 +28937,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VINÍCIUS OLIVEIRA GOMES",
+        "Column1": "VINÍCIUS OLIVEIRA GOMES ",
         "Column2": 108390364,
         "Column3": 0,
         "Column4": "SP",
@@ -29007,7 +28951,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VINÍCIUS OLIVEIRA GOMES",
+        "Column1": "VINÍCIUS OLIVEIRA GOMES ",
         "Column2": 108390364,
         "Column3": 0,
         "Column4": "SP",
@@ -29021,7 +28965,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VINÍCIUS ROCHA NETO",
+        "Column1": "VINÍCIUS ROCHA NETO ",
         "Column2": 110365322,
         "Column3": 2,
         "Column4": "SP",
@@ -29035,7 +28979,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITOR BRITO DE CARVALHO",
+        "Column1": "VITOR BRITO DE CARVALHO ",
         "Column2": 111669169,
         "Column3": 3,
         "Column4": "SP",
@@ -29049,7 +28993,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITOR CAVALCANTE DA SILVA",
+        "Column1": "VITOR CAVALCANTE DA SILVA ",
         "Column2": 115043375,
         "Column3": 9,
         "Column4": "SP",
@@ -29063,7 +29007,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITOR DE JESUS OLIVEIRA",
+        "Column1": "VITOR DE JESUS OLIVEIRA ",
         "Column2": 109486646,
         "Column3": 5,
         "Column4": "SP",
@@ -29077,7 +29021,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITOR FELIPE DO PATROCINIO",
+        "Column1": "VITOR FELIPE DO PATROCINIO ",
         "Column2": 108325593,
         "Column3": 9,
         "Column4": "SP",
@@ -29091,7 +29035,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITOR GABRIEL FERNANDES SILVA",
+        "Column1": "VITOR GABRIEL FERNANDES SILVA ",
         "Column2": 109342805,
         "Column3": 3,
         "Column4": "SP",
@@ -29105,7 +29049,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITOR GABRIEL FERNANDES SILVA",
+        "Column1": "VITOR GABRIEL FERNANDES SILVA ",
         "Column2": 109342805,
         "Column3": 3,
         "Column4": "SP",
@@ -29119,7 +29063,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITOR GABRIEL FERNANDES SILVA",
+        "Column1": "VITOR GABRIEL FERNANDES SILVA ",
         "Column2": 109342805,
         "Column3": 3,
         "Column4": "SP",
@@ -29133,7 +29077,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITOR GABRIEL FERNANDES SILVA",
+        "Column1": "VITOR GABRIEL FERNANDES SILVA ",
         "Column2": 109342805,
         "Column3": 3,
         "Column4": "SP",
@@ -29147,7 +29091,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITOR GABRIEL LOPES DOS SANTOS",
+        "Column1": "VITOR GABRIEL LOPES DOS SANTOS ",
         "Column2": 110389765,
         "Column3": 2,
         "Column4": "SP",
@@ -29161,7 +29105,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITOR HENRIQUE SANTOS DA SILVA",
+        "Column1": "VITOR HENRIQUE SANTOS DA SILVA ",
         "Column2": 111293373,
         "Column3": 6,
         "Column4": "SP",
@@ -29175,7 +29119,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITOR HENRIQUE SANTOS DA SILVA",
+        "Column1": "VITOR HENRIQUE SANTOS DA SILVA ",
         "Column2": 111293373,
         "Column3": 6,
         "Column4": "SP",
@@ -29189,7 +29133,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITOR HENRIQUE SANTOS DA SILVA",
+        "Column1": "VITOR HENRIQUE SANTOS DA SILVA ",
         "Column2": 111293373,
         "Column3": 6,
         "Column4": "SP",
@@ -29203,7 +29147,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITOR HENRIQUE SANTOS DA SILVA",
+        "Column1": "VITOR HENRIQUE SANTOS DA SILVA ",
         "Column2": 111293373,
         "Column3": 6,
         "Column4": "SP",
@@ -29217,7 +29161,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITOR ISAAC DE JESUS",
+        "Column1": "VITOR ISAAC DE JESUS ",
         "Column2": 108503960,
         "Column3": 2,
         "Column4": "SP",
@@ -29231,7 +29175,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITOR RIBEIRO CAVALCANTE",
+        "Column1": "VITOR RIBEIRO CAVALCANTE ",
         "Column2": 109293690,
         "Column3": 7,
         "Column4": "SP",
@@ -29245,7 +29189,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITOR RIBEIRO CAVALCANTE",
+        "Column1": "VITOR RIBEIRO CAVALCANTE ",
         "Column2": 109293690,
         "Column3": 7,
         "Column4": "SP",
@@ -29259,7 +29203,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITOR SABINO",
+        "Column1": "VITOR SABINO ",
         "Column2": 111887499,
         "Column3": 7,
         "Column4": "SP",
@@ -29273,7 +29217,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITOR TEXEIRA COSTA",
+        "Column1": "VITOR TEXEIRA COSTA ",
         "Column2": 109308511,
         "Column3": 3,
         "Column4": "SP",
@@ -29287,7 +29231,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITOR TEXEIRA COSTA",
+        "Column1": "VITOR TEXEIRA COSTA ",
         "Column2": 109308511,
         "Column3": 3,
         "Column4": "SP",
@@ -29301,7 +29245,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITORIA ARRUDA FERREIRA GASPAR",
+        "Column1": "VITORIA ARRUDA FERREIRA GASPAR ",
         "Column2": 111793028,
         "Column3": 2,
         "Column4": "SP",
@@ -29315,7 +29259,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITORIA CORDEIRO ALVES",
+        "Column1": "VITORIA CORDEIRO ALVES ",
         "Column2": 111791881,
         "Column3": 6,
         "Column4": "SP",
@@ -29329,7 +29273,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITORIA LACERDA DA SILVA",
+        "Column1": "VITORIA LACERDA DA SILVA ",
         "Column2": 111298923,
         "Column3": 7,
         "Column4": "SP",
@@ -29343,7 +29287,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITORIA LACERDA DA SILVA",
+        "Column1": "VITORIA LACERDA DA SILVA ",
         "Column2": 111298923,
         "Column3": 7,
         "Column4": "SP",
@@ -29357,7 +29301,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITORIA LACERDA DA SILVA",
+        "Column1": "VITORIA LACERDA DA SILVA ",
         "Column2": 111298923,
         "Column3": 7,
         "Column4": "SP",
@@ -29371,7 +29315,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITORIA LACERDA DA SILVA",
+        "Column1": "VITORIA LACERDA DA SILVA ",
         "Column2": 111298923,
         "Column3": 7,
         "Column4": "SP",
@@ -29385,7 +29329,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITORIA LUANA RODRIGUES DOS SANTOS",
+        "Column1": "VITORIA LUANA RODRIGUES DOS SANTOS ",
         "Column2": 113614938,
         "Column3": 7,
         "Column4": "SP",
@@ -29399,7 +29343,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITORYA DILMA LOPES DE OLIVEIRA",
+        "Column1": "VITORYA DILMA LOPES DE OLIVEIRA ",
         "Column2": 112483059,
         "Column3": 5,
         "Column4": "SP",
@@ -29413,7 +29357,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITÓRIA ALVES DE LIMA",
+        "Column1": "VITÓRIA ALVES DE LIMA ",
         "Column2": 111773096,
         "Column3": 7,
         "Column4": "SP",
@@ -29427,7 +29371,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITÓRIA CRISTINA SABINO",
+        "Column1": "VITÓRIA CRISTINA SABINO ",
         "Column2": 111549772,
         "Column3": 8,
         "Column4": "SP",
@@ -29441,7 +29385,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITÓRIA CRISTINA SABINO",
+        "Column1": "VITÓRIA CRISTINA SABINO ",
         "Column2": 111549772,
         "Column3": 8,
         "Column4": "SP",
@@ -29455,7 +29399,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITÓRIA CRISTINA SABINO",
+        "Column1": "VITÓRIA CRISTINA SABINO ",
         "Column2": 111549772,
         "Column3": 8,
         "Column4": "SP",
@@ -29469,7 +29413,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITÓRIA CRISTINA SABINO",
+        "Column1": "VITÓRIA CRISTINA SABINO ",
         "Column2": 111549772,
         "Column3": 8,
         "Column4": "SP",
@@ -29483,7 +29427,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITÓRIA DA SILVA FERREIRA",
+        "Column1": "VITÓRIA DA SILVA FERREIRA ",
         "Column2": 111887620,
         "Column3": 9,
         "Column4": "SP",
@@ -29497,7 +29441,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITÓRIA DA SILVA FERREIRA",
+        "Column1": "VITÓRIA DA SILVA FERREIRA ",
         "Column2": 111887620,
         "Column3": 9,
         "Column4": "SP",
@@ -29511,7 +29455,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITÓRIA DOS SANTOS BORRER",
+        "Column1": "VITÓRIA DOS SANTOS BORRER ",
         "Column2": 110413878,
         "Column3": 5,
         "Column4": "SP",
@@ -29525,7 +29469,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITÓRIA FERREIRA BARROS",
+        "Column1": "VITÓRIA FERREIRA BARROS ",
         "Column2": 112241129,
         "Column3": 7,
         "Column4": "SP",
@@ -29539,7 +29483,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITÓRIA HIOLANDA RODRIGUES DOS SANTOS",
+        "Column1": "VITÓRIA HIOLANDA RODRIGUES DOS SANTOS ",
         "Column2": 111792919,
         "Column3": "X",
         "Column4": "SP",
@@ -29553,7 +29497,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITÓRIA LUCIENE DA SILVA",
+        "Column1": "VITÓRIA LUCIENE DA SILVA ",
         "Column2": 110311385,
         "Column3": 9,
         "Column4": "SP",
@@ -29567,7 +29511,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITÓRIA LUCIENE DA SILVA",
+        "Column1": "VITÓRIA LUCIENE DA SILVA ",
         "Column2": 110311385,
         "Column3": 9,
         "Column4": "SP",
@@ -29581,7 +29525,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITÓRIA OLIVEIRA ROCHA",
+        "Column1": "VITÓRIA OLIVEIRA ROCHA ",
         "Column2": 113328712,
         "Column3": 8,
         "Column4": "SP",
@@ -29595,7 +29539,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITÓRIA THALITA DE JESUS",
+        "Column1": "VITÓRIA THALITA DE JESUS ",
         "Column2": 110446376,
         "Column3": 3,
         "Column4": "SP",
@@ -29609,7 +29553,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITÓRIA THALITA DE JESUS",
+        "Column1": "VITÓRIA THALITA DE JESUS ",
         "Column2": 110446376,
         "Column3": 3,
         "Column4": "SP",
@@ -29623,7 +29567,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITÓRIO DA SILVA ALMEIDA",
+        "Column1": "VITÓRIO DA SILVA ALMEIDA ",
         "Column2": 109968750,
         "Column3": 0,
         "Column4": "SP",
@@ -29637,7 +29581,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VITÓRIO DA SILVA ALMEIDA",
+        "Column1": "VITÓRIO DA SILVA ALMEIDA ",
         "Column2": 109968750,
         "Column3": 0,
         "Column4": "SP",
@@ -29651,7 +29595,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VIVIAN BRITO VIANA",
+        "Column1": "VIVIAN BRITO VIANA ",
         "Column2": 105656317,
         "Column3": 5,
         "Column4": "SP",
@@ -29665,7 +29609,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VIVIAN BRITO VIANA",
+        "Column1": "VIVIAN BRITO VIANA ",
         "Column2": 105656317,
         "Column3": 5,
         "Column4": "SP",
@@ -29679,7 +29623,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VIVIAN BRITO VIANA",
+        "Column1": "VIVIAN BRITO VIANA ",
         "Column2": 105656317,
         "Column3": 5,
         "Column4": "SP",
@@ -29693,7 +29637,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VIVIAN BRITO VIANA",
+        "Column1": "VIVIAN BRITO VIANA ",
         "Column2": 105656317,
         "Column3": 5,
         "Column4": "SP",
@@ -29707,7 +29651,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VIVIAN VITÓRIA SOUSA ALMEIDA",
+        "Column1": "VIVIAN VITÓRIA SOUSA ALMEIDA ",
         "Column2": 111324490,
         "Column3": 2,
         "Column4": "SP",
@@ -29721,7 +29665,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "VÍTOR SAMUEL FERREIRA DOS REIS",
+        "Column1": "VÍTOR SAMUEL FERREIRA DOS REIS ",
         "Column2": 120608814,
         "Column3": "X",
         "Column4": "SP",
@@ -29735,7 +29679,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WAGNER FRANCISCO OLIVEIRA CASSAL",
+        "Column1": "WAGNER FRANCISCO OLIVEIRA CASSAL ",
         "Column2": 111730174,
         "Column3": 6,
         "Column4": "SP",
@@ -29749,7 +29693,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WALLACE DOMINGUES NEVES",
+        "Column1": "WALLACE DOMINGUES NEVES ",
         "Column2": 111846226,
         "Column3": 9,
         "Column4": "SP",
@@ -29763,7 +29707,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WALLACE LOPES SABINO",
+        "Column1": "WALLACE LOPES SABINO ",
         "Column2": 111328157,
         "Column3": 1,
         "Column4": "SP",
@@ -29777,7 +29721,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WALLACE LOPES SABINO",
+        "Column1": "WALLACE LOPES SABINO ",
         "Column2": 111328157,
         "Column3": 1,
         "Column4": "SP",
@@ -29791,7 +29735,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WALLACE LOPES SABINO",
+        "Column1": "WALLACE LOPES SABINO ",
         "Column2": 111328157,
         "Column3": 1,
         "Column4": "SP",
@@ -29805,7 +29749,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WALLACE LOPES SABINO",
+        "Column1": "WALLACE LOPES SABINO ",
         "Column2": 111328157,
         "Column3": 1,
         "Column4": "SP",
@@ -29819,7 +29763,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WALLACE OLIVEIRA DA SILVA JUNIOR",
+        "Column1": "WALLACE OLIVEIRA DA SILVA JUNIOR ",
         "Column2": 109429850,
         "Column3": 5,
         "Column4": "SP",
@@ -29833,7 +29777,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WALLACE OLIVEIRA DA SILVA JUNIOR",
+        "Column1": "WALLACE OLIVEIRA DA SILVA JUNIOR ",
         "Column2": 109429850,
         "Column3": 5,
         "Column4": "SP",
@@ -29847,7 +29791,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WALLACE OLIVEIRA DA SILVA JUNIOR",
+        "Column1": "WALLACE OLIVEIRA DA SILVA JUNIOR ",
         "Column2": 109429850,
         "Column3": 5,
         "Column4": "SP",
@@ -29861,7 +29805,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WALLACE OLIVEIRA DA SILVA JUNIOR",
+        "Column1": "WALLACE OLIVEIRA DA SILVA JUNIOR ",
         "Column2": 109429850,
         "Column3": 5,
         "Column4": "SP",
@@ -29875,7 +29819,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WALLACY DOS SANTOS FERNANDES",
+        "Column1": "WALLACY DOS SANTOS FERNANDES ",
         "Column2": 112483036,
         "Column3": 4,
         "Column4": "SP",
@@ -29889,7 +29833,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WANDERSON LIMA DA SILVA",
+        "Column1": "WANDERSON LIMA DA SILVA ",
         "Column2": 111315588,
         "Column3": 7,
         "Column4": "SP",
@@ -29903,7 +29847,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WANESSA DOS SANTOS BASTOS",
+        "Column1": "WANESSA DOS SANTOS BASTOS ",
         "Column2": 111731733,
         "Column3": "X",
         "Column4": "SP",
@@ -29917,7 +29861,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WELLEN VITORIA CLEMENTE DA SILVA",
+        "Column1": "WELLEN VITORIA CLEMENTE DA SILVA ",
         "Column2": 104541085,
         "Column3": 8,
         "Column4": "SP",
@@ -29931,7 +29875,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WELLEN VITORIA CLEMENTE DA SILVA",
+        "Column1": "WELLEN VITORIA CLEMENTE DA SILVA ",
         "Column2": 104541085,
         "Column3": 8,
         "Column4": "SP",
@@ -29945,7 +29889,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WELLINGTON FARIAS ALVES SANTOS",
+        "Column1": "WELLINGTON FARIAS ALVES SANTOS ",
         "Column2": 105655572,
         "Column3": 5,
         "Column4": "SP",
@@ -29959,7 +29903,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WELLINGTON FARIAS ALVES SANTOS",
+        "Column1": "WELLINGTON FARIAS ALVES SANTOS ",
         "Column2": 105655572,
         "Column3": 5,
         "Column4": "SP",
@@ -29973,7 +29917,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WELLINGTON FARIAS ALVES SANTOS",
+        "Column1": "WELLINGTON FARIAS ALVES SANTOS ",
         "Column2": 105655572,
         "Column3": 5,
         "Column4": "SP",
@@ -29987,7 +29931,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WELLINGTON FARIAS ALVES SANTOS",
+        "Column1": "WELLINGTON FARIAS ALVES SANTOS ",
         "Column2": 105655572,
         "Column3": 5,
         "Column4": "SP",
@@ -30001,7 +29945,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WELLINGTON HELFSTEIN RODRIGUES",
+        "Column1": "WELLINGTON HELFSTEIN RODRIGUES ",
         "Column2": 109429856,
         "Column3": 6,
         "Column4": "SP",
@@ -30015,7 +29959,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WELLINGTON HELFSTEIN RODRIGUES",
+        "Column1": "WELLINGTON HELFSTEIN RODRIGUES ",
         "Column2": 109429856,
         "Column3": 6,
         "Column4": "SP",
@@ -30029,7 +29973,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WELLINGTON HELFSTEIN RODRIGUES",
+        "Column1": "WELLINGTON HELFSTEIN RODRIGUES ",
         "Column2": 109429856,
         "Column3": 6,
         "Column4": "SP",
@@ -30043,7 +29987,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WELLINGTON HELFSTEIN RODRIGUES",
+        "Column1": "WELLINGTON HELFSTEIN RODRIGUES ",
         "Column2": 109429856,
         "Column3": 6,
         "Column4": "SP",
@@ -30057,7 +30001,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WELLINSOM KAYKY RODRIGUES DE ARAÚJO",
+        "Column1": "WELLINSOM KAYKY RODRIGUES DE ARAÚJO ",
         "Column2": 110385136,
         "Column3": 6,
         "Column4": "SP",
@@ -30071,7 +30015,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WENDELL SILVA DE BRITO",
+        "Column1": "WENDELL SILVA DE BRITO ",
         "Column2": 109308105,
         "Column3": 3,
         "Column4": "SP",
@@ -30085,7 +30029,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WENDSON AMOIS ARAUJO DE SOUZA",
+        "Column1": "WENDSON AMOIS ARAUJO DE SOUZA ",
         "Column2": 109471771,
         "Column3": "X",
         "Column4": "SP",
@@ -30099,7 +30043,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WESLEY DA SILVA LIMA",
+        "Column1": "WESLEY DA SILVA LIMA ",
         "Column2": 109308526,
         "Column3": 5,
         "Column4": "SP",
@@ -30113,7 +30057,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WESLEY DA SILVA LIMA",
+        "Column1": "WESLEY DA SILVA LIMA ",
         "Column2": 109308526,
         "Column3": 5,
         "Column4": "SP",
@@ -30127,7 +30071,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WESLEY HENRIQUE ALVES DE SOUZA",
+        "Column1": "WESLEY HENRIQUE ALVES DE SOUZA ",
         "Column2": 111772908,
         "Column3": 4,
         "Column4": "SP",
@@ -30141,7 +30085,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WESLEY HENRIQUE DA SILVA",
+        "Column1": "WESLEY HENRIQUE DA SILVA ",
         "Column2": 111784050,
         "Column3": 5,
         "Column4": "SP",
@@ -30155,7 +30099,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WESLLEY SANTOS SILVA",
+        "Column1": "WESLLEY SANTOS SILVA ",
         "Column2": 111293759,
         "Column3": 6,
         "Column4": "SP",
@@ -30169,7 +30113,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WESLLEY SANTOS SILVA",
+        "Column1": "WESLLEY SANTOS SILVA ",
         "Column2": 111293759,
         "Column3": 6,
         "Column4": "SP",
@@ -30183,7 +30127,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WESLLEY SANTOS SILVA",
+        "Column1": "WESLLEY SANTOS SILVA ",
         "Column2": 111293759,
         "Column3": 6,
         "Column4": "SP",
@@ -30197,7 +30141,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WESLLEY SANTOS SILVA",
+        "Column1": "WESLLEY SANTOS SILVA ",
         "Column2": 111293759,
         "Column3": 6,
         "Column4": "SP",
@@ -30211,7 +30155,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WILBER JESUS DE OLIVEIRA",
+        "Column1": "WILBER JESUS DE OLIVEIRA ",
         "Column2": 109415962,
         "Column3": 1,
         "Column4": "SP",
@@ -30225,7 +30169,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WILBER JESUS DE OLIVEIRA",
+        "Column1": "WILBER JESUS DE OLIVEIRA ",
         "Column2": 109415962,
         "Column3": 1,
         "Column4": "SP",
@@ -30239,7 +30183,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WILBER JESUS DE OLIVEIRA",
+        "Column1": "WILBER JESUS DE OLIVEIRA ",
         "Column2": 109415962,
         "Column3": 1,
         "Column4": "SP",
@@ -30253,7 +30197,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WILBER JESUS DE OLIVEIRA",
+        "Column1": "WILBER JESUS DE OLIVEIRA ",
         "Column2": 109415962,
         "Column3": 1,
         "Column4": "SP",
@@ -30267,7 +30211,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WILIAM FERREIRA DE NORONHA",
+        "Column1": "WILIAM FERREIRA DE NORONHA ",
         "Column2": 114095797,
         "Column3": 1,
         "Column4": "SP",
@@ -30281,7 +30225,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WILIAM FERREIRA DE NORONHA",
+        "Column1": "WILIAM FERREIRA DE NORONHA ",
         "Column2": 114095797,
         "Column3": 1,
         "Column4": "SP",
@@ -30295,7 +30239,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WILIAM FERREIRA DE NORONHA",
+        "Column1": "WILIAM FERREIRA DE NORONHA ",
         "Column2": 114095797,
         "Column3": 1,
         "Column4": "SP",
@@ -30309,7 +30253,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WILIAM FERREIRA DE NORONHA",
+        "Column1": "WILIAM FERREIRA DE NORONHA ",
         "Column2": 114095797,
         "Column3": 1,
         "Column4": "SP",
@@ -30323,7 +30267,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WILKER CAVALCANTE OLIVEIRA",
+        "Column1": "WILKER CAVALCANTE OLIVEIRA ",
         "Column2": 109308746,
         "Column3": 8,
         "Column4": "SP",
@@ -30337,7 +30281,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WILKER CAVALCANTE OLIVEIRA",
+        "Column1": "WILKER CAVALCANTE OLIVEIRA ",
         "Column2": 109308746,
         "Column3": 8,
         "Column4": "SP",
@@ -30351,7 +30295,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WILKER CAVALCANTE OLIVEIRA",
+        "Column1": "WILKER CAVALCANTE OLIVEIRA ",
         "Column2": 109308746,
         "Column3": 8,
         "Column4": "SP",
@@ -30365,7 +30309,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WILKER CAVALCANTE OLIVEIRA",
+        "Column1": "WILKER CAVALCANTE OLIVEIRA ",
         "Column2": 109308746,
         "Column3": 8,
         "Column4": "SP",
@@ -30379,7 +30323,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WILKER GOMES DE SOUZA",
+        "Column1": "WILKER GOMES DE SOUZA ",
         "Column2": 107147890,
         "Column3": 4,
         "Column4": "SP",
@@ -30393,7 +30337,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WILKER GOMES DE SOUZA",
+        "Column1": "WILKER GOMES DE SOUZA ",
         "Column2": 107147890,
         "Column3": 4,
         "Column4": "SP",
@@ -30407,7 +30351,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WILKER GOMES DE SOUZA",
+        "Column1": "WILKER GOMES DE SOUZA ",
         "Column2": 107147890,
         "Column3": 4,
         "Column4": "SP",
@@ -30421,7 +30365,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WILKER GOMES DE SOUZA",
+        "Column1": "WILKER GOMES DE SOUZA ",
         "Column2": 107147890,
         "Column3": 4,
         "Column4": "SP",
@@ -30435,7 +30379,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WILLIAM OLIVEIRA ARAUJO",
+        "Column1": "WILLIAM OLIVEIRA ARAUJO ",
         "Column2": 122791700,
         "Column3": 4,
         "Column4": "SP",
@@ -30449,7 +30393,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WILLIAM SANTIAGO DE ALMEIDA",
+        "Column1": "WILLIAM SANTIAGO DE ALMEIDA ",
         "Column2": 111731583,
         "Column3": 6,
         "Column4": "SP",
@@ -30463,7 +30407,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WILLYANE SANTOS DA SILVA",
+        "Column1": "WILLYANE SANTOS DA SILVA ",
         "Column2": 106624695,
         "Column3": 6,
         "Column4": "SP",
@@ -30477,7 +30421,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WILLYANE SANTOS DA SILVA",
+        "Column1": "WILLYANE SANTOS DA SILVA ",
         "Column2": 106624695,
         "Column3": 6,
         "Column4": "SP",
@@ -30491,7 +30435,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WINÍCIUS PEREIRA BARBOSA",
+        "Column1": "WINÍCIUS PEREIRA BARBOSA ",
         "Column2": 108354835,
         "Column3": 9,
         "Column4": "SP",
@@ -30505,7 +30449,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "WINÍCIUS PEREIRA BARBOSA",
+        "Column1": "WINÍCIUS PEREIRA BARBOSA ",
         "Column2": 108354835,
         "Column3": 9,
         "Column4": "SP",
@@ -30519,7 +30463,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "YAN BORDENACHUKI ASSUNÇÃO",
+        "Column1": "YAN BORDENACHUKI ASSUNÇÃO ",
         "Column2": 111731751,
         "Column3": 1,
         "Column4": "SP",
@@ -30533,7 +30477,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "YARA DAIANY DOS SANTOS SILVA",
+        "Column1": "YARA DAIANY DOS SANTOS SILVA ",
         "Column2": 113600862,
         "Column3": 7,
         "Column4": "SP",
@@ -30547,7 +30491,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "YASMIN ALBUQUERQUE DA SILVA",
+        "Column1": "YASMIN ALBUQUERQUE DA SILVA ",
         "Column2": 111730201,
         "Column3": 5,
         "Column4": "SP",
@@ -30561,7 +30505,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "YASMIN APARECIDA DA SILVA FONSECA",
+        "Column1": "YASMIN APARECIDA DA SILVA FONSECA ",
         "Column2": 109343380,
         "Column3": 2,
         "Column4": "SP",
@@ -30575,7 +30519,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "YASMIN CARDOSO DANTAS",
+        "Column1": "YASMIN CARDOSO DANTAS ",
         "Column2": 109342599,
         "Column3": 4,
         "Column4": "SP",
@@ -30589,7 +30533,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "YASMIN FERREIRA DA SILVA MALAQUIAS",
+        "Column1": "YASMIN FERREIRA DA SILVA MALAQUIAS ",
         "Column2": 110389909,
         "Column3": 0,
         "Column4": "SP",
@@ -30603,7 +30547,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "YASMIN JÚLIA PEREIRA DA SILVA",
+        "Column1": "YASMIN JÚLIA PEREIRA DA SILVA ",
         "Column2": 111875468,
         "Column3": 2,
         "Column4": "SP",
@@ -30617,7 +30561,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "YASMIN MORAIS DA SILVA",
+        "Column1": "YASMIN MORAIS DA SILVA ",
         "Column2": 109469393,
         "Column3": 5,
         "Column4": "SP",
@@ -30631,7 +30575,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "YASMIN OLIVEIRA LIMA",
+        "Column1": "YASMIN OLIVEIRA LIMA ",
         "Column2": 111731631,
         "Column3": 2,
         "Column4": "SP",
@@ -30645,7 +30589,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "YASMIN QUENIA DE LIMA PIRES",
+        "Column1": "YASMIN QUENIA DE LIMA PIRES ",
         "Column2": 109371980,
         "Column3": 1,
         "Column4": "SP",
@@ -30659,7 +30603,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "YASMIN SANTANA DA SILVA",
+        "Column1": "YASMIN SANTANA DA SILVA ",
         "Column2": 109308193,
         "Column3": 4,
         "Column4": "SP",
@@ -30673,7 +30617,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "YASMIN SANTANA DA SILVA",
+        "Column1": "YASMIN SANTANA DA SILVA ",
         "Column2": 109308193,
         "Column3": 4,
         "Column4": "SP",
@@ -30687,7 +30631,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "YASMIN SANTANA DE OLIVEIRA",
+        "Column1": "YASMIN SANTANA DE OLIVEIRA ",
         "Column2": 111731681,
         "Column3": 6,
         "Column4": "SP",
@@ -30701,7 +30645,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "YASMIN SANTANA DE OLIVEIRA",
+        "Column1": "YASMIN SANTANA DE OLIVEIRA ",
         "Column2": 111731681,
         "Column3": 6,
         "Column4": "SP",
@@ -30715,7 +30659,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "YASMIN SHAIENE DE OLIVEIRA BORGES",
+        "Column1": "YASMIN SHAIENE DE OLIVEIRA BORGES ",
         "Column2": 112470078,
         "Column3": "X",
         "Column4": "SP",
@@ -30729,7 +30673,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "YASMIN SOARES",
+        "Column1": "YASMIN SOARES ",
         "Column2": 111772807,
         "Column3": 9,
         "Column4": "SP",
@@ -30743,7 +30687,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "YASMIN VITORIA DE OLIVEIRA SANTANA",
+        "Column1": "YASMIN VITORIA DE OLIVEIRA SANTANA ",
         "Column2": 111731655,
         "Column3": 5,
         "Column4": "SP",
@@ -30757,7 +30701,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "YASMIN VITÓRIA FERNANDES",
+        "Column1": "YASMIN VITÓRIA FERNANDES ",
         "Column2": 111730169,
         "Column3": 2,
         "Column4": "SP",
@@ -30771,7 +30715,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "YASMYN FERREIRA DE OLIVEIRA SANTOS",
+        "Column1": "YASMYN FERREIRA DE OLIVEIRA SANTOS ",
         "Column2": 109342605,
         "Column3": 6,
         "Column4": "SP",
@@ -30785,7 +30729,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "YGOR BRITO E SILVA",
+        "Column1": "YGOR BRITO E SILVA ",
         "Column2": 108417338,
         "Column3": 4,
         "Column4": "SP",
@@ -30799,7 +30743,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "YGOR BRITO E SILVA",
+        "Column1": "YGOR BRITO E SILVA ",
         "Column2": 108417338,
         "Column3": 4,
         "Column4": "SP",
@@ -30813,7 +30757,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "YRLAN FARIAS LEITÃO",
+        "Column1": "YRLAN FARIAS LEITÃO ",
         "Column2": 109307953,
         "Column3": 8,
         "Column4": "SP",
@@ -30827,7 +30771,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "YSANDRA PIETTRA GUIDO",
+        "Column1": "YSANDRA PIETTRA GUIDO ",
         "Column2": 109309514,
         "Column3": 3,
         "Column4": "SP",
@@ -30841,7 +30785,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "YSANDRA PIETTRA GUIDO",
+        "Column1": "YSANDRA PIETTRA GUIDO ",
         "Column2": 109309514,
         "Column3": 3,
         "Column4": "SP",
@@ -30855,7 +30799,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "YSANDRA PIETTRA GUIDO",
+        "Column1": "YSANDRA PIETTRA GUIDO ",
         "Column2": 109309514,
         "Column3": 3,
         "Column4": "SP",
@@ -30869,7 +30813,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "YSANDRA PIETTRA GUIDO",
+        "Column1": "YSANDRA PIETTRA GUIDO ",
         "Column2": 109309514,
         "Column3": 3,
         "Column4": "SP",
@@ -30883,7 +30827,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "YTALLO FERREIRA CARVALHO CRUZ",
+        "Column1": "YTALLO FERREIRA CARVALHO CRUZ ",
         "Column2": 112930355,
         "Column3": "X",
         "Column4": "SP",
@@ -30897,7 +30841,7 @@ let dadosALunos = [{
         "Column12": "CONDOMINIO VARGEM GRANDE II"
     },
     {
-        "01\/06\/2022 07:29": "YTHALU DE JESUS RODRIGUES",
+        "Column1": "YTHALU DE JESUS RODRIGUES ",
         "Column2": 110341877,
         "Column3": 4,
         "Column4": "SP",
@@ -30912,3 +30856,100 @@ let dadosALunos = [{
     }
 ];
 // console.log(JSON.stringify(dadosALunos));
+
+// Invocando a função relogio e exibindo a contagem do tempo com a função setInterval()
+relogio();
+let timer = setInterval(relogio, 1000);
+
+// Função implementação e exibição do relógio no INDEX
+function relogio() {
+    var data = new Date();
+    var hor = data.getHours();
+    var min = data.getMinutes();
+    var seg = data.getSeconds();
+
+    if (hor < 10) {
+        hor = "0" + hor;
+    }
+    if (min < 10) {
+        min = "0" + min;
+    }
+    if (seg < 10) {
+        seg = "0" + seg;
+    }
+    var horas = hor + ":" + min + ":" + seg;
+
+    // if (horas == 15 + ":" + 31 + ":" + 15) {
+    // alert("Hora Certa!!!");
+    // location.reload();
+    // window.close();
+    // }
+
+    let relogioNaTela = document.getElementById("relogio").value = horas;
+    // console.log(relogioNaTela);
+}
+
+/*
+// Array de objetos (alunos)
+console.log(dadosAlunos);
+// Objeto aluno da posição 6 do array
+console.log(dadosAlunos[5]);
+
+*/
+
+
+// Exibindo numa variável apenas o elemento "Column1"(Nomes) do objeto aluno
+const listaNomesAlunos = dadosAlunos.map(({ Column1 }) => Column1);
+const listaRasAlunos = dadosAlunos.map(({ Column2 }) => Column2);
+/*
+// Exibindo no console avariável com array contendo apenas os Nomes de cada objeto aluno (dadosAlunos)
+console.log(listaNomesAlunos);
+// Exibindo no console a posição 301 do array de Nomes do objeto aluno (dadosAlunos)
+console.log(listaNomesAlunos[300]);
+
+// Variável exibindo um objeto (aluno) específico, posição 07 do array
+let objetoAlunoExemplo = JSON.stringify(dadosAlunos[5]);
+// Exibindo um objeto (aluno) específico, posição 07 do array, como string e como objeto
+console.log(objetoAlunoExemplo);
+console.log(JSON.parse(objetoAlunoExemplo));
+
+*/
+console.log(dadosAlunos[400]);
+let nome = document.getElementById("fulano");
+let ra = document.getElementById("ra");
+// nome.innerHTML = JSON.stringify(dadosAlunos[5]);
+nome.innerHTML = listaNomesAlunos[400];
+console.log(nome.innerHTML);
+ra.innerHTML = listaRasAlunos[400];
+console.log(ra.innerHTML);
+
+// let itemListaRaAlunos = dadosAlunos.find(function(itemListaRaAlunos) {
+//     return itemListaRaAlunos === "Column5";
+// });
+
+// console.log(itemListaRaAlunos);
+// .........................................................................................
+// .........................................................................................
+
+
+
+/*
+
+ {
+        "Column1":" JESUS RODRIGUES",
+        "Column2": 110341877,
+        "Column3": 4,
+        "Column4": "SP",
+        "Column5": "00001103418774SP@aluno.educacao.sp.gov.br",
+        "Column6": "00001103418774SP@al.educacao.sp.gov.br",
+        "Column7": 2022,
+        "Column8": 260836663,
+        "Column9": "7° ANO A MANHA ANUAL",
+        "Column10": "SUL 3",
+        "Column11": 925159,
+        "Column12": "CONDOMINIO VARGEM GRANDE II"
+    }
+
+
+
+*/
